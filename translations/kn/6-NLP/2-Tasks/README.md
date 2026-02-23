@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-12-19T14:35:17+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "kn"
-}
--->
 # ಸಾಮಾನ್ಯ ನೈಸರ್ಗಿಕ ಭಾಷಾ ಪ್ರಕ್ರಿಯೆ ಕಾರ್ಯಗಳು ಮತ್ತು ತಂತ್ರಗಳು
 
 ಬಹುತೇಕ *ನೈಸರ್ಗಿಕ ಭಾಷಾ ಪ್ರಕ್ರಿಯೆ* ಕಾರ್ಯಗಳಿಗೆ, ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಬೇಕಾದ ಪಠ್ಯವನ್ನು ವಿಭಜಿಸಿ, ಪರಿಶೀಲಿಸಿ, ಮತ್ತು ಫಲಿತಾಂಶಗಳನ್ನು ನಿಯಮಗಳು ಮತ್ತು ಡೇಟಾ ಸೆಟ್‌ಗಳೊಂದಿಗೆ ಸಂಗ್ರಹಿಸಬೇಕು ಅಥವಾ ಕ್ರಾಸ್ ರೆಫರೆನ್ಸ್ ಮಾಡಬೇಕು. ಈ ಕಾರ್ಯಗಳು, ಪ್ರೋಗ್ರಾಮರ್‌ಗೆ ಪಠ್ಯದ _ಅರ್ಥ_ ಅಥವಾ _ಉದ್ದೇಶ_ ಅಥವಾ ಕೇವಲ ಪದಗಳ ಮತ್ತು ಪದಗಳ _ಆವರ್ತನ_ ಅನ್ನು ಪಡೆಯಲು ಅನುಮತಿಸುತ್ತವೆ.
@@ -23,14 +14,14 @@ CO_OP_TRANSLATOR_METADATA:
 
 ಬಹುಶಃ ಬಹುತೇಕ NLP ಅಲ್ಗಾರಿದಮ್‌ಗಳು ಮೊದಲಿಗೆ ಪಠ್ಯವನ್ನು ಟೋಕನ್‌ಗಳಾಗಿ ಅಥವಾ ಪದಗಳಾಗಿ ವಿಭಜಿಸಬೇಕಾಗುತ್ತದೆ. ಇದು ಸರಳವಾಗಿ ಕೇಳಿದರೂ, ವ್ಯಾಕರಣ ಚಿಹ್ನೆಗಳು ಮತ್ತು ವಿಭಿನ್ನ ಭಾಷೆಗಳ ಪದ ಮತ್ತು ವಾಕ್ಯ ವಿಭಾಜಕಗಳನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ, ಇದು ಸಂಕೀರ್ಣವಾಗಬಹುದು. ನೀವು ವಿಭಜನೆಗಳನ್ನು ನಿರ್ಧರಿಸಲು ವಿವಿಧ ವಿಧಾನಗಳನ್ನು ಬಳಸಬೇಕಾಗಬಹುದು.
 
-![tokenization](../../../../translated_images/tokenization.1641a160c66cd2d93d4524e8114e93158a9ce0eba3ecf117bae318e8a6ad3487.kn.png)
+![tokenization](../../../../translated_images/kn/tokenization.1641a160c66cd2d9.webp)
 > **Pride and Prejudice** ನಿಂದ ವಾಕ್ಯವನ್ನು ಟೋಕನೈಸ್ ಮಾಡಲಾಗಿದೆ. ಇನ್ಫೋಗ್ರಾಫಿಕ್ [ಜೆನ್ ಲೂಪರ್](https://twitter.com/jenlooper) ಅವರಿಂದ
 
 ### ಎम्बೆಡ್ಡಿಂಗ್ಸ್
 
 [ಪದ ಎम्बೆಡ್ಡಿಂಗ್ಸ್](https://wikipedia.org/wiki/Word_embedding) ನಿಮ್ಮ ಪಠ್ಯ ಡೇಟಾವನ್ನು ಸಂಖ್ಯಾತ್ಮಕವಾಗಿ ಪರಿವರ್ತಿಸುವ ವಿಧಾನವಾಗಿದೆ. ಎम्बೆಡ್ಡಿಂಗ್ಸ್ ಅನ್ನು ಈ ರೀತಿಯಲ್ಲಿ ಮಾಡಲಾಗುತ್ತದೆ, ಅಂದರೆ ಸಮಾನ ಅರ್ಥವಿರುವ ಪದಗಳು ಅಥವಾ ಜೊತೆಯಾಗಿ ಬಳಸಲಾಗುವ ಪದಗಳು ಗುಂಪು formed ಮಾಡುತ್ತವೆ.
 
-![word embeddings](../../../../translated_images/embedding.2cf8953c4b3101d188c2f61a5de5b6f53caaa5ad4ed99236d42bc3b6bd6a1fe2.kn.png)
+![word embeddings](../../../../translated_images/kn/embedding.2cf8953c4b3101d1.webp)
 > "ನಿಮ್ಮ ನರಗಳಿಗೆ ನನಗೆ ಅತ್ಯಂತ ಗೌರವವಿದೆ, ಅವು ನನ್ನ ಹಳೆಯ ಸ್ನೇಹಿತರು." - **Pride and Prejudice** ನ ವಾಕ್ಯಕ್ಕೆ ಪದ ಎम्बೆಡ್ಡಿಂಗ್ಸ್. ಇನ್ಫೋಗ್ರಾಫಿಕ್ [ಜೆನ್ ಲೂಪರ್](https://twitter.com/jenlooper) ಅವರಿಂದ
 
 ✅ ಪದ ಎम्बೆಡ್ಡಿಂಗ್ಸ್ ಅನ್ನು ಪ್ರಯೋಗಿಸಲು [ಈ ರೋಚಕ ಸಾಧನವನ್ನು](https://projector.tensorflow.org/) ಪ್ರಯತ್ನಿಸಿ. ಒಂದು ಪದವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಸಮಾನ ಪದಗಳ ಗುಂಪುಗಳು ತೋರಿಸಲಾಗುತ್ತದೆ: 'toy' 'disney', 'lego', 'playstation', ಮತ್ತು 'console' ಜೊತೆಗೆ ಗುಂಪು formed ಮಾಡುತ್ತದೆ.
@@ -39,7 +30,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ಪ್ರತಿ ಟೋಕನೈಸ್ ಮಾಡಿದ ಪದವನ್ನು ಭಾಷೆಯ ಭಾಗವಾಗಿ ಟ್ಯಾಗ್ ಮಾಡಬಹುದು - ನಾಮಪದ, ಕ್ರಿಯಾಪದ, ಅಥವಾ ವಿಶೇಷಣ. ವಾಕ್ಯ `the quick red fox jumped over the lazy brown dog` ಅನ್ನು POS ಟ್ಯಾಗ್ ಮಾಡಿದರೆ fox = ನಾಮಪದ, jumped = ಕ್ರಿಯಾಪದ ಎಂದು ಇರಬಹುದು.
 
-![parsing](../../../../translated_images/parse.d0c5bbe1106eae8fe7d60a183cd1736c8b6cec907f38000366535f84f3036101.kn.png)
+![parsing](../../../../translated_images/kn/parse.d0c5bbe1106eae8f.webp)
 
 > **Pride and Prejudice** ನಿಂದ ವಾಕ್ಯವನ್ನು ಪಾರ್ಸ್ ಮಾಡಲಾಗಿದೆ. ಇನ್ಫೋಗ್ರಾಫಿಕ್ [ಜೆನ್ ಲೂಪರ್](https://twitter.com/jenlooper) ಅವರಿಂದ
 

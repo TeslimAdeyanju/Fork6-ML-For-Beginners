@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-08-29T17:08:26+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "pa"
-}
--->
 # ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਲਈ ਕਲੱਸਟਰਿੰਗ ਮਾਡਲ
 
 ਕਲੱਸਟਰਿੰਗ ਇੱਕ ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਦਾ ਕੰਮ ਹੈ ਜਿਸ ਵਿੱਚ ਇਹ ਉਹਨਾਂ ਚੀਜ਼ਾਂ ਨੂੰ ਲੱਭਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ ਜੋ ਇੱਕ ਦੂਜੇ ਨਾਲ ਮਿਲਦੀਆਂ ਹਨ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਕਲੱਸਟਰਾਂ ਦੇ ਰੂਪ ਵਿੱਚ ਸਮੂਹਬੱਧ ਕਰਦਾ ਹੈ। ਕਲੱਸਟਰਿੰਗ ਨੂੰ ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਦੇ ਹੋਰ ਪਹੁੰਚਾਂ ਤੋਂ ਵੱਖਰਾ ਬਣਾਉਣ ਵਾਲੀ ਗੱਲ ਇਹ ਹੈ ਕਿ ਇਹ ਸਾਰਾ ਕੰਮ ਆਟੋਮੈਟਿਕ ਤੌਰ 'ਤੇ ਹੁੰਦਾ ਹੈ। ਅਸਲ ਵਿੱਚ, ਇਹ ਕਹਿਣਾ ਸਹੀ ਹੋਵੇਗਾ ਕਿ ਇਹ ਸੁਪਰਵਾਈਜ਼ਡ ਲਰਨਿੰਗ ਦੇ ਉਲਟ ਹੈ।
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ਨਾਈਜੀਰੀਆ ਦੇ ਵੱਖ-ਵੱਖ ਦਰਸ਼ਕਾਂ ਦੀਆਂ ਵੱਖ-ਵੱਖ ਸੰਗੀਤਕ ਰੁਚੀਆਂ ਹਨ। Spotify ਤੋਂ ਡਾਟਾ ਇਕੱਠਾ ਕਰਕੇ (ਇਸ ਲੇਖ ਤੋਂ ਪ੍ਰੇਰਿਤ [ਇਥੇ](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421)), ਆਓ ਨਾਈਜੀਰੀਆ ਵਿੱਚ ਪ੍ਰਸਿੱਧ ਕੁਝ ਸੰਗੀਤਾਂ ਨੂੰ ਵੇਖੀਏ। ਇਸ ਡਾਟਾਸੈਟ ਵਿੱਚ ਵੱਖ-ਵੱਖ ਗੀਤਾਂ ਦੇ 'ਡਾਂਸੇਬਿਲਿਟੀ' ਸਕੋਰ, 'ਅਕੂਸਟਿਕਨੈਸ', ਲਾਊਡਨੈਸ, 'ਸਪੀਚੀਨੈਸ', ਪ੍ਰਸਿੱਧੀ ਅਤੇ ਊਰਜਾ ਬਾਰੇ ਡਾਟਾ ਸ਼ਾਮਲ ਹੈ। ਇਸ ਡਾਟੇ ਵਿੱਚ ਪੈਟਰਨ ਲੱਭਣਾ ਦਿਲਚਸਪ ਹੋਵੇਗਾ!
 
-![ਇੱਕ ਟਰਨਟੇਬਲ](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.pa.jpg)
+![ਇੱਕ ਟਰਨਟੇਬਲ](../../../translated_images/pa/turntable.f2b86b13c53302dc.webp)
 
 > ਫੋਟੋ <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ਮਾਰਸੇਲਾ ਲਾਸਕੋਸਕੀ</a> ਦੁਆਰਾ <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ਅਨਸਪਲੈਸ਼</a> 'ਤੇ
   

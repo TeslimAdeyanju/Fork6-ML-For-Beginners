@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-08-29T20:52:12+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "ru"
-}
--->
 # Модели кластеризации для машинного обучения
 
 Кластеризация — это задача машинного обучения, которая направлена на поиск объектов, похожих друг на друга, и их объединение в группы, называемые кластерами. Что отличает кластеризацию от других подходов в машинном обучении, так это то, что процесс происходит автоматически. Можно сказать, что это противоположность обучению с учителем.
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Разнообразная аудитория Нигерии имеет разнообразные музыкальные вкусы. Используя данные, собранные со Spotify (вдохновлено [этой статьей](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421)), давайте рассмотрим популярную музыку в Нигерии. Этот набор данных включает информацию о таких характеристиках песен, как уровень "танцевальности", "акустичности", громкость, "речевость", популярность и энергия. Будет интересно обнаружить закономерности в этих данных!
 
-![Проигрыватель](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.ru.jpg)
+![Проигрыватель](../../../translated_images/ru/turntable.f2b86b13c53302dc.webp)
 
 > Фото предоставлено <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Марселой Ласкоски</a> на <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

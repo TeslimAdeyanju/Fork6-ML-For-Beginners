@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-03T18:26:17+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "pl"
-}
--->
 # Wprowadzenie do uczenia ze wzmocnieniem
 
 Uczenie ze wzmocnieniem (RL) jest postrzegane jako jeden z podstawowych paradygmatów uczenia maszynowego, obok uczenia nadzorowanego i nienadzorowanego. RL dotyczy podejmowania decyzji: dostarczania właściwych decyzji lub przynajmniej uczenia się na ich podstawie.
 
 Wyobraź sobie, że masz symulowane środowisko, takie jak rynek akcji. Co się stanie, jeśli wprowadzisz określone regulacje? Czy będzie to miało pozytywny czy negatywny efekt? Jeśli wydarzy się coś negatywnego, musisz przyjąć tę _negatywną informację zwrotną_, nauczyć się z niej i zmienić kierunek działania. Jeśli wynik jest pozytywny, musisz budować na tej _pozytywnej informacji zwrotnej_.
 
-![Piotruś i wilk](../../../translated_images/peter.779730f9ba3a8a8d9290600dcf55f2e491c0640c785af7ac0d64f583c49b8864.pl.png)
+![Piotruś i wilk](../../../translated_images/pl/peter.779730f9ba3a8a8d.webp)
 
 > Piotruś i jego przyjaciele muszą uciec przed głodnym wilkiem! Obraz autorstwa [Jen Looper](https://twitter.com/jenlooper)
 

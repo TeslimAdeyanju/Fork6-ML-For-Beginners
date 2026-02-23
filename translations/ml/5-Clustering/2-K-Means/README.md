@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7cdd17338d9bbd7e2171c2cd462eb081",
-  "translation_date": "2025-12-19T14:51:43+00:00",
-  "source_file": "5-Clustering/2-K-Means/README.md",
-  "language_code": "ml"
-}
--->
 # K-മീൻസ് ക്ലസ്റ്ററിംഗ്
 
 ## [പ്രീ-ലെക്ചർ ക്വിസ്](https://ff-quizzes.netlify.app/en/ml/)
@@ -26,7 +17,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ക്ലസ്റ്ററുകൾ [വോറോണോയി ഡയഗ്രാമുകൾ](https://wikipedia.org/wiki/Voronoi_diagram) ആയി ദൃശ്യവത്കരിക്കാം, അവയിൽ ഒരു പോയിന്റ് (അഥവാ 'സീഡ്') അതിന്റെ അനുബന്ധ പ്രദേശം ഉൾക്കൊള്ളുന്നു.
 
-![voronoi diagram](../../../../translated_images/voronoi.1dc1613fb0439b9564615eca8df47a4bcd1ce06217e7e72325d2406ef2180795.ml.png)
+![voronoi diagram](../../../../translated_images/ml/voronoi.1dc1613fb0439b95.webp)
 
 > ഇൻഫോഗ്രാഫിക് [ജെൻ ലൂപ്പർ](https://twitter.com/jenlooper) tarafından
 
@@ -91,7 +82,7 @@ K-മീൻസ് ഉപയോഗിക്കുന്നതിന്റെ ഒ�
 
     ഈ ഡാറ്റ കുറച്ച് ശബ്ദമുള്ളതാണ്: ഓരോ കോളവും ബോക്സ്‌പ്ലോട്ട് ആയി നിരീക്ഷിച്ചാൽ, ഔട്ട്‌ലൈയർമാർ കാണാം.
 
-    ![outliers](../../../../translated_images/boxplots.8228c29dabd0f29227dd38624231a175f411f1d8d4d7c012cb770e00e4fdf8b6.ml.png)
+    ![outliers](../../../../translated_images/ml/boxplots.8228c29dabd0f292.webp)
 
 ഡാറ്റാസെറ്റ് പരിശോധിച്ച് ഈ ഔട്ട്‌ലൈയർമാർ നീക്കം ചെയ്യാം, പക്ഷേ അത് ഡാറ്റ വളരെ കുറവാക്കും.
 
@@ -187,7 +178,7 @@ K-മീൻസ് ഉപയോഗിക്കുന്നതിന്റെ ഒ�
 
     മുൻപത്തെ ഘട്ടത്തിൽ നിർമ്മിച്ച `wcss` വേരിയബിൾ ഉപയോഗിച്ച് എൽബോയിൽ 'വളവ്' എവിടെയാണ് എന്ന് കാണിക്കുന്ന ചാർട്ട് സൃഷ്ടിക്കുക, ഇത് ഏറ്റവും അനുയോജ്യമായ ക്ലസ്റ്റർ എണ്ണം സൂചിപ്പിക്കുന്നു. അത് **3** ആകാം!
 
-    ![elbow method](../../../../translated_images/elbow.72676169eed744ff03677e71334a16c6b8f751e9e716e3d7f40dd7cdef674cca.ml.png)
+    ![elbow method](../../../../translated_images/ml/elbow.72676169eed744ff.webp)
 
 ## അഭ്യാസം - ക്ലസ്റ്ററുകൾ പ്രദർശിപ്പിക്കുക
 
@@ -218,13 +209,13 @@ K-മീൻസ് ഉപയോഗിക്കുന്നതിന്റെ ഒ�
 
     ഈ മോഡലിന്റെ കൃത്യത വളരെ നല്ലതല്ല, ക്ലസ്റ്ററുകളുടെ ആകൃതി ഇതിന് കാരണം നൽകുന്നു.
 
-    ![clusters](../../../../translated_images/clusters.b635354640d8e4fd4a49ef545495518e7be76172c97c13bd748f5b79f171f69a.ml.png)
+    ![clusters](../../../../translated_images/ml/clusters.b635354640d8e4fd.webp)
 
     ഈ ഡാറ്റ വളരെ അസമതുലിതമാണ്, correlation കുറവാണ്, കോളം മൂല്യങ്ങൾക്കിടയിൽ വ്യത്യാസം കൂടുതലാണ്, അതിനാൽ നല്ല ക്ലസ്റ്ററിംഗ് സാധ്യമല്ല. യഥാർത്ഥത്തിൽ, രൂപപ്പെടുന്ന ക്ലസ്റ്ററുകൾ മുകളിൽ നിർവചിച്ച മൂന്ന് ജാനർ വിഭാഗങ്ങൾ മൂലം ശക്തമായി സ്വാധീനിക്കപ്പെട്ടതായിരിക്കാം. അത് ഒരു പഠന പ്രക്രിയ ആയിരുന്നു!
 
     Scikit-learn ഡോക്യുമെന്റേഷനിൽ, ഈ പോലുള്ള മോഡലുകൾക്ക്, ക്ലസ്റ്ററുകൾ നന്നായി വേർതിരിച്ചിട്ടില്ലാത്തതിനാൽ, 'വ്യത്യാസം' പ്രശ്നമുണ്ട്:
 
-    ![problem models](../../../../translated_images/problems.f7fb539ccd80608e1f35c319cf5e3ad1809faa3c08537aead8018c6b5ba2e33a.ml.png)
+    ![problem models](../../../../translated_images/ml/problems.f7fb539ccd80608e.webp)
     > Scikit-learn ഇൻഫോഗ്രാഫിക്
 
 ## വ്യത്യാസം

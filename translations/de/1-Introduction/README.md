@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-03T21:49:58+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "de"
-}
--->
 # Einführung in maschinelles Lernen
 
 In diesem Abschnitt des Lehrplans werden Sie mit den grundlegenden Konzepten des maschinellen Lernens vertraut gemacht, erfahren, was es ist, und etwas über seine Geschichte sowie die Techniken lernen, die Forscher verwenden, um damit zu arbeiten. Lassen Sie uns diese neue Welt des maschinellen Lernens gemeinsam erkunden!
 
-![globe](../../../translated_images/globe.59f26379ceb40428672b4d9a568044618a2bf6292ecd53a5c481b90e3fa805eb.de.jpg)
+![globe](../../../translated_images/de/globe.59f26379ceb40428.webp)
 > Foto von <a href="https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bill Oxford</a> auf <a href="https://unsplash.com/s/photos/globe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ### Lektionen

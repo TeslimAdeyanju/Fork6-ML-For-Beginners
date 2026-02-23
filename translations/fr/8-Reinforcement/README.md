@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-04T00:13:30+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "fr"
-}
--->
 # Introduction à l'apprentissage par renforcement
 
 L'apprentissage par renforcement, ou RL, est considéré comme l'un des paradigmes fondamentaux de l'apprentissage automatique, aux côtés de l'apprentissage supervisé et non supervisé. Le RL concerne les décisions : prendre les bonnes décisions ou, à défaut, apprendre de celles-ci.
 
 Imaginez que vous avez un environnement simulé, comme le marché boursier. Que se passe-t-il si vous imposez une réglementation donnée ? A-t-elle un effet positif ou négatif ? Si quelque chose de négatif se produit, vous devez tirer parti de ce _renforcement négatif_, en apprendre et changer de cap. Si le résultat est positif, vous devez vous appuyer sur ce _renforcement positif_.
 
-![peter et le loup](../../../translated_images/peter.779730f9ba3a8a8d9290600dcf55f2e491c0640c785af7ac0d64f583c49b8864.fr.png)
+![peter et le loup](../../../translated_images/fr/peter.779730f9ba3a8a8d.webp)
 
 > Peter et ses amis doivent échapper au loup affamé ! Image par [Jen Looper](https://twitter.com/jenlooper)
 

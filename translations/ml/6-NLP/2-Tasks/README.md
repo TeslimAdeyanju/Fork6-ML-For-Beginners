@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-12-19T14:33:44+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "ml"
-}
--->
 # സാധാരണ സ്വാഭാവിക ഭാഷാ പ്രോസസ്സിംഗ് ടാസ്കുകളും സാങ്കേതിക വിദ്യകളും
 
 മിക്കവാറും *സ്വാഭാവിക ഭാഷാ പ്രോസസ്സിംഗ്* ടാസ്കുകൾക്കായി, പ്രോസസ്സ് ചെയ്യേണ്ട ടെക്സ്റ്റ് വിഭജിച്ച്, പരിശോധിച്ച്, ഫലങ്ങൾ നിയമങ്ങളുമായി ഡാറ്റാ സെറ്റുകളുമായി ക്രോസ് റഫറൻസ് ചെയ്യണം. ഈ ടാസ്കുകൾ പ്രോഗ്രാമറിന് ടെക്സ്റ്റിലെ _അർത്ഥം_ അല്ലെങ്കിൽ _ഉദ്ദേശ്യം_ അല്ലെങ്കിൽ വെറും _പരിഭാഷയുടെ ആവൃത്തി_ കണ്ടെത്താൻ സഹായിക്കുന്നു.
@@ -23,14 +14,14 @@ CO_OP_TRANSLATOR_METADATA:
 
 ഏതാണ്ട് എല്ലാ NLP ആൽഗോരിതങ്ങൾക്കും ആദ്യം ചെയ്യേണ്ടത് ടെക്സ്റ്റ് ടോക്കണുകളായി, അല്ലെങ്കിൽ വാക്കുകളായി വിഭജിക്കുക എന്നതാണ്. ഇത് ലളിതമായതായി തോന്നിയാലും, പദവിരാമം, വ്യത്യസ്ത ഭാഷകളിലെ വാക്കുകളും വാക്യവിരാമങ്ങളും പരിഗണിക്കേണ്ടത് സങ്കീർണ്ണമാക്കാം. വ്യത്യസ്ത മാർഗ്ഗങ്ങൾ ഉപയോഗിച്ച് വിഭജനം നിർണയിക്കേണ്ടിവരും.
 
-![tokenization](../../../../translated_images/tokenization.1641a160c66cd2d93d4524e8114e93158a9ce0eba3ecf117bae318e8a6ad3487.ml.png)
+![tokenization](../../../../translated_images/ml/tokenization.1641a160c66cd2d9.webp)
 > **Pride and Prejudice** എന്ന പുസ്തകത്തിലെ ഒരു വാക്യം ടോക്കൺ ചെയ്യുന്നു. ഇൻഫോഗ്രാഫിക് [Jen Looper](https://twitter.com/jenlooper) 
 
 ### എംബെഡ്ഡിംഗ്സ്
 
 [വേർഡ് എംബെഡ്ഡിംഗ്സ്](https://wikipedia.org/wiki/Word_embedding) നിങ്ങളുടെ ടെക്സ്റ്റ് ഡാറ്റ സംഖ്യാത്മകമായി മാറ്റാനുള്ള ഒരു മാർഗ്ഗമാണ്. സമാന അർത്ഥമുള്ള വാക്കുകൾ അല്ലെങ്കിൽ ഒരുമിച്ച് ഉപയോഗിക്കുന്ന വാക്കുകൾ കൂട്ടമായി ക്ലസ്റ്റർ ചെയ്യപ്പെടുന്ന രീതിയിൽ എംബെഡ്ഡിംഗ്സ് ചെയ്യപ്പെടുന്നു.
 
-![word embeddings](../../../../translated_images/embedding.2cf8953c4b3101d188c2f61a5de5b6f53caaa5ad4ed99236d42bc3b6bd6a1fe2.ml.png)
+![word embeddings](../../../../translated_images/ml/embedding.2cf8953c4b3101d1.webp)
 > "I have the highest respect for your nerves, they are my old friends." - **Pride and Prejudice** എന്ന വാക്യത്തിനുള്ള വാക്കുകളുടെ എംബെഡ്ഡിംഗ്സ്. ഇൻഫോഗ്രാഫിക് [Jen Looper](https://twitter.com/jenlooper)
 
 ✅ വാക്കുകളുടെ എംബെഡ്ഡിംഗ്സ് പരീക്ഷിക്കാൻ [ഈ രസകരമായ ടൂൾ](https://projector.tensorflow.org/) പരീക്ഷിക്കൂ. ഒരു വാക്കിൽ ക്ലിക്ക് ചെയ്യുമ്പോൾ സമാന വാക്കുകളുടെ ക്ലസ്റ്ററുകൾ കാണാം: 'toy' 'disney', 'lego', 'playstation', 'console' എന്നിവയുമായി ക്ലസ്റ്റർ ചെയ്യുന്നു.
@@ -39,7 +30,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ടോക്കൺ ചെയ്ത ഓരോ വാക്കും വാക്കിന്റെ ഭാഗമായി ടാഗ് ചെയ്യാം - നാമം, ക്രിയ, വിശേഷണം എന്നിവ. `the quick red fox jumped over the lazy brown dog` എന്ന വാക്യം fox = നാമം, jumped = ക്രിയ എന്നിങ്ങനെ POS ടാഗ് ചെയ്യാം.
 
-![parsing](../../../../translated_images/parse.d0c5bbe1106eae8fe7d60a183cd1736c8b6cec907f38000366535f84f3036101.ml.png)
+![parsing](../../../../translated_images/ml/parse.d0c5bbe1106eae8f.webp)
 
 > **Pride and Prejudice** എന്ന വാക്യം പാർസ് ചെയ്യുന്നു. ഇൻഫോഗ്രാഫിക് [Jen Looper](https://twitter.com/jenlooper)
 

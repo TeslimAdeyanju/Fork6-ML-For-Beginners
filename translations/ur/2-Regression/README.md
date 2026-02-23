@@ -1,18 +1,9 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-08-29T12:51:42+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "ur"
-}
--->
 # مشین لرننگ کے لیے ریگریشن ماڈلز  
 ## علاقائی موضوع: شمالی امریکہ میں کدو کی قیمتوں کے لیے ریگریشن ماڈلز 🎃  
 
 شمالی امریکہ میں، کدو اکثر ہالووین کے لیے خوفناک چہروں میں تراشے جاتے ہیں۔ آئیے ان دلچسپ سبزیوں کے بارے میں مزید جانتے ہیں!  
 
-![jack-o-lanterns](../../../translated_images/jack-o-lanterns.181c661a9212457d7756f37219f660f1358af27554d856e5a991f16b4e15337c.ur.jpg)  
+![jack-o-lanterns](../../../translated_images/ur/jack-o-lanterns.181c661a9212457d.webp)  
 > تصویر از <a href="https://unsplash.com/@teutschmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Beth Teutschmann</a> on <a href="https://unsplash.com/s/photos/jack-o-lanterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
 
 ## آپ کیا سیکھیں گے  

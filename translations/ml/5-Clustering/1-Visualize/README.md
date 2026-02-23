@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-12-19T14:59:24+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "ml"
-}
--->
 # ക്ലസ്റ്ററിംഗിലേക്ക് പരിചയം
 
 ക്ലസ്റ്ററിംഗ് ഒരു തരത്തിലുള്ള [Unsupervised Learning](https://wikipedia.org/wiki/Unsupervised_learning) ആണ്, ഇത് ഒരു ഡാറ്റാസെറ്റ് ലേബൽ ചെയ്യപ്പെടാത്തതാണെന്ന് അല്ലെങ്കിൽ അതിന്റെ ഇൻപുട്ടുകൾ മുൻകൂട്ടി നിർവചിച്ച ഔട്ട്പുട്ടുകളുമായി പൊരുത്തപ്പെടാത്തതാണെന്ന് കരുതുന്നു. ഇത് ലേബൽ ചെയ്യപ്പെടാത്ത ഡാറ്റയിൽ നിന്നു വിവിധ ആൽഗോരിതങ്ങൾ ഉപയോഗിച്ച് ഡാറ്റയിൽ കാണുന്ന പാറ്റേണുകൾ അനുസരിച്ച് ഗ്രൂപ്പുകൾ നൽകുന്നു.
@@ -70,7 +61,7 @@ CO_OP_TRANSLATOR_METADATA:
 >
 > ഈ സന്ദർഭത്തിൽ 'ഫ്ലാറ്റ്' യൂക്ലിഡിയൻ ജ്യാമിതീയത്തെയാണ് സൂചിപ്പിക്കുന്നത് (ഇതിന്റെ ഭാഗങ്ങൾ 'പ്ലെയിൻ' ജ്യാമിതീയമായി പഠിപ്പിക്കുന്നു), നോൺ-ഫ്ലാറ്റ് നോൺ-യൂക്ലിഡിയൻ ജ്യാമിതീയമാണ്. മെഷീൻ ലേണിംഗുമായി ജ്യാമിതീയത്തിന് എന്ത് ബന്ധമുണ്ട്? ഗണിതശാസ്ത്രത്തിൽ ആധാരമാക്കിയ രണ്ട് മേഖലകളായതിനാൽ, ക്ലസ്റ്ററുകളിലെ പോയിന്റുകൾ തമ്മിലുള്ള ദൂരം അളക്കാനുള്ള ഒരു പൊതുവായ മാർഗ്ഗം വേണം, അത് 'ഫ്ലാറ്റ്' അല്ലെങ്കിൽ 'നോൺ-ഫ്ലാറ്റ്' രീതിയിലായിരിക്കും, ഡാറ്റയുടെ സ്വഭാവം അനുസരിച്ച്. [Euclidean distances](https://wikipedia.org/wiki/Euclidean_distance) രണ്ട് പോയിന്റുകൾ തമ്മിലുള്ള രേഖാഖണ്ഡത്തിന്റെ നീളമായി അളക്കപ്പെടുന്നു. [Non-Euclidean distances](https://wikipedia.org/wiki/Non-Euclidean_geometry) ഒരു വളവിലൂടെ അളക്കപ്പെടുന്നു. നിങ്ങളുടെ ഡാറ്റ, ദൃശ്യവൽക്കരിച്ചപ്പോൾ, ഒരു സമതലത്തിൽ ഇല്ലാത്തതുപോലെ തോന്നുകയാണെങ്കിൽ, അതിനെ കൈകാര്യം ചെയ്യാൻ പ്രത്യേക ആൽഗോരിതം ഉപയോഗിക്കേണ്ടി വരും.
 >
-![Flat vs Nonflat Geometry Infographic](../../../../translated_images/flat-nonflat.d1c8c6e2a96110c1d57fa0b72913f6aab3c245478524d25baf7f4a18efcde224.ml.png)
+![Flat vs Nonflat Geometry Infographic](../../../../translated_images/ml/flat-nonflat.d1c8c6e2a96110c1.webp)
 > ഇൻഫോഗ്രാഫിക്: [ദാസാനി മടിപള്ളി](https://twitter.com/dasani_decoded)
 > 
 > 🎓 ['Distances'](https://web.stanford.edu/class/cs345a/slides/12-clustering.pdf)
@@ -93,12 +84,12 @@ CO_OP_TRANSLATOR_METADATA:
 
 - **ഹയർആർക്കിക്കൽ ക്ലസ്റ്ററിംഗ്**. ഒരു വസ്തു അടുത്തുള്ള മറ്റൊരു വസ്തുവിന്റെ സമീപത പ്രകാരം വർഗ്ഗീകരിക്കപ്പെടുമ്പോൾ, ക്ലസ്റ്ററുകൾ അവരുടെ അംഗങ്ങളുടെ മറ്റുള്ള വസ്തുക്കളോടുള്ള ദൂരത്തിന്റെ അടിസ്ഥാനത്തിൽ രൂപപ്പെടുന്നു. Scikit-learn-ന്റെ അഗ്ലോമറേറ്റീവ് ക്ലസ്റ്ററിംഗ് ഹയർആർക്കിക്കൽ ആണ്.
 
-   ![Hierarchical clustering Infographic](../../../../translated_images/hierarchical.bf59403aa43c8c47493bfdf1cc25230f26e45f4e38a3d62e8769cd324129ac15.ml.png)
+   ![Hierarchical clustering Infographic](../../../../translated_images/ml/hierarchical.bf59403aa43c8c47.webp)
    > ഇൻഫോഗ്രാഫിക്: [ദാസാനി മടിപള്ളി](https://twitter.com/dasani_decoded)
 
 - **സെൻട്രോയിഡ് ക്ലസ്റ്ററിംഗ്**. ഈ ജനപ്രിയ ആൽഗോരിതം 'k' എന്ന ക്ലസ്റ്ററുകളുടെ എണ്ണം തിരഞ്ഞെടുക്കേണ്ടതുണ്ട്, തുടർന്ന് ആൽഗോരിതം ഒരു ക്ലസ്റ്ററിന്റെ കേന്ദ്ര പോയിന്റ് നിർണയിച്ച് ആ പോയിന്റിന്റെ ചുറ്റും ഡാറ്റാ ശേഖരിക്കുന്നു. [K-means clustering](https://wikipedia.org/wiki/K-means_clustering) സെൻട്രോയിഡ് ക്ലസ്റ്ററിംഗിന്റെ ജനപ്രിയ പതിപ്പാണ്. കേന്ദ്രം അടുത്ത ശരാശരിയാൽ നിർണയിക്കുന്നു, അതുകൊണ്ടാണ് പേര്. ക്ലസ്റ്ററിൽ നിന്നുള്ള ചതുരശ്ര ദൂരം കുറഞ്ഞു പോകുന്നു.
 
-   ![Centroid clustering Infographic](../../../../translated_images/centroid.097fde836cf6c9187d0b2033e9f94441829f9d86f4f0b1604dd4b3d1931aee34.ml.png)
+   ![Centroid clustering Infographic](../../../../translated_images/ml/centroid.097fde836cf6c918.webp)
    > ഇൻഫോഗ്രാഫിക്: [ദാസാനി മടിപള്ളി](https://twitter.com/dasani_decoded)
 
 - **വിതരണ അടിസ്ഥാനത്തിലുള്ള ക്ലസ്റ്ററിംഗ്**. സാംഖ്യിക മോഡലിംഗിൽ ആധാരമാക്കിയ, ഒരു ഡാറ്റാ പോയിന്റ് ഒരു ക്ലസ്റ്ററിന് പറ്റിയതായിരിക്കാനുള്ള സാധ്യത നിർണയിച്ച് അതനുസരിച്ച് അത് നിയോഗിക്കുന്നു. Gaussian മിശ്രിത രീതികൾ ഇതിൽപ്പെടുന്നു.
@@ -234,7 +225,7 @@ CO_OP_TRANSLATOR_METADATA:
     plt.title('Top genres',color = 'blue')
     ```
 
-    ![most popular](../../../../translated_images/popular.9c48d84b3386705f98bf44e26e9655bee9eb7c849d73be65195e37895bfedb5d.ml.png)
+    ![most popular](../../../../translated_images/ml/popular.9c48d84b3386705f.webp)
 
 ✅ കൂടുതൽ ടോപ്പ് മൂല്യങ്ങൾ കാണാൻ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, ടോപ്പ് `[:5]` വലുതാക്കുക അല്ലെങ്കിൽ നീക്കം ചെയ്ത് എല്ലാം കാണുക.
 
@@ -253,7 +244,7 @@ CO_OP_TRANSLATOR_METADATA:
 
     ഇപ്പോൾ ജാനറുകൾ വീണ്ടും പരിശോധിക്കുക:
 
-    ![most popular](../../../../translated_images/all-genres.1d56ef06cefbfcd61183023834ed3cb891a5ee638a3ba5c924b3151bf80208d7.ml.png)
+    ![most popular](../../../../translated_images/ml/all-genres.1d56ef06cefbfcd6.webp)
 
 1. ഇതുവരെ, ടോപ്പ് മൂന്ന് ജാനറുകൾ ഈ ഡാറ്റാസെറ്റിൽ ഭൂരിപക്ഷം കൈവശം വയ്ക്കുന്നു. `afro dancehall`, `afropop`, `nigerian pop` എന്നിവയിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുക, കൂടാതെ ജനപ്രിയത 0 ഉള്ളവ നീക്കം ചെയ്യുക (അർത്ഥം, ഡാറ്റാസെറ്റിൽ ജനപ്രിയതയില്ലാത്തവ, നമ്മുടെ ആവശ്യങ്ങൾക്ക് ശബ്ദം ആയി കണക്കാക്കാം):
 
@@ -275,7 +266,7 @@ CO_OP_TRANSLATOR_METADATA:
     sns.heatmap(corrmat, vmax=.8, square=True)
     ```
 
-    ![correlations](../../../../translated_images/correlation.a9356bb798f5eea51f47185968e1ebac5c078c92fce9931e28ccf0d7fab71c2b.ml.png)
+    ![correlations](../../../../translated_images/ml/correlation.a9356bb798f5eea5.webp)
 
     ഏകദേശം ശക്തമായ ബന്ധം `energy` ഉം `loudness` ഉം തമ്മിലാണുള്ളത്, അതും അത്ഭുതകരമല്ല, കാരണം ശബ്ദം ഉയർന്ന സംഗീതം സാധാരണയായി ഊർജ്ജസ്വലമാണ്. മറ്റുള്ള ബന്ധങ്ങൾ വളരെ ദുർബലമാണ്. ഈ ഡാറ്റയിൽ ക്ലസ്റ്ററിംഗ് ആൽഗോരിതം എന്ത് കണ്ടെത്തും എന്ന് കാണുന്നത് രസകരമായിരിക്കും.
 
@@ -307,7 +298,7 @@ CO_OP_TRANSLATOR_METADATA:
 
     പൊതുവായി, ഈ മൂന്ന് ജാനറുകൾ ജനപ്രിയതയിലും ഡാൻസബിലിറ്റിയിലും അല്പം സാരമായ ഏകീകരണം കാണിക്കുന്നു. ഈ അല്പം ഏകീകരിച്ച ഡാറ്റയിൽ ക്ലസ്റ്ററുകൾ കണ്ടെത്തുന്നത് ഒരു വെല്ലുവിളിയാകും:
 
-    ![distribution](../../../../translated_images/distribution.9be11df42356ca958dc8e06e87865e09d77cab78f94fe4fea8a1e6796c64dc4b.ml.png)
+    ![distribution](../../../../translated_images/ml/distribution.9be11df42356ca95.webp)
 
 1. ഒരു സ്കാറ്റർ പ്ലോട്ട് സൃഷ്ടിക്കുക:
 
@@ -319,7 +310,7 @@ CO_OP_TRANSLATOR_METADATA:
 
     സമാന അക്ഷങ്ങളുള്ള സ്കാറ്റർപ്ലോട്ട് ഏകീകൃത മാതൃക കാണിക്കുന്നു
 
-    ![Facetgrid](../../../../translated_images/facetgrid.9b2e65ce707eba1f983b7cdfed5d952e60f385947afa3011df6e3cc7d200eb5b.ml.png)
+    ![Facetgrid](../../../../translated_images/ml/facetgrid.9b2e65ce707eba1f.webp)
 
 പൊതുവായി, ക്ലസ്റ്ററിംഗിനായി, ഡാറ്റ ക്ലസ്റ്ററുകൾ കാണിക്കാൻ സ്കാറ്റർപ്ലോട്ടുകൾ ഉപയോഗിക്കാം, അതിനാൽ ഈ തരത്തിലുള്ള ദൃശ്യീകരണം നന്നായി പഠിക്കുക വളരെ പ്രയോജനകരമാണ്. അടുത്ത പാഠത്തിൽ, ഈ ഫിൽട്ടർ ചെയ്ത ഡാറ്റ ഉപയോഗിച്ച് k-means ക്ലസ്റ്ററിംഗ് ഉപയോഗിച്ച് ഈ ഡാറ്റയിൽ താൽപ്പര്യമുള്ള രീതിയിൽ ഒത്തുചേരുന്ന ഗ്രൂപ്പുകൾ കണ്ടെത്തും.
 

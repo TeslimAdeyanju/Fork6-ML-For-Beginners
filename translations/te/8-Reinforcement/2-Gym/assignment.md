@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-12-19T15:42:12+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "te"
-}
--->
 # ట్రైన్ మౌంటైన్ కార్
 
 [OpenAI జిమ్](http://gym.openai.com) అన్ని వాతావరణాలు ఒకే API అందించే విధంగా రూపొందించబడింది - అంటే ఒకే విధమైన `reset`, `step` మరియు `render` పద్ధతులు, మరియు **action space** మరియు **observation space** యొక్క ఒకే అభివృద్ధులు. అందువల్ల, తక్కువ కోడ్ మార్పులతో వేర్వేరు వాతావరణాలకు ఒకే రీఇన్ఫోర్స్‌మెంట్ లెర్నింగ్ అల్గోరిథమ్స్ అనుకూలపరచడం సాధ్యమవుతుంది.
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 [మౌంటైన్ కార్ వాతావరణం](https://gym.openai.com/envs/MountainCar-v0/) లో ఒక కారు ఒక లోయలో చిక్కుకుంది:
 
-<img src="../../../../translated_images/mountaincar.43d56e588ce581c2d035f28cf038a9af112bec043b2ef8da40ac86119b1e3a93.te.png" width="300"/>
+<img src="../../../../translated_images/te/mountaincar.43d56e588ce581c2.webp" width="300"/>
 
 ప్రతి దశలో క్రింది చర్యలలో ఒకదాన్ని చేయడం ద్వారా లోయ నుండి బయటకు వచ్చి జెండాను పట్టుకోవడం లక్ష్యం:
 

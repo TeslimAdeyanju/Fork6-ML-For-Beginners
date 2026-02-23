@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-04T00:32:51+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "fr"
-}
--->
 # Introduction au traitement du langage naturel
 
 Le traitement du langage naturel (NLP) est la capacité d'un programme informatique à comprendre le langage humain tel qu'il est parlé et écrit — appelé langage naturel. C'est une composante de l'intelligence artificielle (IA). Le NLP existe depuis plus de 50 ans et trouve ses racines dans le domaine de la linguistique. Tout le domaine est orienté vers l'aide aux machines pour comprendre et traiter le langage humain. Cela peut ensuite être utilisé pour effectuer des tâches comme la vérification orthographique ou la traduction automatique. Il possède une variété d'applications concrètes dans de nombreux domaines, notamment la recherche médicale, les moteurs de recherche et l'intelligence d'affaires.
@@ -17,7 +8,7 @@ Dans cette section du programme, vous serez initié à l'une des utilisations le
 
 Dans ces leçons, nous apprendrons les bases du NLP en construisant de petits bots conversationnels pour comprendre comment l'apprentissage automatique contribue à rendre ces conversations de plus en plus "intelligentes". Vous voyagerez dans le temps en discutant avec Elizabeth Bennett et Mr. Darcy du roman classique de Jane Austen, **Orgueil et Préjugés**, publié en 1813. Ensuite, vous approfondirez vos connaissances en apprenant l'analyse des sentiments à travers les avis sur les hôtels en Europe.
 
-![Livre Orgueil et Préjugés et thé](../../../translated_images/p&p.279f1c49ecd889419e4ce6206525e9aa30d32a976955cd24daa636c361c6391f.fr.jpg)
+![Livre Orgueil et Préjugés et thé](../../../translated_images/fr/p&p.279f1c49ecd88941.webp)
 > Photo par <a href="https://unsplash.com/@elaineh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elaine Howlin</a> sur <a href="https://unsplash.com/s/photos/pride-and-prejudice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Leçons

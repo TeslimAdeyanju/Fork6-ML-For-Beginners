@@ -1,223 +1,222 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c21bf667cfbd946f76fde049e31b07d0",
-  "translation_date": "2025-12-24T23:01:39+00:00",
-  "source_file": "README.md",
-  "language_code": "fa"
-}
--->
-[![مجوز GitHub](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE)
-[![همکاران GitHub](https://img.shields.io/github/contributors/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/)
-[![مسائل GitHub](https://img.shields.io/github/issues/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/issues/)
-[![درخواست‌های کشش GitHub](https://img.shields.io/github/issues-pr/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/pulls/)
-[![از PRها استقبال می‌شود](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![ناظران GitHub](https://img.shields.io/github/watchers/microsoft/ML-For-Beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/ML-For-Beginners/watchers/)
-[![شاخه‌ها در GitHub](https://img.shields.io/github/forks/microsoft/ML-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ML-For-Beginners/network/)
-[![ستاره‌ها در GitHub](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ML-For-Beginners/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/ML-For-Beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/ML-For-Beginners/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/ML-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ML-For-Beginners/network/)
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ML-For-Beginners/stargazers/)
 
 ### 🌐 پشتیبانی چند زبانه
 
 #### پشتیبانی شده از طریق GitHub Action (خودکار و همیشه به‌روز)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[عربی](../ar/README.md) | [بنگالی](../bn/README.md) | [بلغاری](../bg/README.md) | [بورمایی (میانمار)](../my/README.md) | [چینی (ساده‌شده)](../zh/README.md) | [چینی (سنتی، هنگ کنگ)](../hk/README.md) | [چینی (سنتی، ماکائو)](../mo/README.md) | [چینی (سنتی، تایوان)](../tw/README.md) | [کرواتی](../hr/README.md) | [چکی](../cs/README.md) | [دانمارکی](../da/README.md) | [هلندی](../nl/README.md) | [استونیایی](../et/README.md) | [فنلاندی](../fi/README.md) | [فرانسوی](../fr/README.md) | [آلمانی](../de/README.md) | [یونانی](../el/README.md) | [عبری](../he/README.md) | [هندی](../hi/README.md) | [مجارستانی](../hu/README.md) | [اندونزیایی](../id/README.md) | [ایتالیایی](../it/README.md) | [ژاپنی](../ja/README.md) | [کانادا (Kannada)](../kn/README.md) | [کره‌ای](../ko/README.md) | [لیتوانیایی](../lt/README.md) | [مالایی](../ms/README.md) | [مالایالام](../ml/README.md) | [مراتی](../mr/README.md) | [نپالی](../ne/README.md) | [پجین نیجریه‌ای](../pcm/README.md) | [نروژی](../no/README.md) | [فارسی](./README.md) | [لهستانی](../pl/README.md) | [پرتغالی (برزیل)](../br/README.md) | [پرتغالی (پرتغال)](../pt/README.md) | [پنجابی (Gurmukhi)](../pa/README.md) | [رومانیایی](../ro/README.md) | [روسی](../ru/README.md) | [صربی (سیریلیک)](../sr/README.md) | [اسلواکی](../sk/README.md) | [اسلوونیایی](../sl/README.md) | [اسپانیایی](../es/README.md) | [سواحیلی](../sw/README.md) | [سوئدی](../sv/README.md) | [تاگالوگ (فیلیپینی)](../tl/README.md) | [تامیلی](../ta/README.md) | [تلوگو](../te/README.md) | [تایلندی](../th/README.md) | [ترکی](../tr/README.md) | [اوکراینی](../uk/README.md) | [اردو](../ur/README.md) | [ویتنامی](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](./README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+
+> **ترجیح می‌دهید به‌صورت محلی کلون کنید؟**
+
+> این مخزن شامل بیش از ۵۰ ترجمه زبان است که اندازه دانلود را به‌طور قابل توجهی افزایش می‌دهد. برای کلون کردن بدون ترجمه‌ها، از sparse checkout استفاده کنید:
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/microsoft/ML-For-Beginners.git
+> cd ML-For-Beginners
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> این به شما همه چیز لازم برای تکمیل دوره را با سرعت دانلود بسیار سریع‌تر می‌دهد.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 #### به جامعه ما بپیوندید
 
-[![Discord Microsoft Foundry](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-ما یک سری «یادگیری با هوش مصنوعی» در دیسکورد داریم، برای اطلاعات بیشتر و پیوستن به ما به [سری یادگیری با هوش مصنوعی](https://aka.ms/learnwithai/discord) از 18 تا 30 سپتامبر 2025 مراجعه کنید. شما نکات و ترفندهایی برای استفاده از GitHub Copilot برای علم داده دریافت خواهید کرد.
+ما یک سری آموزش Discord با موضوع یادگیری همراه با هوش مصنوعی برگزار می‌کنیم، اطلاعات بیشتر و پیوستن به ما را در [Learn with AI Series](https://aka.ms/learnwithai/discord) از ۱۸ تا ۳۰ سپتامبر ۲۰۲۵ بیابید. در این دوره نکات و ترفندهای استفاده از GitHub Copilot برای علم داده را خواهید گرفت.
 
-![سری یادگیری با هوش مصنوعی](../../translated_images/3.9b58fd8d6c373c20c588c5070c4948a826ab074426c28ceb5889641294373dfc.fa.png)
+![Learn with AI series](../../translated_images/fa/3.9b58fd8d6c373c20.webp)
 
 # یادگیری ماشین برای مبتدیان - یک برنامه درسی
 
-> 🌍 با ما در سفری به دور دنیا همراه شوید و یادگیری ماشین را از منظر فرهنگ‌های جهانی کاوش کنیم 🌍
+> 🌍 در حالی که یادگیری ماشین را از طریق فرهنگ‌های جهانی کاوش می‌کنیم، به دور دنیا سفر کنید 🌍
 
-مدافعان ابری در مایکروسافت خوشحال‌اند تا یک برنامه درسی 12 هفته‌ای با 26 درس که همه دربارهٔ یادگیری ماشین است را ارائه دهند. در این برنامه، شما با چیزی که گاهی اوقات «یادگیری ماشین کلاسیک» نامیده می‌شود آشنا خواهید شد، که عمدتاً از کتابخانه Scikit-learn استفاده می‌کند و از یادگیری عمیق که در [برنامه درسی AI برای مبتدیان](https://aka.ms/ai4beginners) ما پوشش داده شده، اجتناب می‌کند. این دروس را با [برنامه درسی «علم داده برای مبتدیان»](https://aka.ms/ds4beginners) نیز جفت کنید!
+حمایت‌کنندگان ابری مایکروسافت خوشحالند که یک برنامه درسی ۱۲ هفته‌ای، شامل ۲۶ درس را درباره **یادگیری ماشین** ارائه دهند. در این برنامه درسی، درباره چیزی که گاهی اوقات به آن «یادگیری ماشین کلاسیک» گفته می‌شود، آموزش خواهید دید، که عمدتاً از کتابخانه Scikit-learn استفاده می‌کند و از یادگیری عمیق که در برنامه درسی [هوش مصنوعی برای مبتدیان](https://aka.ms/ai4beginners) ما پوشش داده شده است، اجتناب می‌کند. این دروس را با برنامه درسی ما ['علم داده برای مبتدیان'](https://aka.ms/ds4beginners) نیز جفت کنید!
 
-با ما در سراسر جهان سفر کنید در حالی که این تکنیک‌های کلاسیک را روی داده‌های از مناطق مختلف دنیا اعمال می‌کنیم. هر درس شامل آزمون‌های قبل و بعد از درس، دستورالعمل‌های مکتوب برای تکمیل درس، یک راه‌حل، یک تکلیف و موارد دیگر است. روش آموزش مبتنی بر پروژهٔ ما به شما اجازه می‌دهد در حین ساختن یاد بگیرید، که روشی اثبات‌شده برای ماندگاری مهارت‌های جدید است.
+با ما در طول جهان سفر کنید در حالی که این تکنیک‌های کلاسیک را روی داده‌های مناطق مختلف دنیا اعمال می‌کنیم. هر درس شامل کوییزهای قبل و بعد از درس، دستورات مکتوب برای تکمیل درس، یک راه‌حل، یک تمرین و بیشتر است. روش آموزش مبتنی بر پروژه ما به شما اجازه می‌دهد در حالی که می‌سازید یاد بگیرید، روشی اثبات شده برای تثبیت مهارت‌های جدید.
 
-**✍️ سپاس صمیمانه از نویسندگان ما** جن لوپر، استیفن هاول، فرانچسکا لازری، تومومی ایمورا، کَسی بریویو، دمیتری سوشنیکوف، کریس نورینگ، انیربان موخرجی، اورنلا آلتونیان، راث یاکوبو و ایمی بویید
+**✍️ قدردانی فراوان از نویسندگان ما** جن لوپر، استفان هاول، فرانچسکا لازری، تومومی ایمورا، کاسی برویو، دمیتری سوشنیکوف، کریس نورینگ، آنربان موخرجی، اورنلا آلتونین، روث یاکوبو و اِمی بوید
 
-**🎨 همچنین سپاس از تصویرگران ما** تومومی ایمورا، داسانی مادِیپالی، و جن لوپر
+**🎨 همچنین از تصویرگران ما متشکریم** تومومی ایمورا، داسانی مادینپالی، و جن لوپر
 
-**🙏 تشکر ویژه 🙏 از سفیران دانشجویی مایکروسافت که نویسنده، بازبین و مشارکت‌کنندهٔ محتوا بوده‌اند**، به خصوص ریشیت داگلی، محمد ساکیب خان اینان، روهان راج، الکساندرو پتروسکو، آبیشِک جایسوال، نووْرین تاباسوم، یوآن سامیلا، و اسنیگدها آگاروال
+**🙏 تشکر ویژه 🙏 از سفیران دانشجویی مایکروسافت، نویسندگان، بازبین‌ها، و مشارکت‌کنندگان محتوا** به ویژه ریشیت داغلی، محمد ساکیب خان اینان، روهان راج، الکساندرو پتروسکو، آبیشک جایسوال، ناورین طبسوم، ایوان سامویلا، و اسنیگدا آگاروال
 
-**🤩 قدردانی اضافی از سفیران دانشجویی مایکروسافت اریک وانژو، جاسلین سوندی، و ویدوشی گوپتا برای درس‌های R ما!**
+**🤩 قدردانی اضافی از سفیران دانشجویی مایکروسافت اریک وانجو، جاسلین سوندی، و ویدوشی گوپتا به خاطر درس‌های R ما!**
 
-# شروع
+# شروع به کار
 
 این مراحل را دنبال کنید:
-1. **فُرک کردن مخزن**: روی دکمهٔ "Fork" در گوشهٔ بالا-راست این صفحه کلیک کنید.
-2. **کلون کردن مخزن**:   `git clone https://github.com/microsoft/ML-For-Beginners.git`
+1. **فورک کردن مخزن**: روی دکمه "Fork" در گوشه بالا-راست صفحه کلیک کنید.
+2. **کلون کردن مخزن**: `git clone https://github.com/microsoft/ML-For-Beginners.git`
 
-> [تمام منابع اضافی این دوره را در مجموعهٔ Microsoft Learn ما پیدا کنید](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
+> [تمام منابع اضافی این دوره را در مجموعه Microsoft Learn ما بیابید](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
 
-> 🔧 **نیاز به کمک دارید؟** راهنمای [رفع اشکال](TROUBLESHOOTING.md) ما را برای راه‌حل‌های مسائل رایج نصب، راه‌اندازی و اجرای دروس بررسی کنید.
+> 🔧 **نیاز به کمک دارید؟** راهنمای [رفع اشکال](TROUBLESHOOTING.md) ما را برای حل مشکلات رایج نصب، راه‌اندازی و اجرای درس‌ها بررسی کنید.
 
+**[دانشجویان](https://aka.ms/student-page)**، برای استفاده از این برنامه درسی، کل مخزن را به حساب GitHub خود فورک کنید و تمرین‌ها را به‌صورت جداگانه یا گروهی کامل کنید:
 
-**[دانشجویان](https://aka.ms/student-page)**، برای استفاده از این برنامه درسی، کل مخزن را به حساب GitHub خود فورک کنید و تمرین‌ها را به‌صورت فردی یا گروهی کامل کنید:
+- با کوییز پیش‌کلاس شروع کنید.
+- متن درس را بخوانید و فعالیت‌ها را انجام دهید، در هر بررسی دانش توقف و تأمل کنید.
+- سعی کنید پروژه‌ها را با درک دروس بسازید نه فقط با اجرای کد راه‌حل؛ البته کد راه‌حل در پوشه‌های `/solution` در هر درس مبتنی بر پروژه در دسترس است.
+- کوییز پس از درس را انجام دهید.
+- چالش را کامل کنید.
+- تمرین را انجام دهید.
+- پس از تکمیل یک گروه درس، به [صفحه بحث](https://github.com/microsoft/ML-For-Beginners/discussions) مراجعه کنید و با پر کردن فرم ارزیابی پیشرفت مناسب (PAT) "با صدای بلند بیاموزید". 'PAT' یک ابزار ارزیابی پیشرفت است که به شما کمک می‌کند یادگیری خود را عمیق‌تر کنید. همچنین می‌توانید به سایر PAT ها واکنش نشان دهید تا با هم یاد بگیریم.
 
-- با یک آزمون پیش‌درس شروع کنید.
-- درس را بخوانید و فعالیت‌ها را کامل کنید، در هر بررسی دانش مکث کرده و تأمل کنید.
-- سعی کنید پروژه‌ها را با درک دروس ایجاد کنید تا اینکه فقط کد راه‌حل را اجرا کنید؛ با این حال، آن کد در پوشه‌های `/solution` در هر درس مبتنی بر پروژه در دسترس است.
-- آزمون پس از درس را بدهید.
-- چالش را انجام دهید.
-- تکلیف را کامل کنید.
-- بعد از اتمام یک گروه درسی، به [تالار بحث](https://github.com/microsoft/ML-For-Beginners/discussions) سر بزنید و با پر کردن روبریک PAT مربوطه «بلند یاد بگیرید». یک «PAT» ابزار ارزیابی پیشرفت است که روبریکی است که شما برای پیشبرد یادگیری خود پر می‌کنید. شما همچنین می‌توانید به PATهای دیگر واکنش نشان دهید تا با هم یاد بگیریم.
+> برای مطالعه بیشتر، ما پیشنهاد می‌کنیم این ماژول‌ها و مسیرهای یادگیری [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott) را دنبال کنید.
 
-> برای مطالعهٔ بیشتر، پیشنهاد می‌کنیم این ماژول‌ها و مسیرهای یادگیری [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott) را دنبال کنید.
-
-**معلمان**، ما [برخی پیشنهادها](for-teachers.md) در مورد نحوهٔ استفاده از این برنامه درسی ضمیمه کرده‌ایم.
+**اساتید**، ما [چند پیشنهاد](for-teachers.md) در مورد نحوه استفاده از این برنامه درسی ارائه کرده‌ایم.
 
 ---
 
-## راهنماهای ویدیویی
+## راهنمای ویدیویی
 
-برخی از دروس به‌صورت ویدیوی کوتاه در دسترس هستند. می‌توانید همهٔ این‌ها را درون متن دروس بیابید، یا در [فهرست پخش ML for Beginners در کانال توسعه‌دهندهٔ مایکروسافت در YouTube](https://aka.ms/ml-beginners-videos) با کلیک روی تصویر زیر.
+برخی از دروس به صورت ویدیوهای کوتاه در دسترس هستند. می‌توانید همه آن‌ها را در داخل درس‌ها یا در [لیست پخش ML for Beginners در کانال یوتیوب Microsoft Developer](https://aka.ms/ml-beginners-videos) با کلیک روی تصویر زیر بیابید.
 
-[![بنر ML برای مبتدیان](../../translated_images/ml-for-beginners-video-banner.63f694a100034bc6251134294459696e070a3a9a04632e9fe6a24aa0de4a7384.fa.png)](https://aka.ms/ml-beginners-videos)
+[![ML for beginners banner](../../translated_images/fa/ml-for-beginners-video-banner.63f694a100034bc6.webp)](https://aka.ms/ml-beginners-videos)
 
 ---
 
 ## آشنایی با تیم
 
-[![ویدیوی تبلیغاتی](../../images/ml.gif)](https://youtu.be/Tj1XWrDSYJU)
+[![Promo video](../../images/ml.gif)](https://youtu.be/Tj1XWrDSYJU)
 
 **گیف توسط** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
 
-> 🎥 برای مشاهدهٔ ویدئویی دربارهٔ پروژه و افرادی که آن را ایجاد کرده‌اند، روی تصویر بالا کلیک کنید!
+> 🎥 برای مشاهده ویدیو درباره پروژه و افراد سازنده آن روی تصویر بالا کلیک کنید!
 
 ---
 
-## روش آموزشی
+## روش آموزش
 
-ما در هنگام ساخت این برنامه درسی دو اصل آموزشی را انتخاب کرده‌ایم: اطمینان از اینکه برنامه عملی و مبتنی بر پروژه است و اینکه شامل آزمون‌های مکرر است. علاوه بر این، این برنامه دارای یک «تم» مشترک است تا به آن انسجام بخشد.
+ما دو اصل آموزشی را در ساخت این برنامه درسی انتخاب کرده‌ایم: اطمینان از اینکه به صورت عملی و **مبتنی بر پروژه** باشد و شامل **کوییزهای مکرر** باشد. همچنین این برنامه درسی یک **موضوع کلی** مشترک دارد تا انسجام داشته باشد.
 
-با اطمینان از هم‌راستایی محتوا با پروژه‌ها، فرایند برای دانش‌آموزان جذاب‌تر می‌شود و ماندگاری مفاهیم افزایش می‌یابد. علاوه بر این، یک آزمون کم‌فشار قبل از کلاس نیت یادگیری موضوع را در دانش‌آموز تنظیم می‌کند، در حالی که آزمونی دوم پس از کلاس موجب تثبیت بیشتر می‌شود. این برنامه طوری طراحی شده است که انعطاف‌پذیر و لذت‌بخش باشد و می‌توان آن را کامل یا بخشی دنبال کرد. پروژه‌ها از کوچک شروع می‌شوند و تا پایان چرخهٔ 12 هفته‌ای به‌تدریج پیچیده‌تر می‌گردند. این برنامه همچنین یک پست‌اسکریپت در مورد کاربردهای دنیای واقعی یادگیری ماشین دارد که می‌تواند به‌عنوان امتیاز اضافی یا پایه‌ای برای بحث استفاده شود.
+با اطمینان از انطباق محتوا با پروژه‌ها، فرایند برای دانشجویان جذاب‌تر شده و نگهداری مفاهیم افزایش می‌یابد. علاوه بر این، یک کوییز کم ریسک قبل از کلاس قصد دانشجو را برای یادگیری موضوع تنظیم می‌کند، در حالی که کوییز دوم پس از کلاس اطمینان می‌دهد که مطلب بهتر در ذهن باقی می‌ماند. این برنامه به گونه‌ای طراحی شده است که قابل انعطاف و لذت‌بخش باشد و می‌توان آن را کامل یا بخش به بخش اخذ کرد. پروژه‌ها از کوچک شروع شده و تا پایان چرخه ۱۲ هفته‌ای به تدریج پیچیده‌تر می‌شوند. این برنامه درسی همچنین شامل بخشی درباره کاربردهای واقعی یادگیری ماشین است که می‌تواند به عنوان امتیاز اضافی یا پایه بحث استفاده شود.
 
-> راهنمای [قانون رفتار](CODE_OF_CONDUCT.md)، [نحوهٔ مشارکت](CONTRIBUTING.md)، [ترجمه](TRANSLATIONS.md)، و [رفع اشکال](TROUBLESHOOTING.md) ما را بیابید. ما از بازخورد سازندهٔ شما استقبال می‌کنیم!
+> دستورالعمل‌های [رفتار حرفه‌ای](CODE_OF_CONDUCT.md)، [سهیم شدن](CONTRIBUTING.md)، [ترجمه](TRANSLATIONS.md)، و [رفع اشکال](TROUBLESHOOTING.md) ما را بیابید. بازخورد سازنده شما را استقبال می‌کنیم!
 
 ## هر درس شامل
 
-- اسکچ‌نوت اختیاری
+- یادداشت اختیاری طرح‌کشی شده
 - ویدیوی مکمل اختیاری
-- راهنمای ویدیویی (فقط برخی درس‌ها)
-- [آزمون گرم‌کننده پیش‌درس](https://ff-quizzes.netlify.app/en/ml/)
+- راهنمای ویدئویی (فقط برخی دروس)
+- [کوییز گرم‌کننده پیش از درس](https://ff-quizzes.netlify.app/en/ml/)
 - درس مکتوب
-- برای درس‌های مبتنی بر پروژه، راهنمای گام‌به‌گام در مورد نحوهٔ ساخت پروژه
+- برای دروس مبتنی بر پروژه، راهنمای گام‌به‌گام ساخت پروژه
 - بررسی‌های دانش
 - یک چالش
-- مطالعهٔ تکمیلی
-- تکلیف
-- [آزمون پس از درس](https://ff-quizzes.netlify.app/en/ml/)
+- مطالعه تکمیلی
+- تمرین
+- [کوییز پس از درس](https://ff-quizzes.netlify.app/en/ml/)
 
-> **توضیحی دربارهٔ زبان‌ها**: این دروس عمدتاً به زبان Python نوشته شده‌اند، اما بسیاری نیز در R موجود هستند. برای تکمیل یک درس R، به پوشهٔ `/solution` بروید و دنبال درس‌های R بگردید. آنها دارای پسوند .rmd هستند که نمایانگر یک فایل **R Markdown** است که می‌توان آن را به‌سادگی به‌عنوان جاسازی `code chunks` (از R یا زبان‌های دیگر) و یک `YAML header` (که راهنمایی می‌کند چگونه خروجی‌ها مانند PDF قالب‌بندی شوند) در یک `Markdown document` تعریف کرد. از این رو، این قالب به‌عنوان یک چارچوب نمونه‌وار برای تولید محتوای علم داده عمل می‌کند زیرا به شما اجازه می‌دهد کد، خروجی آن و افکارتان را ترکیب کنید و آن‌ها را در Markdown بنویسید. علاوه بر این، اسناد R Markdown می‌توانند به فرمت‌های خروجی مانند PDF، HTML یا Word رندر شوند.
+> **نکته‌ای درباره زبان‌ها**: این دروس عمدتاً در زبان پایتون نوشته شده‌اند، اما بسیاری نیز به زبان R موجود هستند. برای کامل کردن درس R، به پوشه `/solution` رفته و درس‌های R را جستجو کنید. این فایل‌ها دارای پسوند .rmd هستند که نمایانگر یک فایل **R Markdown** است، که به سادگی می‌توان آن را یک چارچوب نویسندگی نمونه برای علم داده تعریف کرد، زیرا به شما اجازه می‌دهد کد، خروجی آن، و فکر خود را با نوشتن آن‌ها در Markdown ترکیب کنید. همچنین، اسناد R Markdown می‌توانند به فرمت‌های خروجی مانند PDF، HTML، یا Word صادر شوند.
+> **یادداشتی درباره آزمون‌ها**: تمام آزمون‌ها در [پوشه Quiz App](../../quiz-app) قرار دارند، مجموعاً ۵۲ آزمون که هر کدام شامل سه سوال است. این آزمون‌ها درون دروس لینک شده‌اند اما اپلیکیشن آزمون می‌تواند به صورت محلی اجرا شود؛ برای میزبانی محلی یا پیاده‌سازی در Azure دستورالعمل‌های موجود در پوشه `quiz-app` را دنبال کنید.
 
-> **توضیحی دربارهٔ آزمون‌ها**: همهٔ آزمون‌ها در [پوشهٔ Quiz App](../../quiz-app) قرار دارند، در مجموع 52 آزمون که هر کدام شامل سه سؤال است. آن‌ها از درون دروس لینک شده‌اند اما برنامهٔ آزمون را می‌توان محلی اجرا کرد؛ دستورالعمل‌ها را در پوشهٔ `quiz-app` برای میزبانی محلی یا استقرار در Azure دنبال کنید.
+| شماره درس |                             موضوع                             |                   دسته‌بندی درس                   | اهداف یادگیری                                                                                                                 |                                                              درس مرتبط                                                               |                        نویسنده                        |
+| :-------: | :----------------------------------------------------------: | :----------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
+|     ۰۱    |                مقدمه‌ای بر یادگیری ماشین                |      [مقدمه](1-Introduction/README.md)       | مفاهیم پایه پشت یادگیری ماشین را بیاموزید                                                                                   |                                             [درس](1-Introduction/1-intro-to-ML/README.md)                                             |                       محمد                       |
+|     ۰۲    |                تاریخچه یادگیری ماشین                 |      [مقدمه](1-Introduction/README.md)       | تاریخچه زمینه این حوزه را یاد بگیرید                                                                                         |                                            [درس](1-Introduction/2-history-of-ML/README.md)                                            |                     جن و اِمی                      |
+|     ۰۳    |                 عدالت و یادگیری ماشین                  |      [مقدمه](1-Introduction/README.md)       | مسائل فلسفی مهم پیرامون عدالت که دانش‌آموزان باید هنگام ساخت و استفاده از مدل‌های یادگیری ماشین مدنظر داشته باشند چیست؟ |                                              [درس](1-Introduction/3-fairness/README.md)                                               |                        تومومی                        |
+|     ۰۴    |                تکنیک‌های یادگیری ماشین               |      [مقدمه](1-Introduction/README.md)       | پژوهشگران یادگیری ماشین از چه تکنیک‌هایی برای ساخت مدل‌های یادگیری ماشین استفاده می‌کنند؟                                 |                                          [درس](1-Introduction/4-techniques-of-ML/README.md)                                           |                    کریس و جن                     |
+|     ۰۵    |                   مقدمه‌ای بر رگرسیون                   |        [رگرسیون](2-Regression/README.md)         | با پایتون و Scikit-learn برای مدل‌های رگرسیون شروع کنید                                                                       |         [پایتون](2-Regression/1-Tools/README.md) • [R](../../2-Regression/1-Tools/solution/R/lesson_1.html)         |      جن • اریک وانجاو       |
+|     ۰۶    |                قیمت‌های کدو تنبل آمریکای شمالی 🎃                |        [رگرسیون](2-Regression/README.md)         | داده‌ها را جهت آماده‌سازی برای یادگیری ماشین تجسم و پاکسازی کنید                                                             |          [پایتون](2-Regression/2-Data/README.md) • [R](../../2-Regression/2-Data/solution/R/lesson_2.html)          |      جن • اریک وانجاو       |
+|     ۰۷    |                قیمت‌های کدو تنبل آمریکای شمالی 🎃                |        [رگرسیون](2-Regression/README.md)         | مدل‌های رگرسیون خطی و چندجمله‌ای بسازید                                                                                      |        [پایتون](2-Regression/3-Linear/README.md) • [R](../../2-Regression/3-Linear/solution/R/lesson_3.html)        |      جن و دیمیتری • اریک وانجاو       |
+|     ۰۸    |                قیمت‌های کدو تنبل آمریکای شمالی 🎃                |        [رگرسیون](2-Regression/README.md)         | مدل رگرسیون لجستیک بسازید                                                                                                    |     [پایتون](2-Regression/4-Logistic/README.md) • [R](../../2-Regression/4-Logistic/solution/R/lesson_4.html)      |      جن • اریک وانجاو       |
+|     ۰۹    |                          یک اپ وب 🔌                          |           [اپ وب](3-Web-App/README.md)            | یک اپ وب بسازید تا از مدل آموزش دیده خود استفاده کنید                                                                           |                                                 [پایتون](3-Web-App/1-Web-App/README.md)                                                  |                         جن                          |
+|     ۱۰    |                 مقدمه‌ای بر طبقه‌بندی                 |    [طبقه‌بندی](4-Classification/README.md)     | داده‌های خود را پاکسازی، آماده‌سازی و تجسم کنید؛ مقدمه‌ای بر طبقه‌بندی                                                         | [پایتون](4-Classification/1-Introduction/README.md) • [R](../../4-Classification/1-Introduction/solution/R/lesson_10.html)  | جن و کَسی • اریک وانجاو |
+|     ۱۱    |             غذاهای خوشمزه آسیایی و هندی 🍜             |    [طبقه‌بندی](4-Classification/README.md)     | مقدمه‌ای بر طبقه‌بندها                                                                                                       | [پایتون](4-Classification/2-Classifiers-1/README.md) • [R](../../4-Classification/2-Classifiers-1/solution/R/lesson_11.html) | جن و کَسی • اریک وانجاو |
+|     ۱۲    |             غذاهای خوشمزه آسیایی و هندی 🍜             |    [طبقه‌بندی](4-Classification/README.md)     | طبقه‌بندهای بیشتر                                                                                                            | [پایتون](4-Classification/3-Classifiers-2/README.md) • [R](../../4-Classification/3-Classifiers-2/solution/R/lesson_12.html) | جن و کَسی • اریک وانجاو |
+|     ۱۳    |             غذاهای خوشمزه آسیایی و هندی 🍜             |    [طبقه‌بندی](4-Classification/README.md)     | اپ وب توصیه‌گر با استفاده از مدل خود بسازید                                                                                    |                                              [پایتون](4-Classification/4-Applied/README.md)                                              |                         جن                          |
+|     ۱۴    |                   مقدمه‌ای بر خوشه‌بندی                   |        [خوشه‌بندی](5-Clustering/README.md)         | داده‌های خود را پاکسازی، آماده‌سازی و تجسم کنید؛ مقدمه‌ای بر خوشه‌بندی                                                         |         [پایتون](5-Clustering/1-Visualize/README.md) • [R](../../5-Clustering/1-Visualize/solution/R/lesson_14.html)         |      جن • اریک وانجاو       |
+|     ۱۵    |              بررسی سلیقه‌های موسیقی نیجریه‌ای 🎧              |        [خوشه‌بندی](5-Clustering/README.md)         | روش خوشه‌بندی K-Means را کاوش کنید                                                                                            |           [پایتون](5-Clustering/2-K-Means/README.md) • [R](../../5-Clustering/2-K-Means/solution/R/lesson_15.html)           |      جن • اریک وانجاو       |
+|     ۱۶    |        مقدمه‌ای بر پردازش زبان طبیعی ☕️         |   [پردازش زبان طبیعی](6-NLP/README.md)    | اصول پردازش زبان طبیعی را با ساخت یک ربات ساده بیاموزید                                                                        |                                             [پایتون](6-NLP/1-Introduction-to-NLP/README.md)                                              |                       استیفن                        |
+|     ۱۷    |                      وظایف رایج پردازش زبان طبیعی ☕️                      |   [پردازش زبان طبیعی](6-NLP/README.md)    | دانش خود را با درک وظایف متداول مورد نیاز هنگام کار با ساختارهای زبانی عمیق‌تر کنید                                             |                                                    [پایتون](6-NLP/2-Tasks/README.md)                                                     |                       استیفن                        |
+|     ۱۸    |             ترجمه و تحلیل احساسات ♥️              |   [پردازش زبان طبیعی](6-NLP/README.md)    | ترجمه و تحلیل احساسات با جین آستن                                                                                             |                                            [پایتون](6-NLP/3-Translation-Sentiment/README.md)                                             |                       استیفن                        |
+|     ۱۹    |                  هتل‌های رمانتیک اروپا ♥️                  |   [پردازش زبان طبیعی](6-NLP/README.md)    | تحلیل احساسات با نقدهای هتل ۱                                                                                                |                                               [پایتون](6-NLP/4-Hotel-Reviews-1/README.md)                                                |                       استیفن                        |
+|     ۲۰    |                  هتل‌های رمانتیک اروپا ♥️                  |   [پردازش زبان طبیعی](6-NLP/README.md)    | تحلیل احساسات با نقدهای هتل ۲                                                                                                |                                               [پایتون](6-NLP/5-Hotel-Reviews-2/README.md)                                                |                       استیفن                        |
+|     ۲۱    |            مقدمه‌ای بر پیش‌بینی سری‌های زمانی             |        [سری‌های زمانی](7-TimeSeries/README.md)        | مقدمه‌ای بر پیش‌بینی سری‌های زمانی                                                                                           |                                             [پایتون](7-TimeSeries/1-Introduction/README.md)                                              |                      فرانچسکا                       |
+|     ۲۲    | ⚡️ مصرف برق جهان ⚡️ - پیش‌بینی سری زمانی با ARIMA |        [سری‌های زمانی](7-TimeSeries/README.md)        | پیش‌بینی سری زمانی با ARIMA                                                                                                   |                                                 [پایتون](7-TimeSeries/2-ARIMA/README.md)                                                 |                      فرانچسکا                       |
+|     ۲۳    |  ⚡️ مصرف برق جهان ⚡️ - پیش‌بینی سری زمانی با SVR  |        [سری‌های زمانی](7-TimeSeries/README.md)        | پیش‌بینی سری زمانی با رگرسیون بردار پشتیبان                                                                                   |                                                  [پایتون](7-TimeSeries/3-SVR/README.md)                                                  |                       آنیربان                        |
+|     ۲۴    |             مقدمه‌ای بر یادگیری تقویتی             | [یادگیری تقویتی](8-Reinforcement/README.md) | مقدمه‌ای بر یادگیری تقویتی با Q-Learning                                                                                      |                                             [پایتون](8-Reinforcement/1-QLearning/README.md)                                              |                        دیمیتری                        |
+|     ۲۵    |                 کمک به پیتر برای فرار از گرگ! 🐺                  | [یادگیری تقویتی](8-Reinforcement/README.md) | یادگیری تقویتی در Gym                                                                                                         |                                                [پایتون](8-Reinforcement/2-Gym/README.md)                                                 |                        دیمیتری                        |
+|  پس‌نویس   |            سناریوها و کاربردهای دنیای واقعی یادگیری ماشین            |      [یادگیری ماشین در دنیای واقعی](9-Real-World/README.md)       | کاربردهای جالب و روشنگر یادگیری ماشین کلاسیک در دنیای واقعی                                                                   |                                             [درس](9-Real-World/1-Applications/README.md)                                              |                         تیم                         |
+|  پس‌نویس   |            عیب‌یابی مدل در یادگیری ماشین با داشبورد RAI          |      [یادگیری ماشین در دنیای واقعی](9-Real-World/README.md)       | عیب‌یابی مدل در یادگیری ماشین با استفاده از مولفه‌های داشبورد Responsible AI                                                   |                                             [درس](9-Real-World/2-Debugging-ML-Models/README.md)                                              |                         روث یا کوبو                       |
 
-| شماره درس |                             موضوع                              |                   گروه‌بندی درس                   | اهداف یادگیری                                                                                                             |                                                              درس مرتبط                                                               |                        نویسنده                        |
-| :-----------: | :------------------------------------------------------------: | :-------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
-|      01       |                مقدمه‌ای بر یادگیری ماشین                |      [مقدمه](1-Introduction/README.md)       | مفاهیم پایه‌ای پشت یادگیری ماشین را بیاموزید                                                                                |                                             [درس](1-Introduction/1-intro-to-ML/README.md)                                             |                       محمد                       |
-|      02       |                تاریخچهٔ یادگیری ماشین                 |      [مقدمه](1-Introduction/README.md)       | تاریخچهٔ این حوزه را بیاموزید                                                                                         |                                            [درس](1-Introduction/2-history-of-ML/README.md)                                            |                     جن و امی                      |
-|      03       |                 عدالت و یادگیری ماشین                  |      [مقدمه](1-Introduction/README.md)       | مسائل فلسفی مهم دربارهٔ عدالت که دانشجویان باید هنگام ساخت و اعمال مدل‌های یادگیری ماشین در نظر بگیرند چیست؟ |                                              [درس](1-Introduction/3-fairness/README.md)                                               |                        تومومی                        |
-|      04       |                تکنیک‌های یادگیری ماشین                 |      [مقدمه](1-Introduction/README.md)       | پژوهشگران یادگیری ماشین از چه تکنیک‌هایی برای ساخت مدل‌های یادگیری ماشین استفاده می‌کنند؟                                                                       |                                          [درس](1-Introduction/4-techniques-of-ML/README.md)                                           |                    کریس و جن                     |
-|      05       |                   مقدمه‌ای بر رگرسیون                   |        [رگرسیون](2-Regression/README.md)         | با Python و Scikit-learn برای مدل‌های رگرسیون شروع کنید                                                                  |         [Python](2-Regression/1-Tools/README.md) • [R](../../2-Regression/1-Tools/solution/R/lesson_1.html)         |      جن • اریک وانجاو       |
-|      06       |                قیمت کدو تنبل آمریکای شمالی 🎃                |        [رگرسیون](2-Regression/README.md)         | داده‌ها را به‌منظور آماده‌سازی برای یادگیری ماشین مصورسازی و پاک‌سازی کنید                                                                                  |          [Python](2-Regression/2-Data/README.md) • [R](../../2-Regression/2-Data/solution/R/lesson_2.html)          |      جن • اریک وانجاو       |
-|      07       |                قیمت کدو تنبل آمریکای شمالی 🎃                |        [رگرسیون](2-Regression/README.md)         | ساخت مدل‌های رگرسیون خطی و چندجمله‌ای                                                                                   |        [Python](2-Regression/3-Linear/README.md) • [R](../../2-Regression/3-Linear/solution/R/lesson_3.html)        |      جن و دمیتری • اریک وانجاو       |
-|      08       |                قیمت کدو تنبل آمریکای شمالی 🎃                |        [رگرسیون](2-Regression/README.md)         | ساخت یک مدل رگرسیون لجستیک                                                                                               |     [Python](2-Regression/4-Logistic/README.md) • [R](../../2-Regression/4-Logistic/solution/R/lesson_4.html)      |      جن • اریک وانجاو       |
-|      09       |                          یک برنامهٔ وب 🔌                          |           [وب‌اپ](3-Web-App/README.md)            | ساخت یک برنامهٔ وب برای استفاده از مدل آموزش‌دیدهٔ خود                                                                                       |                                                 [Python](3-Web-App/1-Web-App/README.md)                                                  |                         جن                          |
-|      10       |                 مقدمه‌ای بر طبقه‌بندی                 |    [Classification](4-Classification/README.md)     | داده‌های خود را پاک‌سازی، آماده، و مصورسازی کنید؛ مقدمه‌ای بر طبقه‌بندی                                                            | [Python](4-Classification/1-Introduction/README.md) • [R](../../4-Classification/1-Introduction/solution/R/lesson_10.html)  | جن و کیسی • اریک وانجاو |
-|      11       |             غذاهای خوشمزهٔ آسیایی و هندی 🍜             |    [Classification](4-Classification/README.md)     | مقدمه‌ای بر طبقه‌بندها                                                                                                     | [Python](4-Classification/2-Classifiers-1/README.md) • [R](../../4-Classification/2-Classifiers-1/solution/R/lesson_11.html) | جن و کیسی • اریک وانجاو |
-|      12       |             غذاهای خوشمزهٔ آسیایی و هندی 🍜             |    [Classification](4-Classification/README.md)     | طبقه‌بندهای بیشتر                                                                                                                | [Python](4-Classification/3-Classifiers-2/README.md) • [R](../../4-Classification/3-Classifiers-2/solution/R/lesson_12.html) | جن و کیسی • اریک وانجاو |
-|      13       |             غذاهای خوشمزهٔ آسیایی و هندی 🍜             |    [Classification](4-Classification/README.md)     | ساخت یک وب‌اپ توصیه‌گر با استفاده از مدل خود                                                                                    |                                              [Python](4-Classification/4-Applied/README.md)                                              |                         جن                          |
-|      14       |                   مقدمه‌ای بر خوشه‌بندی                   |        [خوشه‌بندی](5-Clustering/README.md)         | داده‌های خود را پاک‌سازی، آماده، و مصورسازی کنید؛ مقدمه‌ای بر خوشه‌بندی                                                                |         [Python](5-Clustering/1-Visualize/README.md) • [R](../../5-Clustering/1-Visualize/solution/R/lesson_14.html)         |      جن • اریک وانجاو       |
-|      15       |              کاوش سلیقه‌های موسیقایی نیجریه‌ای 🎧              |        [خوشه‌بندی](5-Clustering/README.md)         | روش خوشه‌بندی K-Means را بررسی کنید                                                                                           |           [Python](5-Clustering/2-K-Means/README.md) • [R](../../5-Clustering/2-K-Means/solution/R/lesson_15.html)           |      جن • اریک وانجاو       |
-|      16       |        مقدمه‌ای بر پردازش زبان طبیعی ☕️         |   [Natural language processing](6-NLP/README.md)    | با ساخت یک ربات ساده اصول پایهٔ پردازش زبان طبیعی را بیاموزید                                                                             |                                             [Python](6-NLP/1-Introduction-to-NLP/README.md)                                              |                       استفن                        |
-|      17       |                      وظایف رایج پردازش زبان طبیعی ☕️                      |   [Natural language processing](6-NLP/README.md)    | با درک وظایف رایج مورد نیاز هنگام مواجهه با ساختارهای زبانی، دانش خود در پردازش زبان طبیعی را عمیق‌تر کنید                          |                                                    [Python](6-NLP/2-Tasks/README.md)                                                     |                       استفن                        |
-|      18       |             ترجمه و تحلیل احساسات ♥️              |   [Natural language processing](6-NLP/README.md)    | ترجمه و تحلیل احساسات با جِین آستن                                                                             |                                            [Python](6-NLP/3-Translation-Sentiment/README.md)                                             |                       استفن                        |
-|      19       |                  هتل‌های رمانتیک اروپا ♥️                  |   [Natural language processing](6-NLP/README.md)    | تحلیل احساسات با نقدهای هتل 1                                                                                         |                                               [Python](6-NLP/4-Hotel-Reviews-1/README.md)                                                |                       استفن                        |
-|      20       |                  هتل‌های رمانتیک اروپا ♥️                  |   [Natural language processing](6-NLP/README.md)    | تحلیل احساسات با نقدهای هتل 2                                                                                         |                                               [Python](6-NLP/5-Hotel-Reviews-2/README.md)                                                |                       استفن                        |
-|      21       |            مقدمه‌ای بر پیش‌بینی سری‌های زمانی             |        [سری‌های زمانی](7-TimeSeries/README.md)        | مقدمه‌ای بر پیش‌بینی سری‌های زمانی                                                                                         |                                             [Python](7-TimeSeries/1-Introduction/README.md)                                              |                      فرانچسکا                       |
-|      22       | ⚡️ World Power Usage ⚡️ - پیش‌بینی سری‌های زمانی با ARIMA |        [سری‌های زمانی](7-TimeSeries/README.md)        | پیش‌بینی سری‌های زمانی با ARIMA                                                                                              |                                                 [Python](7-TimeSeries/2-ARIMA/README.md)                                                 |                      فرانچسکا                       |
-|      23       |  ⚡️ World Power Usage ⚡️ - پیش‌بینی سری‌های زمانی با SVR  |        [سری‌های زمانی](7-TimeSeries/README.md)        | پیش‌بینی سری‌های زمانی با Support Vector Regressor                                                                           |                                                  [Python](7-TimeSeries/3-SVR/README.md)                                                  |                       انیربان                        |
-|      24       |             مقدمه‌ای بر یادگیری تقویتی             | [یادگیری تقویتی](8-Reinforcement/README.md) | مقدمه‌ای بر یادگیری تقویتی با Q-Learning                                                                          |                                             [Python](8-Reinforcement/1-QLearning/README.md)                                              |                        دمیتری                        |
-|      25       |                 به پیتر کمک کنید از گرگ اجتناب کند! 🐺                  | [یادگیری تقویتی](8-Reinforcement/README.md) | یادگیری تقویتی با Gym                                                                                                      |                                                [Python](8-Reinforcement/2-Gym/README.md)                                                 |                        دمیتری                        |
-|  پیوست   |            سناریوها و کاربردهای واقعی یادگیری ماشین            |      [ML در دنیای واقعی](9-Real-World/README.md)       | کاربردهای جالب و روشنگر دنیای واقعی از یادگیری ماشین کلاسیک                                                               |                                             [درس](9-Real-World/1-Applications/README.md)                                              |                         تیم                         |
-|  پیوست   |            اشکال‌زدایی مدل در یادگیری ماشین با داشبورد RAI          |      [ML در دنیای واقعی](9-Real-World/README.md)       | اشکال‌زدایی مدل در یادگیری ماشین با استفاده از اجزای داشبورد Responsible AI                                                              |                                             [درس](9-Real-World/2-Debugging-ML-Models/README.md)                                              |                         روث یاکوبو                       |
-
-> [تمام منابع اضافی مربوط به این دوره را در مجموعهٔ Microsoft Learn ما بیابید](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
+> [تمام منابع اضافی این دوره را در مجموعه Microsoft Learn ما بیابید](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
 
 ## دسترسی آفلاین
 
-می‌توانید این مستندات را به‌صورت آفلاین با استفاده از [Docsify](https://docsify.js.org/#/) اجرا کنید. این مخزن را فورک کنید، [Docsify را نصب کنید](https://docsify.js.org/#/quickstart) روی ماشین محلی خود، و سپس در پوشهٔ ریشهٔ این مخزن، تایپ کنید `docsify serve`. وب‌سایت روی پورت 3000 در localhost شما سرو خواهد شد: `localhost:3000`.
+شما می‌توانید این مستندات را به صورت آفلاین با استفاده از [Docsify](https://docsify.js.org/#/) اجرا کنید. مخزن را فورک کنید، [Docsify](https://docsify.js.org/#/quickstart) را روی دستگاه محلی خود نصب کنید، سپس در پوشه اصلی این مخزن، دستور `docsify serve` را تایپ کنید. وب‌سایت روی پورت ۳۰۰۰ در localhost شما با آدرس `localhost:3000` میزبانی می‌شود.
 
 ## فایل‌های PDF
 
-نسخهٔ pdfِ برنامهٔ درسی همراه با لینک‌ها را از [اینجا](https://microsoft.github.io/ML-For-Beginners/pdf/readme.pdf) بیابید.
+نسخه پی‌دی‌اف برنامه درسی با لینک‌ها را [اینجا](https://microsoft.github.io/ML-For-Beginners/pdf/readme.pdf) بیابید.
 
 
-## 🎒 دوره‌های دیگر 
+## 🎒 دوره‌های دیگر
 
-تیم ما دوره‌های دیگری نیز تولید می‌کند! نگاهی بیندازید:
+تیم ما دوره‌های دیگری نیز تولید می‌کند! بررسی کنید:
 
 <!-- CO-OP TRANSLATOR OTHER COURSES START -->
 ### LangChain
-[![LangChain4j برای مبتدیان](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
-[![LangChain.js برای مبتدیان](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
-
+[![LangChain4j for Beginners](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
+[![LangChain.js for Beginners](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
+[![LangChain for Beginners](https://img.shields.io/badge/LangChain%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://github.com/microsoft/langchain-for-beginners?WT.mc_id=m365-94501-dwahlin)
 ---
 
 ### Azure / Edge / MCP / Agents
-[![AZD برای مبتدیان](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
-[![Edge AI برای مبتدیان](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
-[![MCP برای مبتدیان](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
-[![AI Agents برای مبتدیان](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![AZD for Beginners](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Edge AI for Beginners](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![MCP for Beginners](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![AI Agents for Beginners](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
 
 ---
  
-### سری هوش مولد
-[![Generative AI برای مبتدیان](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
-[![Generative AI (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
-[![هوش مولد (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
-[![هوش مولد (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
+### Generative AI Series
+[![هوش مصنوعی تولیدی برای مبتدیان](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![هوش مصنوعی تولیدی (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+[![هوش مصنوعی تولیدی (جاوا)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
+[![هوش مصنوعی تولیدی (جاوااسکریپت)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
 
 ---
  
-### یادگیری اصلی
+### آموزش‌های اصلی
 [![یادگیری ماشین برای مبتدیان](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
 [![علم داده برای مبتدیان](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
 [![هوش مصنوعی برای مبتدیان](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
 [![امنیت سایبری برای مبتدیان](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
 [![توسعه وب برای مبتدیان](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
-[![اینترنت اشیاء برای مبتدیان](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+[![اینترنت اشیا برای مبتدیان](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
 [![توسعه XR برای مبتدیان](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
 
 ---
  
-### مجموعه Copilot
-[![Copilot برای برنامه‌نویسی زوجی با هوش مصنوعی](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
-[![Copilot برای C#/.NET](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
-[![ماجراجویی Copilot](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
+### سری کوپایلوت
+[![کوپایلوت برای برنامه‌نویسی جفتی هوش مصنوعی](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+[![کوپایلوت برای C#/.NET](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+[![ماجراجویی کوپایلوت](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
 <!-- CO-OP TRANSLATOR OTHER COURSES END -->
 
 ## دریافت کمک
 
-اگر گیر کردید یا هر سؤالی دربارهٔ ساخت اپلیکیشن‌های هوش مصنوعی داشتید. به جمع دیگر یادگیرندگان و توسعه‌دهندگان باتجربه در بحث‌های مربوط به MCP بپیوندید. این یک جامعهٔ پشتیبان است که در آن پرسش‌ها خوش‌آمد گفته می‌شوند و دانش آزادانه به اشتراک گذاشته می‌شود.
+اگر در ساخت برنامه‌های هوش مصنوعی گیر کرده‌اید یا سوالی دارید. به جمع زبان‌آموزان و توسعه‌دهندگان با تجربه در بحث‌های پیرامون MCP بپیوندید. این یک جامعه پشتیبان است که در آن سوالات خوش‌آمد گفته می‌شود و دانش آزادانه به اشتراک گذاشته می‌شود.
 
-[![دیسکورد Microsoft Foundry](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-اگر هنگام ساخت بازخوردی دربارهٔ محصول دارید یا با خطا مواجه شدید، به موارد زیر مراجعه کنید:
+اگر بازخورد محصول یا خطایی هنگام ساخت برنامه مشاهده کردید به اینجا مراجعه کنید:
 
-[![انجمن توسعه‌دهندگان Microsoft Foundry](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**سلب مسئولیت**:
-این سند با استفاده از سرویس ترجمه هوش مصنوعی Co-op Translator (https://github.com/Azure/co-op-translator) ترجمه شده است. در حالی که ما در تلاش برای دقت هستیم، لطفاً توجه داشته باشید که ترجمه‌های خودکار ممکن است حاوی خطاها یا نادرستی‌هایی باشند. سند اصلی به زبان بومی/اصلی خود باید به‌عنوان مرجع معتبر در نظر گرفته شود. برای اطلاعات حیاتی، استفاده از ترجمه حرفه‌ای انسانی توصیه می‌شود. ما در قبال هرگونه سوتفاهم یا تفسیر نادرست ناشی از استفاده از این ترجمه مسئولیتی نداریم.
+**توضیح مسئولیت**:
+این سند با استفاده از سرویس ترجمه مبتنی بر هوش مصنوعی [Co-op Translator](https://github.com/Azure/co-op-translator) ترجمه شده است. در حالی که ما در تلاش برای دقت هستیم، لطفاً توجه داشته باشید که ترجمه‌های خودکار ممکن است حاوی اشتباهات یا نابه‌دقتی‌هایی باشند. سند اصلی به زبان بومی خود باید به عنوان منبع معتبر در نظر گرفته شود. برای اطلاعات حیاتی، استفاده از ترجمه حرفه‌ای انسانی توصیه می‌شود. ما مسئول هیچ‌گونه سوءتفاهم یا برداشت نادرستی که ناشی از استفاده از این ترجمه باشد، نیستیم.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

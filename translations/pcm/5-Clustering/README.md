@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-11-18T19:04:58+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "pcm"
-}
--->
 # Clustering Models for Machine Learning
 
 Clustering na machine learning task wey dey try find objects wey resemble each oda and group dem into groups wey dem dey call clusters. Wetin make clustering different from oda methods for machine learning be say e dey happen automatically. In fact, you fit talk say e be opposite of supervised learning.
@@ -15,7 +6,7 @@ Clustering na machine learning task wey dey try find objects wey resemble each o
 
 Nigeria get plenty different people and dem music taste dey different too. Using data wey dem collect from Spotify (inspired by [dis article](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421)), make we check some music wey dey popular for Nigeria. Dis dataset get data about different songs like 'danceability' score, 'acousticness', loudness, 'speechiness', popularity, and energy. E go dey interesting to see wetin we fit discover for dis data!
 
-![A turntable](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.pcm.jpg)
+![A turntable](../../../translated_images/pcm/turntable.f2b86b13c53302dc.webp)
 
 > Photo by <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marcela Laskoski</a> on <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

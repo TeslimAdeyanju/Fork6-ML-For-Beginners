@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-10-11T12:06:13+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "et"
-}
--->
 # Sissejuhatus klasterdamisse
 
 Klasterdamine on [juhendamata õppe](https://wikipedia.org/wiki/Unsupervised_learning) tüüp, mis eeldab, et andmekogum on märgistamata või et selle sisendid ei ole seotud eelnevalt määratletud väljunditega. See kasutab erinevaid algoritme, et sorteerida märgistamata andmeid ja pakkuda rühmitusi vastavalt mustritele, mida ta andmetes tuvastab.
@@ -70,7 +61,7 @@ Süvene klasterdamistehnikate mõistmisse selles [õppemoodulis](https://docs.mi
 >
 >'Lame' selles kontekstis viitab eukleidilisele geomeetriale (mida osaliselt õpetatakse "tasapinna" geomeetria nime all) ja mitte-lame viitab mitte-eukleidilisele geomeetriale. Mis on geomeetria seos masinõppega? Noh, kuna mõlemad valdkonnad põhinevad matemaatikal, peab olema ühine viis punktidevaheliste kauguste mõõtmiseks klastrites, ja seda saab teha "lame" või "mitte-lame" viisil, sõltuvalt andmete olemusest. [Eukleidilised kaugused](https://wikipedia.org/wiki/Euclidean_distance) mõõdetakse sirgjoone pikkusena kahe punkti vahel. [Mitte-eukleidilised kaugused](https://wikipedia.org/wiki/Non-Euclidean_geometry) mõõdetakse mööda kõverat. Kui su andmed, visualiseerituna, ei tundu eksisteerivat tasapinnal, võib vaja minna spetsiaalset algoritmi nende käsitlemiseks.
 >
-![Lame vs Mitte-lame geomeetria infograafik](../../../../translated_images/flat-nonflat.d1c8c6e2a96110c1d57fa0b72913f6aab3c245478524d25baf7f4a18efcde224.et.png)
+![Lame vs Mitte-lame geomeetria infograafik](../../../../translated_images/et/flat-nonflat.d1c8c6e2a96110c1.webp)
 > Infograafik: [Dasani Madipalli](https://twitter.com/dasani_decoded)
 > 
 > 🎓 ['Kaugused'](https://web.stanford.edu/class/cs345a/slides/12-clustering.pdf)
@@ -93,12 +84,12 @@ Klasterdamise algoritme on üle 100, ja nende kasutamine sõltub käsitletavate 
 
 - **Hierarhiline klasterdamine**. Kui objekt klassifitseeritakse selle läheduse järgi lähedalasuvale objektile, mitte kaugemal olevale, moodustuvad klastrid nende liikmete kauguse järgi teistest objektidest. Scikit-learn'i aglomereeriv klasterdamine on hierarhiline.
 
-   ![Hierarhilise klasterdamise infograafik](../../../../translated_images/hierarchical.bf59403aa43c8c47493bfdf1cc25230f26e45f4e38a3d62e8769cd324129ac15.et.png)
+   ![Hierarhilise klasterdamise infograafik](../../../../translated_images/et/hierarchical.bf59403aa43c8c47.webp)
    > Infograafik: [Dasani Madipalli](https://twitter.com/dasani_decoded)
 
 - **Tsentroidi klasterdamine**. See populaarne algoritm nõuab "k" ehk moodustatavate klastrite arvu valimist, mille järel algoritm määrab klastri keskpunkti ja kogub andmeid selle punkti ümber. [K-means klasterdamine](https://wikipedia.org/wiki/K-means_clustering) on populaarne tsentroidi klasterdamise versioon. Keskpunkt määratakse lähima keskmise järgi, seega nimi. Klastri ruutkaugus minimeeritakse.
 
-   ![Tsentroidi klasterdamise infograafik](../../../../translated_images/centroid.097fde836cf6c9187d0b2033e9f94441829f9d86f4f0b1604dd4b3d1931aee34.et.png)
+   ![Tsentroidi klasterdamise infograafik](../../../../translated_images/et/centroid.097fde836cf6c918.webp)
    > Infograafik: [Dasani Madipalli](https://twitter.com/dasani_decoded)
 
 - **Jaotuspõhine klasterdamine**. Statistilisel modelleerimisel põhinev jaotuspõhine klasterdamine keskendub tõenäosuse määramisele, et andmepunkt kuulub klastri juurde, ja määrab selle vastavalt. Gaussi segameetodid kuuluvad sellesse tüüpi.
@@ -234,7 +225,7 @@ Vaadake andmete üldisi väärtusi. Pange tähele, et populaarsus võib olla '0'
     plt.title('Top genres',color = 'blue')
     ```
 
-    ![kõige populaarsemad](../../../../translated_images/popular.9c48d84b3386705f98bf44e26e9655bee9eb7c849d73be65195e37895bfedb5d.et.png)
+    ![kõige populaarsemad](../../../../translated_images/et/popular.9c48d84b3386705f.webp)
 
 ✅ Kui soovite näha rohkem tipptulemusi, muutke top `[:5]` suuremaks väärtuseks või eemaldage see, et näha kõiki.
 
@@ -253,7 +244,7 @@ Pange tähele, et kui populaarseim žanr on kirjeldatud kui 'Puudub', tähendab 
 
     Nüüd kontrollige žanre uuesti:
 
-    ![kõik žanrid](../../../../translated_images/all-genres.1d56ef06cefbfcd61183023834ed3cb891a5ee638a3ba5c924b3151bf80208d7.et.png)
+    ![kõik žanrid](../../../../translated_images/et/all-genres.1d56ef06cefbfcd6.webp)
 
 1. Kolm populaarseimat žanrit domineerivad selgelt selles andmestikus. Keskendume `afro dancehall`, `afropop` ja `nigerian pop` žanritele ning lisaks filtreerime andmestiku, et eemaldada kõik, mille populaarsusväärtus on 0 (mis tähendab, et neid ei klassifitseeritud populaarsuse järgi ja neid võib meie eesmärkidel pidada müra).
 
@@ -275,7 +266,7 @@ Pange tähele, et kui populaarseim žanr on kirjeldatud kui 'Puudub', tähendab 
     sns.heatmap(corrmat, vmax=.8, square=True)
     ```
 
-    ![korrelatsioonid](../../../../translated_images/correlation.a9356bb798f5eea51f47185968e1ebac5c078c92fce9931e28ccf0d7fab71c2b.et.png)
+    ![korrelatsioonid](../../../../translated_images/et/correlation.a9356bb798f5eea5.webp)
 
     Ainus tugev korrelatsioon on `energy` ja `loudness` vahel, mis pole üllatav, arvestades, et valju muusika on tavaliselt üsna energiline. Muud korrelatsioonid on suhteliselt nõrgad. Huvitav on näha, mida klasterdamise algoritm nende andmetega teha suudab.
 
@@ -307,7 +298,7 @@ Kas need kolm žanrit erinevad oluliselt tantsitavuse tajumises, lähtudes nende
 
     Üldiselt on kolm žanrit populaarsuse ja tantsitavuse osas lahtiselt joondatud. Klasterdamise määramine selles lahtiselt joondatud andmetes on väljakutse:
 
-    ![jaotus](../../../../translated_images/distribution.9be11df42356ca958dc8e06e87865e09d77cab78f94fe4fea8a1e6796c64dc4b.et.png)
+    ![jaotus](../../../../translated_images/et/distribution.9be11df42356ca95.webp)
 
 1. Looge hajuvusdiagramm:
 
@@ -319,7 +310,7 @@ Kas need kolm žanrit erinevad oluliselt tantsitavuse tajumises, lähtudes nende
 
     Sama telgede hajuvusdiagramm näitab sarnast lähenemismustrit
 
-    ![Facetgrid](../../../../translated_images/facetgrid.9b2e65ce707eba1f983b7cdfed5d952e60f385947afa3011df6e3cc7d200eb5b.et.png)
+    ![Facetgrid](../../../../translated_images/et/facetgrid.9b2e65ce707eba1f.webp)
 
 Üldiselt saate klasterdamiseks kasutada hajuvusdiagramme, et näidata andmeklastrite jaotust, seega on selle visualiseerimise tüübi valdamine väga kasulik. Järgmises õppetunnis võtame need filtreeritud andmed ja kasutame k-means klasterdamist, et avastada selles andmestikus rühmi, mis kattuvad huvitavatel viisidel.
 

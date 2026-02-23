@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-11-18T18:26:10+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "pcm"
-}
--->
 # Techniques of Machine Learning
 
 Di process wey dem dey use build, use, and maintain machine learning models and di data wey dem dey use no be di same as oda development workflows. For dis lesson, we go break di process down, and show di main techniques wey you need sabi. You go:
@@ -97,7 +88,7 @@ For machine learning, model fitting mean how accurate di model function dey as e
 
 🎓 **Underfitting** and **overfitting** na common problems wey dey reduce di quality of di model, as di model fit no fit well or e fit too fit. Dis one dey make di model predictions either too close or too far from di training data. Overfit model dey predict training data too well because e don sabi di details and noise of di data too much. Underfit model no dey accurate because e no fit analyze di training data or di data wey e never see well.
 
-![overfitting model](../../../../translated_images/overfitting.1c132d92bfd93cb63240baf63ebdf82c30e30a0a44e1ad49861b82ff600c2b5c.pcm.png)
+![overfitting model](../../../../translated_images/pcm/overfitting.1c132d92bfd93cb6.webp)
 > Infographic by [Jen Looper](https://twitter.com/jenlooper)
 
 ## Parameter tuning

@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-12-19T13:40:51+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "ml"
-}
--->
 # ഉത്തരവാദിത്വമുള്ള AI ഉപയോഗിച്ച് മെഷീൻ ലേണിംഗ് പരിഹാരങ്ങൾ നിർമ്മിക്കൽ
  
-![Summary of responsible AI in Machine Learning in a sketchnote](../../../../translated_images/ml-fairness.ef296ebec6afc98a44566d7b6c1ed18dc2bf1115c13ec679bb626028e852fa1d.ml.png)
+![Summary of responsible AI in Machine Learning in a sketchnote](../../../../translated_images/ml/ml-fairness.ef296ebec6afc98a.webp)
 > സ്കെച്ച്നോട്ട്: [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
 ## [പ്രീ-ലെക്ചർ ക്വിസ്](https://ff-quizzes.netlify.app/en/ml/)
@@ -51,10 +42,10 @@ AI സിസ്റ്റങ്ങൾ എല്ലാവരോടും നീത
 - **അധികം അല്ലെങ്കിൽ കുറവ് പ്രതിനിധാനം**: ഒരു പ്രത്യേക വിഭാഗം ഒരു തൊഴിൽ മേഖലയിൽ കാണപ്പെടാത്തത്, അതുപോലെ സേവനങ്ങൾ അതിനെ പ്രോത്സാഹിപ്പിക്കുന്നത് ഹാനികരമാണ്.
 - **സ്റ്റീരിയോടൈപ്പിംഗ്**: ഒരു വിഭാഗത്തെ മുൻകൂട്ടി നിശ്ചയിച്ച ഗുണങ്ങളുമായി ബന്ധിപ്പിക്കൽ. ഉദാഹരണത്തിന്, ഇംഗ്ലീഷ്-ടർക്കിഷ് ഭാഷാ പരിഭാഷാ സിസ്റ്റത്തിൽ ലിംഗത്തോട് ബന്ധപ്പെട്ട സ്റ്റീരിയോടൈപ്പിക്കൽ വാക്കുകൾ മൂലം തെറ്റുകൾ ഉണ്ടാകാം.
 
-![translation to Turkish](../../../../translated_images/gender-bias-translate-en-tr.f185fd8822c2d4372912f2b690f6aaddd306ffbb49d795ad8d12a4bf141e7af0.ml.png)
+![translation to Turkish](../../../../translated_images/ml/gender-bias-translate-en-tr.f185fd8822c2d437.webp)
 > ടർക്കിഷിലേക്ക് വിവർത്തനം
 
-![translation back to English](../../../../translated_images/gender-bias-translate-tr-en.4eee7e3cecb8c70e13a8abbc379209bc8032714169e585bdeac75af09b1752aa.ml.png)
+![translation back to English](../../../../translated_images/ml/gender-bias-translate-tr-en.4eee7e3cecb8c70e.webp)
 > ഇംഗ്ലീഷിലേക്ക് തിരിച്ചുവിവർത്തനം
 
 AI സിസ്റ്റങ്ങൾ രൂപകൽപ്പന ചെയ്യുമ്പോഴും പരീക്ഷിക്കുമ്പോഴും, AI നീതിപൂർവ്വം പ്രവർത്തിക്കുന്നതും ബയാസോ വിവേചനപരമായ തീരുമാനങ്ങൾ എടുക്കാതിരിക്കുകയുമാണ് ഉറപ്പാക്കേണ്ടത്, മനുഷ്യർക്കും ഇത് ചെയ്യാൻ അനുവദനീയമല്ല. AI-യിലും മെഷീൻ ലേണിംഗിലും നീതി ഉറപ്പാക്കൽ ഒരു സങ്കീർണ്ണമായ സാമൂഹ്യ സാങ്കേതിക വെല്ലുവിളിയാണ്.
@@ -97,7 +88,7 @@ AI സിസ്റ്റങ്ങൾ മനസ്സിലാക്കാവു�
 
 AI സിസ്റ്റങ്ങൾ രൂപകൽപ്പന ചെയ്ത് വിനിയോഗിക്കുന്നവർ അവരുടെ സിസ്റ്റങ്ങൾ എങ്ങനെ പ്രവർത്തിക്കുന്നു എന്നതിന് ഉത്തരവാദിത്വം വഹിക്കണം. മുഖം തിരിച്ചറിയൽ പോലുള്ള സങ്കീർണ്ണ സാങ്കേതികവിദ്യകളിൽ ഉത്തരവാദിത്വം പ്രത്യേകിച്ച് പ്രധാനമാണ്. അടുത്തിടെ, മുഖം തിരിച്ചറിയൽ സാങ്കേതികവിദ്യക്ക് വളരെയധികം ആവശ്യകതയുണ്ട്, പ്രത്യേകിച്ച് കാണാതായ കുട്ടികളെ കണ്ടെത്തുന്നതിൽ നിയമപ്രവർത്തക സംഘടനകൾക്ക് ഇത് സഹായകരമെന്ന് കാണുന്നു. എന്നാൽ, ഈ സാങ്കേതികവിദ്യകൾ സർക്കാർ അവരുടെ പൗരന്മാരുടെ അടിസ്ഥാന സ്വാതന്ത്ര്യങ്ങളെ അപകടത്തിലാക്കാൻ ഉപയോഗിക്കാമെന്ന ഭീഷണി ഉണ്ട്, ഉദാഹരണത്തിന്, ചില വ്യക്തികളുടെ നിരന്തര നിരീക്ഷണം സാധ്യമാക്കുക. അതിനാൽ, ഡാറ്റ സയന്റിസ്റ്റുകളും സംഘടനകളും അവരുടെ AI സിസ്റ്റം വ്യക്തികളെയും സമൂഹത്തെയും എങ്ങനെ ബാധിക്കുന്നു എന്നതിന് ഉത്തരവാദിത്വം വഹിക്കണം.
 
-[![Leading AI Researcher Warns of Mass Surveillance Through Facial Recognition](../../../../translated_images/accountability.41d8c0f4b85b6231301d97f17a450a805b7a07aaeb56b34015d71c757cad142e.ml.png)](https://www.youtube.com/watch?v=Wldt8P5V6D0 "Microsoft's Approach to Responsible AI")
+[![Leading AI Researcher Warns of Mass Surveillance Through Facial Recognition](../../../../translated_images/ml/accountability.41d8c0f4b85b6231.webp)](https://www.youtube.com/watch?v=Wldt8P5V6D0 "Microsoft's Approach to Responsible AI")
 
 > 🎥 മുകളിൽ കാണുന്ന ചിത്രത്തിൽ ക്ലിക്ക് ചെയ്യുക: മുഖം തിരിച്ചറിയൽ വഴി വ്യാപക നിരീക്ഷണത്തിന്റെ മുന്നറിയിപ്പുകൾ
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-12-19T15:38:21+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "te"
-}
--->
 # కార్ట్‌పోల్ స్కేటింగ్
 
 మునుపటి పాఠంలో మేము పరిష్కరించిన సమస్య ఒక ఆటపాట సమస్యగా అనిపించవచ్చు, నిజ జీవిత పరిస్థితులకు అన్వయించదగినది కాదు అనిపించవచ్చు. ఇది నిజం కాదు, ఎందుకంటే అనేక నిజ ప్రపంచ సమస్యలు కూడా ఈ పరిస్థితిని పంచుకుంటాయి - చెస్ లేదా గో ఆడటం సహా. అవి సమానమైనవి, ఎందుకంటే మాకు కూడా ఒక బోర్డు మరియు ఇచ్చిన నియమాలు మరియు ఒక **విభిన్న స్థితి** ఉంటుంది.
@@ -19,13 +10,13 @@ CO_OP_TRANSLATOR_METADATA:
 
 > **సమస్య**: పీటర్ నక్క నుండి తప్పించుకోవాలంటే, అతను వేగంగా కదలగలగాలి. పీటర్ ఎలా స్కేట్ చేయాలో, ముఖ్యంగా, సమతుల్యతను ఎలా ఉంచాలో Q-లెర్నింగ్ ఉపయోగించి నేర్చుకోవడం ఎలా అనేది మేము చూడబోతున్నాము.
 
-![The great escape!](../../../../translated_images/escape.18862db9930337e3fce23a9b6a76a06445f229dadea2268e12a6f0a1fde12115.te.png)
+![The great escape!](../../../../translated_images/te/escape.18862db9930337e3.webp)
 
 > పీటర్ మరియు అతని స్నేహితులు నక్క నుండి తప్పించుకోవడానికి సృజనాత్మకత చూపుతున్నారు! చిత్రం [Jen Looper](https://twitter.com/jenlooper) ద్వారా
 
 మేము సమతుల్యతను సాధించడానికి సులభీకరించిన వెర్షన్ అయిన **కార్ట్‌పోల్** సమస్యను ఉపయోగిస్తాము. కార్ట్‌పోల్ ప్రపంచంలో, మాకు ఎడమ లేదా కుడి వైపు కదలగల ఒక ఆడంబరమైన స్లైడర్ ఉంటుంది, మరియు లక్ష్యం స్లైడర్ పై ఒక నిలువెత్తు కాండాన్ని సమతుల్యం చేయడం.
 
-<img alt="a cartpole" src="../../../../translated_images/cartpole.b5609cc0494a14f75d121299495ae24fd8f1c30465e7b40961af94ecda2e1cd0.te.png" width="200"/>
+<img alt="a cartpole" src="../../../../translated_images/te/cartpole.b5609cc0494a14f7.webp" width="200"/>
 
 ## ముందస్తు అవగాహన
 
@@ -285,7 +276,7 @@ Q-లెర్నింగ్‌లో, ప్రతి స్థితిలో
 plt.plot(rewards)
 ```
 
-![raw  progress](../../../../translated_images/train_progress_raw.2adfdf2daea09c596fc786fa347a23e9aceffe1b463e2257d20a9505794823ec.te.png)
+![raw  progress](../../../../translated_images/te/train_progress_raw.2adfdf2daea09c59.webp)
 
 ఈ గ్రాఫ్ నుండి ఏమీ చెప్పలేము, ఎందుకంటే యాదృచ్ఛిక శిక్షణ ప్రక్రియ స్వభావం వల్ల శిక్షణ సెషన్ల పొడవు చాలా మారుతుంది. ఈ గ్రాఫ్‌కు అర్థం చేసుకోవడానికి, మేము అనేక ప్రయోగాలపై, ఉదా: 100, **రన్నింగ్ సగటు** లెక్కించవచ్చు. ఇది `np.convolve` ఉపయోగించి సులభంగా చేయవచ్చు: (కోడ్ బ్లాక్ 12)
 
@@ -296,7 +287,7 @@ def running_average(x,window):
 plt.plot(running_average(rewards,100))
 ```
 
-![training progress](../../../../translated_images/train_progress_runav.c71694a8fa9ab35935aff6f109e5ecdfdbdf1b0ae265da49479a81b5fae8f0aa.te.png)
+![training progress](../../../../translated_images/te/train_progress_runav.c71694a8fa9ab359.webp)
 
 ## హైపర్‌పారామీటర్ల మార్పులు
 

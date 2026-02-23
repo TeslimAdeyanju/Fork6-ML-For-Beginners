@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "69389392fa6346e0dfa30f664b7b6fec",
-  "translation_date": "2025-10-11T11:25:14+00:00",
-  "source_file": "1-Introduction/1-intro-to-ML/README.md",
-  "language_code": "et"
-}
--->
 # Sissejuhatus masinõppesse
 
 ## [Eelloengu viktoriin](https://ff-quizzes.netlify.app/en/ml/)
@@ -42,7 +33,7 @@ Termin 'masinõpe' on üks tänapäeva populaarsemaid ja sagedamini kasutatavaid
 ---
 ## Hüppekurv
 
-![ml hüppekurv](../../../../translated_images/hype.07183d711a17aafe70915909a0e45aa286ede136ee9424d418026ab00fec344c.et.png)
+![ml hüppekurv](../../../../translated_images/et/hype.07183d711a17aafe.webp)
 
 > Google Trends näitab termini 'masinõpe' hiljutist hüppekurvi
 
@@ -69,7 +60,7 @@ Kuigi termineid võib segamini ajada, on masinõpe (ML) tehisintellekti oluline 
 ---
 ## AI, ML, süvaõpe
 
-![AI, ML, süvaõpe, andmeteadus](../../../../translated_images/ai-ml-ds.537ea441b124ebf69c144a52c0eb13a7af63c4355c2f92f440979380a2fb08b8.et.png)
+![AI, ML, süvaõpe, andmeteadus](../../../../translated_images/et/ai-ml-ds.537ea441b124ebf6.webp)
 
 > Diagramm, mis näitab AI, ML-i, süvaõppe ja andmeteaduse vahelisi seoseid. Infograafik autorilt [Jen Looper](https://twitter.com/jenlooper), inspireeritud [sellest graafikust](https://softwareengineering.stackexchange.com/questions/366996/distinction-between-ai-ml-neural-networks-deep-learning-and-data-mining)
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-12-19T14:15:39+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "te"
-}
--->
 # అనువాదం మరియు భావ విశ్లేషణ ML తో
 
 మునుపటి పాఠాలలో మీరు `TextBlob` ఉపయోగించి ఒక ప్రాథమిక బాట్‌ను ఎలా నిర్మించాలో నేర్చుకున్నారు, ఇది MLని వెనుకనుంచి చేర్చి ప్రాథమిక NLP పనులను, ఉదాహరణకు నామవాచక పదబంధాల వెలికితీయడం వంటి పనులను చేస్తుంది. కంప్యూటేషనల్ లింగ్విస్టిక్స్‌లో మరో ముఖ్యమైన సవాలు ఒక వాక్యాన్ని ఒక మాట్లాడే లేదా రాసే భాష నుండి మరొక భాషకు ఖచ్చితంగా _అనువదించడం_.
@@ -56,7 +47,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ఉదాహరణకు, ఇంగ్లీష్ పదబంధం `I have no money` ను ఫ్రెంచ్‌కు నేరుగా అనువదిస్తే, అది `Je n'ai pas de monnaie` అవుతుంది. "Monnaie" అనేది ఒక క్లిష్టమైన ఫ్రెంచ్ 'తప్పు సారూప్యం' (false cognate), ఎందుకంటే 'money' మరియు 'monnaie' సమానార్థకాలు కావు. మానవుడు చేసే మంచి అనువాదం `Je n'ai pas d'argent` అవుతుంది, ఎందుకంటే ఇది మీరు డబ్బు లేనట్టుగా అర్థం చెప్పడంలో మెరుగ్గా ఉంటుంది (మరియు 'monnaie' అర్థం 'చిన్న నాణేలు').
 
-![monnaie](../../../../translated_images/monnaie.606c5fa8369d5c3b3031ef0713e2069485c87985dd475cd9056bdf4c76c1f4b8.te.png)
+![monnaie](../../../../translated_images/te/monnaie.606c5fa8369d5c3b.webp)
 
 > చిత్రం [Jen Looper](https://twitter.com/jenlooper) ద్వారా
 

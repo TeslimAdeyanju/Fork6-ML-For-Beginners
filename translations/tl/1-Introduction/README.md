@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-08-29T13:35:47+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "tl"
-}
--->
 # Panimula sa machine learning
 
 Sa seksyong ito ng kurikulum, ipapakilala sa iyo ang mga pangunahing konsepto na bumubuo sa larangan ng machine learning, kung ano ito, at matutunan ang tungkol sa kasaysayan nito at ang mga teknik na ginagamit ng mga mananaliksik upang magtrabaho dito. Tuklasin natin ang bagong mundo ng ML nang magkasama!
 
-![globe](../../../translated_images/globe.59f26379ceb40428672b4d9a568044618a2bf6292ecd53a5c481b90e3fa805eb.tl.jpg)
+![globe](../../../translated_images/tl/globe.59f26379ceb40428.webp)
 > Larawan ni <a href="https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bill Oxford</a> sa <a href="https://unsplash.com/s/photos/globe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ### Mga Aralin

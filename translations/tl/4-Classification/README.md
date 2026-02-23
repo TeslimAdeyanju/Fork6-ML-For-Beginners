@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-08-29T13:51:56+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "tl"
-}
--->
 # Pagsisimula sa klasipikasyon
 
 ## Paksang Rehiyonal: Masasarap na Lutuing Asyano at Indian 🍜
 
 Sa Asya at India, ang mga tradisyon sa pagkain ay napaka-diverse at napakasarap! Tingnan natin ang datos tungkol sa mga lutuing rehiyonal upang maunawaan ang kanilang mga sangkap.
 
-![Nagbebenta ng pagkaing Thai](../../../translated_images/thai-food.c47a7a7f9f05c21892a1f9dc7bf30669e6d18dfda420c5c7ebb4153f6a304edd.tl.jpg)
+![Nagbebenta ng pagkaing Thai](../../../translated_images/tl/thai-food.c47a7a7f9f05c218.webp)
 > Larawan ni <a href="https://unsplash.com/@changlisheng?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lisheng Chang</a> sa <a href="https://unsplash.com/s/photos/asian-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Ano ang iyong matututuhan

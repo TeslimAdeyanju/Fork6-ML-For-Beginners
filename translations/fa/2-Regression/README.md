@@ -1,18 +1,9 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-09-03T22:15:39+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "fa"
-}
--->
 # مدل‌های رگرسیون برای یادگیری ماشین
 ## موضوع منطقه‌ای: مدل‌های رگرسیون برای قیمت کدو تنبل در آمریکای شمالی 🎃
 
 در آمریکای شمالی، کدو تنبل‌ها اغلب برای هالووین به شکل چهره‌های ترسناک تراشیده می‌شوند. بیایید درباره این سبزیجات جذاب بیشتر بدانیم!
 
-![jack-o-lanterns](../../../translated_images/jack-o-lanterns.181c661a9212457d7756f37219f660f1358af27554d856e5a991f16b4e15337c.fa.jpg)
+![jack-o-lanterns](../../../translated_images/fa/jack-o-lanterns.181c661a9212457d.webp)
 > عکس از <a href="https://unsplash.com/@teutschmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Beth Teutschmann</a> در <a href="https://unsplash.com/s/photos/jack-o-lanterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## آنچه خواهید آموخت

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-10-11T11:38:46+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "et"
-}
--->
 # Tõlkimine ja meeleolu analüüs masinõppe abil
 
 Eelnevates tundides õppisite, kuidas luua lihtsat robotit, kasutades `TextBlob`-i, raamatukogu, mis rakendab masinõpet kulisside taga, et täita põhilisi loomuliku keele töötlemise ülesandeid, nagu nimisõnafraaside tuvastamine. Üks oluline väljakutse arvutilingvistikas on täpne _tõlkimine_ ühest kõneldavast või kirjutatud keelest teise.
@@ -56,7 +47,7 @@ Näiteks võtame *Uhkus ja eelarvamus*, tuntud ingliskeelse romaani, mille kirju
 
 Näiteks kui ingliskeelne fraas `I have no money` tõlgitakse sõnasõnaliselt prantsuse keelde, võib see muutuda `Je n'ai pas de monnaie`. "Monnaie" on keeruline prantsuse 'vale sõna', kuna 'money' ja 'monnaie' ei ole sünonüümid. Parem tõlge, mille inimene võiks teha, oleks `Je n'ai pas d'argent`, kuna see edastab paremini tähendust, et teil pole raha (mitte 'peenraha', mis on 'monnaie' tähendus).
 
-![monnaie](../../../../translated_images/monnaie.606c5fa8369d5c3b3031ef0713e2069485c87985dd475cd9056bdf4c76c1f4b8.et.png)
+![monnaie](../../../../translated_images/et/monnaie.606c5fa8369d5c3b.webp)
 
 > Pilt autorilt [Jen Looper](https://twitter.com/jenlooper)
 

@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-11-18T19:02:46+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "pcm"
-}
--->
 # Build Web App to Use Your ML Model
 
 For dis part of di curriculum, dem go show you one practical ML topic: how you go fit save your Scikit-learn model as file wey you fit use to make predictions inside web application. Once you don save di model, you go learn how to use am for web app wey dem build with Flask. First, you go create one model using some data wey dey about UFO sightings! After dat, you go build one web app wey go allow you put di number of seconds, latitude, and longitude value to predict which country report say dem see UFO.
 
-![UFO Parking](../../../translated_images/ufo.9e787f5161da9d4d1dafc537e1da09be8210f2ee996cb638aa5cee1d92867a04.pcm.jpg)
+![UFO Parking](../../../translated_images/pcm/ufo.9e787f5161da9d4d.webp)
 
 Photo by <a href="https://unsplash.com/@mdherren?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Herren</a> on <a href="https://unsplash.com/s/photos/ufo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 

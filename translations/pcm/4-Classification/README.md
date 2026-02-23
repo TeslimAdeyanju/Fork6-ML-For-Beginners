@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-11-18T18:48:59+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "pcm"
-}
--->
 # How to start wit classification
 
 ## Regional topic: Sweet Asian and Indian Food 🍜
 
 For Asia and India, food tradition dem plenty well well, and dem sweet no be small! Make we check data about food for dis region to sabi di kain ingredients wey dem dey use.
 
-![Thai food seller](../../../translated_images/thai-food.c47a7a7f9f05c21892a1f9dc7bf30669e6d18dfda420c5c7ebb4153f6a304edd.pcm.jpg)
+![Thai food seller](../../../translated_images/pcm/thai-food.c47a7a7f9f05c218.webp)
 > Foto by <a href="https://unsplash.com/@changlisheng?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lisheng Chang</a> for <a href="https://unsplash.com/s/photos/asian-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Wetin you go learn

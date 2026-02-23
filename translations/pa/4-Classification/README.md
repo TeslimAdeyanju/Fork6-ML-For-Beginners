@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-08-29T17:48:57+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "pa"
-}
--->
 # ਕਲਾਸੀਫਿਕੇਸ਼ਨ ਨਾਲ ਸ਼ੁਰੂਆਤ
 
 ## ਖੇਤਰੀ ਵਿਸ਼ਾ: ਸੁਆਦਿਸ਼ਟ ਏਸ਼ੀਆਈ ਅਤੇ ਭਾਰਤੀ ਖਾਣੇ 🍜
 
 ਏਸ਼ੀਆ ਅਤੇ ਭਾਰਤ ਵਿੱਚ, ਖਾਣੇ ਦੀਆਂ ਰਿਵਾਇਤਾਂ ਬਹੁਤ ਹੀ ਵੱਖ-ਵੱਖ ਅਤੇ ਸੁਆਦਿਸ਼ਟ ਹੁੰਦੀਆਂ ਹਨ! ਆਓ ਖੇਤਰੀ ਖਾਣਿਆਂ ਦੇ ਡਾਟਾ ਨੂੰ ਦੇਖੀਏ ਤਾਂ ਜੋ ਉਨ੍ਹਾਂ ਦੇ ਸਮੱਗਰੀ ਨੂੰ ਸਮਝਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਜਾ ਸਕੇ।
 
-![ਥਾਈ ਖਾਣੇ ਵੇਚਣ ਵਾਲਾ](../../../translated_images/thai-food.c47a7a7f9f05c21892a1f9dc7bf30669e6d18dfda420c5c7ebb4153f6a304edd.pa.jpg)
+![ਥਾਈ ਖਾਣੇ ਵੇਚਣ ਵਾਲਾ](../../../translated_images/pa/thai-food.c47a7a7f9f05c218.webp)
 > ਫੋਟੋ <a href="https://unsplash.com/@changlisheng?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ਲਿਸ਼ੇਂਗ ਚੈਂਗ</a> ਦੁਆਰਾ <a href="https://unsplash.com/s/photos/asian-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ਅਨਸਪਲੈਸ਼</a> 'ਤੇ
   
 ## ਤੁਸੀਂ ਕੀ ਸਿੱਖੋਗੇ

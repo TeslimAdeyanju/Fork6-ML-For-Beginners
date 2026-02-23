@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-03T22:55:31+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "fr"
-}
--->
 # Modèles de clustering pour l'apprentissage automatique
 
 Le clustering est une tâche d'apprentissage automatique qui cherche à identifier des objets similaires et à les regrouper dans des groupes appelés clusters. Ce qui distingue le clustering des autres approches en apprentissage automatique, c'est que tout se fait automatiquement. En fait, on peut dire que c'est l'opposé de l'apprentissage supervisé.
@@ -15,7 +6,7 @@ Le clustering est une tâche d'apprentissage automatique qui cherche à identifi
 
 Le public diversifié du Nigeria a des goûts musicaux variés. En utilisant des données extraites de Spotify (inspiré par [cet article](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421)), examinons certaines musiques populaires au Nigeria. Ce jeu de données inclut des informations sur le score de 'danseabilité', l'acoustique, le volume sonore, le caractère 'parlé', la popularité et l'énergie de diverses chansons. Il sera intéressant de découvrir des motifs dans ces données !
 
-![Une platine vinyle](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.fr.jpg)
+![Une platine vinyle](../../../translated_images/fr/turntable.f2b86b13c53302dc.webp)
 
 > Photo par <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marcela Laskoski</a> sur <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

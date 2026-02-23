@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-10-11T12:05:13+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "ta"
-}
--->
 # கிளஸ்டரிங் அறிமுகம்
 
 கிளஸ்டரிங் என்பது [அன்சூப்பர்வைஸ்டு லெர்னிங்](https://wikipedia.org/wiki/Unsupervised_learning) வகையைச் சேர்ந்தது, இது ஒரு தரவுத்தொகுப்பு லேபிள் செய்யப்படாதது அல்லது அதன் உள்ளீடுகள் முன்கூட்டியே வரையறுக்கப்பட்ட வெளியீடுகளுடன் பொருந்தவில்லை என்று கருதுகிறது. இது பல்வேறு الگாரிதங்களைப் பயன்படுத்தி லேபிள் செய்யப்படாத தரவுகளைத் துலக்கி, அதில் கண்டறியப்படும் முறைப்படி குழுக்களை வழங்குகிறது.
@@ -70,7 +61,7 @@ CO_OP_TRANSLATOR_METADATA:
 >
 >'Flat' இந்த சூழலில் Euclidean geometry (இதில் சில 'plane' geometry எனக் கற்பிக்கப்படுகிறது) மற்றும் non-flat non-Euclidean geometry-யை குறிக்கிறது. கணிதவியல் மற்றும் மெஷின் லெர்னிங் ஆகிய இரு துறைகள் கணிதவியல் அடிப்படையில் உள்ளதால், கிளஸ்டர்களில் புள்ளிகளுக்கிடையிலான தூரத்தை அளவிட ஒரு பொதுவான வழி இருக்க வேண்டும், மேலும் தரவின் தன்மையைப் பொறுத்து அதை 'flat' அல்லது 'non-flat' முறையில் செய்யலாம். [Euclidean distances](https://wikipedia.org/wiki/Euclidean_distance) என்பது இரண்டு புள்ளிகளுக்கிடையிலான கோடு பகுதியின் நீளமாக அளவிடப்படுகிறது. [Non-Euclidean distances](https://wikipedia.org/wiki/Non-Euclidean_geometry) ஒரு வளைவின் sepanjang அளவிடப்படுகிறது. உங்கள் தரவுகள், காட்சிப்படுத்தப்பட்டவை, ஒரு தளத்தில் இல்லை என்று தோன்றினால், அதைச் சமாளிக்க ஒரு சிறப்பு الگாரிதத்தைப் பயன்படுத்த வேண்டும்.
 >
-![Flat vs Nonflat Geometry Infographic](../../../../translated_images/flat-nonflat.d1c8c6e2a96110c1d57fa0b72913f6aab3c245478524d25baf7f4a18efcde224.ta.png)
+![Flat vs Nonflat Geometry Infographic](../../../../translated_images/ta/flat-nonflat.d1c8c6e2a96110c1.webp)
 > [Dasani Madipalli](https://twitter.com/dasani_decoded) உருவாக்கிய தகவல்படம்
 > 
 > 🎓 ['Distances'](https://web.stanford.edu/class/cs345a/slides/12-clustering.pdf)
@@ -93,12 +84,12 @@ CO_OP_TRANSLATOR_METADATA:
 
 - **Hierarchical clustering**. ஒரு பொருள் அருகிலுள்ள பொருளுக்கு அதன் அருகாமையை அடிப்படையாகக் கொண்டு வகைப்படுத்தப்பட்டால், கிளஸ்டர்கள் அதன் உறுப்பினர்களின் தூரத்தை அடிப்படையாகக் கொண்டு உருவாக்கப்படுகின்றன. Scikit-learn-இன் agglomerative clustering hierarchical ஆகும்.
 
-   ![Hierarchical clustering Infographic](../../../../translated_images/hierarchical.bf59403aa43c8c47493bfdf1cc25230f26e45f4e38a3d62e8769cd324129ac15.ta.png)
+   ![Hierarchical clustering Infographic](../../../../translated_images/ta/hierarchical.bf59403aa43c8c47.webp)
    > [Dasani Madipalli](https://twitter.com/dasani_decoded) உருவாக்கிய தகவல்படம்
 
 - **Centroid clustering**. இந்த பிரபல الگாரிதம் 'k', அல்லது உருவாக்க வேண்டிய கிளஸ்டர்களின் எண்ணிக்கையைத் தேர்ந்தெடுக்க வேண்டும், அதன் பிறகு الگாரிதம் ஒரு கிளஸ்டரின் மைய புள்ளியைத் தீர்மானித்து அந்த புள்ளியைச் சுற்றி தரவுகளைச் சேர்க்கிறது. [K-means clustering](https://wikipedia.org/wiki/K-means_clustering) என்பது centroid clustering-இன் பிரபலமான பதிப்பு. மையம் அருகிலுள்ள சராசரியால் தீர்மானிக்கப்படுகிறது, எனவே பெயர். கிளஸ்டரிலிருந்து சதுர தூரம் குறைக்கப்படுகிறது.
 
-   ![Centroid clustering Infographic](../../../../translated_images/centroid.097fde836cf6c9187d0b2033e9f94441829f9d86f4f0b1604dd4b3d1931aee34.ta.png)
+   ![Centroid clustering Infographic](../../../../translated_images/ta/centroid.097fde836cf6c918.webp)
    > [Dasani Madipalli](https://twitter.com/dasani_decoded) உருவாக்கிய தகவல்படம்
 
 - **Distribution-based clustering**. புள்ளி ஒரு கிளஸ்டருக்கு சொந்தமான சாத்தியக்கூறுகளைத் தீர்மானிக்க மற்றும் அதற்கேற்ப ஒதுக்குவதில் மையமாக இருக்கும் புள்ளிவிவர மாடலிங் அடிப்படையில் உள்ளது. Gaussian mixture முறைகள் இந்த வகையைச் சேர்ந்தவை.
@@ -234,7 +225,7 @@ CO_OP_TRANSLATOR_METADATA:
     plt.title('Top genres',color = 'blue')
     ```
 
-    ![most popular](../../../../translated_images/popular.9c48d84b3386705f98bf44e26e9655bee9eb7c849d73be65195e37895bfedb5d.ta.png)
+    ![most popular](../../../../translated_images/ta/popular.9c48d84b3386705f.webp)
 
 ✅ மேலும் அதிக மதிப்புகளைப் பார்க்க விரும்பினால், `[:5]` ஐ பெரிய மதிப்பாக மாற்றவும் அல்லது அனைத்தையும் பார்க்க அதை நீக்கவும்.
 
@@ -253,7 +244,7 @@ CO_OP_TRANSLATOR_METADATA:
 
     இப்போது இசை வகைகளை மீண்டும் சரிபார்க்கவும்:
 
-    ![most popular](../../../../translated_images/all-genres.1d56ef06cefbfcd61183023834ed3cb891a5ee638a3ba5c924b3151bf80208d7.ta.png)
+    ![most popular](../../../../translated_images/ta/all-genres.1d56ef06cefbfcd6.webp)
 
 1. இந்த தரவுத்தொகுப்பில் மூன்று முக்கியமான இசை வகைகள் அதிகளவில் உள்ளது. `afro dancehall`, `afropop`, மற்றும் `nigerian pop` ஆகியவற்றில் கவனம் செலுத்துவோம், மேலும் 0 `popularity` மதிப்புடன் உள்ளவற்றை நீக்குவோம் (அதாவது தரவுத்தொகுப்பில் பிரபலத்துடன் வகைப்படுத்தப்படவில்லை, எனவே நமது நோக்கங்களுக்கு இது சத்தமாகக் கருதலாம்):
 
@@ -275,7 +266,7 @@ CO_OP_TRANSLATOR_METADATA:
     sns.heatmap(corrmat, vmax=.8, square=True)
     ```
 
-    ![correlations](../../../../translated_images/correlation.a9356bb798f5eea51f47185968e1ebac5c078c92fce9931e28ccf0d7fab71c2b.ta.png)
+    ![correlations](../../../../translated_images/ta/correlation.a9356bb798f5eea5.webp)
 
     `energy` மற்றும் `loudness` இடையே மட்டுமே வலுவான தொடர்பு உள்ளது, இது ஆச்சரியமாக இல்லை, ஏனெனில் சத்தமான இசை பொதுவாக மிகவும் ஆற்றல்மிக்கதாக இருக்கும். இல்லையெனில், தொடர்புகள் ஒப்பீட்டளவில் பலவீனமாக உள்ளன. இந்த தரவிலிருந்து க்ளஸ்டரிங் அல்காரிதம் என்ன கண்டறிய முடியும் என்பதைப் பார்க்க ஆர்வமாக உள்ளது.
 
@@ -307,7 +298,7 @@ CO_OP_TRANSLATOR_METADATA:
 
     பொதுவாக, மூன்று இசை வகைகள் `popularity` மற்றும் `danceability` அடிப்படையில் சற்றே ஒருமித்தமாக இணைகின்றன. இந்த சற்றே இணைந்த தரவுகளில் க்ளஸ்டர்களைத் தீர்மானிப்பது ஒரு சவாலாக இருக்கும்:
 
-    ![distribution](../../../../translated_images/distribution.9be11df42356ca958dc8e06e87865e09d77cab78f94fe4fea8a1e6796c64dc4b.ta.png)
+    ![distribution](../../../../translated_images/ta/distribution.9be11df42356ca95.webp)
 
 1. ஒரு scatter plot உருவாக்கவும்:
 
@@ -319,7 +310,7 @@ CO_OP_TRANSLATOR_METADATA:
 
     அதே அச்சுகளின் scatterplot ஒரே மாதிரியான ஒருமித்த முறைமையை காட்டுகிறது
 
-    ![Facetgrid](../../../../translated_images/facetgrid.9b2e65ce707eba1f983b7cdfed5d952e60f385947afa3011df6e3cc7d200eb5b.ta.png)
+    ![Facetgrid](../../../../translated_images/ta/facetgrid.9b2e65ce707eba1f.webp)
 
 பொதுவாக, க்ளஸ்டரிங் செய்ய, தரவுக் க்ளஸ்டர்களைக் காட்ட scatterplots பயன்படுத்தலாம், எனவே இந்த வகை காட்சியமைப்பை கையாள்வதில் நிபுணத்துவம் பெறுவது மிகவும் பயனுள்ளதாக இருக்கும். அடுத்த பாடத்தில், இந்த வடிகட்டப்பட்ட தரவுகளை எடுத்து, k-means clustering பயன்படுத்தி, இந்த தரவுகளில் ஒருமித்தமான முறையில் ஒட்டுமொத்தமாக உள்ள interesting குரூப்புகளை கண்டறிவோம்.
 

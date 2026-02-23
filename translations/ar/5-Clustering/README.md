@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-08-29T13:18:28+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "ar"
-}
--->
 # نماذج التجميع في تعلم الآلة
 
 التجميع هو مهمة في تعلم الآلة تهدف إلى العثور على الأشياء التي تشبه بعضها البعض وتجميعها في مجموعات تُسمى "العناقيد". ما يميز التجميع عن الأساليب الأخرى في تعلم الآلة هو أن الأمور تحدث تلقائيًا، في الواقع، يمكن القول إنه عكس التعلم الموجّه.
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 الجمهور النيجيري المتنوع لديه أذواق موسيقية متنوعة. باستخدام البيانات المستخرجة من Spotify (مستوحاة من [هذه المقالة](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421))، دعونا نلقي نظرة على بعض الموسيقى الشعبية في نيجيريا. تتضمن هذه المجموعة من البيانات معلومات حول درجات "القابلية للرقص"، "الصوتية"، مستوى الصوت، "الكلامية"، الشعبية والطاقة للأغاني المختلفة. سيكون من المثير اكتشاف الأنماط في هذه البيانات!
 
-![جهاز تشغيل الأسطوانات](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.ar.jpg)
+![جهاز تشغيل الأسطوانات](../../../translated_images/ar/turntable.f2b86b13c53302dc.webp)
 
 > صورة بواسطة <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marcela Laskoski</a> على <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

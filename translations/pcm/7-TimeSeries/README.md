@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-11-18T18:56:29+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "pcm"
-}
--->
 # Introduction to time series forecasting
 
 Wetin be time series forecasting? Na di way wey dem dey predict wetin go happen for future by check di trend wey don happen for past.
@@ -17,7 +8,7 @@ For dis two lessons, you go sabi wetin time series forecasting be, one area for 
 
 Di regional focus na di electricity usage for di world, one kind dataset wey dey interesting to take learn how to forecast di power wey people go use for future based on di pattern of di load wey dem don use before. You go see as dis kind forecasting fit dey very useful for business work.
 
-![electric grid](../../../translated_images/electric-grid.0c21d5214db09ffae93c06a87ca2abbb9ba7475ef815129c5b423d7f9a7cf136.pcm.jpg)
+![electric grid](../../../translated_images/pcm/electric-grid.0c21d5214db09ffa.webp)
 
 Photo by [Peddi Sai hrithik](https://unsplash.com/@shutter_log?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) of electrical towers on a road in Rajasthan on [Unsplash](https://unsplash.com/s/photos/electric-india?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

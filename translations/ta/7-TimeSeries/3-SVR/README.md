@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-10-11T12:02:08+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "ta"
-}
--->
 # ஆதரவாளர் வெக்டர் ரெக்ரெசர் மூலம் நேரம் வரிசை முன்னறிவிப்பு
 
 முந்தைய பாடத்தில், ARIMA மாதிரியைப் பயன்படுத்தி நேரம் வரிசை கணிப்புகளை எப்படி செய்ய வேண்டும் என்பதை நீங்கள் கற்றுக்கொண்டீர்கள். இப்போது, தொடர்ச்சியான தரவுகளை முன்னறிவிக்க பயன்படுத்தப்படும் ஆதரவாளர் வெக்டர் ரெக்ரெசர் மாதிரியைப் பற்றி பார்க்கப் போகிறீர்கள்.
@@ -71,7 +62,7 @@ CO_OP_TRANSLATOR_METADATA:
    plt.show()
    ```
 
-   ![முழு தரவு](../../../../translated_images/full-data.a82ec9957e580e976f651a4fc38f280b9229c6efdbe3cfe7c60abaa9486d2cbe.ta.png)
+   ![முழு தரவு](../../../../translated_images/ta/full-data.a82ec9957e580e97.webp)
 
    இப்போது, உங்கள் SVR மாதிரியை உருவாக்குவோம்.
 
@@ -97,7 +88,7 @@ CO_OP_TRANSLATOR_METADATA:
    plt.show()
    ```
 
-   ![பயிற்சி மற்றும் சோதனை தரவுகள்](../../../../translated_images/train-test.ead0cecbfc341921d4875eccf25fed5eefbb860cdbb69cabcc2276c49e4b33e5.ta.png)
+   ![பயிற்சி மற்றும் சோதனை தரவுகள்](../../../../translated_images/ta/train-test.ead0cecbfc341921.webp)
 
 ### பயிற்சிக்கான தரவுகளை தயாரிக்கவும்
 
@@ -273,7 +264,7 @@ plt.title("Training data prediction")
 plt.show()
 ```
 
-![பயிற்சி தரவுகளின் முன்னறிவிப்பு](../../../../translated_images/train-data-predict.3c4ef4e78553104ffdd53d47a4c06414007947ea328e9261ddf48d3eafdefbbf.ta.png)
+![பயிற்சி தரவுகளின் முன்னறிவிப்பு](../../../../translated_images/ta/train-data-predict.3c4ef4e78553104f.webp)
 
 பயிற்சி தரவுகளுக்கான MAPE அச்சிடவும்
 
@@ -296,7 +287,7 @@ plt.xlabel('Timestamp')
 plt.show()
 ```
 
-![சோதனை தரவுகளின் முன்னறிவிப்பு](../../../../translated_images/test-data-predict.8afc47ee7e52874f514ebdda4a798647e9ecf44a97cc927c535246fcf7a28aa9.ta.png)
+![சோதனை தரவுகளின் முன்னறிவிப்பு](../../../../translated_images/ta/test-data-predict.8afc47ee7e52874f.webp)
 
 சோதனை தரவுகளுக்கான MAPE அச்சிடவும்
 
@@ -352,7 +343,7 @@ plt.xlabel('Timestamp')
 plt.show()
 ```
 
-![முழு தரவுகளின் முன்னறிவிப்பு](../../../../translated_images/full-data-predict.4f0fed16a131c8f3bcc57a3060039dc7f2f714a05b07b68c513e0fe7fb3d8964.ta.png)
+![முழு தரவுகளின் முன்னறிவிப்பு](../../../../translated_images/ta/full-data-predict.4f0fed16a131c8f3.webp)
 
 ```python
 print('MAPE: ', mape(Y_pred, Y)*100, '%')

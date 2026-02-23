@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-12-19T13:07:18+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "kn"
-}
--->
 # ವರ್ಗೀಕರಣದೊಂದಿಗೆ ಪ್ರಾರಂಭಿಸುವುದು
 
 ## ಪ್ರಾದೇಶಿಕ ವಿಷಯ: ರುಚಿಕರ ಏಷ್ಯನ್ ಮತ್ತು ಭಾರತೀಯ ಆಹಾರಗಳು 🍜
 
 ಏಷ್ಯಾ ಮತ್ತು ಭಾರತದಲ್ಲಿ, ಆಹಾರ ಪರಂಪರೆಗಳು ಅತ್ಯಂತ ವೈವಿಧ್ಯಮಯವಾಗಿವೆ ಮತ್ತು ತುಂಬಾ ರುಚಿಕರವಾಗಿವೆ! ಅವರ ಪದಾರ್ಥಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಪ್ರಾದೇಶಿಕ ಆಹಾರಗಳ ಬಗ್ಗೆ ಡೇಟಾವನ್ನು ನೋಡೋಣ.
 
-![ಥಾಯ್ ಆಹಾರ ಮಾರಾಟಗಾರ](../../../translated_images/thai-food.c47a7a7f9f05c21892a1f9dc7bf30669e6d18dfda420c5c7ebb4153f6a304edd.kn.jpg)
+![ಥಾಯ್ ಆಹಾರ ಮಾರಾಟಗಾರ](../../../translated_images/kn/thai-food.c47a7a7f9f05c218.webp)
 > ಫೋಟೋ <a href="https://unsplash.com/@changlisheng?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ಲಿಶೆಂಗ್ ಚಾಂಗ್</a> ಅವರಿಂದ <a href="https://unsplash.com/s/photos/asian-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ಅನ್ಸ್ಪ್ಲ್ಯಾಶ್</a> ನಲ್ಲಿ
   
 ## ನೀವು ಏನು ಕಲಿಯುತ್ತೀರಿ

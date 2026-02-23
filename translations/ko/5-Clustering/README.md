@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-03T22:55:54+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "ko"
-}
--->
 # 머신 러닝을 위한 클러스터링 모델
 
 클러스터링은 서로 비슷한 객체를 찾아 클러스터라고 불리는 그룹으로 묶는 머신 러닝 작업입니다. 클러스터링이 머신 러닝의 다른 접근 방식과 다른 점은 모든 것이 자동으로 이루어진다는 점입니다. 사실, 이는 지도 학습(supervised learning)의 반대라고 할 수 있습니다.
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 나이지리아의 다양한 청중은 다양한 음악 취향을 가지고 있습니다. [이 기사](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421)에서 영감을 받아 Spotify에서 수집한 데이터를 사용하여 나이지리아에서 인기 있는 음악을 살펴보겠습니다. 이 데이터셋에는 여러 곡의 '댄스 가능성(danceability)' 점수, '어쿠스틱(acousticness)', 음량(loudness), '스피치니스(speechiness)', 인기(popularity), 에너지(energy)에 대한 데이터가 포함되어 있습니다. 이 데이터에서 패턴을 발견하는 것은 흥미로울 것입니다!
 
-![턴테이블](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.ko.jpg)
+![턴테이블](../../../translated_images/ko/turntable.f2b86b13c53302dc.webp)
 
 > 사진 제공: <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marcela Laskoski</a> on <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

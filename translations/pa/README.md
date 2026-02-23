@@ -1,173 +1,174 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c21bf667cfbd946f76fde049e31b07d0",
-  "translation_date": "2025-12-24T23:53:15+00:00",
-  "source_file": "README.md",
-  "language_code": "pa"
-}
--->
-[![GitHub ਲਾਇਸੈਂਸ](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE)
-[![GitHub ਯੋਗਦਾਨਕਾਰ](https://img.shields.io/github/contributors/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/)
-[![GitHub ਮੁੱਦੇ](https://img.shields.io/github/issues/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/issues/)
-[![GitHub ਪੂਲ-ਰਿਕਵੇਸਟ](https://img.shields.io/github/issues-pr/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/pulls/)
-[![PRs ਸਵਾਗਤ](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![Microsoft Foundry ਡਿਸਕੋਰਡ](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/ML-For-Beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/ML-For-Beginners/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/ML-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ML-For-Beginners/network/)
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ML-For-Beginners/stargazers/)
 
 ### 🌐 ਬਹੁ-ਭਾਸ਼ਾਈ ਸਮਰਥਨ
 
-#### GitHub Action ਰਾਹੀਂ ਸਮਰਥਿਤ (ਆਟੋਮੇਟਡ ਅਤੇ ਹਮੇਸ਼ਾ ਅਪ-ਟੂ-ਡੇਟ)
+#### GitHub ਐਕਸ਼ਨ ਰਾਹੀਂ ਸਮਰਥਿਤ (ਆਪੋ-ਆਪ ਅਪਡੇਟ ਅਤੇ ਹਮੇਸ਼ਾ ਅਪਡੇਟਦਾਰ)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[ਅਰਬੀ](../ar/README.md) | [ਬੰਗਾਲੀ](../bn/README.md) | [ਬੁਲਗੇਰੀਅਨ](../bg/README.md) | [ਬਰਮੀ (ਮਿਆਨਮਾਰ)](../my/README.md) | [ਚੀਨੀ (ਸਰਲ)](../zh/README.md) | [ਚੀਨੀ (ਪਰੰਪਰਾਗਤ, ਹਾਂਗਕਾਂਗ)](../hk/README.md) | [ਚੀਨੀ (ਪਰੰਪਰਾਗਤ, ਮਕਾਉ)](../mo/README.md) | [ਚੀਨੀ (ਪਰੰਪਰਾਗਤ, ਤਾਈਵਾਨ)](../tw/README.md) | [ਕਰੋਏਸ਼ੀਆਈ](../hr/README.md) | [ਚੈੱਕ](../cs/README.md) | [ਡੈਨਿਸ਼](../da/README.md) | [ਡੱਚ](../nl/README.md) | [ਐਸਟੋਨੀਆਈ](../et/README.md) | [ਫਿਨਲੈਂਡੀ](../fi/README.md) | [ਫਰਾਂਸੀਸੀ](../fr/README.md) | [ਜਰਮਨ](../de/README.md) | [ਗ੍ਰੀਕ](../el/README.md) | [ਹਿਬਰੂ](../he/README.md) | [ਹਿੰਦੀ](../hi/README.md) | [ਹੰਗੇਰੀਅਨ](../hu/README.md) | [ਇੰਡੋਨੇਸ਼ੀਆਈ](../id/README.md) | [ਇਤਾਲਵੀ](../it/README.md) | [ਜਪਾਨੀ](../ja/README.md) | [ਕੰਨੜ](../kn/README.md) | [ਕੋਰੀਆਈ](../ko/README.md) | [ਲਿਥੂਏਨੀਆਈ](../lt/README.md) | [ਮਲਯ](../ms/README.md) | [ਮਲਯਾਲਮ](../ml/README.md) | [ਮਰਾਠੀ](../mr/README.md) | [ਨੇਪਾਲੀ](../ne/README.md) | [ਨਾਈਜੀਰੀਆਈ ਪਿਡਜਿਨ](../pcm/README.md) | [ਨਾਰਵੇਜੀਅਨ](../no/README.md) | [ਫਾਰਸੀ (ਫਾਰਸੀ)](../fa/README.md) | [ਪੋਲਿਸ਼](../pl/README.md) | [ਪੁਰਤਗਾਲੀ (ਬ੍ਰਾਜ਼ੀਲ)](../br/README.md) | [ਪੁਰਤਗਾਲੀ (ਪੁਰਤਗਾਲ)](../pt/README.md) | [ਪੰਜਾਬੀ (ਗੁਰਮੁਖੀ)](./README.md) | [ਰੋਮਾਨੀਆਈ](../ro/README.md) | [ਰੂਸੀ](../ru/README.md) | [ਸੇਰਬੀਆਈ (ਸਿਰਿਲਿਕ)](../sr/README.md) | [ਸਲੋਵਾਕ](../sk/README.md) | [ਸਲੋਵੇਨੀਆਈ](../sl/README.md) | [ਸਪੇਨੀ](../es/README.md) | [ਸਵਾਹਿਲੀ](../sw/README.md) | [ਸਵੀਡਿਸ਼](../sv/README.md) | [ਟੈਗਾਲੋਗ (ਫਿਲੀਪੀਨੋ)](../tl/README.md) | [ਤਮਿਲ](../ta/README.md) | [ਤੇਲਗੂ](../te/README.md) | [ਥਾਈ](../th/README.md) | [ਤੁਰਕੀ](../tr/README.md) | [ਯੂਕਰੇਨੀਅਨ](../uk/README.md) | [ਉਰਦੂ](../ur/README.md) | [ਵੀਅਤਨਾਮੀ](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](./README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+
+> **ਕੀ ਤੁਹਾਨੂੰ ਲੋਕਲ ਡਾਊਨਲੋਡ ਕਰਨਾ ਪਸੰਦ ਹੈ?**
+
+> ਇਸ ਰਿਪੋਜ਼ਿਟਰੀ ਵਿੱਚ 50+ ਭਾਸ਼ਾ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਹਨ ਜੋ ਡਾਊਨਲੋਡ ਦਾ ਸਾਈਜ਼ ਬਹੁਤ ਵਧਾਉਂਦੇ ਹਨ। ਬਿਨਾਂ ਅਨੁਵਾਦਾਂ ਦੇ ਕਲੋਨ ਕਰਨ ਲਈ, ਸਪਾਰਸ ਚੈਕਆਉਟ ਦੀ ਵਰਤੋਂ ਕਰੋ:
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/microsoft/ML-For-Beginners.git
+> cd ML-For-Beginners
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> ਇਸ ਨਾਲ ਤੁਹਾਨੂੰ ਇਹ ਸਾਰੀ ਚੀਜ਼ਾਂ ਮਿਲਦੀਆਂ ਹਨ ਜੋ ਕੋਰਸ ਨੂੰ ਤੇਜ਼ ਅਤੇ ਪੂਰਾ ਕਰਨ ਲਈ ਲੋੜੀਦੀਆਂ ਹਨ।
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-#### ਸਾਡੇ ਕਮਿਊਨਿਟੀ ਵਿੱਚ ਸ਼ਾਮਿਲ ਹੋਵੋ
+#### ਸਾਡੇ ਸਮੁਦਾਇ ਵਿੱਚ ਸ਼ਾਮਿਲ ਹੋਵੋ
 
-[![Microsoft Foundry ਡਿਸਕੋਰਡ](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-ਅਸੀਂ ਇੱਕ Discord 'Learn with AI' ਸੀਰੀਜ਼ ਚਲਾ ਰਹੇ ਹਾਂ; ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਅਤੇ ਸਾਡੇ ਨਾਲ 18 - 30 ਸਤੰਬਰ, 2025 ਨੂੰ [Learn with AI Series](https://aka.ms/learnwithai/discord) 'ਤੇ ਸ਼ਾਮਿਲ ਹੋਵੋ। ਤੁਹਾਨੂੰ Data Science ਲਈ GitHub Copilot ਵਰਤਣ ਦੇ ਟਿੱਪਸ ਅਤੇ ਤਰੀਕੇ ਮਿਲਣਗੇ।
+ਸਾਡੇ ਕੋਲ ਇੱਕ Discord 'Learn with AI' ਸੀਰੀਜ਼ ਚੱਲ ਰਹੀ ਹੈ, ਹੋਰ ਜਾਣੋ ਅਤੇ ਸਾਨੂੰ [Learn with AI Series](https://aka.ms/learnwithai/discord) ’ਤੇ 18 - 30 ਸਤੰਬਰ, 2025 ਨੂੰ ਮਿਲੋ। ਤੁਹਾਨੂੰ GitHub Copilot ਨਾਲ ਡਾਟਾ ਸਾਇੰਸ ਲਈ ਸਲਾਹਾਂ ਅਤੇ ਟਿੱਪਣੀਆਂ ਮਿਲਣਗੀਆਂ।
 
-![Learn with AI ਸੀਰੀਜ਼](../../translated_images/3.9b58fd8d6c373c20c588c5070c4948a826ab074426c28ceb5889641294373dfc.pa.png)
+![Learn with AI series](../../translated_images/pa/3.9b58fd8d6c373c20.webp)
 
-# ਸ਼ੁਰੂਆਤੀਆਂ ਲਈ ਮਸ਼ੀਨ ਲਰਨਿੰਗ - ਇੱਕ ਕੋਰਿਕੁਲਮ
+# ਸ਼ੁਰੂਆਤੀਆਂ ਲਈ ਮਸ਼ੀਨ ਲਰਨਿੰਗ - ਇੱਕ ਕੋਰਸ
 
-> 🌍 ਦੁਨੀਆ ਭਰ ਦੀਆਂ ਸੰਸਕ੍ਰਿਤੀਆਂ ਰਾਹੀਂ ਅਸੀਂ ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਦੀ ਖੋਜ ਕਰਦੇ ਹੋਏ ਦੁਨੀਆ ਦੀ ਯਾਤਰਾ ਕਰੋ 🌍
+> 🌍 ਸੰਸਾਰ ਦੇ ਵੱਖ-ਵੱਖ ਸੱਭਿਆਚਾਰਾਂ ਰਾਹੀਂ ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਦੀ ਖੋਜ ਕਰਦੇ ਹੋਏ ਦੁਨੀਆ ਦੀ ਯਾਤਰਾ ਕਰੋ 🌍
 
-Microsoft ਦੇ Cloud Advocates ਖੁਸ਼ ਹਨ 12-ਹਫ਼ਤੇ, 26-ਪਾਠਾਂ ਦਾ ਇੱਕ ਕੋਰਿਕੁਲਮ ਪੇਸ਼ ਕਰਨ ਲਈ ਜੋ **Machine Learning** ਬਾਰੇ ਹੈ। ਇਸ ਕੋਰਿਕੁਲਮ ਵਿੱਚ, ਤੁਸੀਂ ਉਹਨਾਂ ਚੀਜ਼ਾਂ ਬਾਰੇ ਸਿੱਖੋਗੇ ਜਿਨ੍ਹਾਂ ਨੂੰ ਅਕਸਰ **classic machine learning** ਕਿਹਾ ਜਾਂਦਾ ਹੈ, ਮੁੱਖ ਤੌਰ 'ਤੇ Scikit-learn ਲਾਇਬ੍ਰੇਰੀ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਅਤੇ ਡੀਪ ਲਰਨਿੰਗ ਤੋਂ ਬਚਦੇ ਹੋਏ, ਜਿਸਨੂੰ ਸਾਡੇ [AI for Beginners' ਕੋਰਿਕੁਲਮ](https://aka.ms/ai4beginners) ਵਿੱਚ ਕਵਰ ਕੀਤਾ ਗਿਆ ਹੈ। ਇਨ੍ਹਾਂ ਪਾਠਾਂ ਨੂੰ ਸਾਡੇ ['Data Science for Beginners' ਕੋਰਿਕੁਲਮ](https://aka.ms/ds4beginners) ਨਾਲ ਮਿਲਾ ਕੇ ਵੀ ਕਰੋ!
+Microsoft ਦੇ Cloud Advocates ਖੁਸ਼ ਹਨ ਕਿ ਉਹ 12 ਹਫਤੇ, 26 ਪਾਠਾਂ ਦਾ ਕੋਰਸ ਪੇਸ਼ ਕਰਦੇ ਹਨ ਜੋ ਸਿਰਫ਼ **ਮਸ਼ੀਨ ਲਰਨਿੰਗ** ਬਾਰੇ ਹੈ। ਇਸ ਕੋਰਸ ਵਿੱਚ, ਤੁਸੀਂ ਕਈ ਵਾਰੀ ਕਹਿਣ ਵਾਲੀ **ਕਲਾਸਿਕ ਮਸ਼ੀਨ ਲਰਨਿੰਗ** ਬਾਰੇ ਸਿੱਖੋਗੇ, ਜੋ ਮੁੱਖ ਤੌਰ ਤੇ Scikit-learn ਲਾਇਬਰੇਰੀ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ ਅਤੇ ਡੀਪ ਲਰਨਿੰਗ ਤੋਂ ਬਚਦਾ ਹੈ, ਜਿਸਨੂੰ ਸਾਡੀ [AI for Beginners' curriculum](https://aka.ms/ai4beginners) ਵਿੱਚ ਕਵਰ ਕੀਤਾ ਗਿਆ ਹੈ। ਇਨ੍ਹਾਂ ਪਾਠਾਂ ਨੂੰ ਸਾਡੀ ['Data Science for Beginners' curriculum](https://aka.ms/ds4beginners) ਨਾਲ ਵੀ ਜੋੜੋ।
 
-ਸਾਡੇ ਨਾਲ ਦੁਨੀਆ ਭਰ ਘੁੰਮੋ ਜਦੋਂ ਅਸੀਂ ਇਹ ਕਲਾਸਿਕ ਤਕਨੀਕਾਂ ਦੁਨੀਆ ਦੇ ਵੱਖ-ਵੱਖ ਖੇਤਰਾਂ ਦੇ ਡੇਟਾ 'ਤੇ ਲਗਾਉਂਦੇ ਹਾਂ। ਹਰ ਪਾਠ ਵਿੱਚ ਪ੍ਰੀ-ਅਤੇ ਪੋਸਟ-ਲੈਕਚਰ ਕਵਿਜ਼, ਪਾਠ ਪੂਰਾ ਕਰਨ ਲਈ ਲਿਖਤੀ ਹਦਾਇਤਾਂ, ਇੱਕ ਹੱਲ, ਇੱਕ ਅਸਾਈਨਮੈਂਟ ਅਤੇ ਹੋਰ ਸ਼ਾਮਿਲ ਹਨ। ਸਾਡੀ ਪ੍ਰਾਜੈਕਟ-ਆਧਾਰਿਤ ਪੈਡਾਗੋਜੀ ਤੁਹਾਨੂੰ ਬਣਾਉਂਦੇ ਹੋਏ ਸਿੱਖਣ ਦੀ ਆਗਿਆ ਦਿੰਦੀ ਹੈ — ਨਵੀਆਂ ਕੌਸ਼ਲਾਂ ਨੂੰ ਅਟਕਣ ਲਈ ਇਹ ਇੱਕ ਪ੍ਰਮਾਣਤ ਤਰੀਕਾ ਹੈ।
+ਸਾਡੇ ਨਾਲ ਦੁਨੀਆ ਭਰ ਦੀ ਯਾਤਰਾ ਕਰੋ ਜਦੋਂ ਅਸੀਂ ਇਹ ਕਲਾਸਿਕ ਤਕਨੀਕਾਂ ਸੰਸਾਰ ਦੇ ਕਈ ਖੇਤਰਾਂ ਦੇ ਡਾਟੇ 'ਤੇ ਲਾਗੂ ਕਰਦੇ ਹਾਂ। ਹਰ ਪਾਠ ਵਿੱਚ ਪਹਿਲਾਂ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਕਵੀਜ਼, ਲਿਖਤੀ ਹੁਕਮ, ਸਲੂਸ਼ਨ, ਅਸਾਈਨਮੈਂਟ ਅਤੇ ਹੋਰ ਹਨ। ਸਾਡੀ ਪ੍ਰੋਜੈਕਟ-ਮੁੱਖ ਪਾਠਯਕ੍ਰਮ ਦੇ ਨਾਲ ਤੁਸੀਂ ਬਣਾਉਂਦੇ ਹੋਏ ਸਿੱਖੋਗੇ, ਜੋ ਨਵੀਆਂ ਕੌਸ਼ਲਾਂ ਲਈ ਇੱਕ ਪਰਖਿਆ ਹੋਇਆ ਤਰੀਕਾ ਹੈ।
 
-**✍️ ਸਾਡੇ ਲੇਖਕਾਂ ਲਈ ਦਿਲੋਂ ਧੰਨਵਾਦ** Jen Looper, Stephen Howell, Francesca Lazzeri, Tomomi Imura, Cassie Breviu, Dmitry Soshnikov, Chris Noring, Anirban Mukherjee, Ornella Altunyan, Ruth Yakubu and Amy Boyd
+**✍️ ਸਾਡੇ ਲੇਖਕਾਂ ਨੂੰ ਦਿਲੋਂ ਧੰਨਵਾਦ** ਜੇਨ ਲੂਪਰ, ਸਟੀਫਨ ਹੋਵਲ, ਫ੍ਰਾਂਚੇਸਕਾ ਲਾਜ਼ੇਰੀ, ਟੋਮੇਮੀ ਇਮੁਰਾ, ਕੈਸੀ ਬਰੇਵਿਉ, ਡਿਮਿਟਰੀ ਸੋਸ਼ਨੀਕੋਵ, ਕ੍ਰਿਸ ਨੋਰਿੰਗ, ਅਨੀਰਬਨ ਮੁਖਰਜੀ, ਓਰੇਨਲਾ ਅਲਟੁਨਯਾਨ, ਰੁਥ ਯਾਕੁਬੂ ਅਤੇ ਐਮੀ ਬੋਇਡ
 
-**🎨 ਸਾਡੇ ਚਿੱਤਰਕਾਰਾਂ ਲਈ ਧੰਨਵਾਦ ਵੀ** Tomomi Imura, Dasani Madipalli, ਅਤੇ Jen Looper
+**🎨 ਸਾਡੇ ਚਿੱਤਰਕਾਰਾਂ ਨੂੰ ਵੀ ਧੰਨਵਾਦ** ਟੋਮੇਮੀ ਇਮੁਰਾ, ਦੁਸਾਨੀ ਮਾਦਿਪੱਲੀ, ਅਤੇ ਜੇਨ ਲੂਪਰ
 
-**🙏 ਵਿਸ਼ੇਸ਼ ਧੰਨਵਾਦ 🙏 ਸਾਡੇ Microsoft Student Ambassador ਲੇਖਕਾਂ, ਸਮੀਖਿਆਕਾਰਾਂ, ਅਤੇ ਸਮੱਗਰੀ ਯੋਗਦਾਨਕਾਰਾਂ ਨੂੰ**, ਖਾਸ ਤੌਰ 'ਤੇ Rishit Dagli, Muhammad Sakib Khan Inan, Rohan Raj, Alexandru Petrescu, Abhishek Jaiswal, Nawrin Tabassum, Ioan Samuila, ਅਤੇ Snigdha Agarwal
+**🙏 ਖ਼ਾਸ ਧੰਨਵਾਦ 🙏 ਸਾਡੇ Microsoft ਸਟੂਡੈਂਟ ਐਮਬੈਸਡਰ ਲੇਖਕਾਂ, ਸਮੀਖਿਆਕਾਰਾਂ ਅਤੇ ਸਮੱਗਰੀ ਯੋਗਦਾਨਕਾਰਾਂ**, ਖ਼ਾਸ ਕਰਕੇ ਰਿਸ਼ਿਤ ਦਾਗਲੀ, ਮੁਹੰਮਦ ਸਕਿਬ ਖਾਨ ਇਨਾਨ, ਰੋਹਨ ਰਾਜ, ਅਲੈਕਜ਼ੈਂਡਰੂ ਪੇਟਰੇਸਕੂ, ਅਭਿਸ਼ੇਕ ਜੈਸਵਾਲ, ਨਾਵਰੀਨ ਤਬਾਸ਼ੁਮ, ਈਆਨ ਸਮੂਇਲਾ, ਅਤੇ ਸਨਿੱਘਦਾ ਅਗਰਵਾਲ
 
-**🤩 ਵਾਧੂ ਸ਼ੁਕਰਗੁਜ਼ਾਰੀ Microsoft Student Ambassadors Eric Wanjau, Jasleen Sondhi, ਅਤੇ Vidushi Gupta ਨੂੰ ਸਾਡੇ R ਪਾਠਾਂ ਲਈ!**
+**🤩 ਵਾਧੂ ਸ਼ੁਕਰਾਨਾ Microsoft ਸਟੂਡੈਂਟ ਐਮਬੈਸਡਰਜ਼ ਏਰਿਕ ਵੰਜਾਊ, ਜਸਲੀਨ ਸੋਂਧੀ ਅਤੇ ਵਿਦੂਸ਼ੀ ਗੁਪਤਾ ਨੂੰ ਸਾਡੇ R ਪਾਠਾਂ ਲਈ!**
 
 # ਸ਼ੁਰੂਆਤ
 
-ਇਹ ਕਦਮ ਅਨੁਸਰਣ ਕਰੋ:
-1. **ਰੈਪੋਜ਼ਿਟਰੀ Fork ਕਰੋ**: ਇਸ ਪੰਨੇ ਦੇ ਉੱਪਰ-ਸੱਜੇ ਕੋਨੇ 'Fork' ਬਟਨ 'ਤੇ ਕਲਿਕ ਕਰੋ।
-2. **ਰੈਪੋਜ਼ਿਟਰੀ Clone ਕਰੋ**:   `git clone https://github.com/microsoft/ML-For-Beginners.git`
+ਇਹ ਕਦਮ ਅਪਣਾਓ:
+1. **ਰਿਪੋਜ਼ਿਟਰੀ ਫੋਰਕ ਕਰੋ**: ਇਸ ਪੇਜ ਦੇ ਸੱਜੇ-ਉੱਪਰ ਵਾਲੇ "Fork" ਬਟਨ ’ਤੇ ਕਲਿੱਕ ਕਰੋ।
+2. **ਰਿਪੋ ਕਲੋਨ ਕਰੋ**:   `git clone https://github.com/microsoft/ML-For-Beginners.git`
 
-> [ਇਸ ਕੋਰਸ ਲਈ ਸਾਰੇ ਵਾਧੂ ਸਰੋਤ ਸਾਡੇ Microsoft Learn ਕਲੈਕਸ਼ਨ ਵਿੱਚ ਲੱਭੋ](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
+> [ਇਸ ਕੋਰਸ ਲਈ ਸਾਡੇ Microsoft Learn ਸੰਗ੍ਰਹਿ ਵਿੱਚ ਸਾਰੇ ਵਾਧੂ ਸਾਧਨ ਲੱਭੋ](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
 
-> 🔧 **ਮਦਦ ਚਾਹੀਦੀ ਹੈ?** ਇੰਸਟਾਲੇਸ਼ਨ, ਸੈਟਅਪ ਅਤੇ ਲੈਸਨ ਚਲਾਉਣ ਨਾਲ ਸੰਬੰਧਤ ਆਮ ਸਮੱਸਿਆਵਾਂ ਦੇ ਹੱਲਾਂ ਲਈ ਸਾਡੀ [Troubleshooting Guide](TROUBLESHOOTING.md) ਵੇਖੋ।
+> 🔧 **ਮਦਦ ਚਾਹੀਦੀ ਹੈ?** ਸਾਡੇ [Troubleshooting Guide](TROUBLESHOOTING.md) ’ਚ ਇੰਸਟਾਲੇਸ਼ਨ, ਸੈੱਟਅਪ ਅਤੇ ਪਾਠ ਚੱਲਾਉਣ ਨਾਲ ਸੰਬੰਧਿਤ ਆਮ ਸਮੱਸਿਆਵਾਂ ਲਈ ਸਮਾਧਾਨ ਚੈੱਕ ਕਰੋ।
 
+**[ਵਿਦਿਆਰਥੀ](https://aka.ms/student-page)**, ਇਸ ਕੁਰਸ ਨੂੰ ਵਰਤਣ ਲਈ, ਪੂਰੀ ਰਿਪੋਜ਼ਿਟਰੀ ਆਪਣੇ GitHub ਖਾਤੇ ਵਿੱਚ ਫੋਰਕ ਕਰੋ ਅਤੇ ਧਿਆਨ ਨਾਲ ਅਭਿਆਸ ਕਰੋਂ:
 
-**[ਵਿਦਿਆਰਥੀ](https://aka.ms/student-page)**, ਇਸ ਕੋਰਿਕੁਲਮ ਨੂੰ ਵਰਤਣ ਲਈ, ਪੂਰਾ ਰੇਪੋ ਆਪਣੇ GitHub ਅਕਾਊਂਟ 'ਤੇ fork ਕਰੋ ਅਤੇ ਅਭਿਆਸ ਆਪਣੇ ਆਪ ਜਾਂ ਇੱਕ ਸਮੂਹ ਨਾਲ ਪੂਰੇ ਕਰੋ:
-
-- ਪ੍ਰੀ-ਲੈਕਚਰ ਕਵਿਜ਼ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ।
-- ਲੈਕਚਰ ਪੜ੍ਹੋ ਅਤੇ ਸਰਗਰਮੀ ਪੂਰੀ ਕਰੋ, ਹਰ ਗਿਆਨ ਜਾਂਚ 'ਤੇ ਰੁਕ ਕੇ ਅਤੇ ਪਰਾਵੇਚਨਾ ਕਰਦਿਆਂ।
-- ਹੱਲ ਕੋਡ ਚਲਾਉਣ ਤੋਂ ਬਿਨਾਂ ਪਾਠਾਂ ਨੂੰ ਸਮਝ ਕੇ ਪ੍ਰਾਜੈਕਟ ਬਣਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ; ਹਾਲਾਂਕਿ ਉਹ ਕੋਡ ਹਰ ਪ੍ਰਾਜੈਕਟ-ਆਧਾਰਤ ਪਾਠ ਵਿੱਚ `/solution` ਫੋਲਡਰਾਂ ਵਿੱਚ ਉਪਲਬਧ ਹੈ।
-- ਪੋਸਟ-ਲੈਕਚਰ ਕਵਿਜ਼ ਲਵੋ।
-- ਚੈਲੈਂਜ ਪੂਰਾ ਕਰੋ।
+- ਪ੍ਰੀ-ਲੈਕਚਰ ਕਵੀਜ਼ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ।
+- ਲੈਕਚਰ ਪੜ੍ਹੋ ਅਤੇ ਗਤੀਵਿਧੀਆਂ ਪੂਰੀਆਂ ਕਰੋ, ਹਰ ਗਿਆਨ ਜਾਂਚ ’ਤੇ ਠਹਿਰੋ ਤੇ ਸੋਚੋ।
+- ਪਾਠ ਸਮਝ ਕੇ ਪ੍ਰੋਜੈਕਟ ਬਣਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ, ਕੋਡ ਚਲਾਉਣ ਦੀ ਨਾ; ਫਿਰ ਵੀ ਕੋਡ `/solution` ਫੋਲਡਰ ਵਿੱਚ ਉਪਲਬਧ ਹੈ ਪ੍ਰੋਜੈਕਟ-ਕੇਂਦਰਤ ਪਾਠਾਂ ਲਈ।
+- ਪੋਸਟ-ਲੈਕਚਰ ਕਵੀਜ਼ ਦਿਓ।
+- ਚੈਲੇਂਜ ਪੂਰਾ ਕਰੋ।
 - ਅਸਾਈਨਮੈਂਟ ਪੂਰਾ ਕਰੋ।
-- ਇੱਕ ਪਾਠ ਸਮੂਹ ਪੂਰਾ ਕਰਨ ਤੋਂ ਬਾਅਦ, [Discussion Board](https://github.com/microsoft/ML-For-Beginners/discussions) 'ਤੇ ਜਾਓ ਅਤੇ ਉਚਿਤ PAT ਰੁਬ੍ਰਿਕ ਭਰ ਕੇ "ਖੁੱਲ੍ਹ ਕੇ ਸਿੱਖੋ"। 'PAT' ਇੱਕ Progress Assessment Tool ਹੈ — ਇਹ ਇੱਕ ਰੁਬ੍ਰਿਕ ਹੈ ਜੋ ਤੁਸੀਂ ਆਪਣੇ ਸਿੱਖਣ ਵਿੱਚ ਅੱਗੇ ਵੱਧਣ ਲਈ ਭਰਦੇ ਹੋ। ਤੁਸੀਂ ਹੋਰ PATs 'ਤੇ ਰਿਏਕਟ ਵੀ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਜੋ ਅਸੀਂ ਇਕੱਠੇ ਸਿੱਖੀਏ।
+- ਇੱਕ ਲੇਖਾ ਗਰੁੱਪ ਪੂਰਾ ਕਰਨ ਤੋਂ ਬਾਅਦ, [Discussion Board](https://github.com/microsoft/ML-For-Beginners/discussions) ’ਤੇ ਜਾਓ ਅਤੇ ‘ਲਰਨ ਆਉਟ ਲਾਊਡ’ ਕਰ ਨੂੰ ਯੋਗ ‘PAT ਰੂਬ੍ਰਿਕ’ ਭਰੋ। ‘PAT’ ਇੱਕ ਪ੍ਰਗਤੀ ਅੰਕਣ ਸੰਦ ਹੈ ਜੋ ਤੁਸੀਂ ਆਪਣੇ ਸਿੱਖਣ ਨੂੰ ਅੱਗੇ ਵਧਾਉਣ ਲਈ ਭਰਦੇ ਹੋ। ਤੁਸੀਂ ਹੋਰ PATs ਨੂੰ ਵੀ ਰੀਐਕਟ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਜੋ ਅਸੀਂ ਇਕੱਠੇ ਸਿੱਖੀਏ।
 
-> ਹੋਰ ਪੜ੍ਹਾਈ ਲਈ, ਅਸੀਂ ਇਹ [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott) ਮੌਡੀਊਲ ਅਤੇ ਲਰਨਿੰਗ ਪਾਥ ਅਨੁਸਰਣ ਕਰਨ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦੇ ਹਾਂ।
+> ਹੋਰ ਅਧਿਐਨ ਲਈ, ਅਸੀਂ ਇਹ [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott) ਮਾਡਿਊਲ ਤੇ ਸਿਖਲਾਈ ਪਾਥਾਂ ਦੀ ਸਿਫ਼ਾਰਿਸ਼ ਕਰਦੇ ਹਾਂ।
 
-**ਅਧਿਆਪਕ**, ਅਸੀਂ [for-teachers.md](for-teachers.md) ਵਿੱਚ ਇਸ ਕੋਰਿਕੁਲਮ ਨੂੰ ਵਰਤਣ ਬਾਰੇ ਕੁਝ ਸੁਝਾਵ ਸ਼ਾਮਿਲ ਕੀਤੇ ਹਨ।
+**ਅਧਿਆਪਕ**, ਸਾਡੀ ਇਸ ਕੁਰਸ ਬਾਰੇ ਕੁਝ [ਸੁਝਾਵਾਂ](for-teachers.md) ਵੀ ਹਨ ਜੋ ਤੁਸੀਂ ਵਰਤ ਸਕਦੇ ਹੋ।
 
 ---
 
 ## ਵੀਡੀਓ ਵਾਕਥਰੂ
 
-ਕੁਝ ਪਾਠ ਛੋਟੇ ਫਾਰਮ ਵਾਲੇ ਵੀਡੀਓ ਦੇ ਰੂਪ ਵਿੱਚ ਉਪਲਬਧ ਹਨ। ਤੁਸੀਂ ਇਹਨਾਂ ਨੂੰ ਪਾਠਾਂ ਵਿੱਚ ਸਿੱਧਾ ਹੀ ਵੇਖ ਸਕਦੇ ਹੋ, ਜਾਂ ਹੇਠਾਂ ਦਿੱਤੀ ਚਿੱਤਰ 'ਤੇ ਕਲਿਕ ਕਰਕੇ [ML for Beginners playlist on the Microsoft Developer YouTube channel](https://aka.ms/ml-beginners-videos) 'ਤੇ ਵੀ ਦੇਖ ਸਕਦੇ ਹੋ।
+ਕੁਝ ਪਾਠ ਛੋਟੀ ਵੀਡੀਓ ਦੇ ਰੂਪ ਵਿੱਚ ਉਪਲੱਬਧ ਹਨ। ਇਹ ਤੁਹਾਨੂੰ ਪਾਠਾਂ ਵਿੱਚ ਇਨ-ਲਾਈਨ ਮਿਲਣਗੀਆਂ ਜਾ [Microsoft Developer YouTube ਚੈਨਲ ’ਤੇ ML for Beginners ਪਲੇਲਿਸਟ](https://aka.ms/ml-beginners-videos) ‘ਤੇ ਵੀ।
 
-[![ML for Beginners ਬੈਨਰ](../../translated_images/ml-for-beginners-video-banner.63f694a100034bc6251134294459696e070a3a9a04632e9fe6a24aa0de4a7384.pa.png)](https://aka.ms/ml-beginners-videos)
+[![ML for beginners banner](../../translated_images/pa/ml-for-beginners-video-banner.63f694a100034bc6.webp)](https://aka.ms/ml-beginners-videos)
 
 ---
 
 ## ਟੀਮ ਨਾਲ ਮਿਲੋ
 
-[![ਪ੍ਰੋਿਮੋ ਵੀਡੀਓ](../../images/ml.gif)](https://youtu.be/Tj1XWrDSYJU)
+[![Promo video](../../images/ml.gif)](https://youtu.be/Tj1XWrDSYJU)
 
-**ਗਿਫ਼ ਦੁਆਰਾ** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
+**ਗਿਫ਼ -** [ਮੋਹਿਤ ਜੈਸਲ](https://linkedin.com/in/mohitjaisal)
 
-> 🎥 ਉੱਤੇ ਦਿੱਤੀ ਚਿੱਤਰ 'ਤੇ ਕਲਿਕ ਕਰੋ ਪ੍ਰੋਜੈਕਟ ਅਤੇ ਉਸ ਦੇ ਬਣਾਉਣ ਵਾਲਿਆਂ ਬਾਰੇ ਵੀਡੀਓ ਦੇਖਣ ਲਈ!
+> 🎥 ਉਪਰ ਦਿੱਤੀ ਤਸਵੀਰ ‘ਤੇ ਕਲਿੱਕ ਕਰੋ ਪ੍ਰੋਜੈਕਟ ਬਾਰੇ ਵੀਡੀਓ ਅਤੇ ਇਸਨੂੰ ਬਣਾਉਣ ਵਾਲਿਆਂ ਨੂੰ ਦੇਖਣ ਲਈ!
 
 ---
 
-## ਪੈਡਾਗੋਜੀ
+## ਪੇਡਾਗੋਜ਼ੀ
 
-ਅਸੀਂ ਇਸ ਕੋਰਿਕੁਲਮ ਨੂੰ ਬਣਾਉਂਦੇ ਸਮੇਂ ਦੋ ਪੈਡਾਗੋਜੀਕਲ ਨਿਯਮਾਂ ਦੀ ਚੋਣ ਕੀਤੀ ਹੈ: ਇਹ ਹਥਾਂ-ਉੱਤੇ ਅਧਾਰਤ ਹੋਵੇ (project-based) ਅਤੇ ਹਰ ਵੇਲੇ ਕਵਿਜ਼ ਸ਼ਾਮਿਲ ਹੋਣ। ਇਸ ਤੋਂ ਇਲਾਵਾ, ਇਸ ਕੋਰਿਕੁਲਮ ਵਿੱਚ ਇੱਕ ਸਾਂਝਾ ਥੀਮ ਵੀ ਹੈ ਜੋ ਇਸਨੂੰ ਇੱਕਤਾ ਦਿੰਦੀ ਹੈ।
+ਇਸ ਕੋਰਸ ਬਣਾਉਂਦੇ ਸਮੇਂ ਅਸੀਂ ਦੋ ਅਹੰਕਾਰਪੂਰਨ ਸਿਧਾਂਤ ਚੁਣੇ ਹਨ: ਹੋਵੇ ਹੱਥ-ਨਾਲ ਕੀਤੇ ਜਾਣ ਵਾਲੇ **ਪ੍ਰੋਜੈਕਟ-ਆਧਾਰਿਤ** ਅਤੇ ਘਣਘੋਰ **ਕਵੀਜ਼**। ਇਸ ਤੋਂ ਇਲਾਵਾ, ਇਸ ਕੋਰਸ ਵਿੱਚ ਇੱਕ ਸਾਂਝਾ **ਥੀਮ** ਹੈ ਜੋ ਇਸਨੂੰ ਇਕੱਠਾ ਕਰਦੀ ਹੈ।
 
-ਸਮੱਗਰੀ ਨੂੰ ਪ੍ਰਾਜੈਕਟਾਂ ਨਾਲ ਸੰਰਚਿਤ ਕਰਕੇ, ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਪ੍ਰਕਿਰਿਆ ਹੋਰ ਰੁਚਿਕਰ ਬਣ ਜਾਂਦੀ ਹੈ ਅਤੇ ਧਾਰਨਾ ਦੀ ਰੱਖਿਆ ਵਧਦੀ ਹੈ। ਇਸਦੇ ਨਾਲ-ਨਾਲ, ਕਲਾਸ ਤੋਂ ਪਹਿਲਾਂ ਹੋਣ ਵਾਲਾ ਇੱਕ ਘੱਟ-ਝਟਕਾ ਕਵਿਜ਼ ਵਿਦਿਆਰਥੀ ਦਾ ਧਿਆਨ ਸਿੱਖਣ ਵੱਲ ਕੇਂਦ੍ਰਿਤ ਕਰਦਾ ਹੈ, ਜਦਕਿ ਕਲਾਸ ਦੇ ਬਾਅਦ ਦੂਜਾ ਕਵਿਜ਼ ਹੋਰ ਰੱਖਿਆ ਯਕੀਨੀ ਬਣਾਉਂਦਾ ਹੈ। ਇਹ ਕੋਰਿਕੁਲਮ ਲਚਕੀਲਾ ਅਤੇ ਮਨੋਰੰਜਕ ਬਣਾਇਆ ਗਿਆ ਹੈ ਅਤੇ ਪੂਰੀ ਤਰ੍ਹਾਂ ਜਾਂ ਹਿੱਸੇ ਵੱਜੋਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਪ੍ਰਾਜੈਕਟ ਛੋਟੇ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦੇ ਹਨ ਅਤੇ 12-ਹਫ਼ਤੇ ਦੇ ਚੱਕਰ ਦੇ ਅੰਤ ਤੱਕ ਬਾਰੀਕੀ ਨਾਲ ਜਟਿਲ ਹੋ ਜਾਂਦੇ ਹਨ। ਇਸ ਕੋਰਿਕੁਲਮ ਵਿੱਚ ML ਦੇ ਅਸਲ-ਜੀਵਨ ਉਪਯੋਗਾਂ 'ਤੇ ਇੱਕ ਪੋਸਟਸਕ੍ਰਿਪਟ ਵੀ ਹੈ, ਜਿਸਨੂੰ ਵਾਧੂ ਕ੍ਰੈਡਿਟ ਵਜੋਂ ਜਾਂ ਚਰਚਾ ਦੇ ਆਧਾਰ ਵਜੋਂ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।
+ਇਹ ਗੱਲ ਯਕੀਨੀ ਬਣਾਉਂਦਾ ਹੈ ਕਿ ਸਮੱਗਰੀ ਪ੍ਰੋਜੈਕਟਾਂ ਨਾਲ ਮਿਲਦੀ ਹੈ, ਜਿਸ ਨਾਲ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਸਿੱਖਣ ਦੀ ਪ੍ਰਕਿਰਿਆ ਵਧੀਆ ਅਤੇ ਮਨੋਰੰਜਕ ਬਣਦੀ ਹੈ ਅਤੇ ਧਾਰਣਾ ਨਿਭ ਰਹੀ ਹੈ। ਇੱਕ ਕਲਾਸ ਤੋਂ ਪਹਿਲਾਂ ਲੋ-ਸਟੇਕਸ ਕਵੀਜ਼ ਸਿੱਖਣ ਦੇ ਮਨੋਰਥ ਨੂੰ ਸੈੱਟ ਕਰਦਾ ਹੈ, ਅਤੇ ਕਲਾਸ ਤੋਂ ਬਾਅਦ ਦੂਜਾ ਕਵੀਜ਼ ਪੁਨਰਾਨੁਸ੍ਰਿਤੀ ਨੂੰ ਯਕੀਨੀ ਬਨਾਊਂਦਾ ਹੈ। ਇਹ ਕੋਰਸ ਲਚਕੀਲਾ ਅਤੇ ਮਨੋਰੰਜਕ ਹੈ ਜੋ ਪੂਰਾ ਜਾਂ ਹਿੱਸਾ ਵਜੋਂ ਲਿਆ ਜਾ ਸਕਦਾ ਹੈ। ਪ੍ਰੋਜੈਕਟ ਛੋਟੇ-ਛੋਟੇ ਹੋ ਕੇ 12 ਹਫ਼ਤਿਆਂ ਦੇ ਅੰਤ ਤੱਕ ਮੁਸ਼ਕਲ ਹੁੰਦੇ ਹਨ। ਇਹ ਕੋਰਸ ਅਸਲੀ ਦੁਨੀਆ ਦੇ ML ਐਪਲੀਕੇਸ਼ਨਾਂ ਬਾਰੇ ਇੱਕ ਪੋਸਟਸਕ੍ਰਿਪਟ ਸਮੇਤ ਹੈ ਜੋ ਵਾਧੂ ਸ੍ਰੇਡੀ ਕਰੈਡਿਟ ਜਾਂ ਚਰਚਾ ਦੇ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।
 
-> ਸਾਡਾ [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md), [Translation](TRANSLATIONS.md), ਅਤੇ [Troubleshooting](TROUBLESHOOTING.md) ਗਾਈਡਲਾਈਨਾਂ ਵੇਖੋ। ਅਸੀਂ ਤੁਹਾਡੇ ਰਚਨਾਤਮਕ ਫੀਡਬੈਕ ਦਾ ਸਵਾਗਤ ਕਰਦੇ ਹਾਂ!
+> ਸਾਡਾ [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md), [Translation](TRANSLATIONS.md), ਅਤੇ [Troubleshooting](TROUBLESHOOTING.md) ਗਾਈਡਲਾਈਨਜ਼ ਵੇਖੋ। ਅਸੀਂ ਤੁਹਾਡੇ ਸਦਭਾਵਪੂਰਕ ਪ੍ਰਤੀਕਿਰਿਆ ਦਾ ਸਵਾਗਤ ਕਰਦੇ ਹਾਂ!
 
-## ਹਰ ਪਾਠ ਵਿੱਚ ਸ਼ਾਮਲ ਹੈ
+## ਹਰ ਪਾਠ ਵਿੱਚ ਸ਼ਾਮਿਲ ਹੈ
 
 - ਵਿਕਲਪਿਕ ਸਕੈਚਨੋਟ
-- ਵਿਕਲਪਿਕ ਪੂਰਕ ਵੀਡੀਓ
-- ਵੀਡੀਓ ਵਾਕਥਰੂ (ਕੇਵਲ ਕੁਝ ਪਾਠ)
-- [ਪ੍ਰੀ-ਲੈਕਚਰ ਵਾਰਮਅਪ ਕਵਿਜ਼](https://ff-quizzes.netlify.app/en/ml/)
+- ਵਿਕਲਪਿਕ ਸਹਾਇਕ ਵੀਡੀਓ
+- ਵੀਡੀਓ ਵਾਕਥਰੂ (ਕੁਝ ਪਾਠਾਂ ਲਈ)
+- [ਪ੍ਰੀ-ਲੈਕਚਰ ਵਾਰਮਅਪ ਕਵੀਜ਼](https://ff-quizzes.netlify.app/en/ml/)
 - ਲਿਖਤੀ ਪਾਠ
-- ਪ੍ਰਾਜੈਕਟ-ਆਧਾਰਤ ਪਾਠਾਂ ਲਈ, ਪ੍ਰਾਜੈਕਟ ਬਣਾਉਣ ਦੇ ਕਦਮ-ਦਰ-ਕਦਮ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼
-- ਗਿਆਨ ਜਾਂਚ
-- ਇੱਕ ਚੈਲੈਂਜ
-- ਪੂਰਕ ਪੜ੍ਹਾਈ
+- ਪ੍ਰੋਜੈਕਟ-ਆਧਾਰਿਤ ਪਾਠਾਂ ਲਈ, ਪ੍ਰੋਜੈਕਟ ਬਣਾਉਣ ਦੀ ਵਿਵਰਣਾਤਮਕ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼
+- ਗਿਆਨ ਜਾਂਚਾਂ
+- ਚੈਲੇਂਜ
+- ਸਹਾਇਕ ਪੜ੍ਹਾਈ
 - ਅਸਾਈਨਮੈਂਟ
-- [ਪੋਸਟ-ਲੈਕਚਰ ਕਵਿਜ਼](https://ff-quizzes.netlify.app/en/ml/)
+- [ਪੋਸਟ-ਲੈਕਚਰ ਕਵੀਜ਼](https://ff-quizzes.netlify.app/en/ml/)
 
-> **ਭਾਸ਼ਾਵਾਂ ਬਾਰੇ ਇੱਕ ਨੋਟ**: ਇਹ ਪਾਠ ਮੁੱਖ ਰੂਪ ਵਿੱਚ Python ਵਿੱਚ ਲਿਖੇ ਗਏ ਹਨ, ਪਰ ਬਹੁਤ ਸਾਰੇ R ਵਿੱਚ ਵੀ ਉਪਲਬਧ ਹਨ। ਕਿਸੇ R ਪਾਠ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ, `/solution` ਫੋਲਡਰ ਵਿੱਚ ਜਾਓ ਅਤੇ R ਪਾਠ ਲੱਭੋ। ਉਹ .rmd ਐਕਸਟੇੰਸ਼ਨ ਸ਼ਾਮਿਲ ਕਰਦੇ ਹਨ ਜੋ ਕਿ ਇੱਕ **R Markdown** ਫਾਈਲ ਦਰਸਾਉਂਦੀ ਹੈ ਜੋ `code chunks` (R ਜਾਂ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਦੇ) ਅਤੇ ਇੱਕ `YAML header` (ਜੋ PDF ਵਰਗੇ ਆਉਟਪੁਟਾਂ ਨੂੰ ਫਾਰਮੈਟ ਕਰਨ ਬਾਰੇ ਦਿਸ਼ਾ ਦਿੰਦੀ ਹੈ) ਨੂੰ ਇੱਕ Markdown ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਐਂਬੈਡ ਕਰਦੀ ਹੈ। ਇਸ ਤਰ੍ਹਾਂ, ਇਹ ਡੇਟਾ ਸਾਇੰਸ ਲਈ ਇੱਕ ਉਦਾਹਰਨ-ਯੋਗ ਲੇਖਕ ਫਰੇਮਵਰਕ ਵਜੋਂ ਕੰਮ ਕਰਦੀ ਹੈ ਕਿਉਂਕਿ ਇਹ ਤੁਹਾਨੂੰ ਆਪਣਾ ਕੋਡ, ਉਸਦਾ ਆਉਟਪੁੱਟ ਅਤੇ ਆਪਣੇ ਵਿਚਾਰ Markdown ਵਿੱਚ ਲਿਖ ਕੇ ਜੋੜਨ ਦੀ ਆਗਿਆ ਦਿੰਦੀ ਹੈ। ਇਸ ਤੋਂ ਇਲਾਵਾ, R Markdown ਦਸਤਾਵੇਜ਼ PDF, HTML, ਜਾਂ Word ਵਰਗੇ ਆਉਟਪੁੱਟ ਫਾਰਮੈਟਾਂ ਵਿੱਚ ਰੇਂਡਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+> **ਭਾਸ਼ਾਵਾਂ ਬਾਰੇ ਇੱਕ ਨੋਟ**: ਇਹ ਪਾਠ ਮੁੱਖ ਤੌਰ ’ਤੇ ਪਾਇਥਨ ਵਿੱਚ ਲਿਖੇ ਗਏ ਹਨ, ਪਰ ਕਈ R ਵਿੱਚ ਵੀ ਉਪਲਬਧ ਹਨ। R ਪਾਠ ਪੂਰਾ ਕਰਨ ਲਈ, `/solution` ਫੋਲਡਰ ਵਿੱਚ R ਪਾਠ ਖੋਜੋ। ਇਹਨਾਂ ਵਿੱਚ .rmd ਫਾਈਲ ਹੁੰਦੀ ਹੈ ਜੋ **R Markdown** ਫਾਈਲ ਨੁਮਾਇੰਦਗੀ ਕਰਦੀ ਹੈ, ਜਿਸਦਾ ਮਤਲਬ ਹੈ ਕਿ ਇਹ 'ਕੋਡ ਚੰਕ' (R ਜਾਂ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ) ਅਤੇ ਇੱਕ 'YAML ਹੈਡਰ' (ਜੋ PDF ਵਰਗੀਆਂ ਆਉਟਪੁੱਟਾਂ ਨੂੰ ਫਾਰਮੈਟ ਕਰਨ ਦਾ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼ ਦਿੰਦਾ ਹੈ) ਨੂੰ ਸ਼ਾਮਿਲ ਕਰਦਾ ਹੈ। ਇਸ ਤਰ੍ਹਾਂ, ਇਹ ਡਾਟਾ ਸਾਇੰਸ ਲਈ ਇੱਕ ਉਦਾਹਰਨੀ ਲੇਖਕ ਫਰੇਮਵਰਕ ਟੂਲ ਹੈ ਜੋ ਤੁਹਾਨੂੰ ਆਪਣਾ ਕੋਡ, ਉਸ ਦਾ ਨਤੀਜਾ, ਅਤੇ ਆਪਣੇ ਵਿਚਾਰ ਮਾਰਕਡਾਊਨ ਫਾਈਲ ਵਿੱਚ ਲਿਖਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ। ਇਸ ਤੋਂ ਇਲਾਵਾ, R Markdown ਦਸਤਾਵੇਜ਼ PDF, HTML ਜਾਂ Word ਵਰਗੇ ਫਾਰਮੈਟਾਂ ਵਿੱਚ ਰੈਂਡਰ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ।
+> **ਕੁਇਜ਼ਾਂ ਬਾਰੇ ਇੱਕ ਨੋਟ**: ਸਾਰੇ ਕੁਇਜ਼ [Quiz App folder](../../quiz-app) ਵਿੱਚ ਹਨ, ਜੋ ਕਿ ਹਰ ਇੱਕ ਵਿੱਚ ਤਿੰਨ ਪ੍ਰਸ਼ਨਾਂ ਵਾਲੇ 52 ਕੁਇਜ਼ਾਂ ਦਾ ਸਮੂਹ ਹੈ। ਇਹਨਾਂ ਨੂੰ ਪਾਠਾਂ ਦੇ ਅੰਦਰੋਂ ਲਿੰਕ ਕੀਤਾ ਗਿਆ ਹੈ ਪਰ ਕੁਇਜ਼ ਐਪ ਨੂੰ ਸਥਾਨਕ ਤੌਰ 'ਤੇ ਚਲਾਇਆ ਜਾ ਸਕਦਾ ਹੈ; ਸਥਾਨਕ ਤੌਰ 'ਤੇ ਹੋਸਟ ਜਾਂ ਏਜ਼ਯੂਰ 'ਤੇ ਡਿਪਲੋਏ ਕਰਨ ਲਈ `quiz-app` ਫੋਲਡਰ ਵਿੱਚ ਦਿੱਤੇ ਹੁਕਮਾਂ ਦੀ ਪਾਲਣਾ ਕਰੋ।
 
-> **ਕਵਿਜ਼ ਬਾਰੇ ਇੱਕ ਨੋਟ**: ਸਾਰੇ ਕਵਿਜ਼ [Quiz App folder](../../quiz-app) ਵਿੱਚ ਹਨ, ਕੁੱਲ 52 ਕਵਿਜ਼ ਹਨ ਜਿਨ੍ਹਾਂ ਵਿੱਚੋਂ ਹਰ ਇੱਕ ਵਿੱਚ ਤਿੰਨ ਸਵਾਲ ਹਨ। ਉਹ ਪਾਠਾਂ ਵਿੱਚ ਲਿੰਕ ਕੀਤੇ ਗਏ ਹਨ ਪਰ quiz app ਲੋਕਲ ਤੌਰ 'ਤੇ ਚਲਾਇਆ ਜਾ ਸਕਦਾ ਹੈ; ਲੋਕਲ ਹੋਸਟ ਕਰਨ ਜਾਂ Azure 'ਤੇ ਡਿਪਲੌਏ ਕਰਨ ਲਈ `quiz-app` ਫੋਲਡਰ ਵਿੱਚ ਦਿੱਤੀਆਂ ਹਦਾਇਤਾਂ ਦੀ ਪਾਲਣਾ ਕਰੋ।
-
-| ਪਾਠ ਨੰਬਰ |                             ਵਿਸ਼ਾ                              |                   ਪਾਠ ਗਰੁੱਪ                   | ਸਿੱਖਣ ਦੇ ਉਦੇਸ਼                                                                                                             |                                                              ਲਿੰਕ ਕੀਤਾ ਗਿਆ ਪਾਠ                                                               |                        ਲੇਖਕ                        |
+| ਪਾਠ ਨੰਬਰ |                             ਵਿਸ਼ਾ                              |                   ਪਾਠ ਸਮੂਹ                   | ਸਿੱਖਣ ਦੇ ਉਦਦੇਸ਼                                                                                                             |                                                              ਲਿੰਕਡ ਪਾਠ                                                               |                        ਲੇਖਕ                        |
 | :-----------: | :------------------------------------------------------------: | :-------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
-|      01       |                ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਦਾ ਪਰਿਚਯ                |      [ਪਰਿਚਯ](1-Introduction/README.md)       | ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਦੇ ਮੂਢੀਕ ਤਤ੍ਵ ਸਿੱਖੋ                                                                                |                                             [ਪਾਠ](1-Introduction/1-intro-to-ML/README.md)                                             |                       Muhammad                       |
-|      02       |                ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਦਾ ਇਤਿਹਾਸ                 |      [ਪਰਿਚਯ](1-Introduction/README.md)       | ਇਸ ਖੇਤਰ ਦੇ ਪਿੱਛੋਕੜ ਦਾ ਇਤਿਹਾਸ ਸਿੱਖੋ                                                                                         |                                            [ਪਾਠ](1-Introduction/2-history-of-ML/README.md)                                            |                     Jen and Amy                      |
-|      03       |                 ਨਿਆਇਕਤਾ ਅਤੇ ਮਸ਼ੀਨ ਲਰਨਿੰਗ                  |      [ਪਰਿਚਯ](1-Introduction/README.md)       | ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਮਾਡਲ ਬਣਾਉਂਦੇ ਅਤੇ ਲਾਗੂ ਕਰਦੇ ਸਮੇਂ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਧਿਆਨ ਵਿੱਚ ਰੱਖਣ ਯੋਗ ਇਤਿਹਾਸਕ ਅਤੇ ਦਰਸ਼ਨਸ਼ਾਸਤਰੀ ਮੁੱਦੇ ਕਿੰਨੇ ਮਹੱਤਵਪੂਰਨ ਹਨ? |                                              [ਪਾਠ](1-Introduction/3-fairness/README.md)                                               |                        Tomomi                        |
-|      04       |                ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਲਈ ਤਕਨੀਕਾਂ                 |      [ਪਰਿਚਯ](1-Introduction/README.md)       | ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਮਾਡਲ ਬਣਾਉਣ ਲਈ ML ਖੋਜਕਰਤਾ ਕਿਹੜੀਆਂ ਤਕਨੀਕਾਂ ਵਰਤਦੇ ਹਨ?                                                                       |                                          [ਪਾਠ](1-Introduction/4-techniques-of-ML/README.md)                                           |                    Chris and Jen                     |
-|      05       |                   ਰੈਗ੍ਰੈਸ਼ਨ ਦਾ ਪਰਿਚਯ                   |        [ਰੈਗ੍ਰੈਸ਼ਨ](2-Regression/README.md)         | ਰੈਗ੍ਰੈਸ਼ਨ ਮਾਡਲਾਂ ਲਈ Python ਅਤੇ Scikit-learn ਨਾਲ ਸ਼ੁਰੂਆਤ ਕਰੋ                                                                  |         [Python](2-Regression/1-Tools/README.md) • [R](../../2-Regression/1-Tools/solution/R/lesson_1.html)         |      Jen • Eric Wanjau       |
-|      06       |                ਉੱਤਰੀ ਅਮਰੀਕੀ ਕੱਦੂਆਂ ਦੀਆਂ ਕੀਮਤਾਂ 🎃                |        [ਰੈਗ੍ਰੈਸ਼ਨ](2-Regression/README.md)         | ML ਦੀ ਤਿਆਰੀ ਲਈ ਡੇਟਾ ਨੂੰ ਵਿਜ਼ੂਅਲਾਈਜ਼ ਅਤੇ ਸਾਫ਼ ਕਰੋ                                                                                  |          [Python](2-Regression/2-Data/README.md) • [R](../../2-Regression/2-Data/solution/R/lesson_2.html)          |      Jen • Eric Wanjau       |
-|      07       |                ਉੱਤਰੀ ਅਮਰੀਕੀ ਕੱਦੂਆਂ ਦੀਆਂ ਕੀਮਤਾਂ 🎃                |        [ਰੈਗ੍ਰੈਸ਼ਨ](2-Regression/README.md)         | ਲਿਨੀਅਰ ਅਤੇ ਪੋਲਿਨੋਮਿਆਲ ਰੈਗ੍ਰੈਸ਼ਨ ਮਾਡਲ ਬਣਾਓ                                                                                   |        [Python](2-Regression/3-Linear/README.md) • [R](../../2-Regression/3-Linear/solution/R/lesson_3.html)        |      Jen and Dmitry • Eric Wanjau       |
-|      08       |                ਉੱਤਰੀ ਅਮਰੀਕੀ ਕੱਦੂਆਂ ਦੀਆਂ ਕੀਮਤਾਂ 🎃                |        [ਰੈਗ੍ਰੈਸ਼ਨ](2-Regression/README.md)         | ਇੱਕ ਲੋਜਿਸਟਿਕ ਰੈਗ੍ਰੈਸ਼ਨ ਮਾਡਲ ਬਣਾਓ                                                                                               |     [Python](2-Regression/4-Logistic/README.md) • [R](../../2-Regression/4-Logistic/solution/R/lesson_4.html)      |      Jen • Eric Wanjau       |
-|      09       |                          ਇੱਕ ਵੈੱਬ ਐਪ 🔌                          |           [ਵੈੱਬ ਐਪ](3-Web-App/README.md)            | ਆਪਣੇ ਟਰੇਨਡ ਮਾਡਲ ਨੂੰ ਵਰਤਣ ਲਈ ਇੱਕ ਵੈੱਬ ਐਪ ਬਣਾਓ                                                                                       |                                                 [Python](3-Web-App/1-Web-App/README.md)                                                  |                         Jen                          |
-|      10       |                 ਵਰਗੀਕਰਨ ਦਾ ਪਰਿਚਯ                 |    [ਵਰਗੀਕਰਨ](4-Classification/README.md)     | ਆਪਣਾ ਡੇਟਾ ਸਾਫ਼, ਤਿਆਰ, ਅਤੇ ਵਿਜ਼ੂਅਲਾਈਜ਼ ਕਰੋ; ਵਰਗੀਕਰਨ ਦਾ ਪਰਿਚਯ                                                            | [Python](4-Classification/1-Introduction/README.md) • [R](../../4-Classification/1-Introduction/solution/R/lesson_10.html)  | Jen and Cassie • Eric Wanjau |
-|      11       |             ਸਵਾਦਿਸ਼ਟ ਏਸ਼ੀਆਈ ਤੇ ਭਾਰਤੀ ਖਾਣੇ 🍜             |    [ਵਰਗੀਕਰਨ](4-Classification/README.md)     | ਕਲਾਸੀਫਾਇਰਾਂ ਦਾ ਪਰਿਚਯ                                                                                                     | [Python](4-Classification/2-Classifiers-1/README.md) • [R](../../4-Classification/2-Classifiers-1/solution/R/lesson_11.html) | Jen and Cassie • Eric Wanjau |
-|      12       |             ਸਵਾਦਿਸ਼ਟ ਏਸ਼ੀਆਈ ਤੇ ਭਾਰਤੀ ਖਾਣੇ 🍜             |    [ਵਰਗੀਕਰਨ](4-Classification/README.md)     | ਹੋਰ ਕਲਾਸੀਫਾਇਰ                                                                                                                | [Python](4-Classification/3-Classifiers-2/README.md) • [R](../../4-Classification/3-Classifiers-2/solution/R/lesson_12.html) | Jen and Cassie • Eric Wanjau |
-|      13       |             ਸਵਾਦਿਸ਼ਟ ਏਸ਼ੀਆਈ ਤੇ ਭਾਰਤੀ ਖਾਣੇ 🍜             |    [ਵਰਗੀਕਰਨ](4-Classification/README.md)     | ਆਪਣੇ ਮਾਡਲ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਇੱਕ ਰਿਕਮੈਂਡਰ ਵੈੱਬ ਐਪ ਬਣਾਓ                                                                                    |                                              [Python](4-Classification/4-Applied/README.md)                                              |                         Jen                          |
-|      14       |                   ਕਲੱਸਟਰਿੰਗ ਦਾ ਪਰਿਚਯ                   |        [ਕਲੱਸਟਰਿੰਗ](5-Clustering/README.md)         | ਡੇਟਾ ਸਾਫ਼, ਤਿਆਰ, ਅਤੇ ਵਿਜ਼ੂਅਲਾਈਜ਼ ਕਰੋ; ਕਲੱਸਟਰਿੰਗ ਦਾ ਪਰਿਚਯ                                                                |         [Python](5-Clustering/1-Visualize/README.md) • [R](../../5-Clustering/1-Visualize/solution/R/lesson_14.html)         |      Jen • Eric Wanjau       |
-|      15       |              ਨਾਈਜੀਰੀਆਈ ਸੰਗੀਤਕ ਰੁਚੀਆਂ ਦੀ ਖੋਜ 🎧              |        [ਕਲੱਸਟਰਿੰਗ](5-Clustering/README.md)         | K-Means ਕਲੱਸਟਰਿੰਗ ਵਿਧੀ ਦੀ ਖੋਜ                                                                                           |           [Python](5-Clustering/2-K-Means/README.md) • [R](../../5-Clustering/2-K-Means/solution/R/lesson_15.html)           |      Jen • Eric Wanjau       |
-|      16       |        ਕੁਦਰਤੀ ਭਾਸ਼ਾ ਪ੍ਰਕਿਰਿਆ ਦਾ ਪਰਿਚਯ ☕️         |   [ਕੁਦਰਤੀ ਭਾਸ਼ਾ ਪ੍ਰਕਿਰਿਆ](6-NLP/README.md)    | ਇੱਕ ਸਧਾਰਣ ਬਾਟ ਬਣਾਕੇ NLP ਬਾਰੇ ਬੁਨਿਆਦੀ ਗਿਆਨ ਪ੍ਰਾਪਤ ਕਰੋ                                                                             |                                             [Python](6-NLP/1-Introduction-to-NLP/README.md)                                              |                       Stephen                        |
-|      17       |                      ਆਮ NLP ਕੰਮ ☕️                      |   [ਕੁਦਰਤੀ ਭਾਸ਼ਾ ਪ੍ਰਕਿਰਿਆ](6-NLP/README.md)    | ਭਾਸ਼ਾਈ ਢਾਂਚਿਆਂ ਨਾਲ ਨਜਿੱਠਣ ਸਮੇਂ ਲੋੜੀਲੇ ਆਮ ਕਾਰਜਾਂ ਨੂੰ ਸਮਝ ਕੇ ਆਪਣੇ NLP ਗਿਆਨ ਨੂੰ ਗਹਿਰਾ ਕਰੋ                          |                                                    [Python](6-NLP/2-Tasks/README.md)                                                     |                       Stephen                        |
-|      18       |             ਅਨੁਵਾਦ ਅਤੇ ਭਾਵਨਾ ਵਿਸ਼ਲੇਸ਼ਣ ♥️              |   [ਕੁਦਰਤੀ ਭਾਸ਼ਾ ਪ੍ਰਕਿਰਿਆ](6-NLP/README.md)    | ਜੇਨ ਆਸਟਿਨ ਨਾਲ ਅਨੁਵਾਦ ਅਤੇ ਭਾਵਨਾ ਵਿਸ਼ਲੇਸ਼ਣ                                                                             |                                            [Python](6-NLP/3-Translation-Sentiment/README.md)                                             |                       Stephen                        |
-|      19       |                  ਯੂਰਪ ਦੇ ਰੋਮਾਂਟਿਕ ਹੋਟਲ ♥️                  |   [ਕੁਦਰਤੀ ਭਾਸ਼ਾ ਪ੍ਰਕਿਰਿਆ](6-NLP/README.md)    | ਹੋਟਲ ਸਮੀਖਿਆਵਾਂ ਨਾਲ ਭਾਵਨਾ ਵਿਸ਼ਲੇਸ਼ਣ 1                                                                                         |                                               [Python](6-NLP/4-Hotel-Reviews-1/README.md)                                                |                       Stephen                        |
-|      20       |                  ਯੂਰਪ ਦੇ ਰੋਮਾਂਟਿਕ ਹੋਟਲ ♥️                  |   [ਕੁਦਰਤੀ ਭਾਸ਼ਾ ਪ੍ਰਕਿਰਿਆ](6-NLP/README.md)    | ਹੋਟਲ ਸਮੀਖਿਆਵਾਂ ਨਾਲ ਭਾਵਨਾ ਵਿਸ਼ਲੇਸ਼ਣ 2                                                                                         |                                               [Python](6-NLP/5-Hotel-Reviews-2/README.md)                                                |                       Stephen                        |
-|      21       |            ਟਾਈਮ ਸੀਰੀਜ਼ ਫੋਰਕਾਸਟਿੰਗ ਦਾ ਪਰਿਚਯ             |        [ਟਾਈਮ ਸੀਰੀਜ਼](7-TimeSeries/README.md)        | ਟਾਈਮ ਸੀਰੀਜ਼ ਫੋਰਕਾਸਟਿੰਗ ਦਾ ਪਰਿਚਯ                                                                                         |                                             [Python](7-TimeSeries/1-Introduction/README.md)                                              |                      Francesca                       |
-|      22       | ⚡️ ਦੁਨੀਆ ਦੀ ਬਿਜਲੀ ਖਪਤ ⚡️ - ARIMA ਨਾਲ ਟਾਈਮ ਸੀਰੀਜ਼ ਫੋਰਕਾਸਟਿੰਗ |        [ਟਾਈਮ ਸੀਰੀਜ਼](7-TimeSeries/README.md)        | ARIMA ਨਾਲ ਟਾਈਮ ਸੀਰੀਜ਼ ਫੋਰਕਾਸਟਿੰਗ                                                                                              |                                                 [Python](7-TimeSeries/2-ARIMA/README.md)                                                 |                      Francesca                       |
-|      23       |  ⚡️ ਦੁਨੀਆ ਦੀ ਬਿਜਲੀ ਖਪਤ ⚡️ - SVR ਨਾਲ ਟਾਈਮ ਸੀਰੀਜ਼ ਫੋਰਕਾਸਟਿੰਗ  |        [ਟਾਈਮ ਸੀਰੀਜ਼](7-TimeSeries/README.md)        | Support Vector Regressor ਨਾਲ ਟਾਈਮ ਸੀਰੀਜ਼ ਫੋਰਕਾਸਟਿੰਗ                                                                           |                                                  [Python](7-TimeSeries/3-SVR/README.md)                                                  |                       Anirban                        |
-|      24       |             ਰੀਇਨਫੋਰਸਮੈਂਟ ਲਰਨਿੰਗ ਦਾ ਪਰਿਚਯ             | [ਰੀਇਨਫੋਰਸਮੈਂਟ ਲਰਨਿੰਗ](8-Reinforcement/README.md) | Q-Learning ਨਾਲ ਰੀਇਨਫੋਰਸਮੈਂਟ ਲਰਨਿੰਗ ਦਾ ਪਰਿਚਯ                                                                          |                                             [Python](8-Reinforcement/1-QLearning/README.md)                                              |                        Dmitry                        |
-|      25       |                 ਪੀਟਰ ਨੂੰ ਭੇਡੀਆ ਤੋਂ ਬਚਾਓ! 🐺                  | [ਰੀਇਨਫੋਰਸਮੈਂਟ ਲਰਨਿੰਗ](8-Reinforcement/README.md) | ਰੀਇਨਫੋਰਸਮੈਂਟ ਲਰਨਿੰਗ Gym                                                                                                      |                                                [Python](8-Reinforcement/2-Gym/README.md)                                                 |                        Dmitry                        |
-|  Postscript   |            ਵਾਸਤਵਿਕ ਦੁਨੀਆ ਵਿੱਚ ML ਦੇ ਦ੍ਰਿਸ਼ ਅਤੇ ਉਪਯੋਗ            |      [ਵਾਸਤਵਿਕ ਦੁਨੀਆ ਵਿੱਚ ML](9-Real-World/README.md)       | ਕਲਾਸਿਕਲ ML ਦੇ ਦਿਲਚਸਪ ਅਤੇ ਖੁਲਾਸਾ ਕਰਨ ਵਾਲੇ ਵਾਸਤਵਿਕ ਉਪਯੋਗ                                                               |                                             [ਪਾਠ](9-Real-World/1-Applications/README.md)                                              |                         Team                         |
-|  Postscript   |            RAI ਡੈਸ਼ਬੋਰਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ML ਵਿੱਚ ਮਾਡਲ ਡੀਬੱਗਿੰਗ          |      [ਵਾਸਤਵਿਕ ਦੁਨੀਆ ਵਿੱਚ ML](9-Real-World/README.md)       | Responsible AI ਡੈਸ਼ਬੋਰਡ ਕੰਪੋਨੈਂਟਾਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਵਿੱਚ ਮਾਡਲ ਡੀਬੱਗਿੰਗ                                                              |                                             [ਪਾਠ](9-Real-World/2-Debugging-ML-Models/README.md)                                              |                         Ruth Yakubu                       |
+|      01       |                ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਦਾ ਪਰਿਚਯ                |      [Introduction](1-Introduction/README.md)       | ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਦੇ ਮੂਲ ਧਾਰਣਾ ਨੂੰ ਸਿੱਖੋ                                                                                |                                             [Lesson](1-Introduction/1-intro-to-ML/README.md)                                             |                       ਮੁਹੰਮਦ                       |
+|      02       |                ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਦਾ ਇਤਿਹਾਸ                 |      [Introduction](1-Introduction/README.md)       | ਇਸ ਖੇਤਰ ਦਾ ਇਤਿਹਾਸ ਜਾਣੋ                                                                                         |                                            [Lesson](1-Introduction/2-history-of-ML/README.md)                                            |                     ਜੇਨ ਅਤੇ ਐਮੀ                      |
+|      03       |                 ਨਿਆਂ ਅਤੇ ਮਸ਼ੀਨ ਲਰਨਿੰਗ                  |      [Introduction](1-Introduction/README.md)       | ਨਿਆਂ ਨਾਲ ਜੁੜੇ ਮਹੱਤਵਪੂਰਣ ਦਰਸ਼ਨਸ਼ਾਸਤਰਕ ਮੁੱਦੇ ਕੀ ਹਨ ਜੋ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਐਮਐਲ ਮਾਡਲ ਬਣਾਉਣ ਅਤੇ ਲਾਗੂ ਕਰਨ ਦੌਰਾਨ ਸੋਚਣੇ ਚਾਹੀਦੇ ਹਨ? |                                              [Lesson](1-Introduction/3-fairness/README.md)                                               |                        ਟੋਮੋਮੀ                        |
+|      04       |                ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਲਈ ਤਕਨੀਕਾਂ                 |      [Introduction](1-Introduction/README.md)       | ਐਮਐਲ ਖੋਜਕਾਰ ਮਾਡਲ ਬਣਾਉਣ ਲਈ ਕਿਹੜੀਆਂ ਤਕਨੀਕਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਨ?                                                                       |                                          [Lesson](1-Introduction/4-techniques-of-ML/README.md)                                           |                    ਕ੍ਰਿਸ ਅਤੇ ਜੇਨ                     |
+|      05       |                   ਰਿਗ੍ਰੈਸ਼ਨ ਦਾ ਪਰਿਚਯ                   |        [Regression](2-Regression/README.md)         | ਰਿਗ੍ਰੈਸ਼ਨ ਮਾਡਲਾਂ ਲਈ Python ਅਤੇ Scikit-learn ਨਾਲ ਸ਼ੁਰੂਆਤ ਕਰੋ                                                                  |         [Python](2-Regression/1-Tools/README.md) • [R](../../2-Regression/1-Tools/solution/R/lesson_1.html)         |      ਜੇਨ • ਐਰਿਕ ਵਾਂਜਾਊ       |
+|      06       |                ਉੱਤਰ ਅਮਰੀਕੀ ਕਦੂਆਂ ਦੀਆਂ ਕੀਮਤਾਂ 🎃                |        [Regression](2-Regression/README.md)         | ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਲਈ ਡਾਟਾ ਨੂੰ ਵੇਖੋ ਅਤੇ ਸਾਫ ​​ਕਰੋ                                                                                  |          [Python](2-Regression/2-Data/README.md) • [R](../../2-Regression/2-Data/solution/R/lesson_2.html)          |      ਜੇਨ • ਐਰਿਕ ਵਾਂਜਾਊ       |
+|      07       |                ਉੱਤਰ ਅਮਰੀਕੀ ਕਦੂਆਂ ਦੀਆਂ ਕੀਮਤਾਂ 🎃                |        [Regression](2-Regression/README.md)         | ਰੇਖੀਅ ਅਤੇ ਪਾਲੀਨੋਮੀਅਲ ਰਿਗ੍ਰੈਸ਼ਨ ਮਾਡਲ ਬਣਾਓ                                                                                   |        [Python](2-Regression/3-Linear/README.md) • [R](../../2-Regression/3-Linear/solution/R/lesson_3.html)        |      ਜੇਨ ਅਤੇ ਦਮੀਤਰੀ • ਐਰਿਕ ਵਾਂਜਾਊ       |
+|      08       |                ਉੱਤਰ ਅਮਰੀਕੀ ਕਦੂਆਂ ਦੀਆਂ ਕੀਮਤਾਂ 🎃                |        [Regression](2-Regression/README.md)         | ਲੌਜਿਸਟਿਕ ਰਿਗ੍ਰੈਸ਼ਨ ਮਾਡਲ ਬਣਾਓ                                                                                               |     [Python](2-Regression/4-Logistic/README.md) • [R](../../2-Regression/4-Logistic/solution/R/lesson_4.html)      |      ਜੇਨ • ਐਰਿਕ ਵਾਂਜਾਊ       |
+|      09       |                          ਇੱਕ ਵੈੱਬ ਐਪ 🔌                          |           [Web App](3-Web-App/README.md)            | ਆਪਣੇ ਟਰੇਨ ਮਾਡਲ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਵੈੱਬ ਐਪ ਬਣਾਓ                                                                                       |                                                 [Python](3-Web-App/1-Web-App/README.md)                                                  |                         ਜੇਨ                          |
+|      10       |                 ਵਰਗੀਕਰਨ ਦਾ ਪਰਿਚਯ                 |    [Classification](4-Classification/README.md)     | ਆਪਣੇ ਡਾਟਾ ਨੂੰ ਸਾਫ ​​ਕਰੋ, ਤਿਆਰ ਕਰੋ ਅਤੇ ਵੇਖੋ; ਵਰਗੀਕਰਨ ਦਾ ਪਰਿਚਯ                                                            | [Python](4-Classification/1-Introduction/README.md) • [R](../../4-Classification/1-Introduction/solution/R/lesson_10.html)  | ਜੇਨ ਅਤੇ ਕੈਸੀ • ਐਰਿਕ ਵਾਂਜਾਊ |
+|      11       |             ਸੁਆਦਿਲੇ ਐਸ਼ੀਆਈ ਅਤੇ ਭਾਰਤੀ ਭੋਜਨ 🍜             |    [Classification](4-Classification/README.md)     | ਵਰਗੀਕਰਨ ਵਾਲੇ ਦੇ ਉਪਕਰਨਾਂ ਦਾ ਪਰਿਚਯ                                                                                                     | [Python](4-Classification/2-Classifiers-1/README.md) • [R](../../4-Classification/2-Classifiers-1/solution/R/lesson_11.html) | ਜੇਨ ਅਤੇ ਕੈਸੀ • ਐਰਿਕ ਵਾਂਜਾਊ |
+|      12       |             ਸੁਆਦਿਲੇ ਐਸ਼ੀਆਈ ਅਤੇ ਭਾਰਤੀ ਭੋਜਨ 🍜             |    [Classification](4-Classification/README.md)     | ਹੋਰ ਵਰਗੀ ਕਰਤਾ                                                                                                                | [Python](4-Classification/3-Classifiers-2/README.md) • [R](../../4-Classification/3-Classifiers-2/solution/R/lesson_12.html) | ਜੇਨ ਅਤੇ ਕੈਸੀ • ਐਰਿਕ ਵਾਂਜਾਊ |
+|      13       |             ਸੁਆਦਿਲੇ ਐਸ਼ੀਆਈ ਅਤੇ ਭਾਰਤੀ ਭੋਜਨ 🍜             |    [Classification](4-Classification/README.md)     | ਆਪਣੇ ਮਾਡਲ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋਏ ਰਿਕਮੇਂਡਰ ਵੈੱਬ ਐਪ ਬਣਾਓ                                                                                    |                                              [Python](4-Classification/4-Applied/README.md)                                              |                         ਜੇਨ                          |
+|      14       |                   ਕੁਲਸੇ ਵਿੱਚ ਪਰਿਚਯ                   |        [Clustering](5-Clustering/README.md)         | ਆਪਣੇ ਡਾਟਾ ਨੂੰ ਸਾਫ ​​ਕਰੋ, ਤਿਆਰ ਕਰੋ ਅਤੇ ਵੇਖੋ; ਕੁਲਸੇ ਵਿੱਚ ਪਰਿਚਯ                                                                |         [Python](5-Clustering/1-Visualize/README.md) • [R](../../5-Clustering/1-Visualize/solution/R/lesson_14.html)         |      ਜੇਨ • ਐਰਿਕ ਵਾਂਜਾਊ       |
+|      15       |              ਨਾਈਜੀਰੀਆਈ ਸੰਗੀਤਕ ਰੁਚੀਆਂ ਦੀ ਖੋਜ 🎧              |        [Clustering](5-Clustering/README.md)         | K-Means ਕੁਲਸੇ ਤਰੀਕੇ ਦੀ ਖੋਜ ਕਰੋ                                                                                           |           [Python](5-Clustering/2-K-Means/README.md) • [R](../../5-Clustering/2-K-Means/solution/R/lesson_15.html)           |      ਜੇਨ • ਐਰਿਕ ਵਾਂਜਾਊ       |
+|      16       |        ਕੁਦਰਤੀ ਭਾਸ਼ਾ ਪ੍ਰੋਸੈਸਿੰਗ ਦਾ ਪਰਿਚਯ ☕️         |   [Natural language processing](6-NLP/README.md)    | ਇੱਕ ਸਧਾਰਣ ਬੋਟ ਬਣਾ ਕੇ NLP ਬਾਰੇ ਮੂਲ ਗੱਲਾਂ ਸਿੱਖੋ                                                                             |                                             [Python](6-NLP/1-Introduction-to-NLP/README.md)                                              |                       ਸਟੀਫਨ                        |
+|      17       |                      ਆਮ NLP ਕਾਰਜ ☕️                      |   [Natural language processing](6-NLP/README.md)    | ਭਾਸ਼ਾਈ ਢਾਂਚਿਆਂ ਨਾਲ ਨਜਿੱਠਣ ਵੇਲੇ ਲੋੜੀਂਦੇ ਆਮ ਕੰਮਾਂ ਨੂੰ ਸਮਝ ਕੇ ਆਪਣੀ NLP ਜਾਣਕਾਰੀ ਵਿਚ ਗਹਿਰਾਈ ਲਿਆਓ                          |                                                    [Python](6-NLP/2-Tasks/README.md)                                                     |                       ਸਟੀਫਨ                        |
+|      18       |             ਅਨੁਵਾਦ ਅਤੇ ਭਾਵਨਾ ਵਿਸ਼ਲੇਸ਼ਣ ♥️              |   [Natural language processing](6-NLP/README.md)    | ਜੇਨ ਆਸਟਨ ਨਾਲ ਅਨੁਵਾਦ ਅਤੇ ਭਾਵਨਾ ਵਿਸ਼ਲੇਸ਼ਣ                                                                             |                                            [Python](6-NLP/3-Translation-Sentiment/README.md)                                             |                       ਸਟੀਫਨ                        |
+|      19       |                  ਯੂਰਪ ਦੇ ਰੋਮਾਂਟਿਕ ਹੋਟਲ ♥️                  |   [Natural language processing](6-NLP/README.md)    | ਹੋਟਲ ਸਮੀਖਿਆਵਾਂ ਨਾਲ ਭਾਵਨਾ ਵਿਸ਼ਲੇਸ਼ਣ 1                                                                                         |                                               [Python](6-NLP/4-Hotel-Reviews-1/README.md)                                                |                       ਸਟੀਫਨ                        |
+|      20       |                  ਯੂਰਪ ਦੇ ਰੋਮਾਂਟਿਕ ਹੋਟਲ ♥️                  |   [Natural language processing](6-NLP/README.md)    | ਹੋਟਲ ਸਮੀਖਿਆਵਾਂ ਨਾਲ ਭਾਵਨਾ ਵਿਸ਼ਲੇਸ਼ਣ 2                                                                                         |                                               [Python](6-NLP/5-Hotel-Reviews-2/README.md)                                                |                       ਸਟੀਫਨ                        |
+|      21       |            ਸਮੇਂ ਦੀ ਲੜੀ ਅਨੁਮਾਨ ਦੀ ਸ਼ੁਰੂਆਤ             |        [Time series](7-TimeSeries/README.md)        | ਸਮੇਂ ਦੀ ਲੜੀ ਅਨੁਮਾਨ ਦਾ ਪਰਿਚਯ                                                                                         |                                             [Python](7-TimeSeries/1-Introduction/README.md)                                              |                      ਫ੍ਰਾਂਸੇਸਕਾ                       |
+|      22       | ⚡️ ਦੁਨੀਆ ਦੀ ਬਿਜਲੀ ਵਰਤੋਂ ⚡️ - ARIMA ਨਾਲ ਸਮੇਂ ਦੀ ਲੜੀ ਅਨੁਮਾਨ |        [Time series](7-TimeSeries/README.md)        | ARIMA ਨਾਲ ਸਮੇਂ ਦੀ ਲੜੀ ਅਨੁਮਾਨ                                                                                              |                                                 [Python](7-TimeSeries/2-ARIMA/README.md)                                                 |                      ਫ੍ਰਾਂਸੇਸਕਾ                       |
+|      23       |  ⚡️ ਦੁਨੀਆ ਦੀ ਬਿਜਲੀ ਵਰਤੋਂ ⚡️ - SVR ਨਾਲ ਸਮੇਂ ਦੀ ਲੜੀ ਅਨੁਮਾਨ  |        [Time series](7-TimeSeries/README.md)        | Support Vector Regressor ਨਾਲ ਸਮੇਂ ਦੀ ਲੜੀ ਅਨੁਮਾਨ                                                                           |                                                  [Python](7-TimeSeries/3-SVR/README.md)                                                  |                       ਅਨੀਰਬਾਨ                        |
+|      24       |             ਰੀਇਨਫੋਰਸਮੈਂਟ ਲਰਨਿੰਗ ਦਾ ਪਰਿਚਯ             | [Reinforcement learning](8-Reinforcement/README.md) | Q-Learning ਨਾਲ ਰੀਇਨਫੋਰਸਮੈਂਟ ਲਰਨਿੰਗ ਦਾ ਪਰਿਚਯ                                                                          |                                             [Python](8-Reinforcement/1-QLearning/README.md)                                              |                        ਦਮੀਤਰੀ                        |
+|      25       |                 ਪੀਟਰ ਨੂੰ ਬੰਦੇ ਤੋਂ ਬਚਾਓ! 🐺                  | [Reinforcement learning](8-Reinforcement/README.md) | ਰੀਇਨਫੋਰਸਮੈਂਟ ਲਰਨਿੰਗ ਜਿਮ                                                                                                      |                                                [Python](8-Reinforcement/2-Gym/README.md)                                                 |                        ਦਮੀਤਰੀ                        |
+|  ਅੰਤਿਮ ਟਿੱਪਣੀ   |            ਅਸਲ ਦੁਨੀਆ ਦੇ ਐਮਐਲ ਸਥਿਤੀਆਂ ਅਤੇ ਐਪਲੀਕੇਸ਼ਨ            |      [ML in the Wild](9-Real-World/README.md)       | ਰਵਾਇਤੀ ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਦੇ ਦਿਲਚਸਪ ਅਤੇ ਖੁਲਾਸਾ ਕਰਨ ਵਾਲੇ ਅਸਲ ਦੁਨੀਆ ਦੇ ਐਪਲੀਕੇਸ਼ਨ                                                               |                                             [Lesson](9-Real-World/1-Applications/README.md)                                              |                         ਟੀਮ                         |
+|  ਅੰਤਿਮ ਟਿੱਪਣੀ   |            RAI ਡੈਸ਼ਬੋਰਡ ਦੀ ਵਰਤੋਂ ਨਾਲ ਐਮਐਲ ਮਾਡਲ ਡੀਬੱਗਿੰਗ          |      [ML in the Wild](9-Real-World/README.md)       | ਜ਼ਿੰਮੇਵਾਰ AI ਡੈਸ਼ਬੋਰਡ ਕੰਪੋਨੈਂਟਸ ਦੀ ਵਰਤੋਂ ਨਾਲ ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਵਿੱਚ ਮਾਡਲ ਡੀਬੱਗਿੰਗ                                                              |                                             [Lesson](9-Real-World/2-Debugging-ML-Models/README.md)                                              |                         ਰੁਥ ਯਾਕੁਬੂ                       |
 
-> [ਇਸ ਕੋਰਸ ਲਈ ਸਾਰੇ ਹੋਰ ਸਰੋਤ ਸਾਡੇ Microsoft Learn ਸੰਗ੍ਰਹਿ ਵਿੱਚ ਲੱਭੋ](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
+> [ਇਸ ਕੋਰਸ ਲਈ ਸਾਰੇ ਵਾਧੂ ਸਰੋਤ ਸਾਡੇ ਮਾਇਕ੍ਰੋਸਾਫਟ ਲਰਨ ਸੰਕਲਨ ਵਿੱਚ ਲੱਭੋ](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
 
 ## ਆਫਲਾਈਨ ਪਹੁੰਚ
 
-ਤੁਸੀਂ ਇਸ ਡੌਕੂਮੈਂਟੇਸ਼ਨ ਨੂੰ [Docsify](https://docsify.js.org/#/) ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਆਫਲਾਈਨ ਚਲਾ ਸਕਦੇ ਹੋ। ਇਸ ਰੇਪੋ ਨੂੰ ਫੋਰਕ ਕਰੋ, ਆਪਣੇ ਲੋਕਲ ਮਸ਼ੀਨ 'ਤੇ [Docsify ਨੂੰ ਇੰਸਟਾਲ ਕਰੋ](https://docsify.js.org/#/quickstart), ਅਤੇ ਫਿਰ ਇਸ ਰੇਪੋ ਦੇ ਰੂਟ ਫੋਲਡਰ ਵਿੱਚ, `docsify serve` ਲਿਖੋ। ਵੈੱਬਸਾਈਟ ਤੁਹਾਡੇ ਲੋਕਲਹੋਸਟ 'ਤੇ ਪੋਰਟ 3000 'ਤੇ ਸੇਰਵ ਕੀਤੀ ਜਾਏਗੀ: `localhost:3000`.
+ਤੁਸੀਂ [Docsify](https://docsify.js.org/#/) ਦੀ ਵਰਤੋਂ ਕਰ ਕੇ ਇਸ ਦਸਤਾਵੇਜ਼ ਨੂੰ ਆਫਲਾਈਨ ਚਲਾ ਸਕਦੇ ਹੋ। ਇਸ ਰੇਪੋ ਨੂੰ ਫੋਰਕ ਕਰੋ, ਆਪਣੇ ਸਥਾਨਕ ਮਸ਼ੀਨ 'ਤੇ [Docsify ਇੰਸਟਾਲ ਕਰੋ](https://docsify.js.org/#/quickstart), ਅਤੇ ਫਿਰ ਇਸ ਰੇਪੋ ਦੇ ਮੂਲ ਫੋਲਡਰ ਵਿੱਚ `docsify serve` ਟਾਈਪ ਕਰੋ। ਵੈੱਬਸਾਈਟ ਤੁਹਾਡੇ ਸਥਾਨਕ ਹੋਸਟ `localhost:3000` 'ਤੇ ਪੋਰਟ 3000 'ਤੇ ਸਰਵ ਕੀਤੀ ਜਾਵੇਗੀ।
 
 ## PDF ਫਾਈਲਾਂ
 
-ਲਿੰਕਾਂ ਸਮੇਤ ਕਰਿਕੁਲਮ ਦਾ PDF [ਇੱਥੇ](https://microsoft.github.io/ML-For-Beginners/pdf/readme.pdf) ਲੱਭੋ।
+ਇਸ ਪਾਠਕ੍ਰਮ ਦਾ PDF ਵਰਜਨ ਲਿੰਕਾਂ ਸਮੇਤ [ਅੱਥੇ](https://microsoft.github.io/ML-For-Beginners/pdf/readme.pdf) ਲੱਭੋ।
 
 
 ## 🎒 ਹੋਰ ਕੋਰਸ
 
-ਸਾਡੀ ਟੀਮ ਹੋਰ ਕੋਰਸ ਵੀ ਬਣਾਉਂਦੀ ਹੈ! ਵੇਖੋ:
+ਸਾਡੀ ਟੀਮ ਹੋਰ ਕੋਰਸ ਵੀ ਬਣਾਉਂਦੀ ਹੈ! ਚੈੱਕ ਕਰੋ:
 
 <!-- CO-OP TRANSLATOR OTHER COURSES START -->
 ### LangChain
 [![LangChain4j for Beginners](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
 [![LangChain.js for Beginners](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
-
+[![LangChain for Beginners](https://img.shields.io/badge/LangChain%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://github.com/microsoft/langchain-for-beginners?WT.mc_id=m365-94501-dwahlin)
 ---
 
 ### Azure / Edge / MCP / Agents
@@ -179,43 +180,43 @@ Microsoft ਦੇ Cloud Advocates ਖੁਸ਼ ਹਨ 12-ਹਫ਼ਤੇ, 26-ਪ�
 ---
  
 ### Generative AI Series
-[![Generative AI for Beginners](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
-[![Generative AI (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
-[![ਜਨਰੇਟਿਵ AI (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
-[![ਜਨਰੇਟਿਵ AI (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
+[![ਨਵੇਂ ਸਿੱਖਣ ਵਾਲਿਆਂ ਲਈ ਜੇਨੇਰੇਟਿਵ ਏਆਈ](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![ਜੇਨੇਰੇਟਿਵ ਏਆਈ (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+[![ਜੇਨੇਰੇਟਿਵ ਏਆਈ (ਜਾਵਾ)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
+[![ਜੇਨੇਰੇਟਿਵ ਏਆਈ (ਜਾਵਾਸਕ੍ਰਿਪਟ)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
 
 ---
  
 ### ਮੁੱਖ ਸਿੱਖਿਆ
-[![ਸ਼ੁਰੂਆਤੀਆਂ ਲਈ ML](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
-[![ਸ਼ੁਰੂਆਤੀਆਂ ਲਈ ਡੇਟਾ ਸਾਇੰਸ](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
-[![ਸ਼ੁਰੂਆਤੀਆਂ ਲਈ AI](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
-[![ਸ਼ੁਰੂਆਤੀਆਂ ਲਈ ਸਾਈਬਰਸੁਰੱਖਿਆ](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
-[![ਸ਼ੁਰੂਆਤੀਆਂ ਲਈ ਵੈੱਬ ਡੈਵ](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
-[![ਸ਼ੁਰੂਆਤੀਆਂ ਲਈ IoT](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
-[![ਸ਼ੁਰੂਆਤੀਆਂ ਲਈ XR ਵਿਕਾਸ](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਨਵੇਂ ਸਿੱਖਣ ਵਾਲਿਆਂ ਲਈ](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+[![ਡੇਟਾ ਸਾਇੰਸ ਨਵੇਂ ਸਿੱਖਣ ਵਾਲਿਆਂ ਲਈ](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+[![ਏਆਈ ਨਵੇਂ ਸਿੱਖਣ ਵਾਲਿਆਂ ਲਈ](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+[![ਸਾਈਬਰਸੁਰੱਖਿਆ ਨਵੇਂ ਸਿੱਖਣ ਵਾਲਿਆਂ ਲਈ](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
+[![ਵੈੱਬ ਡਿਵੈਲਪਮੈਂਟ ਨਵੇਂ ਸਿੱਖਣ ਵਾਲਿਆਂ ਲਈ](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+[![ਆਈਓਟੀ ਨਵੇਂ ਸਿੱਖਣ ਵਾਲਿਆਂ ਲਈ](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+[![ਐਕਸਆਰ ਡਿਵੈਲਪਮੈਂਟ ਨਵੇਂ ਸਿੱਖਣ ਵਾਲਿਆਂ ਲਈ](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
 
 ---
  
-### Copilot ਸਿਰੀਜ਼
-[![AI ਪੇਅਰ ਪ੍ਰੋਗ੍ਰਾਮਿੰਗ ਲਈ Copilot](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
-[![C#/.NET ਲਈ Copilot](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
-[![Copilot ਐਡਵੈਂਚਰ](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
+### ਕੋਪਾਇਲਟ ਸਿਰੀਜ਼
+[![ਏਆਈ ਜੋੜੀ ਪ੍ਰੋਗਰਾਮਿੰਗ ਲਈ ਕੋਪਾਇਲਟ](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+[![C#/.NET ਲਈ ਕੋਪਾਇਲਟ](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+[![ਕੋਪਾਇਲਟ ਸਫਰ](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
 <!-- CO-OP TRANSLATOR OTHER COURSES END -->
 
-## ਮਦਦ ਲੈਣਾ
+## ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ ਕਰਨਾ
 
-ਜੇ ਤੁਸੀਂ ਫੱਸ ਜਾਂਦੇ ਹੋ ਜਾਂ AI ਐਪ ਬਣਾਉਣ ਬਾਰੇ ਤੁਹਾਨੂੰ ਕੋਈ ਸਵਾਲ ਹਨ। MCP ਬਾਰੇ ਚਰਚਾਂ ਵਿੱਚ ਹੋਰ ਸਿੱਖਣ ਵਾਲੇ ਅਤੇ ਅਨੁਭਵੀ ਡਿਵੈਲਪਰਾਂ ਨਾਲ ਸ਼ਾਮਿਲ ਹੋਵੋ। ਇਹ ਇਕ ਸਹਿਯੋਗੀ ਕਮਿਊਨਿਟੀ ਹੈ ਜਿੱਥੇ ਸਵਾਲਾਂ ਦਾ ਸੁਆਗਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਅਤੇ ਗਿਆਨ ਖੁੱਲ੍ਹ ਕੇ ਸਾਂਝਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।
+ਜੇ ਤੁਸੀਂ ਅਟਕ ਜਾਂਦੇ ਹੋ ਜਾਂ ਏਆਈ ਐਪਸ ਬਣਾਉਣ ਬਾਰੇ ਕੋਈ ਸਵਾਲ ਹੋਵੇ, ਤਾਂ MCP ਬਾਰੇ ਵਿਚਾਰ-ਚਰਚਾ ਵਿੱਚ ਸਾਥੀ ਸਿੱਖਣ ਵਾਲਿਆਂ ਅਤੇ ਮਾਹਰ ਡਿਵੈਲਪਰਾਂ ਨਾਲ ਜੁੜੋ। ਇਹ ਇੱਕ ਸਹਾਇਕ ਸਮੁਦਾਇ ਹੈ ਜਿੱਥੇ ਸਵਾਲ ਕਬੂਲ ਕੀਤੇ ਜਾਂਦੇ ਹਨ ਅਤੇ ਗਿਆਨ ਖੁੱਲ੍ਹ ਕੇ ਸਾਂਝਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਉਤਪਾਦ ਬਾਰੇ ਫੀਡਬੈਕ ਜਾਂ ਨਿਰਮਾਣ ਦੌਰਾਨ ਕੋਈ ਗਲਤੀਆਂ ਹੋਣ ਤਾਂ ਇੱਥੇ ਜਾਓ:
+ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਉਤਪਾਦ ਫੀਡਬੈਕ ਹੈ ਜਾਂ ਬਣਾਉਣ ਦੌਰਾਨ ਗਲਤੀਆਂ ਆ ਰਹੀਆਂ ਹਨ ਤਾਂ ਦੌਰਾ ਕਰੋ:
 
-[![Microsoft Foundry ਡਿਵੈਲਪਰ ਫੋਰਮ](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-ਅਸਵੀਕਾਰ:
-ਇਹ ਦਸਤਾਵੇਜ਼ AI ਅਨੁਵਾਦ ਸੇਵਾ [Co-op Translator](https://github.com/Azure/co-op-translator) ਦੀ ਵਰਤੋਂ ਨਾਲ ਅਨੁਵਾਦ ਕੀਤਾ ਗਿਆ ਹੈ। ਹਾਲਾਂਕਿ ਅਸੀਂ ਸ਼ੁੱਧਤਾ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਧਿਆਨ ਰੱਖੋ ਕਿ ਆਟੋਮੇਟਿਕ ਅਨੁਵਾਦਾਂ ਵਿੱਚ ਗਲਤੀਆਂ ਜਾਂ ਅਣਸ਼ੁੱਧਤਾਵਾਂ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਮੂਲ ਦਸਤਾਵੇਜ਼ ਨੂੰ ਇਸ ਦੀ ਮੂਲ ਭਾਸ਼ਾ ਵਿੱਚ ਅਧਿਕਾਰਿਕ ਸਰੋਤ ਮੰਨਿਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ। ਮਹੱਤਵਪੂਰਨ ਜਾਣਕਾਰੀ ਲਈ, ਪੇਸ਼ੇਵਰ ਮਨੁੱਖੀ ਅਨੁਵਾਦ ਦੀ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ। ਅਸੀਂ ਇਸ ਅਨੁਵਾਦ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਹੋਣ ਵਾਲੀਆਂ ਕਿਸੇ ਵੀ ਗਲਤਫਹਮੀ ਜਾਂ ਗਲਤ ਵਿਆਖਿਆ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਨਹੀਂ ਹਾਂ।
+**ਅਸਵੀਕਾਰਿਆ ਗਿਆ**:  
+ਇਹ ਦਸਤਾਵੇਜ਼ ਏਆਈ ਅਨੁਵਾਦ ਸੇਵਾ [Co-op Translator](https://github.com/Azure/co-op-translator) ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਅਨੁਵਾਦ ਕੀਤਾ ਗਿਆ ਹੈ। ਜਦੋਂ ਕਿ ਅਸੀਂ ਸ਼ੁੱਧਤਾ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਧਿਆਨ ਵਿੱਚ ਰੱਖੋ ਕਿ ਸਵੈਚਲਿਤ ਅਨੁਵਾਦਾਂ ਵਿੱਚ ਗਲਤੀਆਂ ਜਾਂ ਅਸੁਸਪਸ਼ਟਤਾਵਾਂ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਮੂਲ ਦਸਤਾਵੇਜ਼ ਆਪਣੀ ਮੂਲ ਭਾਸ਼ਾ ਵਿੱਚ ਹੀ ਅਧਿਕਾਰਕ ਸਰੋਤ ਮੰਨਿਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ। ਜ਼ਰੂਰੀ ਜਾਣਕਾਰੀ ਲਈ, ਪੇਸ਼ੇਵਰ ਮਨੁੱਖੀ ਅਨੁਵਾਦ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ। ਇਸ ਅਨੁਵਾਦ ਦੀ ਵਰਤੋਂ ਕਾਰਨ ਹੋਣ ਵਾਲੀਆਂ ਕਿਸੇ ਵੀ ਗਲਤਫਹਿਮੀਆਂ ਜਾਂ ਗਲਤ ਵਿਆਖਿਆਵਾਂ ਲਈ ਅਸੀਂ ਜ਼ਿੰਮੇਵਾਰ ਨਹੀਂ ਹਾਂ।
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

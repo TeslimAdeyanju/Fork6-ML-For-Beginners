@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-12-19T15:59:58+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "kn"
-}
--->
 # ಸಮಯ ಸರಣಿ ಭವಿಷ್ಯವಾಣಿ ಸಹಾಯ ವಕ್ಟರ್ ರೆಗ್ರೆಸರ್‌ನೊಂದಿಗೆ
 
 ಹಿಂದಿನ ಪಾಠದಲ್ಲಿ, ನೀವು ಸಮಯ ಸರಣಿ ಭವಿಷ್ಯವಾಣಿಗಾಗಿ ARIMA ಮಾದರಿಯನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂದು ಕಲಿತಿರಿ. ಈಗ ನೀವು ನಿರಂತರ ಡೇಟಾವನ್ನು ಭವಿಷ್ಯವಾಣಿ ಮಾಡಲು ಬಳಸುವ ರೆಗ್ರೆಸರ್ ಮಾದರಿ ಆಗಿರುವ Support Vector Regressor ಮಾದರಿಯನ್ನು ನೋಡಲಿದ್ದೀರಿ.
@@ -71,7 +62,7 @@ CO_OP_TRANSLATOR_METADATA:
    plt.show()
    ```
 
-   ![ಪೂರ್ಣ ಡೇಟಾ](../../../../translated_images/full-data.a82ec9957e580e976f651a4fc38f280b9229c6efdbe3cfe7c60abaa9486d2cbe.kn.png)
+   ![ಪೂರ್ಣ ಡೇಟಾ](../../../../translated_images/kn/full-data.a82ec9957e580e97.webp)
 
    ಈಗ, ನಮ್ಮ SVR ಮಾದರಿಯನ್ನು ನಿರ್ಮಿಸೋಣ.
 
@@ -97,7 +88,7 @@ CO_OP_TRANSLATOR_METADATA:
    plt.show()
    ```
 
-   ![ತರಬೇತಿ ಮತ್ತು ಪರೀಕ್ಷಾ ಡೇಟಾ](../../../../translated_images/train-test.ead0cecbfc341921d4875eccf25fed5eefbb860cdbb69cabcc2276c49e4b33e5.kn.png)
+   ![ತರಬೇತಿ ಮತ್ತು ಪರೀಕ್ಷಾ ಡೇಟಾ](../../../../translated_images/kn/train-test.ead0cecbfc341921.webp)
 
 
 
@@ -275,7 +266,7 @@ plt.title("Training data prediction")
 plt.show()
 ```
 
-![ತರಬೇತಿ ಡೇಟಾ ಭವಿಷ್ಯವಾಣಿ](../../../../translated_images/train-data-predict.3c4ef4e78553104ffdd53d47a4c06414007947ea328e9261ddf48d3eafdefbbf.kn.png)
+![ತರಬೇತಿ ಡೇಟಾ ಭವಿಷ್ಯವಾಣಿ](../../../../translated_images/kn/train-data-predict.3c4ef4e78553104f.webp)
 
 ತರಬೇತಿ ಡೇಟಾದ MAPE ಅನ್ನು ಮುದ್ರಿಸಿ
 
@@ -298,7 +289,7 @@ plt.xlabel('Timestamp')
 plt.show()
 ```
 
-![ಪರೀಕ್ಷಾ ಡೇಟಾ ಭವಿಷ್ಯವಾಣಿ](../../../../translated_images/test-data-predict.8afc47ee7e52874f514ebdda4a798647e9ecf44a97cc927c535246fcf7a28aa9.kn.png)
+![ಪರೀಕ್ಷಾ ಡೇಟಾ ಭವಿಷ್ಯವಾಣಿ](../../../../translated_images/kn/test-data-predict.8afc47ee7e52874f.webp)
 
 ಪರೀಕ್ಷಾ ಡೇಟಾದ MAPE ಅನ್ನು ಮುದ್ರಿಸಿ
 
@@ -354,7 +345,7 @@ plt.xlabel('Timestamp')
 plt.show()
 ```
 
-![ಪೂರ್ಣ ಡೇಟಾ ಭವಿಷ್ಯವಾಣಿ](../../../../translated_images/full-data-predict.4f0fed16a131c8f3bcc57a3060039dc7f2f714a05b07b68c513e0fe7fb3d8964.kn.png)
+![ಪೂರ್ಣ ಡೇಟಾ ಭವಿಷ್ಯವಾಣಿ](../../../../translated_images/kn/full-data-predict.4f0fed16a131c8f3.webp)
 
 ```python
 print('MAPE: ', mape(Y_pred, Y)*100, '%')

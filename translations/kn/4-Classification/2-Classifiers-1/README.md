@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-12-19T15:34:45+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "kn"
-}
--->
 # ಆಹಾರ ವರ್ಗೀಕರಣಗಳು 1
 
 ಈ ಪಾಠದಲ್ಲಿ, ನೀವು ಹಿಂದಿನ ಪಾಠದಿಂದ ಉಳಿಸಿಕೊಂಡ ಸಮತೋಲನ, ಸ್ವಚ್ಛವಾದ ಆಹಾರಗಳ ಬಗ್ಗೆ ಸಂಪೂರ್ಣ ಡೇಟಾಸೆಟ್ ಅನ್ನು ಬಳಸುತ್ತೀರಿ.
@@ -107,7 +98,7 @@ Scikit-learn ವರ್ಗೀಕರಣವನ್ನು Supervised Learning ಅಡ�
 
 ಹೀಗಾಗಿ, ನೀವು ಯಾವ ವರ್ಗೀಕರಣಕಾರಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಬೇಕು? ಬಹುಶಃ, ಹಲವಾರು ವಿಧಾನಗಳನ್ನು ಪ್ರಯೋಗಿಸಿ ಉತ್ತಮ ಫಲಿತಾಂಶವನ್ನು ಹುಡುಕುವುದು ಪರೀಕ್ಷಿಸುವ ಒಂದು ಮಾರ್ಗ. Scikit-learn ಒಂದು [ಪಕ್ಕಪಕ್ಕದ ಹೋಲಿಕೆ](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html) ಒದಗಿಸುತ್ತದೆ, ಇದರಲ್ಲಿ KNeighbors, SVC ಎರಡು ರೀತಿಗಳು, GaussianProcessClassifier, DecisionTreeClassifier, RandomForestClassifier, MLPClassifier, AdaBoostClassifier, GaussianNB ಮತ್ತು QuadraticDiscrinationAnalysis ಹೋಲಿಕೆ ಮಾಡಲಾಗಿದೆ, ಫಲಿತಾಂಶಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸಲಾಗಿದೆ:
 
-![classification ಹೋಲಿಕೆ](../../../../translated_images/comparison.edfab56193a85e7fdecbeaa1b1f8c99e94adbf7178bed0de902090cf93d6734f.kn.png)
+![classification ಹೋಲಿಕೆ](../../../../translated_images/kn/comparison.edfab56193a85e7f.webp)
 > Scikit-learn ಡಾಕ್ಯುಮೆಂಟೇಶನ್‌ನಲ್ಲಿ ರಚಿಸಲಾದ ಪ್ಲಾಟ್‌ಗಳು
 
 > AutoML ಈ ಸಮಸ್ಯೆಯನ್ನು ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಈ ಹೋಲಿಕೆಗಳನ್ನು ನಡೆಸಿ ನಿಮ್ಮ ಡೇಟಾಗೆ ಅತ್ಯುತ್ತಮ ಆಲ್ಗೋರಿದಮ್ ಆಯ್ಕೆ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದನ್ನು [ಇಲ್ಲಿ](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-77952-leestott) ಪ್ರಯತ್ನಿಸಿ
@@ -116,7 +107,7 @@ Scikit-learn ವರ್ಗೀಕರಣವನ್ನು Supervised Learning ಅಡ�
 
 ಅನಿರೀಕ್ಷಿತವಾಗಿ ಊಹಿಸುವುದಕ್ಕಿಂತ ಉತ್ತಮ ವಿಧಾನವೆಂದರೆ, ಈ ಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದಾದ [ML ಚೀಟ್ ಶೀಟ್](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-77952-leestott) ನಲ್ಲಿ ನೀಡಲಾದ ಆಲೋಚನೆಗಳನ್ನು ಅನುಸರಿಸುವುದು. ಇಲ್ಲಿ, ನಮ್ಮ ಬಹು ವರ್ಗ ಸಮಸ್ಯೆಗೆ ಕೆಲವು ಆಯ್ಕೆಗಳು ಇವೆ:
 
-![ಬಹು ವರ್ಗ ಸಮಸ್ಯೆಗಳ ಚೀಟ್‌ಶೀಟ್](../../../../translated_images/cheatsheet.07a475ea444d22234cb8907a3826df5bdd1953efec94bd18e4496f36ff60624a.kn.png)
+![ಬಹು ವರ್ಗ ಸಮಸ್ಯೆಗಳ ಚೀಟ್‌ಶೀಟ್](../../../../translated_images/kn/cheatsheet.07a475ea444d2223.webp)
 > ಮೈಕ್ರೋಸಾಫ್ಟ್‌ನ ಆಲ್ಗೋರಿದಮ್ ಚೀಟ್ ಶೀಟ್‌ನ ಒಂದು ಭಾಗ, ಬಹು ವರ್ಗ ವರ್ಗೀಕರಣ ಆಯ್ಕೆಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ
 
 ✅ ಈ ಚೀಟ್ ಶೀಟ್ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ, ಮುದ್ರಿಸಿ, ನಿಮ್ಮ ಗೋಡೆಯ ಮೇಲೆ ಹಚ್ಚಿ!
@@ -147,7 +138,7 @@ Scikit-learn ವರ್ಗೀಕರಣವನ್ನು Supervised Learning ಅಡ�
 
 Scikit-learn ಈ ಟೇಬಲ್ ಅನ್ನು ನೀಡುತ್ತದೆ, ವಿವಿಧ ಡೇಟಾ ರಚನೆಗಳಿಂದ ಉಂಟಾಗುವ ಸವಾಲುಗಳನ್ನು ಸೊಲ್ವರ್‌ಗಳು ಹೇಗೆ ನಿರ್ವಹಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ವಿವರಿಸಲು:
 
-![ಸೊಲ್ವರ್‌ಗಳು](../../../../translated_images/solvers.5fc648618529e627dfac29b917b3ccabda4b45ee8ed41b0acb1ce1441e8d1ef1.kn.png)
+![ಸೊಲ್ವರ್‌ಗಳು](../../../../translated_images/kn/solvers.5fc648618529e627.webp)
 
 ## ವ್ಯಾಯಾಮ - ಡೇಟಾವನ್ನು ವಿಭಜಿಸಿ
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-10-11T12:04:49+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "ta"
-}
--->
 # மெஷின் லெர்னிங் க்கான கிளஸ்டரிங் மாடல்கள்
 
 கிளஸ்டரிங் என்பது மெஷின் லெர்னிங் பணியாகும், இதில் ஒருவருக்கொருவர் ஒத்த பொருட்களை கண்டறிந்து அவற்றை கிளஸ்டர்கள் எனப்படும் குழுக்களாக பிரிக்கிறது. மற்ற மெஷின் லெர்னிங் அணுகுமுறைகளிலிருந்து கிளஸ்டரிங் மாறுபடுவது என்னவென்றால், இது தானாகவே நடக்கிறது; உண்மையில், இது மேற்பார்வை கற்றலின் எதிர்மாறாக இருக்கிறது என்று கூறலாம்.
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 நைஜீரியாவின் பல்வகை பார்வையாளர்களுக்கு பல்வகை இசை விருப்பங்கள் உள்ளன. [இந்த கட்டுரையால்](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421) ஊக்கமடைந்து Spotify-இல் இருந்து சேகரிக்கப்பட்ட தரவுகளைப் பயன்படுத்தி, நைஜீரியாவில் பிரபலமான சில இசைகளைப் பார்ப்போம். இந்த தரவுத்தொகுப்பில் பாடல்களின் 'danceability' மதிப்பெண், 'acousticness', ஒலியளவு, 'speechiness', பிரபலத்தன்மை மற்றும் ஆற்றல் பற்றிய தகவல்கள் அடங்கும். இந்த தரவுகளில் முறைமைகள் கண்டறிவது 흥மையாக இருக்கும்!
 
-![ஒரு டர்ன்டேபிள்](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.ta.jpg)
+![ஒரு டர்ன்டேபிள்](../../../translated_images/ta/turntable.f2b86b13c53302dc.webp)
 
 > புகைப்படம் <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marcela Laskoski</a> மூலம் <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> இல்
 

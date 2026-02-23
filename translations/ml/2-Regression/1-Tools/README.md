@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-12-19T13:55:07+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "ml"
-}
--->
 # Python ഉം Scikit-learn ഉം ഉപയോഗിച്ച് regression മോഡലുകൾ ആരംഭിക്കുക
 
-![Summary of regressions in a sketchnote](../../../../translated_images/ml-regression.4e4f70e3b3ed446e3ace348dec973e133fa5d3680fbc8412b61879507369b98d.ml.png)
+![Summary of regressions in a sketchnote](../../../../translated_images/ml/ml-regression.4e4f70e3b3ed446e.webp)
 
 > Sketchnote by [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
@@ -81,7 +72,7 @@ Python കോഡ് വികസിപ്പിക്കുകയും മെ�
     hello notebook
     ```
 
-![VS Code with a notebook open](../../../../translated_images/notebook.4a3ee31f396b88325607afda33cadcc6368de98040ff33942424260aa84d75f2.ml.jpg)
+![VS Code with a notebook open](../../../../translated_images/ml/notebook.4a3ee31f396b8832.webp)
 
 നിങ്ങളുടെ കോഡിനൊപ്പം കുറിപ്പുകൾ ചേർത്ത് നോട്ട്‌ബുക്ക് സ്വയം ഡോക്യുമെന്റ് ചെയ്യാം.
 
@@ -212,7 +203,7 @@ Scikit-learn മോഡലുകൾ നിർമ്മിക്കുകയും
     plt.show()
     ```
 
-   ![a scatterplot showing datapoints around diabetes](../../../../translated_images/scatterplot.ad8b356bcbb33be68d54050e09b9b7bfc03e94fde7371f2609ae43f4c563b2d7.ml.png)
+   ![a scatterplot showing datapoints around diabetes](../../../../translated_images/ml/scatterplot.ad8b356bcbb33be6.webp)
    ✅ ഇവിടെ എന്ത് നടക്കുകയാണ് എന്ന് കുറച്ച് ചിന്തിക്കുക. ഒരു നേരിയ രേഖ നിരവധി ചെറിയ ഡാറ്റാ പോയിന്റുകളിലൂടെ കടന്നുപോകുന്നു, പക്ഷേ അത് ശരിക്കും എന്ത് ചെയ്യുകയാണ്? ഈ രേഖ ഉപയോഗിച്ച് ഒരു പുതിയ, കാണാത്ത ഡാറ്റാ പോയിന്റ് പ്ലോട്ടിന്റെ y അക്ഷത്തോട് എങ്ങനെ പൊരുത്തപ്പെടണം എന്ന് പ്രവചിക്കാൻ കഴിയുമെന്ന് നിങ്ങൾക്ക് കാണാമോ? ഈ മോഡലിന്റെ പ്രായോഗിക ഉപയോഗം വാക്കുകളിൽ വെക്കാൻ ശ്രമിക്കുക.
 
 അഭിനന്ദനങ്ങൾ, നിങ്ങൾ നിങ്ങളുടെ ആദ്യ ലീനിയർ റെഗ്രഷൻ മോഡൽ നിർമ്മിച്ചു, അതുമായി ഒരു പ്രവചനം സൃഷ്ടിച്ചു, അത് ഒരു പ്ലോട്ടിൽ പ്രദർശിപ്പിച്ചു!

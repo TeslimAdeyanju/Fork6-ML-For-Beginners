@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-11-18T18:53:54+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "pcm"
-}
--->
 # Cuisine classifiers 2
 
 For dis second lesson for classification, you go learn more ways wey you fit take classify numeric data. You go also sabi wetin fit happen if you choose one classifier instead of another one.
@@ -25,7 +16,7 @@ We don load your _notebook.ipynb_ file with the clean dataset and we don divide 
 
 Before, you don learn about the different options wey you fit use to classify data using Microsoft's cheat sheet. Scikit-learn get similar cheat sheet wey dey more detailed and fit help you narrow down your estimators (another name for classifiers):
 
-![ML Map from Scikit-learn](../../../../translated_images/map.e963a6a51349425ab107b38f6c7307eb4c0d0c7ccdd2e81a5e1919292bab9ac7.pcm.png)
+![ML Map from Scikit-learn](../../../../translated_images/pcm/map.e963a6a51349425a.webp)
 > Tip: [visit dis map online](https://scikit-learn.org/stable/tutorial/machine_learning_map/) and click along the path to read documentation.
 
 ### The plan

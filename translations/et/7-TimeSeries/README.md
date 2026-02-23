@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-10-11T11:58:36+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "et"
-}
--->
 # Sissejuhatus aegridade prognoosimisse
 
 Mis on aegridade prognoosimine? See seisneb tulevaste sündmuste ennustamises, analüüsides mineviku trende.
@@ -17,7 +8,7 @@ Nendes kahes õppetükis tutvustatakse teile aegridade prognoosimist, mis on kü
 
 Meie regionaalne fookus on elektritarbimine maailmas – huvitav andmestik, mille abil õppida prognoosima tulevast energiatarbimist mineviku koormusmustrite põhjal. Näete, kuidas selline prognoosimine võib olla äärmiselt kasulik ärikeskkonnas.
 
-![elektrivõrk](../../../translated_images/electric-grid.0c21d5214db09ffae93c06a87ca2abbb9ba7475ef815129c5b423d7f9a7cf136.et.jpg)
+![elektrivõrk](../../../translated_images/et/electric-grid.0c21d5214db09ffa.webp)
 
 Foto autorilt [Peddi Sai hrithik](https://unsplash.com/@shutter_log?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) elektritornidest teel Rajasthanis [Unsplashis](https://unsplash.com/s/photos/electric-india?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

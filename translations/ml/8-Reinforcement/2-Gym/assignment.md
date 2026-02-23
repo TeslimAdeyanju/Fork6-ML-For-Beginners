@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-12-19T15:42:43+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "ml"
-}
--->
 # ട്രെയിൻ മൗണ്ടൻ കാർ
 
 [OpenAI Gym](http://gym.openai.com) എല്ലാ പരിസ്ഥിതികളും ഒരേ API നൽകുന്ന വിധത്തിൽ രൂപകൽപ്പന ചെയ്തിരിക്കുന്നു - അഥവാ ഒരേ രീതിയിലുള്ള `reset`, `step` , `render` മെത്തഡുകളും **action space** , **observation space** എന്നിവയുടെ ഒരേ ആബ്സ്ട്രാക്ഷനുകളും. അതിനാൽ, കുറഞ്ഞ കോഡ് മാറ്റങ്ങളോടെ വ്യത്യസ്ത പരിസ്ഥിതികളിൽ ഒരേ reinforcement learning ആൽഗോരിതങ്ങൾ ഉപയോഗിക്കാൻ സാധിക്കണം.
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 [Mountain Car environment](https://gym.openai.com/envs/MountainCar-v0/) ഒരു താഴ്വരയിൽ കുടുങ്ങിയ ഒരു കാർ ഉൾക്കൊള്ളുന്നു:
 
-<img src="../../../../translated_images/mountaincar.43d56e588ce581c2d035f28cf038a9af112bec043b2ef8da40ac86119b1e3a93.ml.png" width="300"/>
+<img src="../../../../translated_images/ml/mountaincar.43d56e588ce581c2.webp" width="300"/>
 
 ലക്ഷ്യം താഴ്വരയിൽ നിന്ന് പുറത്തുകടക്കുകയും പതാക പിടിക്കുകയും ചെയ്യുക ആണ്, ഓരോ ഘട്ടത്തിലും താഴെപ്പറയുന്ന പ്രവർത്തനങ്ങളിൽ ഒന്നും ചെയ്യുക:
 

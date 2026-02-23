@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-08-29T13:29:18+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "tl"
-}
--->
 # Postscript: Mga Totoong Aplikasyon ng Klasikong Machine Learning
 
 Sa bahaging ito ng kurikulum, ipakikilala sa iyo ang ilang totoong aplikasyon ng klasikong ML. Nagsaliksik kami sa internet upang makahanap ng mga whitepaper at artikulo tungkol sa mga aplikasyon na gumamit ng mga estratehiyang ito, iniiwasan hangga't maaari ang neural networks, deep learning, at AI. Alamin kung paano ginagamit ang ML sa mga sistema ng negosyo, mga aplikasyon sa ekolohiya, pananalapi, sining at kultura, at marami pang iba.
 
-![chess](../../../translated_images/chess.e704a268781bdad85d1876b6c2295742fa0d856e7dcf3659147052df9d3db205.tl.jpg)
+![chess](../../../translated_images/tl/chess.e704a268781bdad8.webp)
 
 > Larawan ni <a href="https://unsplash.com/@childeye?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexis Fauvet</a> sa <a href="https://unsplash.com/s/photos/artificial-intelligence?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

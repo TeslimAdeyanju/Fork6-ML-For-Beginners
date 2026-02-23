@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-12-19T13:03:53+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "te"
-}
--->
 # మెషీన్ లెర్నింగ్ కోసం క్లస్టరింగ్ మోడల్స్
 
 క్లస్టరింగ్ అనేది ఒక మెషీన్ లెర్నింగ్ పని, ఇందులో ఒకదానితో మరొకటి పోలిక ఉన్న వస్తువులను కనుగొని వాటిని క్లస్టర్లు అని పిలవబడే సమూహాలలో గుంపు చేస్తుంది. మెషీన్ లెర్నింగ్‌లో ఇతర పద్ధతుల నుండి క్లస్టరింగ్ వేరుగా ఉండేది ఏమిటంటే, ఇది ఆటోమేటిక్‌గా జరుగుతుంది, వాస్తవానికి, ఇది సూపర్వైజ్డ్ లెర్నింగ్‌కు వ్యతిరేకంగా ఉంటుంది అని చెప్పవచ్చు.
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 నైజీరియాలోని విభిన్న ప్రేక్షకులు విభిన్న సంగీత రుచులు కలిగి ఉన్నారు. Spotify నుండి సేకరించిన డేటాను ఉపయోగించి ([ఈ ఆర్టికల్](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421) నుండి ప్రేరణ పొందిన), నైజీరియాలో ప్రాచుర్యం పొందిన కొన్ని సంగీతాలను చూద్దాం. ఈ డేటాసెట్‌లో వివిధ పాటల 'డాన్స్‌బిలిటీ' స్కోరు, 'అకౌస్టిక్‌నెస్', లౌడ్నెస్, 'స్పీచినెస్', ప్రాచుర్యం మరియు ఎనర్జీ గురించి డేటా ఉంది. ఈ డేటాలో నమూనాలను కనుగొనడం ఆసక్తికరం!
 
-![A turntable](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.te.jpg)
+![A turntable](../../../translated_images/te/turntable.f2b86b13c53302dc.webp)
 
 > ఫోటో <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">మార్సెలా లాస్కోస్కి</a> ద్వారా <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">అన్స్ప్లాష్</a>లో
 

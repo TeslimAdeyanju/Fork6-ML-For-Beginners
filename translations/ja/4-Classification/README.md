@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-09-03T23:48:56+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "ja"
-}
--->
 # 分類の始め方
 
 ## 地域のトピック: 美味しいアジアとインド料理 🍜
 
 アジアやインドでは、食文化が非常に多様で、とても美味しいです！地域料理のデータを見て、その材料を理解してみましょう。
 
-![タイ料理の売り手](../../../translated_images/thai-food.c47a7a7f9f05c21892a1f9dc7bf30669e6d18dfda420c5c7ebb4153f6a304edd.ja.jpg)
+![タイ料理の売り手](../../../translated_images/ja/thai-food.c47a7a7f9f05c218.webp)
 > 写真提供: <a href="https://unsplash.com/@changlisheng?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lisheng Chang</a> on <a href="https://unsplash.com/s/photos/asian-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## 学べること

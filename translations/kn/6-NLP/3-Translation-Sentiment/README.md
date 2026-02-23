@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-12-19T14:17:17+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "kn"
-}
--->
 # ಅನುವಾದ ಮತ್ತು ಭಾವನಾತ್ಮಕ ವಿಶ್ಲೇಷಣೆ ML ನೊಂದಿಗೆ
 
 ಹಿಂದಿನ ಪಾಠಗಳಲ್ಲಿ ನೀವು `TextBlob` ಬಳಸಿ ಮೂಲ ಬಾಟ್ ಅನ್ನು ಹೇಗೆ ನಿರ್ಮಿಸುವುದು ಎಂದು ಕಲಿತಿರಿ, ಇದು ಮೂಲಭೂತ NLP ಕಾರ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸಲು ML ಅನ್ನು ಹಿಂಬದಿಯಲ್ಲಿ ಒಳಗೊಂಡಿರುವ ಗ್ರಂಥಾಲಯವಾಗಿದೆ, ಉದಾಹರಣೆಗೆ ನಾಮಪದ ವಾಕ್ಯাংশ ಹೊರತೆಗೆಯುವುದು. ಗಣಕ ಭಾಷಾಶಾಸ್ತ್ರದಲ್ಲಿ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಸವಾಲು ಎಂದರೆ ಒಂದು ಮಾತಾಡುವ ಅಥವಾ ಬರೆಯುವ ಭಾಷೆಯಿಂದ ಮತ್ತೊಂದು ಭಾಷೆಗೆ ವಾಕ್ಯವನ್ನು ನಿಖರವಾಗಿ _ಅನುವಾದ_ ಮಾಡುವುದು.
@@ -56,7 +47,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ಉದಾಹರಣೆಗೆ, ಇಂಗ್ಲಿಷ್ ವಾಕ್ಯ `I have no money` ಅನ್ನು ಫ್ರೆಂಚ್‌ಗೆ ಶಬ್ದಾರ್ಥವಾಗಿ ಅನುವಾದಿಸಿದಾಗ, ಅದು `Je n'ai pas de monnaie` ಆಗಬಹುದು. "Monnaie" ಒಂದು ಕಪಟ ಫ್ರೆಂಚ್ 'false cognate', ಏಕೆಂದರೆ 'money' ಮತ್ತು 'monnaie' ಸಮಾನಾರ್ಥಕವಲ್ಲ. ಮಾನವನು ಮಾಡಬಹುದಾದ ಉತ್ತಮ ಅನುವಾದ `Je n'ai pas d'argent` ಆಗಿರುತ್ತದೆ, ಏಕೆಂದರೆ ಇದು ನೀವು ಹಣವಿಲ್ಲ ಎಂದು ಉತ್ತಮವಾಗಿ ಸೂಚಿಸುತ್ತದೆ (ಮತ್ತೆ 'monnaie' ಅರ್ಥ 'ಲೂಸ್ ಚೇಂಜ್').
 
-![monnaie](../../../../translated_images/monnaie.606c5fa8369d5c3b3031ef0713e2069485c87985dd475cd9056bdf4c76c1f4b8.kn.png)
+![monnaie](../../../../translated_images/kn/monnaie.606c5fa8369d5c3b.webp)
 
 > ಚಿತ್ರ [Jen Looper](https://twitter.com/jenlooper) ಅವರಿಂದ
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-08-29T20:38:18+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "ru"
-}
--->
 # Введение в прогнозирование временных рядов
 
 Что такое прогнозирование временных рядов? Это процесс предсказания будущих событий на основе анализа прошлых тенденций.
@@ -17,7 +8,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Наш региональный фокус — потребление электроэнергии в мире. Это интересный набор данных, который позволяет изучить прогнозирование будущего энергопотребления на основе прошлых нагрузок. Вы увидите, как такой вид прогнозирования может быть крайне полезным в бизнес-среде.
 
-![электрическая сеть](../../../translated_images/electric-grid.0c21d5214db09ffae93c06a87ca2abbb9ba7475ef815129c5b423d7f9a7cf136.ru.jpg)
+![электрическая сеть](../../../translated_images/ru/electric-grid.0c21d5214db09ffa.webp)
 
 Фото [Peddi Sai hrithik](https://unsplash.com/@shutter_log?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) электрических вышек на дороге в Раджастане на [Unsplash](https://unsplash.com/s/photos/electric-india?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

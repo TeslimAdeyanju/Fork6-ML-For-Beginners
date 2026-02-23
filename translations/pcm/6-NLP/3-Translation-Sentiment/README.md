@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-11-18T18:36:10+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "pcm"
-}
--->
 # Translation and sentiment analysis with ML
 
 For di previous lessons, you don learn how to build one basic bot wey dey use `TextBlob`, one library wey get ML for di background to do basic NLP work like noun phrase extraction. Another big wahala for computational linguistics na how to translate sentence well from one language to another.
@@ -56,7 +47,7 @@ For example, look di case of *Pride and Prejudice*, one popular English novel we
 
 For example, if English phrase like `I have no money` dey translate word for word to French, e fit turn `Je n'ai pas de monnaie`. "Monnaie" na tricky French 'false cognate', because 'money' and 'monnaie' no mean di same thing. Better translation wey human fit do na `Je n'ai pas d'argent`, because e go explain di meaning well say you no get money (no be 'loose change' wey be di meaning of 'monnaie').
 
-![monnaie](../../../../translated_images/monnaie.606c5fa8369d5c3b3031ef0713e2069485c87985dd475cd9056bdf4c76c1f4b8.pcm.png)
+![monnaie](../../../../translated_images/pcm/monnaie.606c5fa8369d5c3b.webp)
 
 > Image by [Jen Looper](https://twitter.com/jenlooper)
 

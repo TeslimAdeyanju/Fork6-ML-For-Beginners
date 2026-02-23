@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-12-19T13:58:37+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "te"
-}
--->
 # Scikit-learn ఉపయోగించి రిగ్రెషన్ మోడల్ నిర్మించండి: డేటాను సిద్ధం చేయండి మరియు విజువలైజ్ చేయండి
 
-![డేటా విజువలైజేషన్ ఇన్ఫోగ్రాఫిక్](../../../../translated_images/data-visualization.54e56dded7c1a804d00d027543f2881cb32da73aeadda2d4a4f10f3497526114.te.png)
+![డేటా విజువలైజేషన్ ఇన్ఫోగ్రాఫిక్](../../../../translated_images/te/data-visualization.54e56dded7c1a804.webp)
 
 ఇన్ఫోగ్రాఫిక్ [దాసాని మడిపల్లి](https://twitter.com/dasani_decoded) ద్వారా
 
@@ -183,7 +174,7 @@ Jupyter నోట్బుక్స్‌లో బాగా పనిచేస�
     plt.show()
     ```
 
-    ![ధర మరియు నెల సంబంధాన్ని చూపించే స్కాటర్‌ప్లాట్](../../../../translated_images/scatterplot.b6868f44cbd2051c6680ccdbb1510697d06a3ff6cd4abda656f5009c0ed4e3fc.te.png)
+    ![ధర మరియు నెల సంబంధాన్ని చూపించే స్కాటర్‌ప్లాట్](../../../../translated_images/te/scatterplot.b6868f44cbd2051c.webp)
 
     ఇది ఉపయోగకరమైన ప్లాట్నా? ఇందులో ఏదైనా ఆశ్చర్యకరమైనది ఉందా?
 
@@ -200,7 +191,7 @@ Jupyter నోట్బుక్స్‌లో బాగా పనిచేస�
     plt.ylabel("Pumpkin Price")
     ```
 
-    ![ధర మరియు నెల సంబంధాన్ని చూపించే బార్ చార్ట్](../../../../translated_images/barchart.a833ea9194346d769c77a3a870f7d8aee51574cd1138ca902e5500830a41cbce.te.png)
+    ![ధర మరియు నెల సంబంధాన్ని చూపించే బార్ చార్ట్](../../../../translated_images/te/barchart.a833ea9194346d76.webp)
 
     ఇది మరింత ఉపయోగకరమైన డేటా విజువలైజేషన్! ఇది పంప్కిన్ ధర సెప్టెంబర్ మరియు అక్టోబర్‌లో అత్యధికంగా ఉంటుందని సూచిస్తుంది. ఇది మీ అంచనాకు సరిపోతుందా? ఎందుకు లేదా ఎందుకు కాదు?
 

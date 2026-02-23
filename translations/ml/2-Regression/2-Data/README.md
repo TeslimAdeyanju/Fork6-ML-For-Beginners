@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-12-19T14:00:13+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "ml"
-}
--->
 # Scikit-learn ഉപയോഗിച്ച് ഒരു റെഗ്രഷൻ മോഡൽ നിർമ്മിക്കുക: ഡാറ്റ തയ്യാറാക്കൽ மற்றும் ദൃശ്യവൽക്കരണം
 
-![ഡാറ്റ ദൃശ്യവൽക്കരണ ഇൻഫോഗ്രാഫിക്](../../../../translated_images/data-visualization.54e56dded7c1a804d00d027543f2881cb32da73aeadda2d4a4f10f3497526114.ml.png)
+![ഡാറ്റ ദൃശ്യവൽക്കരണ ഇൻഫോഗ്രാഫിക്](../../../../translated_images/ml/data-visualization.54e56dded7c1a804.webp)
 
 ഇൻഫോഗ്രാഫിക് [ദസാനി മടിപള്ളി](https://twitter.com/dasani_decoded) tarafından
 
@@ -183,7 +174,7 @@ Jupyter നോട്ട്‌ബുക്കുകളിൽ നല്ല പ്�
     plt.show()
     ```
 
-    ![വില-മാസ ബന്ധം കാണിക്കുന്ന സ്കാറ്റർപ്ലോട്ട്](../../../../translated_images/scatterplot.b6868f44cbd2051c6680ccdbb1510697d06a3ff6cd4abda656f5009c0ed4e3fc.ml.png)
+    ![വില-മാസ ബന്ധം കാണിക്കുന്ന സ്കാറ്റർപ്ലോട്ട്](../../../../translated_images/ml/scatterplot.b6868f44cbd2051c.webp)
 
     ഇത് ഒരു ഉപകാരപ്രദമായ പ്ലോട്ട് ആണോ? ഇതിൽ എന്തെങ്കിലും നിങ്ങൾക്ക് അത്ഭുതം തോന്നുന്നുണ്ടോ?
 
@@ -200,7 +191,7 @@ Jupyter നോട്ട്‌ബുക്കുകളിൽ നല്ല പ്�
     plt.ylabel("Pumpkin Price")
     ```
 
-    ![വില-മാസ ബന്ധം കാണിക്കുന്ന ബാർ ചാർട്ട്](../../../../translated_images/barchart.a833ea9194346d769c77a3a870f7d8aee51574cd1138ca902e5500830a41cbce.ml.png)
+    ![വില-മാസ ബന്ധം കാണിക്കുന്ന ബാർ ചാർട്ട്](../../../../translated_images/ml/barchart.a833ea9194346d76.webp)
 
     ഇത് കൂടുതൽ ഉപകാരപ്രദമായ ഡാറ്റ ദൃശ്യവൽക്കരണമാണ്! പംപ്കിനുകളുടെ ഏറ്റവും ഉയർന്ന വില സെപ്റ്റംബർ, ഒക്ടോബർ മാസങ്ങളിൽ സംഭവിക്കുന്നതായി ഇത് സൂചിപ്പിക്കുന്നു. ഇത് നിങ്ങളുടെ പ്രതീക്ഷയുമായി പൊരുത്തപ്പെടുന്നുണ്ടോ? എന്തുകൊണ്ടോ എന്തുകൊണ്ടല്ല?
 

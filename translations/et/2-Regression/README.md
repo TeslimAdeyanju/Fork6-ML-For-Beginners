@@ -1,18 +1,9 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-10-11T11:40:09+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "et"
-}
--->
 # Regressioonimudelid masinõppes
 ## Piirkondlik teema: Kõrvitsahindade regressioonimudelid Põhja-Ameerikas 🎃
 
 Põhja-Ameerikas nikerdatakse kõrvitsatesse sageli hirmutavaid nägusid Halloweeni jaoks. Uurime lähemalt neid põnevaid köögivilju!
 
-![jack-o-lanterns](../../../translated_images/jack-o-lanterns.181c661a9212457d7756f37219f660f1358af27554d856e5a991f16b4e15337c.et.jpg)
+![jack-o-lanterns](../../../translated_images/et/jack-o-lanterns.181c661a9212457d.webp)
 > Foto autor <a href="https://unsplash.com/@teutschmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Beth Teutschmann</a> lehel <a href="https://unsplash.com/s/photos/jack-o-lanterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Mida sa õpid

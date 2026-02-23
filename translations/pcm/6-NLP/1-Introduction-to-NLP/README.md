@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-11-18T18:28:07+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "pcm"
-}
--->
 # Introduction to natural language processing
 
 Dis lesson go talk small about di history and di important tins wey dey for *natural language processing*, wey be one part of *computational linguistics*.
@@ -32,7 +23,7 @@ Computational linguistics na research and development area wey don dey for many 
 
 If you don ever dictate for your phone instead of typing or ask virtual assistant question, di speech wey you talk go turn text and dem go process or *parse* di language wey you talk. Di keywords wey dem detect go then turn format wey di phone or assistant fit understand and act on.
 
-![comprehension](../../../../translated_images/comprehension.619708fc5959b0f6a24ebffba2ad7b0625391a476141df65b43b59de24e45c6f.pcm.png)
+![comprehension](../../../../translated_images/pcm/comprehension.619708fc5959b0f6.webp)
 > To really understand language no easy! Image by [Jen Looper](https://twitter.com/jenlooper)
 
 ### How dem take make dis technology possible?

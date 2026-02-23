@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-03T17:01:31+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "lt"
-}
--->
 # Klasterizavimo modeliai mašininio mokymosi srityje
 
 Klasterizavimas yra mašininio mokymosi užduotis, kurios tikslas – surasti objektus, panašius vienas į kitą, ir sugrupuoti juos į grupes, vadinamas klasteriais. Kas skiria klasterizavimą nuo kitų mašininio mokymosi metodų, yra tai, kad procesas vyksta automatiškai. Iš tiesų, galima sakyti, kad tai yra priešingybė prižiūrimam mokymuisi.
@@ -15,7 +6,7 @@ Klasterizavimas yra mašininio mokymosi užduotis, kurios tikslas – surasti ob
 
 Nigerijos įvairialypė auditorija turi skirtingus muzikinius skonius. Naudojant duomenis, surinktus iš Spotify (įkvėpta [šio straipsnio](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421)), pažvelkime į kai kurias Nigerijoje populiarias dainas. Šis duomenų rinkinys apima informaciją apie įvairių dainų „šokamumo“ balą, „akustiškumą“, garsumą, „kalbamumą“, populiarumą ir energiją. Bus įdomu atrasti šių duomenų dėsningumus!
 
-![Patefono nuotrauka](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.lt.jpg)
+![Patefono nuotrauka](../../../translated_images/lt/turntable.f2b86b13c53302dc.webp)
 
 > Nuotrauka <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marcela Laskoski</a> iš <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

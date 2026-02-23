@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-12-19T14:01:56+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "kn"
-}
--->
 # Scikit-learn ಬಳಸಿ ರೆಗ್ರೆಶನ್ ಮಾದರಿಯನ್ನು ನಿರ್ಮಿಸಿ: ಡೇಟಾವನ್ನು ಸಿದ್ಧಪಡಿಸಿ ಮತ್ತು ದೃಶ್ಯೀಕರಿಸಿ
 
-![ಡೇಟಾ ದೃಶ್ಯೀಕರಣ ಇನ್ಫೋಗ್ರಾಫಿಕ್](../../../../translated_images/data-visualization.54e56dded7c1a804d00d027543f2881cb32da73aeadda2d4a4f10f3497526114.kn.png)
+![ಡೇಟಾ ದೃಶ್ಯೀಕರಣ ಇನ್ಫೋಗ್ರಾಫಿಕ್](../../../../translated_images/kn/data-visualization.54e56dded7c1a804.webp)
 
 ಇನ್ಫೋಗ್ರಾಫಿಕ್ [ದಾಸನಿ ಮಡಿಪಳ್ಳಿ](https://twitter.com/dasani_decoded) ಅವರಿಂದ
 
@@ -183,7 +174,7 @@ Jupyter ನೋಟ್ಬುಕ್‌ಗಳಲ್ಲಿ ಚೆನ್ನಾಗಿ �
     plt.show()
     ```
 
-    ![ಬೆಲೆ ಮತ್ತು ತಿಂಗಳ ಸಂಬಂಧವನ್ನು ತೋರಿಸುವ ಸ್ಕ್ಯಾಟರ್‌ಪ್ಲಾಟ್](../../../../translated_images/scatterplot.b6868f44cbd2051c6680ccdbb1510697d06a3ff6cd4abda656f5009c0ed4e3fc.kn.png)
+    ![ಬೆಲೆ ಮತ್ತು ತಿಂಗಳ ಸಂಬಂಧವನ್ನು ತೋರಿಸುವ ಸ್ಕ್ಯಾಟರ್‌ಪ್ಲಾಟ್](../../../../translated_images/kn/scatterplot.b6868f44cbd2051c.webp)
 
     ಇದು ಉಪಯುಕ್ತವಾದ ಪ್ಲಾಟ್ ಆಗಿದೆಯೇ? ಇದರಲ್ಲಿ ಏನಾದರೂ ನಿಮಗೆ ಆಶ್ಚರ್ಯಕರವೇ?
 
@@ -200,7 +191,7 @@ Jupyter ನೋಟ್ಬುಕ್‌ಗಳಲ್ಲಿ ಚೆನ್ನಾಗಿ �
     plt.ylabel("Pumpkin Price")
     ```
 
-    ![ಬೆಲೆ ಮತ್ತು ತಿಂಗಳ ಸಂಬಂಧವನ್ನು ತೋರಿಸುವ ಬಾರ್ ಚಾರ್ಟ್](../../../../translated_images/barchart.a833ea9194346d769c77a3a870f7d8aee51574cd1138ca902e5500830a41cbce.kn.png)
+    ![ಬೆಲೆ ಮತ್ತು ತಿಂಗಳ ಸಂಬಂಧವನ್ನು ತೋರಿಸುವ ಬಾರ್ ಚಾರ್ಟ್](../../../../translated_images/kn/barchart.a833ea9194346d76.webp)
 
     ಇದು ಹೆಚ್ಚು ಉಪಯುಕ್ತ ಡೇಟಾ ದೃಶ್ಯೀಕರಣ! ಇದು ಪಂಪ್ಕಿನ್‌ಗಳ ಅತ್ಯಧಿಕ ಬೆಲೆ ಸೆಪ್ಟೆಂಬರ್ ಮತ್ತು ಅಕ್ಟೋಬರ್ ತಿಂಗಳಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಇದು ನಿಮ್ಮ ನಿರೀಕ್ಷೆಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆಯೇ? ಏಕೆ ಅಥವಾ ಏಕೆ ಅಲ್ಲ?
 

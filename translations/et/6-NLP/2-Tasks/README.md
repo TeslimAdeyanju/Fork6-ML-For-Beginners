@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-10-11T11:37:14+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "et"
-}
--->
 # Looduslike keelte töötlemise (NLP) levinud ülesanded ja tehnikad
 
 Enamiku *looduslike keelte töötlemise* ülesannete puhul tuleb töödeldav tekst jagada osadeks, analüüsida ja tulemused salvestada või reeglite ja andmekogumitega võrrelda. Need ülesanded võimaldavad programmeerijal tuletada teksti _tähendust_, _eesmärki_ või lihtsalt _sõnade ja terminite sagedust_.
@@ -23,14 +14,14 @@ Teksti analüüsimiseks on erinevaid viise. On mitmeid ülesandeid, mida saab t�
 
 Esimene asi, mida enamik NLP algoritme teeb, on teksti jagamine tokeniteks ehk sõnadeks. Kuigi see kõlab lihtsana, võib kirjavahemärkide ja erinevate keelte sõna- ja lausepiiride arvestamine olla keeruline. Võib olla vaja kasutada erinevaid meetodeid, et määrata piire.
 
-![tokeniseerimine](../../../../translated_images/tokenization.1641a160c66cd2d93d4524e8114e93158a9ce0eba3ecf117bae318e8a6ad3487.et.png)
+![tokeniseerimine](../../../../translated_images/et/tokenization.1641a160c66cd2d9.webp)
 > Lause tokeniseerimine **Uhkus ja eelarvamus** raamatust. Infograafika: [Jen Looper](https://twitter.com/jenlooper)
 
 ### Embeddings
 
 [Sõna embeddings](https://wikipedia.org/wiki/Word_embedding) on viis, kuidas tekstandmeid numbriliselt esitada. Embeddings tehakse nii, et sarnase tähendusega või koos kasutatavad sõnad grupeeritakse.
 
-![sõna embeddings](../../../../translated_images/embedding.2cf8953c4b3101d188c2f61a5de5b6f53caaa5ad4ed99236d42bc3b6bd6a1fe2.et.png)
+![sõna embeddings](../../../../translated_images/et/embedding.2cf8953c4b3101d1.webp)
 > "Mul on teie närvide vastu suurim austus, nad on minu vanad sõbrad." - Sõna embeddings lausele **Uhkus ja eelarvamus** raamatust. Infograafika: [Jen Looper](https://twitter.com/jenlooper)
 
 ✅ Proovi [seda huvitavat tööriista](https://projector.tensorflow.org/), et katsetada sõna embeddings. Klõpsates ühel sõnal, näed sarnaste sõnade klastreid: 'mänguasi' grupeerub 'disney', 'lego', 'playstation' ja 'konsooliga'.
@@ -39,7 +30,7 @@ Esimene asi, mida enamik NLP algoritme teeb, on teksti jagamine tokeniteks ehk s
 
 Iga tokeniseeritud sõna saab määrata sõnaliigi järgi - nimisõna, tegusõna või omadussõna. Näiteks lause `kiire punane rebane hüppas üle laisa pruuni koera` võib olla POS märgistatud järgmiselt: rebane = nimisõna, hüppas = tegusõna.
 
-![parssimine](../../../../translated_images/parse.d0c5bbe1106eae8fe7d60a183cd1736c8b6cec907f38000366535f84f3036101.et.png)
+![parssimine](../../../../translated_images/et/parse.d0c5bbe1106eae8f.webp)
 
 > Lause parssimine **Uhkus ja eelarvamus** raamatust. Infograafika: [Jen Looper](https://twitter.com/jenlooper)
 

@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-08-29T14:08:13+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "tl"
-}
--->
 # Panimula sa reinforcement learning
 
 Ang reinforcement learning, RL, ay itinuturing bilang isa sa mga pangunahing paradigma ng machine learning, kasabay ng supervised learning at unsupervised learning. Ang RL ay tungkol sa paggawa ng mga desisyon: paghahatid ng tamang desisyon o kahit papaano ay pagkatuto mula rito.
 
 Isipin mo na mayroon kang isang simulated na kapaligiran tulad ng stock market. Ano ang mangyayari kung magpataw ka ng isang partikular na regulasyon? Magkakaroon ba ito ng positibo o negatibong epekto? Kung may negatibong mangyari, kailangan mong tanggapin ang _negative reinforcement_, matuto mula rito, at baguhin ang direksyon. Kung positibo ang resulta, kailangan mong palakasin ang _positive reinforcement_.
 
-![peter and the wolf](../../../translated_images/peter.779730f9ba3a8a8d9290600dcf55f2e491c0640c785af7ac0d64f583c49b8864.tl.png)
+![peter and the wolf](../../../translated_images/tl/peter.779730f9ba3a8a8d.webp)
 
 > Si Peter at ang kanyang mga kaibigan ay kailangang tumakas mula sa gutom na lobo! Larawan ni [Jen Looper](https://twitter.com/jenlooper)
 

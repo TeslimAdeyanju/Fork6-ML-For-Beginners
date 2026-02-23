@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-12-19T14:16:31+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "ml"
-}
--->
 # ML ഉപയോഗിച്ച് വിവർത്തനവും മനോഭാവ വിശകലനവും
 
 മുൻപത്തെ പാഠങ്ങളിൽ നിങ്ങൾ `TextBlob` ഉപയോഗിച്ച് ഒരു അടിസ്ഥാന ബോട്ട് എങ്ങനെ നിർമ്മിക്കാമെന്ന് പഠിച്ചു, ഇത് നൗൺ ഫ്രേസ് എക്സ്ട്രാക്ഷൻ പോലുള്ള അടിസ്ഥാന NLP പ്രവർത്തനങ്ങൾ നടത്താൻ ML പിന്നിൽ ഉൾപ്പെടുത്തിയ ഒരു ലൈബ്രറിയാണ്. കംപ്യൂട്ടേഷണൽ ലിംഗ്വിസ്റ്റിക്സിലെ മറ്റൊരു പ്രധാന വെല്ലുവിളി ഒരു സംസാരിച്ചോ എഴുതിയോ ഭാഷയിൽ നിന്നു മറ്റൊരു ഭാഷയിലേക്ക് വാചകത്തിന്റെ കൃത്യമായ _വിവർത്തനം_ ആണ്.
@@ -56,7 +47,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ഉദാഹരണത്തിന്, `I have no money` എന്ന ഇംഗ്ലീഷ് വാചകം ഫ്രഞ്ചിലേക്ക് ശബ്ദാർത്ഥമായി വിവർത്തനം ചെയ്താൽ, അത് `Je n'ai pas de monnaie` ആകാം. "Monnaie" ഒരു പ്രയാസമുള്ള ഫ്രഞ്ച് 'false cognate' ആണ്, 'money' ഉം 'monnaie' ഉം സമാനാർത്ഥകങ്ങൾ അല്ല. മനുഷ്യൻ നൽകുന്ന നല്ല വിവർത്തനം `Je n'ai pas d'argent` ആകും, കാരണം ഇത് നിങ്ങൾക്ക് പണം ഇല്ല എന്ന അർത്ഥം കൂടുതൽ വ്യക്തമാക്കുന്നു ('monnaie' യുടെ അർത്ഥം 'loose change' ആണ്).
 
-![monnaie](../../../../translated_images/monnaie.606c5fa8369d5c3b3031ef0713e2069485c87985dd475cd9056bdf4c76c1f4b8.ml.png)
+![monnaie](../../../../translated_images/ml/monnaie.606c5fa8369d5c3b.webp)
 
 > ചിത്രം [Jen Looper](https://twitter.com/jenlooper) യുടെതാണ്
 

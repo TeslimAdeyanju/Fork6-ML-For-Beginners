@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-10-11T11:30:24+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "et"
-}
--->
 # Loomulik keele töötlemisega alustamine
 
 Loomulik keele töötlemine (NLP) on arvutiprogrammi võime mõista inimkeelt nii, nagu seda räägitakse ja kirjutatakse – viidates loomulikule keelele. See on tehisintellekti (AI) komponent. NLP on eksisteerinud üle 50 aasta ja selle juured ulatuvad lingvistika valdkonda. Kogu valdkond on suunatud masinate aitamisele inimkeele mõistmisel ja töötlemisel. Seda saab kasutada ülesannete täitmiseks, nagu õigekirjakontroll või masintõlge. Sellel on mitmesuguseid praktilisi rakendusi mitmes valdkonnas, sealhulgas meditsiiniuuringutes, otsingumootorites ja äriluures.
@@ -17,7 +8,7 @@ Selles õppekava osas tutvustatakse teile üht masinõppe kõige laialdasemalt k
 
 Nendes tundides õpime NLP põhialuseid, luues väikeseid vestlusroboteid, et mõista, kuidas masinõpe aitab neid vestlusi üha "nutikamaks" muuta. Rändate ajas tagasi, vesteldes Elizabeth Bennetti ja Mr. Darcyga Jane Austeni klassikalisest romaanist **Uhkus ja eelarvamus**, mis avaldati 1813. aastal. Seejärel süvendate oma teadmisi, õppides sentimentanalüüsi Euroopa hotellide arvustuste kaudu.
 
-![Uhkus ja eelarvamus raamat ja tee](../../../translated_images/p&p.279f1c49ecd889419e4ce6206525e9aa30d32a976955cd24daa636c361c6391f.et.jpg)
+![Uhkus ja eelarvamus raamat ja tee](../../../translated_images/et/p&p.279f1c49ecd88941.webp)
 > Foto autor <a href="https://unsplash.com/@elaineh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elaine Howlin</a> lehel <a href="https://unsplash.com/s/photos/pride-and-prejudice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Tunnid

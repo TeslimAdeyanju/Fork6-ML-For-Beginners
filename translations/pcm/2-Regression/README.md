@@ -1,18 +1,9 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-11-18T18:38:01+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "pcm"
-}
--->
 # Regression models for machine learning
 ## Regional topic: Regression models for pumpkin prices in North America 🎃
 
 For North America, dem dey use pumpkin plenty for Halloween, dem dey carve am make e look scary. Make we learn more about dis vegetable wey dey interesting!
 
-![jack-o-lanterns](../../../translated_images/jack-o-lanterns.181c661a9212457d7756f37219f660f1358af27554d856e5a991f16b4e15337c.pcm.jpg)
+![jack-o-lanterns](../../../translated_images/pcm/jack-o-lanterns.181c661a9212457d.webp)
 > Foto by <a href="https://unsplash.com/@teutschmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Beth Teutschmann</a> for <a href="https://unsplash.com/s/photos/jack-o-lanterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Wetin you go learn

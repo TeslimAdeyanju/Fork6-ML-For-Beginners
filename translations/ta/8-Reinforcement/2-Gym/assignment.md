@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-10-11T11:17:31+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "ta"
-}
--->
 # மலை கார் பயிற்சி
 
 [OpenAI Gym](http://gym.openai.com) இவ்வாறு வடிவமைக்கப்பட்டுள்ளது, அனைத்து சூழல்களும் ஒரே API-ஐ வழங்குகின்றன - அதாவது, ஒரே `reset`, `step` மற்றும் `render` முறைமைகள் மற்றும் **action space** மற்றும் **observation space** ஆகியவற்றின் ஒரே சுருக்கங்கள். எனவே, reinforcement learning algorithm-களை குறைந்த அளவு குறியீட்டு மாற்றங்களுடன் வெவ்வேறு சூழல்களுக்கு ஏற்றுக்கொள்ள முடியும்.
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 [மலை கார் சூழல்](https://gym.openai.com/envs/MountainCar-v0/) ஒரு பள்ளத்தாக்கில் சிக்கியுள்ள காரை கொண்டுள்ளது:
 
-<img src="../../../../translated_images/mountaincar.43d56e588ce581c2d035f28cf038a9af112bec043b2ef8da40ac86119b1e3a93.ta.png" width="300"/>
+<img src="../../../../translated_images/ta/mountaincar.43d56e588ce581c2.webp" width="300"/>
 
 பள்ளத்தாக்கிலிருந்து வெளியேறி கொடியை பிடிக்க வேண்டும், இதற்காக ஒவ்வொரு படியிலும் பின்வரும் செயல்களில் ஒன்றை செய்ய வேண்டும்:
 

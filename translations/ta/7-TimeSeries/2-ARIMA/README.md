@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-10-11T11:58:44+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "ta"
-}
--->
 # ARIMA மூலம் நேர்முகம் கணிப்பு
 
 முந்தைய பாடத்தில், நேர்முகம் கணிப்பு பற்றிய சில அடிப்படைகளை நீங்கள் கற்றுக்கொண்டீர்கள் மற்றும் ஒரு குறிப்பிட்ட காலத்தில் மின்சார சுமை மாறுபாடுகளை காட்டும் தரவுத்தொகுப்பை ஏற்றீர்கள்.
@@ -91,7 +82,7 @@ ARIMA-யுடன் வேலை செய்ய, சில முக்கி
     plt.show()
     ```
 
-    ![பயிற்சி மற்றும் சோதனை தரவுகள்](../../../../translated_images/train-test.8928d14e5b91fc942f0ca9201b2d36c890ea7e98f7619fd94f75de3a4c2bacb9.ta.png)
+    ![பயிற்சி மற்றும் சோதனை தரவுகள்](../../../../translated_images/ta/train-test.8928d14e5b91fc94.webp)
 
     எனவே, தரவுகளை பயிற்சி செய்ய ஒரு சிறிய கால சாளரத்தைப் பயன்படுத்துவது போதுமானதாக இருக்கும்.
 
@@ -134,11 +125,11 @@ ARIMA-யுடன் வேலை செய்ய, சில முக்கி
     plt.show()
     ```
 
-    ![அசல்](../../../../translated_images/original.b2b15efe0ce92b8745918f071dceec2231661bf49c8db6918e3ff4b3b0b183c2.ta.png)
+    ![அசல்](../../../../translated_images/ta/original.b2b15efe0ce92b87.webp)
 
     > அசல் தரவுகள்
 
-    ![அளவீடு செய்யப்பட்ட](../../../../translated_images/scaled.e35258ca5cd3d43f86d5175e584ba96b38d51501f234abf52e11f4fe2631e45f.ta.png)
+    ![அளவீடு செய்யப்பட்ட](../../../../translated_images/ta/scaled.e35258ca5cd3d43f.webp)
 
     > அளவீடு செய்யப்பட்ட தரவுகள்
 
@@ -298,7 +289,7 @@ Walk-forward validation நேர்முக மாதிரி மதிப்
 
 > **🧮 கணிதத்தை காட்டவும்**
 >
-> ![MAPE](../../../../translated_images/mape.fd87bbaf4d346846df6af88b26bf6f0926bf9a5027816d5e23e1200866e3e8a4.ta.png)
+> ![MAPE](../../../../translated_images/ta/mape.fd87bbaf4d346846.webp)
 >
 > [MAPE](https://www.linkedin.com/pulse/what-mape-mad-msd-time-series-allameh-statistics/) என்பது மேலே கொடுக்கப்பட்ட சமன்பாட்டின் மூலம் வரையறுக்கப்பட்ட விகிதமாக கணிப்பு துல்லியத்தை காட்ட பயன்படுத்தப்படுகிறது. உண்மையான<sub>t</sub> மற்றும் கணிக்கப்பட்ட<sub>t</sub> இடையேயான வேறுபாடு உண்மையான<sub>t</sub> மூலம் வகுக்கப்படுகிறது. "இந்த கணக்கீட்டில் உள்ள முழு மதிப்பு ஒவ்வொரு கணிக்கப்பட்ட நேர புள்ளிக்கும் சேர்க்கப்பட்டு, பொருத்தப்பட்ட புள்ளிகளின் எண்ணிக்கையால் n வகுக்கப்படுகிறது." [wikipedia](https://wikipedia.org/wiki/Mean_absolute_percentage_error)
 
@@ -358,7 +349,7 @@ Walk-forward validation நேர்முக மாதிரி மதிப்
     plt.show()
     ```
 
-    ![ஒரு நேர வரிசை மாதிரி](../../../../translated_images/accuracy.2c47fe1bf15f44b3656651c84d5e2ba9b37cd929cd2aa8ab6cc3073f50570f4e.ta.png)
+    ![ஒரு நேர வரிசை மாதிரி](../../../../translated_images/ta/accuracy.2c47fe1bf15f44b3.webp)
 
 🏆 ஒரு மிக அழகான வரைபடம், நல்ல துல்லியத்துடன் ஒரு மாதிரியை காட்டுகிறது. நல்ல வேலை!
 

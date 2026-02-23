@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-08-29T22:18:02+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "it"
-}
--->
 # Introduzione al processamento del linguaggio naturale
 
 Il processamento del linguaggio naturale (NLP) è la capacità di un programma informatico di comprendere il linguaggio umano così come viene parlato e scritto, noto come linguaggio naturale. È una componente dell'intelligenza artificiale (AI). L'NLP esiste da più di 50 anni e ha radici nel campo della linguistica. L'intero settore è orientato ad aiutare le macchine a comprendere e elaborare il linguaggio umano. Questo può essere utilizzato per svolgere compiti come il controllo ortografico o la traduzione automatica. Ha una varietà di applicazioni pratiche in diversi ambiti, tra cui la ricerca medica, i motori di ricerca e l'intelligence aziendale.
@@ -17,7 +8,7 @@ In questa sezione del curriculum, verrà introdotto uno degli utilizzi più diff
 
 In queste lezioni impareremo le basi dell'NLP costruendo piccoli bot conversazionali per capire come il machine learning contribuisca a rendere queste conversazioni sempre più "intelligenti". Faremo un viaggio nel tempo, chiacchierando con Elizabeth Bennett e Mr. Darcy dal classico romanzo di Jane Austen, **Orgoglio e Pregiudizio**, pubblicato nel 1813. Successivamente, approfondiremo la conoscenza imparando l'analisi del sentiment attraverso le recensioni di hotel in Europa.
 
-![Libro Orgoglio e Pregiudizio e tè](../../../translated_images/p&p.279f1c49ecd889419e4ce6206525e9aa30d32a976955cd24daa636c361c6391f.it.jpg)
+![Libro Orgoglio e Pregiudizio e tè](../../../translated_images/it/p&p.279f1c49ecd88941.webp)
 > Foto di <a href="https://unsplash.com/@elaineh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elaine Howlin</a> su <a href="https://unsplash.com/s/photos/pride-and-prejudice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Lezioni

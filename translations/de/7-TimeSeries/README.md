@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T21:42:42+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "de"
-}
--->
 # Einführung in die Zeitreihenprognose
 
 Was ist Zeitreihenprognose? Es geht darum, zukünftige Ereignisse vorherzusagen, indem Trends aus der Vergangenheit analysiert werden.
@@ -17,7 +8,7 @@ In diesen zwei Lektionen wirst du in die Zeitreihenprognose eingeführt, ein etw
 
 Unser regionaler Fokus liegt auf dem weltweiten Stromverbrauch, einem interessanten Datensatz, um zu lernen, wie man den zukünftigen Energieverbrauch basierend auf Mustern der vergangenen Last vorhersagen kann. Du wirst sehen, wie diese Art der Prognose in einem geschäftlichen Umfeld äußerst hilfreich sein kann.
 
-![Stromnetz](../../../translated_images/electric-grid.0c21d5214db09ffae93c06a87ca2abbb9ba7475ef815129c5b423d7f9a7cf136.de.jpg)
+![Stromnetz](../../../translated_images/de/electric-grid.0c21d5214db09ffa.webp)
 
 Foto von [Peddi Sai hrithik](https://unsplash.com/@shutter_log?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) von Strommasten auf einer Straße in Rajasthan auf [Unsplash](https://unsplash.com/s/photos/electric-india?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-03T17:33:40+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "pl"
-}
--->
 # Wprowadzenie do uczenia maszynowego
 
 W tej części programu nauczania zostaniesz wprowadzony w podstawowe pojęcia związane z dziedziną uczenia maszynowego, dowiesz się, czym ono jest, poznasz jego historię oraz techniki, które badacze wykorzystują w pracy z nim. Odkryjmy razem ten nowy świat ML!
 
-![globe](../../../translated_images/globe.59f26379ceb40428672b4d9a568044618a2bf6292ecd53a5c481b90e3fa805eb.pl.jpg)
+![globe](../../../translated_images/pl/globe.59f26379ceb40428.webp)
 > Zdjęcie autorstwa <a href="https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bill Oxford</a> na <a href="https://unsplash.com/s/photos/globe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ### Lekcje

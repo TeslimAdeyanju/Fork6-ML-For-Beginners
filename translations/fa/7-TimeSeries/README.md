@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T22:41:38+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "fa"
-}
--->
 # مقدمه‌ای بر پیش‌بینی سری‌های زمانی
 
 پیش‌بینی سری‌های زمانی چیست؟ این فرآیند شامل پیش‌بینی رویدادهای آینده با تحلیل روندهای گذشته است.
@@ -17,7 +8,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 تمرکز منطقه‌ای ما بر مصرف برق جهانی است، یک مجموعه داده جالب برای یادگیری پیش‌بینی مصرف برق آینده بر اساس الگوهای بار گذشته. می‌توانید ببینید که این نوع پیش‌بینی چگونه می‌تواند در محیط‌های تجاری بسیار مفید باشد.
 
-![شبکه برق](../../../translated_images/electric-grid.0c21d5214db09ffae93c06a87ca2abbb9ba7475ef815129c5b423d7f9a7cf136.fa.jpg)
+![شبکه برق](../../../translated_images/fa/electric-grid.0c21d5214db09ffa.webp)
 
 عکس از [Peddi Sai hrithik](https://unsplash.com/@shutter_log?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) از برج‌های برق در جاده‌ای در راجستان در [Unsplash](https://unsplash.com/s/photos/electric-india?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-08-29T21:39:36+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "bn"
-}
--->
 # শ্রেণীবিভাজন শুরু করা
 
 ## আঞ্চলিক বিষয়: সুস্বাদু এশীয় এবং ভারতীয় খাবার 🍜
 
 এশিয়া এবং ভারতে খাবারের ঐতিহ্য অত্যন্ত বৈচিত্র্যময় এবং খুবই সুস্বাদু! চলুন আঞ্চলিক খাবারের উপাদান সম্পর্কে বোঝার জন্য ডেটা দেখি।
 
-![থাই খাবার বিক্রেতা](../../../translated_images/thai-food.c47a7a7f9f05c21892a1f9dc7bf30669e6d18dfda420c5c7ebb4153f6a304edd.bn.jpg)
+![থাই খাবার বিক্রেতা](../../../translated_images/bn/thai-food.c47a7a7f9f05c218.webp)
 > ছবি <a href="https://unsplash.com/@changlisheng?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">লিশেং চ্যাং</a> এর তোলা <a href="https://unsplash.com/s/photos/asian-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">আনস্প্ল্যাশ</a> এ
   
 ## আপনি কী শিখবেন

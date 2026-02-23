@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-04T00:14:18+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "es"
-}
--->
 # Introducción al aprendizaje por refuerzo
 
 El aprendizaje por refuerzo, RL, se considera uno de los paradigmas básicos del aprendizaje automático, junto con el aprendizaje supervisado y el aprendizaje no supervisado. RL trata sobre decisiones: tomar las decisiones correctas o, al menos, aprender de ellas.
 
 Imagina que tienes un entorno simulado como el mercado de valores. ¿Qué sucede si impones una regulación específica? ¿Tiene un efecto positivo o negativo? Si ocurre algo negativo, necesitas tomar este _refuerzo negativo_, aprender de ello y cambiar de rumbo. Si el resultado es positivo, necesitas construir sobre ese _refuerzo positivo_.
 
-![Pedro y el lobo](../../../translated_images/peter.779730f9ba3a8a8d9290600dcf55f2e491c0640c785af7ac0d64f583c49b8864.es.png)
+![Pedro y el lobo](../../../translated_images/es/peter.779730f9ba3a8a8d.webp)
 
 > ¡Pedro y sus amigos necesitan escapar del lobo hambriento! Imagen por [Jen Looper](https://twitter.com/jenlooper)
 

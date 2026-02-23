@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-12-19T13:06:34+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "te"
-}
--->
 # వర్గీకరణతో ప్రారంభించడం
 
 ## ప్రాంతీయ విషయం: రుచికరమైన ఆసియా మరియు భారతీయ వంటకాలు 🍜
 
 ఆసియా మరియు భారతదేశంలో, ఆహార సంప్రదాయాలు చాలా వైవిధ్యంగా ఉంటాయి, మరియు చాలా రుచికరంగా ఉంటాయి! వారి పదార్థాలను అర్థం చేసుకోవడానికి ప్రాంతీయ వంటకాల గురించి డేటాను చూద్దాం.
 
-![Thai food seller](../../../translated_images/thai-food.c47a7a7f9f05c21892a1f9dc7bf30669e6d18dfda420c5c7ebb4153f6a304edd.te.jpg)
+![Thai food seller](../../../translated_images/te/thai-food.c47a7a7f9f05c218.webp)
 > ఫోటో <a href="https://unsplash.com/@changlisheng?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">లిషెంగ్ చాంగ్</a> ద్వారా <a href="https://unsplash.com/s/photos/asian-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">అన్స్ప్లాష్</a>లో
 
 ## మీరు నేర్చుకునేది

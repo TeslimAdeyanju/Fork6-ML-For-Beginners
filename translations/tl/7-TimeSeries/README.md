@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-08-29T13:09:00+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "tl"
-}
--->
 # Panimula sa pag-forecast ng time series
 
 Ano ang pag-forecast ng time series? Ito ay tungkol sa pag-predict ng mga darating na pangyayari sa pamamagitan ng pagsusuri ng mga trend sa nakaraan.
@@ -17,7 +8,7 @@ Sa dalawang araling ito, ipakikilala sa iyo ang pag-forecast ng time series, isa
 
 Ang ating pokus na rehiyon ay ang paggamit ng kuryente sa buong mundo, isang kawili-wiling dataset upang matutunan ang pag-forecast ng hinaharap na paggamit ng kuryente batay sa mga pattern ng nakaraang load. Makikita mo kung paano ang ganitong uri ng pag-forecast ay maaaring maging lubos na kapaki-pakinabang sa isang kapaligiran ng negosyo.
 
-![electric grid](../../../translated_images/electric-grid.0c21d5214db09ffae93c06a87ca2abbb9ba7475ef815129c5b423d7f9a7cf136.tl.jpg)
+![electric grid](../../../translated_images/tl/electric-grid.0c21d5214db09ffa.webp)
 
 Larawan ni [Peddi Sai hrithik](https://unsplash.com/@shutter_log?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) ng mga electrical tower sa isang kalsada sa Rajasthan sa [Unsplash](https://unsplash.com/s/photos/electric-india?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-03T18:25:56+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "lt"
-}
--->
 # Įvadas į stiprinamąjį mokymąsi
 
 Stiprinamasis mokymasis (RL) laikomas vienu iš pagrindinių mašininio mokymosi paradigmų, greta prižiūrimo mokymosi ir neprižiūrimo mokymosi. RL yra susijęs su sprendimais: priimti tinkamus sprendimus arba bent jau mokytis iš jų.
 
 Įsivaizduokite, kad turite simuliuotą aplinką, pavyzdžiui, akcijų rinką. Kas nutiks, jei įvesite tam tikrą reguliavimą? Ar tai turės teigiamą ar neigiamą poveikį? Jei nutiks kažkas neigiamo, turite priimti šį _neigiamą stiprinimą_, pasimokyti iš jo ir pakeisti kryptį. Jei rezultatas yra teigiamas, turite remtis tuo _teigiamu stiprinimu_.
 
-![peter ir vilkas](../../../translated_images/peter.779730f9ba3a8a8d9290600dcf55f2e491c0640c785af7ac0d64f583c49b8864.lt.png)
+![peter ir vilkas](../../../translated_images/lt/peter.779730f9ba3a8a8d.webp)
 
 > Petras ir jo draugai turi pabėgti nuo alkano vilko! Vaizdas sukurtas [Jen Looper](https://twitter.com/jenlooper)
 

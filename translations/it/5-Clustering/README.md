@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-08-29T20:52:51+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "it"
-}
--->
 # Modelli di clustering per il machine learning
 
 Il clustering è un compito di machine learning che cerca di individuare oggetti simili tra loro e raggrupparli in gruppi chiamati cluster. Ciò che distingue il clustering da altri approcci nel machine learning è che tutto avviene automaticamente; infatti, si può dire che sia l'opposto dell'apprendimento supervisionato.
@@ -15,7 +6,7 @@ Il clustering è un compito di machine learning che cerca di individuare oggetti
 
 Il pubblico nigeriano, molto variegato, ha gusti musicali altrettanto diversificati. Utilizzando dati raccolti da Spotify (ispirati a [questo articolo](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421)), analizziamo alcune delle canzoni popolari in Nigeria. Questo dataset include informazioni su vari brani, come il punteggio di 'danceability', 'acousticness', volume, 'speechiness', popolarità ed energia. Sarà interessante scoprire i pattern presenti in questi dati!
 
-![Un giradischi](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.it.jpg)
+![Un giradischi](../../../translated_images/it/turntable.f2b86b13c53302dc.webp)
 
 > Foto di <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marcela Laskoski</a> su <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-12-19T12:57:04+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "kn"
-}
--->
 # ಯಂತ್ರ ಅಧ್ಯಯನಕ್ಕೆ ಪರಿಚಯ
 
 ಪಠ್ಯಕ್ರಮದ ಈ ವಿಭಾಗದಲ್ಲಿ, ನೀವು ಯಂತ್ರ ಅಧ್ಯಯನ ಕ್ಷೇತ್ರದ ಮೂಲ ತತ್ವಗಳನ್ನು ಪರಿಚಯಿಸಿಕೊಳ್ಳುತ್ತೀರಿ, ಅದು ಏನು ಮತ್ತು ಅದರ ಇತಿಹಾಸ ಮತ್ತು ಸಂಶೋಧಕರು ಅದನ್ನು ಬಳಸುವ ತಂತ್ರಗಳನ್ನು ತಿಳಿಯುತ್ತೀರಿ. ಬನ್ನಿ, ಈ ಹೊಸ ಯಂತ್ರ ಅಧ್ಯಯನ ಲೋಕವನ್ನು ಒಟ್ಟಿಗೆ ಅನ್ವೇಷಿಸೋಣ!
 
-![globe](../../../translated_images/globe.59f26379ceb40428672b4d9a568044618a2bf6292ecd53a5c481b90e3fa805eb.kn.jpg)
+![globe](../../../translated_images/kn/globe.59f26379ceb40428.webp)
 > ಫೋಟೋ <a href="https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ಬಿಲ್ ಆಕ್ಸ್ಫರ್ಡ್</a> ಅವರಿಂದ <a href="https://unsplash.com/s/photos/globe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ಅನ್ಸ್ಪ್ಲ್ಯಾಶ್</a> ನಲ್ಲಿ
   
 ### ಪಾಠಗಳು

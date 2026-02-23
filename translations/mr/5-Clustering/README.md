@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-08-29T17:08:01+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "mr"
-}
--->
 # मशीन लर्निंगसाठी क्लस्टरिंग मॉडेल्स
 
 क्लस्टरिंग ही मशीन लर्निंगची एक कार्यप्रणाली आहे ज्यामध्ये एकमेकांसारखे दिसणारे ऑब्जेक्ट शोधले जातात आणि त्यांना क्लस्टर्स नावाच्या गटांमध्ये वर्गीकृत केले जाते. मशीन लर्निंगमधील इतर पद्धतींपेक्षा क्लस्टरिंग वेगळे आहे कारण गोष्टी आपोआप घडतात. खरं तर, हे सुपरवाइज्ड लर्निंगच्या अगदी उलट आहे असे म्हणणे योग्य ठरेल.
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 नायजेरियाच्या विविध प्रेक्षकांची संगीताची आवडही विविध आहे. Spotify वरून डेटा स्क्रॅप करून (या [लेखातून प्रेरित](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421)), नायजेरियामध्ये लोकप्रिय असलेल्या काही संगीतावर नजर टाकूया. या डेटासेटमध्ये विविध गाण्यांच्या 'danceability' स्कोअर, 'acousticness', loudness, 'speechiness', लोकप्रियता आणि ऊर्जा याबद्दलचा डेटा समाविष्ट आहे. या डेटामध्ये नमुने शोधणे खूपच मनोरंजक ठरेल!
 
-![एक टर्नटेबल](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.mr.jpg)
+![एक टर्नटेबल](../../../translated_images/mr/turntable.f2b86b13c53302dc.webp)
 
 > <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marcela Laskoski</a> यांनी <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> वर फोटो दिला आहे
   

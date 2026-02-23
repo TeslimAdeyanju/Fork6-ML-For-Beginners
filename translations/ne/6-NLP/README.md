@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-08-29T18:18:43+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "ne"
-}
--->
 # प्राकृतिक भाषा प्रशोधनसँग सुरु गर्दै
 
 प्राकृतिक भाषा प्रशोधन (NLP) भनेको कम्प्युटर प्रोग्रामले मानिसको बोल्ने र लेख्ने भाषा बुझ्ने क्षमता हो - जसलाई प्राकृतिक भाषा भनिन्छ। यो कृत्रिम बुद्धिमत्ता (AI) को एक घटक हो। NLP ५० वर्षभन्दा बढी समयदेखि अस्तित्वमा छ र भाषाविज्ञानको क्षेत्रमा यसको जरा छ। यो सम्पूर्ण क्षेत्रले मेसिनलाई मानव भाषा बुझ्न र प्रशोधन गर्न मद्दत पुर्‍याउन केन्द्रित छ। यसलाई त्यसपछि स्पेल जाँच वा मेसिन अनुवाद जस्ता कार्यहरू गर्न प्रयोग गर्न सकिन्छ। यसको चिकित्सा अनुसन्धान, खोज इन्जिनहरू र व्यापार बुद्धिमत्ताजस्ता विभिन्न क्षेत्रहरूमा वास्तविक जीवनका अनुप्रयोगहरू छन्।
@@ -17,7 +8,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 यी पाठहरूमा हामी NLP को आधारभूत कुरा सिक्नेछौं, साना संवादात्मक बोटहरू निर्माण गरेर मेसिन लर्निङले यी संवादहरूलाई कसरी 'स्मार्ट' बनाउँदै लगेको छ भन्ने कुरा बुझ्नेछौं। तपाईं समयको यात्रा गर्दै, Jane Austen को क्लासिक उपन्यास **Pride and Prejudice**, जुन १८१३ मा प्रकाशित भएको थियो, बाट Elizabeth Bennett र Mr. Darcy सँग कुराकानी गर्नेछौं। त्यसपछि, तपाईं युरोपका होटल समीक्षाहरूको माध्यमबाट भावना विश्लेषण सिकेर आफ्नो ज्ञानलाई अझ अगाडि बढाउनुहुनेछ।
 
-![Pride and Prejudice पुस्तक र चिया](../../../translated_images/p&p.279f1c49ecd889419e4ce6206525e9aa30d32a976955cd24daa636c361c6391f.ne.jpg)
+![Pride and Prejudice पुस्तक र चिया](../../../translated_images/ne/p&p.279f1c49ecd88941.webp)
 > फोटो <a href="https://unsplash.com/@elaineh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elaine Howlin</a> द्वारा <a href="https://unsplash.com/s/photos/pride-and-prejudice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> मा
   
 ## पाठहरू

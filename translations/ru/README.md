@@ -1,221 +1,223 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c21bf667cfbd946f76fde049e31b07d0",
-  "translation_date": "2025-12-24T22:51:10+00:00",
-  "source_file": "README.md",
-  "language_code": "ru"
-}
--->
-[![Лицензия GitHub](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE)
-[![Участники GitHub](https://img.shields.io/github/contributors/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/)
-[![Проблемы GitHub](https://img.shields.io/github/issues/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/issues/)
-[![Pull-запросы GitHub](https://img.shields.io/github/issues-pr/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/pulls/)
-[![PRs — приветствуются](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![Discord Microsoft Foundry](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/ML-For-Beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/ML-For-Beginners/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/ML-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ML-For-Beginners/network/)
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ML-For-Beginners/stargazers/)
 
 ### 🌐 Поддержка нескольких языков
 
-#### Поддерживается через GitHub Action (автоматически и всегда актуально)
+#### Поддерживается через GitHub Action (автоматизировано и всегда актуально)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Арабский](../ar/README.md) | [Бенгальский](../bn/README.md) | [Болгарский](../bg/README.md) | [Бирманский (Мьянма)](../my/README.md) | [Китайский (упрощенный)](../zh/README.md) | [Китайский (традиционный, Гонконг)](../hk/README.md) | [Китайский (традиционный, Макао)](../mo/README.md) | [Китайский (традиционный, Тайвань)](../tw/README.md) | [Хорватский](../hr/README.md) | [Чешский](../cs/README.md) | [Датский](../da/README.md) | [Нидерландский](../nl/README.md) | [Эстонский](../et/README.md) | [Финский](../fi/README.md) | [Французский](../fr/README.md) | [Немецкий](../de/README.md) | [Греческий](../el/README.md) | [Иврит](../he/README.md) | [Хинди](../hi/README.md) | [Венгерский](../hu/README.md) | [Индонезийский](../id/README.md) | [Итальянский](../it/README.md) | [Японский](../ja/README.md) | [Каннада](../kn/README.md) | [Корейский](../ko/README.md) | [Литовский](../lt/README.md) | [Малайский](../ms/README.md) | [Малаялам](../ml/README.md) | [Маратхи](../mr/README.md) | [Непальский](../ne/README.md) | [Нигерийский пиджин](../pcm/README.md) | [Норвежский](../no/README.md) | [Персидский (фарси)](../fa/README.md) | [Польский](../pl/README.md) | [Португальский (Бразилия)](../br/README.md) | [Португальский (Португалия)](../pt/README.md) | [Панджаби (гурмукхи)](../pa/README.md) | [Румынский](../ro/README.md) | [Русский](./README.md) | [Сербский (кириллица)](../sr/README.md) | [Словацкий](../sk/README.md) | [Словенский](../sl/README.md) | [Испанский](../es/README.md) | [Суахили](../sw/README.md) | [Шведский](../sv/README.md) | [Тагальский (филиппинский)](../tl/README.md) | [Тамильский](../ta/README.md) | [Телугу](../te/README.md) | [Тайский](../th/README.md) | [Турецкий](../tr/README.md) | [Украинский](../uk/README.md) | [Урду](../ur/README.md) | [Вьетнамский](../vi/README.md)
+[Арабский](../ar/README.md) | [Бенгальский](../bn/README.md) | [Болгарский](../bg/README.md) | [Бирманский (Мьянма)](../my/README.md) | [Китайский (упрощенный)](../zh-CN/README.md) | [Китайский (традиционный, Гонконг)](../zh-HK/README.md) | [Китайский (традиционный, Макао)](../zh-MO/README.md) | [Китайский (традиционный, Тайвань)](../zh-TW/README.md) | [Хорватский](../hr/README.md) | [Чешский](../cs/README.md) | [Датский](../da/README.md) | [Нидерландский](../nl/README.md) | [Эстонский](../et/README.md) | [Финский](../fi/README.md) | [Французский](../fr/README.md) | [Немецкий](../de/README.md) | [Греческий](../el/README.md) | [Иврит](../he/README.md) | [Хинди](../hi/README.md) | [Венгерский](../hu/README.md) | [Индонезийский](../id/README.md) | [Итальянский](../it/README.md) | [Японский](../ja/README.md) | [Каннада](../kn/README.md) | [Корейский](../ko/README.md) | [Литовский](../lt/README.md) | [Малайский](../ms/README.md) | [Малаялам](../ml/README.md) | [Маратхи](../mr/README.md) | [Непальский](../ne/README.md) | [Нигерийский пиджин](../pcm/README.md) | [Норвежский](../no/README.md) | [Персидский (Фарси)](../fa/README.md) | [Польский](../pl/README.md) | [Португальский (Бразилия)](../pt-BR/README.md) | [Португальский (Португалия)](../pt-PT/README.md) | [Панджаби (Гурмухи)](../pa/README.md) | [Румынский](../ro/README.md) | [Русский](./README.md) | [Сербский (кириллица)](../sr/README.md) | [Словацкий](../sk/README.md) | [Словенский](../sl/README.md) | [Испанский](../es/README.md) | [Суахили](../sw/README.md) | [Шведский](../sv/README.md) | [Тагальский (Филиппинский)](../tl/README.md) | [Тамильский](../ta/README.md) | [Телугу](../te/README.md) | [Тайский](../th/README.md) | [Турецкий](../tr/README.md) | [Украинский](../uk/README.md) | [Урду](../ur/README.md) | [Вьетнамский](../vi/README.md)
+
+> **Предпочитаете клонировать локально?**
+
+> Этот репозиторий включает более 50 языковых переводов, что значительно увеличивает размер загрузки. Чтобы клонировать без переводов, используйте sparse checkout:
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/microsoft/ML-For-Beginners.git
+> cd ML-For-Beginners
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> Это даст вам всё необходимое для прохождения курса с гораздо более быстрой загрузкой.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 #### Присоединяйтесь к нашему сообществу
 
-[![Discord Microsoft Foundry](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-У нас проходит серия мероприятий в Discord, посвящённая обучению с помощью ИИ — узнайте больше и присоединяйтесь к нам на [Серии Learn with AI](https://aka.ms/learnwithai/discord) с 18 по 30 сентября 2025 года. Вы получите советы и приёмы по использованию GitHub Copilot для Data Science.
+Сейчас у нас в Discord проходит серия занятий Learn with AI, узнайте больше и присоединяйтесь к нам на [Learn with AI Series](https://aka.ms/learnwithai/discord) с 18 по 30 сентября 2025 года. Вы получите советы и подсказки по использованию GitHub Copilot для Data Science.
 
-![Серия Learn with AI](../../translated_images/3.9b58fd8d6c373c20c588c5070c4948a826ab074426c28ceb5889641294373dfc.ru.png)
+![Серия Learn with AI](../../translated_images/ru/3.9b58fd8d6c373c20.webp)
 
 # Машинное обучение для начинающих - Учебная программа
 
-> 🌍 Путешествуйте по миру, пока мы изучаем машинное обучение через призму культур разных стран 🌍
+> 🌍 Путешествуйте по миру, изучая Машинное обучение через культуры мира 🌍
 
-Cloud Advocates в Microsoft с удовольствием предлагают 12‑недельную программу из 26 уроков, полностью посвящённую **машинному обучению**. В этой программе вы познакомитесь с тем, что иногда называют **классическим машинным обучением**, в основном используя библиотеку Scikit‑learn и избегая глубокого обучения, которое рассматривается в нашей [программе «AI for Beginners»](https://aka.ms/ai4beginners). Сочетайте эти уроки также с нашей [учебной программой «Data Science for Beginners»](https://aka.ms/ds4beginners)!
+Cloud Advocates в Microsoft рады предложить 12-недельную программу из 26 уроков, полностью посвящённую **машинному обучению**. В рамках этой программы вы познакомитесь с так называемым **классическим машинным обучением**, используя в основном библиотеку Scikit-learn и избегая глубокого обучения, которое рассматривается в нашей программе [AI для начинающих](https://aka.ms/ai4beginners). Также совмещайте эти уроки с нашей программой ['Data Science для начинающих'](https://aka.ms/ds4beginners)!
 
-Путешествуйте с нами по миру, применяя эти классические методы к данным из разных уголков планеты. Каждый урок включает предварительные и итоговые викторины, письменные инструкции для выполнения урока, решение, задание и многое другое. Наша проектно‑ориентированная методика обучения позволяет изучать материал на практике — проверенный способ закрепления новых навыков.
+Путешествуйте вместе с нами по миру, применяя классические методы к данным из разных регионов. Каждый урок включает контрольные тесты до и после занятия, письменные инструкции для выполнения урока, решение, задание и многое другое. Наша проектная методика обучения позволяет учиться путем создания проектов — проверенный способ лучшего усвоения новых знаний.
 
-**✍️ Огромная благодарность нашим авторам** Jen Looper, Stephen Howell, Francesca Lazzeri, Tomomi Imura, Cassie Breviu, Dmitry Soshnikov, Chris Noring, Anirban Mukherjee, Ornella Altunyan, Ruth Yakubu и Amy Boyd
+**✍️ Искренняя благодарность нашим авторам** Джен Лупер, Стивен Хауэлл, Франческа Лаццери, Томоми Имура, Кэсси Бревиу, Дмитрий Сошников, Крис Норинг, Анирбан Мукерджи, Орнелла Алтунян, Рут Якобу и Эми Бойд
 
-**🎨 Также спасибо нашим иллюстраторам** Tomomi Imura, Dasani Madipalli и Jen Looper
+**🎨 Благодарность также нашим иллюстраторам** Томоми Имура, Дасани Мадипалли и Джен Лупер
 
-**🙏 Особая благодарность 🙏 нашим Microsoft Student Ambassador — авторам, рецензентам и участникам контента**, в частности Rishit Dagli, Muhammad Sakib Khan Inan, Rohan Raj, Alexandru Petrescu, Abhishek Jaiswal, Nawrin Tabassum, Ioan Samuila и Snigdha Agarwal
+**🙏 Особая благодарность 🙏 авторам, рецензентам и участникам из Microsoft Student Ambassador**, в частности Ришиту Дагли, Мухаммаду Сакибу Хану Инану, Рохану Раджу, Александру Петреску, Абхишеку Джайсвалу, Наврин Табассум, Иоану Самуиле и Снигдхе Агарвал
 
-**🤩 Дополнительная благодарность студенческим послам Microsoft Eric Wanjau, Jasleen Sondhi и Vidushi Gupta за наши уроки на R!**
+**🤩 Дополнительная благодарность студентам Microsoft Ambassadors Эрику Ванджау, Джаслин Сонди и Видуши Гупте за уроки на R!**
 
 # Начало работы
 
-Следуйте этим шагам:
-1. **Сделайте форк репозитория**: Нажмите кнопку «Fork» в правом верхнем углу этой страницы.
+Выполните следующие шаги:
+1. **Создайте форк репозитория**: Нажмите кнопку "Fork" в правом верхнем углу этой страницы.
 2. **Клонируйте репозиторий**:   `git clone https://github.com/microsoft/ML-For-Beginners.git`
 
-> [найдите все дополнительные ресурсы для этого курса в нашей коллекции Microsoft Learn](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
+> [найдите все дополнительные материалы для этого курса в нашей коллекции Microsoft Learn](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
 
-> 🔧 **Нужна помощь?** Ознакомьтесь с нашим [руководством по устранению неполадок](TROUBLESHOOTING.md) для решений распространённых проблем с установкой, настройкой и запуском уроков.
+> 🔧 **Нужна помощь?** Ознакомьтесь с нашим [руководством по устранению неполадок](TROUBLESHOOTING.md) для решения распространенных проблем с установкой, настройкой и запуском уроков.
 
 
-**[Студенты](https://aka.ms/student-page)**, чтобы использовать эту программу, сделайте форк всего репозитория в свой аккаунт GitHub и выполняйте упражнения самостоятельно или в группе:
+**[Студенты](https://aka.ms/student-page)**, чтобы использовать эту программу, создайте форк всего репозитория в свой аккаунт GitHub и выполняйте упражнения самостоятельно или в группе:
 
-- Начните с предварительного квиза перед лекцией.
-- Прочитайте лекцию и выполните задания, останавливаясь и обдумывая каждый контроль знаний.
-- Старайтесь создавать проекты, понимая уроки, а не просто запуская код решения; тем не менее этот код доступен в папках `/solution` в каждом проектно‑ориентированном уроке.
-- Пройдите квиз после лекции.
-- Выполните челлендж.
-- Выполните домашнее задание.
-- После завершения группы уроков посетите [Доску обсуждений](https://github.com/microsoft/ML-For-Beginners/discussions) и «учитесь вслух», заполнив соответствующую рубрику PAT. 'PAT' — это инструмент оценки прогресса (Progress Assessment Tool), рубрика, которую вы заполняете для углубления обучения. Вы также можете реагировать на другие PAT, чтобы мы могли учиться вместе.
+- Начинайте с контрольного теста перед лекцией.
+- Читайте лекцию и выполняйте задания, делая паузы и обдумывая вопросы для самопроверки.
+- Старайтесь создавать проекты, понимая уроки, а не просто копируя код решения; тем не менее, код решений доступен в папках `/solution` в каждом уроке, ориентированном на проекты.
+- Пройдите тест после лекции.
+- Выполните вызов.
+- Выполните задание.
+- После завершения группы уроков посетите [Дискуссионную доску](https://github.com/microsoft/ML-For-Beginners/discussions) и «учитесь вслух», заполнив соответствующую рубрику PAT. ‘PAT’ (Progress Assessment Tool) — это инструмент оценки прогресса, который вы заполняете для углубления обучения. Также вы можете реагировать на PAT других участников, чтобы учиться вместе.
 
-> Для дальнейшего изучения мы рекомендуем пройти эти модули и учебные пути на [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott).
+> Для дальнейшего изучения рекомендуем пройти эти [модули и учебные пути Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott).
 
-**Преподаватели**, мы включили [некоторые предложения](for-teachers.md) о том, как использовать эту учебную программу.
-
----
-
-## Видеоруководства
-
-Некоторые уроки доступны в формате коротких видео. Вы можете найти все их встроенными в уроки или на [плейлисте ML for Beginners на канале Microsoft Developer в YouTube](https://aka.ms/ml-beginners-videos), нажав на изображение ниже.
-
-[![Баннер 'ML for Beginners'](../../translated_images/ml-for-beginners-video-banner.63f694a100034bc6251134294459696e070a3a9a04632e9fe6a24aa0de4a7384.ru.png)](https://aka.ms/ml-beginners-videos)
+**Учителя**, мы подготовили [несколько рекомендаций](for-teachers.md) по использованию этой программы.
 
 ---
 
-## Познакомьтесь с командой
+## Видеообзоры
 
-[![Промо-видео](../../images/ml.gif)](https://youtu.be/Tj1XWrDSYJU)
+Некоторые уроки доступны в формате коротких видео. Вы можете найти все они прямо в уроках или на [плейлисте ML for Beginners на канале Microsoft Developer в YouTube](https://aka.ms/ml-beginners-videos), кликнув на изображение ниже.
 
-**GIF от** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
-
-> 🎥 Нажмите на изображение выше, чтобы посмотреть видео о проекте и людях, которые его создали!
+[![ML for beginners banner](../../translated_images/ru/ml-for-beginners-video-banner.63f694a100034bc6.webp)](https://aka.ms/ml-beginners-videos)
 
 ---
 
-## Методика
+## Встречайте команду
 
-Мы выбрали два педагогических принципа при создании этой программы: обеспечить практическую, ориентированную на проекты структуру (hands-on **project-based**) и включить **частые викторины**. Кроме того, у этой учебной программы есть общая **тема**, которая придаёт ей связность.
+[![Promo video](../../images/ml.gif)](https://youtu.be/Tj1XWrDSYJU)
 
-Благодаря тому, что содержание выверено под проекты, процесс становится более увлекательным для студентов, а усвоение концепций усиливается. Низко‑рисковый квиз перед занятием настраивает студента на изучение темы, а второй квиз после занятия обеспечивает дальнейшее закрепление материала. Эта программа разработана так, чтобы быть гибкой и интересной — её можно проходить полностью или частично. Проекты начинаются с простого и постепенно усложняются к концу 12‑недельного цикла. В программу также включён послесловие о реальных применениях МО, которое можно использовать как дополнительную оценку или как основу для обсуждения.
+**Гифка от** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
 
-> Найдите наш [Кодекс поведения](CODE_OF_CONDUCT.md), [Вклад в проект](CONTRIBUTING.md), [Переводы](TRANSLATIONS.md) и [Руководство по устранению неполадок](TROUBLESHOOTING.md). Мы приветствуем ваши конструктивные отзывы!
+> 🎥 Кликните на изображение выше, чтобы посмотреть видео о проекте и людях, которые его создали!
+
+---
+
+## Педагогика
+
+При создании этой программы мы выбрали два педагогических принципа: обеспечить практическую **проектную направленность** и включить **частые тесты**. Кроме того, программа имеет общую **тематику** для создания целостности.
+
+Путем согласования контента с проектами процесс становится более увлекательным для студентов, а запоминание понятий улучшается. Низкопороговый тест перед занятием мотивирует студента изучать тему, а второй тест после занятия гарантирует лучшее усвоение. Программа спроектирована гибко и интересно, её можно проходить целиком или частично. Проекты начинаются с простых и постепенно усложняются к концу 12-недельного цикла. В программу также включён послесловие о реальных применениях МО, которое можно использовать в качестве дополнительного задания или основы для обсуждения.
+
+> Ознакомьтесь с нашими [Кодексом поведения](CODE_OF_CONDUCT.md), [Правилами участия](CONTRIBUTING.md), [Правилами перевода](TRANSLATIONS.md) и [руководством по устранению неполадок](TROUBLESHOOTING.md). Мы рады вашему конструктивному отзыву!
 
 ## Каждый урок включает
 
-- опциональный скетчноут
-- опциональное дополнительное видео
-- видео-прохождение (только в некоторых уроках)
-- [предварительный квиз перед лекцией](https://ff-quizzes.netlify.app/en/ml/)
-- текстовый урок
-- для проектно‑ориентированных уроков — пошаговые руководства по созданию проекта
-- проверки знаний
-- челлендж
-- дополнительная литература
+- необязательный скетчнот
+- необязательное дополнительное видео
+- видеообзор (только некоторые уроки)
+- [тест для разминки перед лекцией](https://ff-quizzes.netlify.app/en/ml/)
+- письменный урок
+- для проектных уроков — пошаговые инструкции по созданию проекта
+- контрольные вопросы
+- вызов
+- дополнительное чтение
 - задание
-- [квиз после лекции](https://ff-quizzes.netlify.app/en/ml/)
+- [тест после лекции](https://ff-quizzes.netlify.app/en/ml/)
 
-> **Примечание о языках**: Эти уроки в основном написаны на Python, но многие также доступны на R. Чтобы пройти урок на R, перейдите в папку `/solution` и найдите уроки на R. Они включают расширение .rmd, которое представляет собой файл **R Markdown**, который можно просто определить как встраивание `code chunks` (на R или других языках) и `YAML header` (который управляет тем, как форматировать выводы, например в PDF) в `Markdown document`. Таким образом, это служит примерной средой для создания материалов по data science, так как позволяет сочетать код, его вывод и ваши мысли, позволяя записывать их в Markdown. Более того, документы R Markdown можно рендерить в форматы вывода, такие как PDF, HTML или Word.
+> **Примечание о языках**: Эти уроки в основном написаны на Python, но многие также доступны на R. Чтобы выполнить урок на R, перейдите в папку `/solution` и найдите уроки на R. Они имеют расширение .rmd, что означает **R Markdown** — формат, который включает в себя «кодовые блоки» (на R или других языках) и заголовок YAML (определяющий форматирование вывода, например PDF) в документе Markdown. Таким образом, это отличный инструмент для создания материалов по data science, поскольку позволяет объединить код, его результаты и ваши мысли в одном документе Markdown. Кроме того, документы R Markdown можно выводить в форматы PDF, HTML или Word.
+> **Примечание о викторинах**: Все викторины содержатся в папке [Quiz App folder](../../quiz-app), всего 52 викторины по три вопроса каждая. Они связаны с уроками, но приложение для викторин можно запустить локально; следуйте инструкциям в папке `quiz-app` для локального хостинга или развертывания в Azure.
 
-> **Примечание о квизах**: Все квизы находятся в [папке Quiz App](../../quiz-app), всего 52 квиза по три вопроса в каждом. Они связаны из уроков, но приложение квизов можно запускать локально; следуйте инструкциям в папке `quiz-app`, чтобы развернуть локально или задеплоить в Azure.
-
-| Номер урока |                             Тема                              |                   Группа уроков                   | Цели обучения                                                                                                             |                                                              Связанный урок                                                               |                        Автор                        |
-| :-----------: | :------------------------------------------------------------: | :-------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
-|      01       |                Введение в машинное обучение                |      [Введение](1-Introduction/README.md)       | Изучите базовые концепции машинного обучения                                                                                |                                             [Урок](1-Introduction/1-intro-to-ML/README.md)                                             |                       Muhammad                       |
-|      02       |                История машинного обучения                 |      [Введение](1-Introduction/README.md)       | Узнайте историю, лежащую в основе этой области                                                                                         |                                            [Урок](1-Introduction/2-history-of-ML/README.md)                                            |                     Jen and Amy                      |
-|      03       |                 Справедливость и машинное обучение                  |      [Введение](1-Introduction/README.md)       | Какие важные философские вопросы, связанные со справедливостью, должны учитывать студенты при разработке и применении моделей машинного обучения? |                                              [Урок](1-Introduction/3-fairness/README.md)                                               |                        Tomomi                        |
-|      04       |                Методы машинного обучения                 |      [Введение](1-Introduction/README.md)       | Какими методами пользуются исследователи машинного обучения для построения моделей?                                                                       |                                          [Урок](1-Introduction/4-techniques-of-ML/README.md)                                           |                    Chris and Jen                     |
-|      05       |                   Введение в регрессию                   |        [Регрессия](2-Regression/README.md)         | Начните работу с Python и Scikit-learn для регрессионных моделей                                                                  |         [Python](2-Regression/1-Tools/README.md) • [R](../../2-Regression/1-Tools/solution/R/lesson_1.html)         |      Jen • Eric Wanjau       |
-|      06       |                Цены на тыквы в Северной Америке 🎃                |        [Регрессия](2-Regression/README.md)         | Визуализируйте и очистите данные в подготовке к машинному обучению                                                                                  |          [Python](2-Regression/2-Data/README.md) • [R](../../2-Regression/2-Data/solution/R/lesson_2.html)          |      Jen • Eric Wanjau       |
-|      07       |                Цены на тыквы в Северной Америке 🎃                |        [Регрессия](2-Regression/README.md)         | Постройте линейные и полиномиальные регрессионные модели                                                                                   |        [Python](2-Regression/3-Linear/README.md) • [R](../../2-Regression/3-Linear/solution/R/lesson_3.html)        |      Jen and Dmitry • Eric Wanjau       |
-|      08       |                Цены на тыквы в Северной Америке 🎃                |        [Регрессия](2-Regression/README.md)         | Постройте модель логистической регрессии                                                                                               |     [Python](2-Regression/4-Logistic/README.md) • [R](../../2-Regression/4-Logistic/solution/R/lesson_4.html)      |      Jen • Eric Wanjau       |
-|      09       |                          Веб-приложение 🔌                          |           [Веб-приложение](3-Web-App/README.md)            | Создайте веб-приложение для использования вашей обученной модели                                                                                       |                                                 [Python](3-Web-App/1-Web-App/README.md)                                                  |                         Jen                          |
-|      10       |                 Введение в классификацию                 |    [Классификация](4-Classification/README.md)     | Очистите, подготовьте и визуализируйте данные; введение в классификацию                                                            | [Python](4-Classification/1-Introduction/README.md) • [R](../../4-Classification/1-Introduction/solution/R/lesson_10.html)  | Jen and Cassie • Eric Wanjau |
-|      11       |             Вкусные блюда азиатской и индийской кухни 🍜             |    [Классификация](4-Classification/README.md)     | Введение в классификаторы                                                                                                     | [Python](4-Classification/2-Classifiers-1/README.md) • [R](../../4-Classification/2-Classifiers-1/solution/R/lesson_11.html) | Jen and Cassie • Eric Wanjau |
-|      12       |             Вкусные блюда азиатской и индийской кухни 🍜             |    [Классификация](4-Classification/README.md)     | Другие классификаторы                                                                                                                | [Python](4-Classification/3-Classifiers-2/README.md) • [R](../../4-Classification/3-Classifiers-2/solution/R/lesson_12.html) | Jen and Cassie • Eric Wanjau |
-|      13       |             Вкусные блюда азиатской и индийской кухни 🍜             |    [Классификация](4-Classification/README.md)     | Создайте рекомендательное веб-приложение с использованием вашей модели                                                                                    |                                              [Python](4-Classification/4-Applied/README.md)                                              |                         Jen                          |
-|      14       |                   Введение в кластеризацию                   |        [Кластеризация](5-Clustering/README.md)         | Очистите, подготовьте и визуализируйте данные; введение в кластеризацию                                                                |         [Python](5-Clustering/1-Visualize/README.md) • [R](../../5-Clustering/1-Visualize/solution/R/lesson_14.html)         |      Jen • Eric Wanjau       |
-|      15       |              Исследование музыкальных предпочтений Нигерии 🎧              |        [Кластеризация](5-Clustering/README.md)         | Изучите метод кластеризации K-Means                                                                                           |           [Python](5-Clustering/2-K-Means/README.md) • [R](../../5-Clustering/2-K-Means/solution/R/lesson_15.html)           |      Jen • Eric Wanjau       |
-|      16       |        Введение в обработку естественного языка ☕️         |   [Обработка естественного языка](6-NLP/README.md)    | Изучите основы NLP, создав простого бота                                                                             |                                             [Python](6-NLP/1-Introduction-to-NLP/README.md)                                              |                       Stephen                        |
-|      17       |                      Распространенные задачи NLP ☕️                      |   [Обработка естественного языка](6-NLP/README.md)    | Углубите знания по NLP, изучив распространённые задачи, возникающие при работе со структурами языка                          |                                                    [Python](6-NLP/2-Tasks/README.md)                                                     |                       Stephen                        |
-|      18       |             Перевод и анализ тональности ♥️              |   [Обработка естественного языка](6-NLP/README.md)    | Перевод и анализ тональности на примере Джейн Остин                                                                             |                                            [Python](6-NLP/3-Translation-Sentiment/README.md)                                             |                       Stephen                        |
-|      19       |                  Романтические отели Европы ♥️                  |   [Обработка естественного языка](6-NLP/README.md)    | Анализ тональности отзывов об отелях 1                                                                                         |                                               [Python](6-NLP/4-Hotel-Reviews-1/README.md)                                                |                       Stephen                        |
-|      20       |                  Романтические отели Европы ♥️                  |   [Обработка естественного языка](6-NLP/README.md)    | Анализ тональности отзывов об отелях 2                                                                                         |                                               [Python](6-NLP/5-Hotel-Reviews-2/README.md)                                                |                       Stephen                        |
-|      21       |            Введение в прогнозирование временных рядов             |        [Временные ряды](7-TimeSeries/README.md)        | Введение в прогнозирование временных рядов                                                                                         |                                             [Python](7-TimeSeries/1-Introduction/README.md)                                              |                      Francesca                       |
-|      22       | ⚡️ Потребление электроэнергии в мире ⚡️ - прогнозирование временных рядов с ARIMA |        [Временные ряды](7-TimeSeries/README.md)        | Прогнозирование временных рядов с ARIMA                                                                                              |                                                 [Python](7-TimeSeries/2-ARIMA/README.md)                                                 |                      Francesca                       |
-|      23       |  ⚡️ Потребление электроэнергии в мире ⚡️ - прогнозирование временных рядов с SVR  |        [Временные ряды](7-TimeSeries/README.md)        | Прогнозирование временных рядов с помощью Support Vector Regressor                                                                           |                                                  [Python](7-TimeSeries/3-SVR/README.md)                                                  |                       Anirban                        |
-|      24       |             Введение в обучение с подкреплением             | [Обучение с подкреплением](8-Reinforcement/README.md) | Введение в обучение с подкреплением с Q-Learning                                                                          |                                             [Python](8-Reinforcement/1-QLearning/README.md)                                              |                        Dmitry                        |
-|      25       |                 Помогите Питеру избежать волка! 🐺                  | [Обучение с подкреплением](8-Reinforcement/README.md) | Gym для обучения с подкреплением                                                                                                      |                                                [Python](8-Reinforcement/2-Gym/README.md)                                                 |                        Dmitry                        |
-|  Postscript   |            Реальные сценарии и применения машинного обучения            |      [ML in the Wild](9-Real-World/README.md)       | Интересные и показательные реальные применения классического машинного обучения                                                               |                                             [Урок](9-Real-World/1-Applications/README.md)                                              |                         Team                         |
-|  Postscript   |            Отладка моделей в ML с использованием панели RAI          |      [ML in the Wild](9-Real-World/README.md)       | Отладка моделей машинного обучения с использованием компонентов панели Responsible AI                                                              |                                             [Урок](9-Real-World/2-Debugging-ML-Models/README.md)                                              |                         Ruth Yakubu                       |
+| Номер урока |                            Тема                             |                   Группа уроков                    | Цели обучения                                                                                                                   |                                                           Связанный урок                                                            |                     Автор                     |
+| :----------: | :---------------------------------------------------------: | :-----------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------: |
+|      01      |                Введение в машинное обучение                 |      [Introduction](1-Introduction/README.md)     | Изучить основные концепции машинного обучения                                                                                  |                                            [Lesson](1-Introduction/1-intro-to-ML/README.md)                                            |                   Muhammad                   |
+|      02      |                История машинного обучения                   |      [Introduction](1-Introduction/README.md)     | Изучить историю данной области                                                                                                |                                           [Lesson](1-Introduction/2-history-of-ML/README.md)                                           |                  Jen and Amy                  |
+|      03      |                 Справедливость и машинное обучение          |      [Introduction](1-Introduction/README.md)     | Какие философские вопросы справедливости должны учитывать студенты при создании и применении моделей машинного обучения?        |                                             [Lesson](1-Introduction/3-fairness/README.md)                                              |                    Tomomi                    |
+|      04      |                Методы машинного обучения                    |      [Introduction](1-Introduction/README.md)     | Какие методы используют исследователи машинного обучения для создания моделей?                                                   |                                         [Lesson](1-Introduction/4-techniques-of-ML/README.md)                                          |                  Chris and Jen                |
+|      05      |                   Введение в регрессию                      |        [Regression](2-Regression/README.md)       | Начать работу с Python и Scikit-learn для моделей регрессии                                                                     |       [Python](2-Regression/1-Tools/README.md) • [R](../../2-Regression/1-Tools/solution/R/lesson_1.html)       |      Jen • Eric Wanjau       |
+|      06      |                Цены на тыквы в Северной Америке 🎃           |        [Regression](2-Regression/README.md)       | Визуализировать и очистить данные для подготовки к машинному обучению                                                          |        [Python](2-Regression/2-Data/README.md) • [R](../../2-Regression/2-Data/solution/R/lesson_2.html)         |      Jen • Eric Wanjau       |
+|      07      |                Цены на тыквы в Северной Америке 🎃           |        [Regression](2-Regression/README.md)       | Создать модели линейной и полиномиальной регрессии                                                                             |       [Python](2-Regression/3-Linear/README.md) • [R](../../2-Regression/3-Linear/solution/R/lesson_3.html)       |      Jen and Dmitry • Eric Wanjau       |
+|      08      |                Цены на тыквы в Северной Америке 🎃           |        [Regression](2-Regression/README.md)       | Построить модель логистической регрессии                                                                                        |     [Python](2-Regression/4-Logistic/README.md) • [R](../../2-Regression/4-Logistic/solution/R/lesson_4.html)      |      Jen • Eric Wanjau       |
+|      09      |                         Веб-приложение 🔌                    |           [Web App](3-Web-App/README.md)          | Создать веб-приложение для использования обученной модели                                                                       |                                               [Python](3-Web-App/1-Web-App/README.md)                                                 |                       Jen                      |
+|      10      |                 Введение в классификацию                     |    [Classification](4-Classification/README.md)   | Очистить, подготовить и визуализировать данные; введение в классификацию                                                        | [Python](4-Classification/1-Introduction/README.md) • [R](../../4-Classification/1-Introduction/solution/R/lesson_10.html)  | Jen and Cassie • Eric Wanjau |
+|      11      |             Вкусные азиатские и индийские кухни 🍜           |    [Classification](4-Classification/README.md)   | Введение в классификаторы                                                                                                      | [Python](4-Classification/2-Classifiers-1/README.md) • [R](../../4-Classification/2-Classifiers-1/solution/R/lesson_11.html) | Jen and Cassie • Eric Wanjau |
+|      12      |             Вкусные азиатские и индийские кухни 🍜           |    [Classification](4-Classification/README.md)   | Дополнительные классификаторы                                                                                                  | [Python](4-Classification/3-Classifiers-2/README.md) • [R](../../4-Classification/3-Classifiers-2/solution/R/lesson_12.html) | Jen and Cassie • Eric Wanjau |
+|      13      |             Вкусные азиатские и индийские кухни 🍜           |    [Classification](4-Classification/README.md)   | Построить веб-приложение рекомендации с использованием вашей модели                                                            |                                             [Python](4-Classification/4-Applied/README.md)                                             |                       Jen                      |
+|      14      |                   Введение в кластеризацию                    |        [Clustering](5-Clustering/README.md)       | Очистить, подготовить и визуализировать данные; введение в кластеризацию                                                        |       [Python](5-Clustering/1-Visualize/README.md) • [R](../../5-Clustering/1-Visualize/solution/R/lesson_14.html)        |      Jen • Eric Wanjau       |
+|      15      |              Исследование музыкальных предпочтений в Нигерии 🎧 |        [Clustering](5-Clustering/README.md)       | Изучить метод кластеризации K-Means                                                                                            |         [Python](5-Clustering/2-K-Means/README.md) • [R](../../5-Clustering/2-K-Means/solution/R/lesson_15.html)           |      Jen • Eric Wanjau       |
+|      16      |        Введение в обработку естественного языка ☕️          |   [Natural language processing](6-NLP/README.md)  | Изучить основы НЛП, создав простой бот                                                                                        |                                            [Python](6-NLP/1-Introduction-to-NLP/README.md)                                             |                     Stephen                    |
+|      17      |                      Общие задачи НЛП ☕️                      |   [Natural language processing](6-NLP/README.md)  | Углубить знания о НЛП, изучив основные задачи при работе с языковыми структурами                                               |                                                   [Python](6-NLP/2-Tasks/README.md)                                                  |                     Stephen                    |
+|      18      |             Перевод и анализ тональности ♥️                   |   [Natural language processing](6-NLP/README.md)  | Перевод и анализ тональности на примере Джейн Остин                                                                            |                                           [Python](6-NLP/3-Translation-Sentiment/README.md)                                            |                     Stephen                    |
+|      19      |                  Романтические отели Европы ♥️                 |   [Natural language processing](6-NLP/README.md)  | Анализ тональности на основе отзывов об отелях 1                                                                               |                                              [Python](6-NLP/4-Hotel-Reviews-1/README.md)                                               |                     Stephen                    |
+|      20      |                  Романтические отели Европы ♥️                 |   [Natural language processing](6-NLP/README.md)  | Анализ тональности на основе отзывов об отелях 2                                                                               |                                              [Python](6-NLP/5-Hotel-Reviews-2/README.md)                                               |                     Stephen                    |
+|      21      |            Введение в прогнозирование временных рядов          |        [Time series](7-TimeSeries/README.md)      | Введение в прогнозирование временных рядов                                                                                     |                                            [Python](7-TimeSeries/1-Introduction/README.md)                                             |                    Francesca                    |
+|      22      | ⚡️ Мировое потребление электроэнергии ⚡️ - прогнозирование с ARIMA |        [Time series](7-TimeSeries/README.md)      | Прогнозирование временных рядов с помощью ARIMA                                                                                |                                                [Python](7-TimeSeries/2-ARIMA/README.md)                                                |                    Francesca                    |
+|      23      |  ⚡️ Мировое потребление электроэнергии ⚡️ - прогнозирование с SVR  |        [Time series](7-TimeSeries/README.md)      | Прогнозирование временных рядов с помощью регрессии опорных векторов (SVR)                                                     |                                                 [Python](7-TimeSeries/3-SVR/README.md)                                                 |                     Anirban                     |
+|      24      |             Введение в обучение с подкреплением                | [Reinforcement learning](8-Reinforcement/README.md) | Введение в обучение с подкреплением с использованием Q-Learning                                                                |                                            [Python](8-Reinforcement/1-QLearning/README.md)                                            |                     Dmitry                      |
+|      25      |                 Помогите Питеру избежать волка! 🐺             | [Reinforcement learning](8-Reinforcement/README.md) | Обучение с подкреплением с использованием Gym                                                                                  |                                               [Python](8-Reinforcement/2-Gym/README.md)                                                |                     Dmitry                      |
+|  Постскрипт  |            Сценарии и приложения машинного обучения в реальности |      [ML in the Wild](9-Real-World/README.md)     | Интересные и показательные реальные применения классического машинного обучения                                                 |                                            [Lesson](9-Real-World/1-Applications/README.md)                                            |                      Team                       |
+|  Постскрипт  |          Отладка моделей машинного обучения с помощью RAI      |      [ML in the Wild](9-Real-World/README.md)     | Отладка моделей машинного обучения с использованием панели Responsible AI                                                        |                                            [Lesson](9-Real-World/2-Debugging-ML-Models/README.md)                                       |                 Ruth Yakubu                     |
 
 > [найдите все дополнительные ресурсы для этого курса в нашей коллекции Microsoft Learn](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
 
-## Офлайн-доступ
+## Оффлайн доступ
 
-Вы можете запускать эту документацию офлайн с помощью [Docsify](https://docsify.js.org/#/). Форкните этот репозиторий, [установите Docsify](https://docsify.js.org/#/quickstart) на вашем локальном компьютере, и затем в корневой папке этого репозитория введите `docsify serve`. Веб-сайт будет доступен на порту 3000 на вашем localhost: `localhost:3000`.
+Вы можете использовать эту документацию оффлайн, используя [Docsify](https://docsify.js.org/#/). Форкните этот репозиторий, [установите Docsify](https://docsify.js.org/#/quickstart) на вашем устройстве и в корневой папке репозитория выполните команду `docsify serve`. Веб-сайт будет доступен по адресу localhost:3000.
 
 ## PDF
 
-Найдите PDF учебной программы со ссылками [здесь](https://microsoft.github.io/ML-For-Beginners/pdf/readme.pdf).
+Найдите PDF версии учебного плана с ссылками [здесь](https://microsoft.github.io/ML-For-Beginners/pdf/readme.pdf).
 
 
-## 🎒 Другие курсы 
+## 🎒 Другие курсы
 
-Наша команда выпускает другие курсы! Посмотрите:
+Наша команда выпускает и другие курсы! Ознакомьтесь с:
 
 <!-- CO-OP TRANSLATOR OTHER COURSES START -->
 ### LangChain
-[![LangChain4j для начинающих](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
-[![LangChain.js для начинающих](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
-
+[![LangChain4j for Beginners](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
+[![LangChain.js for Beginners](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
+[![LangChain for Beginners](https://img.shields.io/badge/LangChain%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://github.com/microsoft/langchain-for-beginners?WT.mc_id=m365-94501-dwahlin)
 ---
 
-### Azure / Edge / MCP / Агенты
-[![AZD для начинающих](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
-[![Edge AI для начинающих](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
-[![MCP для начинающих](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
-[![AI Agents для начинающих](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+### Azure / Edge / MCP / Agents
+[![AZD for Beginners](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Edge AI for Beginners](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![MCP for Beginners](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![AI Agents for Beginners](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
 
 ---
  
 ### Серия по генеративному ИИ
-[![Генеративный ИИ для начинающих](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
-[![Генеративный ИИ (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
-[![Генеративный ИИ (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
-[![Генеративный ИИ (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
+[![Generative AI for Beginners](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
 
 ---
  
-### Основные курсы
-[![Машинное обучение для начинающих](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
-[![Наука о данных для начинающих](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
-[![ИИ для начинающих](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
-[![Кибербезопасность для начинающих](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
-[![Веб-разработка для начинающих](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
-[![Интернет вещей для начинающих](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
-[![Разработка XR для начинающих](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+### Основное обучение
+[![ML for Beginners](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+[![Data Science for Beginners](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+[![AI for Beginners](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+[![Cybersecurity for Beginners](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
+[![Web Dev for Beginners](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+[![IoT for Beginners](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+[![XR Development for Beginners](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
 
 ---
  
 ### Серия Copilot
-[![Copilot для парного программирования с ИИ](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
-[![Copilot для C#/.NET](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
-[![Приключения Copilot](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
+[![Copilot for AI Paired Programming](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+[![Copilot for C#/.NET](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+[![Copilot Adventure](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
 <!-- CO-OP TRANSLATOR OTHER COURSES END -->
 
 ## Получение помощи
 
-Если вы застряли или у вас есть вопросы по созданию приложений с ИИ. Присоединяйтесь к другим учащимся и опытным разработчикам в обсуждениях MCP. Это поддерживающее сообщество, где вопросы приветствуются и знания делятся свободно.
+Если вы застряли или у вас есть вопросы о создании AI-приложений. Присоединяйтесь к другим учащимся и опытным разработчикам в обсуждениях о MCP. Это поддерживающее сообщество, где вопросы приветствуются, а знания свободно распространяются.
 
-[![Microsoft Foundry в Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-Если у вас есть отзывы о продукте или вы столкнулись с ошибками во время разработки, посетите:
+Если у вас есть отзывы о продукте или вы столкнулись с ошибками при разработке, посетите:
 
-[![Форум разработчиков Microsoft Foundry](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-Отказ от ответственности:
-Этот документ был переведён с помощью сервиса машинного перевода [Co-op Translator](https://github.com/Azure/co-op-translator). Хотя мы стремимся к точности, следует учитывать, что автоматические переводы могут содержать ошибки или неточности. Оригинальный документ на его исходном языке следует считать авторитетным источником. Для критически важной информации рекомендуется профессиональный перевод, выполненный человеком. Мы не несем ответственности за любые недоразумения или неверные толкования, возникшие в результате использования этого перевода.
+**Отказ от ответственности**:
+Этот документ был переведен с использованием сервиса машинного перевода [Co-op Translator](https://github.com/Azure/co-op-translator). Несмотря на наши усилия по обеспечению точности, будьте предупреждены, что автоматические переводы могут содержать ошибки или неточности. Оригинальный документ на его родном языке следует считать авторитетным источником. Для важной информации рекомендуется профессиональный перевод человеком. Мы не несём ответственности за любые недоразумения или ошибки в интерпретации, возникшие в результате использования данного перевода.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

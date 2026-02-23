@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-08-29T21:19:06+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "bn"
-}
--->
 # মেশিন লার্নিং-এর পরিচিতি
 
 এই পাঠক্রমের এই অংশে, আপনি মেশিন লার্নিং ক্ষেত্রের মূল ধারণাগুলি, এটি কী, এর ইতিহাস এবং গবেষকরা এটি নিয়ে কাজ করার জন্য যে কৌশলগুলি ব্যবহার করেন তা সম্পর্কে জানতে পারবেন। চলুন একসাথে এই নতুন মেশিন লার্নিং-এর জগৎটি অন্বেষণ করি!
 
-![globe](../../../translated_images/globe.59f26379ceb40428672b4d9a568044618a2bf6292ecd53a5c481b90e3fa805eb.bn.jpg)
+![globe](../../../translated_images/bn/globe.59f26379ceb40428.webp)
 > ছবি <a href="https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">বিল অক্সফোর্ড</a> এর তোলা <a href="https://unsplash.com/s/photos/globe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">আনস্প্ল্যাশ</a>-এ
   
 ### পাঠসমূহ

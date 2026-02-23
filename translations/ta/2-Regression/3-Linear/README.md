@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-10-11T11:44:57+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "ta"
-}
--->
 # Scikit-learn பயன்படுத்தி ஒரு ரிக்ரஷன் மாடல் உருவாக்குதல்: நான்கு விதமான ரிக்ரஷன்
 
-![நேரியல் மற்றும் பாலினோமியல் ரிக்ரஷன் தகவல் வரைபடம்](../../../../translated_images/linear-polynomial.5523c7cb6576ccab0fecbd0e3505986eb2d191d9378e785f82befcf3a578a6e7.ta.png)
+![நேரியல் மற்றும் பாலினோமியல் ரிக்ரஷன் தகவல் வரைபடம்](../../../../translated_images/ta/linear-polynomial.5523c7cb6576ccab.webp)
 > தகவல் வரைபடம்: [Dasani Madipalli](https://twitter.com/dasani_decoded)
 ## [முன்-வகுப்பு வினாடி வினா](https://ff-quizzes.netlify.app/en/ml/)
 
@@ -66,13 +57,13 @@ Lesson 1-இல் நீங்கள் கற்றுக்கொண்டத
 >
 > `X` என்பது 'விளக்க மாறிலி'. `Y` என்பது 'சார்ந்த மாறிலி'. கோட்டின் சாய்வு `b` மற்றும் `a` என்பது y-இன்டர்செப்ட், இது `X = 0` என்ற போது `Y` இன் மதிப்பை குறிக்கிறது. 
 >
->![சாய்வை கணக்கிடுங்கள்](../../../../translated_images/slope.f3c9d5910ddbfcf9096eb5564254ba22c9a32d7acd7694cab905d29ad8261db3.ta.png)
+>![சாய்வை கணக்கிடுங்கள்](../../../../translated_images/ta/slope.f3c9d5910ddbfcf9.webp)
 >
 > முதலில், சாய்வு `b` ஐ கணக்கிடுங்கள். தகவல் வரைபடம்: [Jen Looper](https://twitter.com/jenlooper)
 >
 > வேறு வார்த்தைகளில், மற்றும் கம்பளி தரவின் அசல் கேள்வியைப் பார்க்கும்போது: "மாதத்தின் அடிப்படையில் புஷெல் ஒன்றுக்கு கம்பளி விலையை கணிக்க", `X` விலையை குறிக்கிறது மற்றும் `Y` விற்பனை மாதத்தை குறிக்கிறது. 
 >
->![சமன்பாட்டை முடிக்கவும்](../../../../translated_images/calculation.a209813050a1ddb141cdc4bc56f3af31e67157ed499e16a2ecf9837542704c94.ta.png)
+>![சமன்பாட்டை முடிக்கவும்](../../../../translated_images/ta/calculation.a209813050a1ddb1.webp)
 >
 > `Y` இன் மதிப்பை கணக்கிடுங்கள். நீங்கள் சுமார் $4 செலுத்துகிறீர்கள் என்றால், அது ஏப்ரல் மாதம்! தகவல் வரைபடம்: [Jen Looper](https://twitter.com/jenlooper)
 >
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 முந்தைய பாடத்தில் நீங்கள் பார்த்திருப்பீர்கள், வெவ்வேறு மாதங்களுக்கான சராசரி விலை இவ்வாறு தோன்றுகிறது:
 
-<img alt="மாதத்திற்கான சராசரி விலை" src="../../../../translated_images/barchart.a833ea9194346d769c77a3a870f7d8aee51574cd1138ca902e5500830a41cbce.ta.png" width="50%"/>
+<img alt="மாதத்திற்கான சராசரி விலை" src="../../../../translated_images/ta/barchart.a833ea9194346d76.webp" width="50%"/>
 
 இது தொடர்பு இருக்க வேண்டும் என்று பரிந்துரைக்கிறது, மேலும் `Month` மற்றும் `Price` அல்லது `DayOfYear` மற்றும் `Price` இடையேயான உறவுகளை கணிக்க ஒரு நேரியல் ரிக்ரஷன் மாடலை பயிற்சி செய்ய முயற்சிக்கலாம். இதோ பின்வரும் உறவைக் காட்டும் ஸ்காட்டர்ப்ளாட்:
 
-<img alt="Day of Year-க்கு எதிராக விலை ஸ்காட்டர்ப்ளாட்" src="../../../../translated_images/scatter-dayofyear.bc171c189c9fd553fe93030180b9c00ed123148a577640e4d7481c4c01811972.ta.png" width="50%" /> 
+<img alt="Day of Year-க்கு எதிராக விலை ஸ்காட்டர்ப்ளாட்" src="../../../../translated_images/ta/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 `corr` செயல்பாட்டைப் பயன்படுத்தி தொடர்பு இருக்கிறதா என்பதைப் பார்ப்போம்:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Day of Year-க்கு எதிராக விலை ஸ்காட்டர்ப்ளாட்" src="../../../../translated_images/scatter-dayofyear-color.65790faefbb9d54fb8f6223c566c445b9fac58a1c15f41f8641c3842af9d548b.ta.png" width="50%" /> 
+<img alt="Day of Year-க்கு எதிராக விலை ஸ்காட்டர்ப்ளாட்" src="../../../../translated_images/ta/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 எங்கள் விசாரணை, விற்பனை தேதியை விட வகை மொத்த விலைக்கு அதிக தாக்கத்தை ஏற்படுத்துகிறது என்பதை பரிந்துரைக்கிறது. இதை ஒரு பட்டை வரைபடத்தில் காணலாம்:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="வகைக்கு எதிராக விலை பட்டை வரைபடம்" src="../../../../translated_images/price-by-variety.744a2f9925d9bcb43a9a8c69469ce2520c9524fabfa270b1b2422cc2450d6d11.ta.png" width="50%" /> 
+<img alt="வகைக்கு எதிராக விலை பட்டை வரைபடம்" src="../../../../translated_images/ta/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 இப்போது 'pie type' என்ற ஒரு கம்பளி வகையை மட்டும் கவனித்து, தேதியின் விலைக்கு என்ன தாக்கம் உள்ளது என்பதைப் பார்ப்போம்:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Day of Year-க்கு எதிராக விலை ஸ்காட்டர்ப்ளாட்" src="../../../../translated_images/pie-pumpkins-scatter.d14f9804a53f927e7fe39aa072486f4ed1bdd7f31c8bb08f476855f4b02350c3.ta.png" width="50%" /> 
+<img alt="Day of Year-க்கு எதிராக விலை ஸ்காட்டர்ப்ளாட்" src="../../../../translated_images/ta/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 இப்போது `corr` செயல்பாட்டைப் பயன்படுத்தி `Price` மற்றும் `DayOfYear` இடையேயான தொடர்பை கணக்கிடினால், `-0.27` போன்ற ஒன்றைப் பெறுவோம் - இது ஒரு கணிப்பீட்டு மாடலை பயிற்சி செய்வது பொருத்தமாக உள்ளது என்று பொருள்.
 
@@ -221,7 +212,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="நேரியல் ரெக்ரஷன்" src="../../../../translated_images/linear-results.f7c3552c85b0ed1ce2808276c870656733f6878c8fd37ec220812ee77686c3ef.ta.png" width="50%" />
+<img alt="நேரியல் ரெக்ரஷன்" src="../../../../translated_images/ta/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## பாலினோமியல் ரெக்ரஷன்
 
@@ -250,7 +241,7 @@ pipeline.fit(X_train,y_train)
 
 Pipeline ஐ `LinearRegression` பொருளைப் போலவே பயன்படுத்தலாம், அதாவது, pipeline ஐ `fit` செய்து, பின்னர் `predict` ஐப் பயன்படுத்தி கணிப்பு முடிவுகளைப் பெறலாம். சோதனை தரவுகள் மற்றும் அணுகுமுறை வளைவை காட்டும் வரைபடம் இங்கே உள்ளது:
 
-<img alt="பாலினோமியல் ரெக்ரஷன்" src="../../../../translated_images/poly-results.ee587348f0f1f60bd16c471321b0b2f2457d0eaa99d99ec0ced4affc900fa96c.ta.png" width="50%" />
+<img alt="பாலினோமியல் ரெக்ரஷன்" src="../../../../translated_images/ta/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 பாலினோமியல் ரெக்ரஷனைப் பயன்படுத்தி, நாம் சற்று குறைந்த MSE மற்றும் அதிக தீர்மானத்தைப் பெற முடியும், ஆனால் குறிப்பிடத்தக்க அளவில் அல்ல. மற்ற அம்சங்களைப் பின்பற்ற வேண்டும்!
 
@@ -268,7 +259,7 @@ Pipeline ஐ `LinearRegression` பொருளைப் போலவே பய�
 
 இங்கே நீங்கள் வகை அடிப்படையில் சராசரி விலை எப்படி மாறுகிறது என்பதைப் பார்க்கலாம்:
 
-<img alt="வகை அடிப்படையில் சராசரி விலை" src="../../../../translated_images/price-by-variety.744a2f9925d9bcb43a9a8c69469ce2520c9524fabfa270b1b2422cc2450d6d11.ta.png" width="50%" />
+<img alt="வகை அடிப்படையில் சராசரி விலை" src="../../../../translated_images/ta/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 வகையை கணக்கில் எடுக்க, முதலில் அதை எண்ணியல் வடிவத்திற்கு மாற்ற வேண்டும், அல்லது **encode** செய்ய வேண்டும். இதைச் செய்ய பல வழிகள் உள்ளன:
 

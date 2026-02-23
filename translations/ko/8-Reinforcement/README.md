@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-04T00:14:05+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "ko"
-}
--->
 # 강화 학습 소개
 
 강화 학습(RL)은 지도 학습과 비지도 학습과 함께 기본적인 머신 러닝 패러다임 중 하나로 여겨집니다. RL은 올바른 결정을 내리거나 최소한 그로부터 배우는 데 초점이 맞춰져 있습니다.
 
 주식 시장과 같은 시뮬레이션 환경을 상상해 보세요. 특정 규제를 적용하면 어떤 일이 발생할까요? 긍정적인 효과가 있을까요, 아니면 부정적인 효과가 있을까요? 부정적인 일이 발생하면 이를 _부정적 강화_로 받아들이고, 이를 통해 배우며 방향을 바꿔야 합니다. 긍정적인 결과가 나오면 _긍정적 강화_를 기반으로 더 발전시켜야 합니다.
 
-![peter and the wolf](../../../translated_images/peter.779730f9ba3a8a8d9290600dcf55f2e491c0640c785af7ac0d64f583c49b8864.ko.png)
+![peter and the wolf](../../../translated_images/ko/peter.779730f9ba3a8a8d.webp)
 
 > 피터와 그의 친구들은 배고픈 늑대에게서 도망쳐야 합니다! 이미지 제공: [Jen Looper](https://twitter.com/jenlooper)
 

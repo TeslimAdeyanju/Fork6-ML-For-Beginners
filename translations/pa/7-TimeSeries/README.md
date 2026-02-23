@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-08-29T16:56:46+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "pa"
-}
--->
 # ਟਾਈਮ ਸੀਰੀਜ਼ ਫੋਰਕਾਸਟਿੰਗ ਦਾ ਪਰਚੇ
 
 ਟਾਈਮ ਸੀਰੀਜ਼ ਫੋਰਕਾਸਟਿੰਗ ਕੀ ਹੈ? ਇਹ ਪਿਛਲੇ ਰੁਝਾਨਾਂ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰਕੇ ਭਵਿੱਖ ਦੇ ਘਟਨਾਵਾਂ ਦੀ ਭਵਿੱਖਵਾਣੀ ਕਰਨ ਬਾਰੇ ਹੈ।
@@ -17,7 +8,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ਸਾਡਾ ਖੇਤਰੀ ਧਿਆਨ ਦੁਨੀਆ ਵਿੱਚ ਬਿਜਲੀ ਦੀ ਖਪਤ 'ਤੇ ਹੈ, ਜੋ ਕਿ ਭਵਿੱਖ ਵਿੱਚ ਬਿਜਲੀ ਦੀ ਖਪਤ ਦੀ ਭਵਿੱਖਵਾਣੀ ਕਰਨ ਲਈ ਪਿਛਲੇ ਲੋਡ ਦੇ ਪੈਟਰਨਾਂ ਦੇ ਆਧਾਰ 'ਤੇ ਸਿੱਖਣ ਲਈ ਇੱਕ ਦਿਲਚਸਪ ਡਾਟਾਸੈਟ ਹੈ। ਤੁਸੀਂ ਦੇਖ ਸਕਦੇ ਹੋ ਕਿ ਇਸ ਤਰ੍ਹਾਂ ਦੀ ਫੋਰਕਾਸਟਿੰਗ ਕਾਰੋਬਾਰੀ ਮਾਹੌਲ ਵਿੱਚ ਕਿੰਨੀ ਮਦਦਗਾਰ ਹੋ ਸਕਦੀ ਹੈ।
 
-![electric grid](../../../translated_images/electric-grid.0c21d5214db09ffae93c06a87ca2abbb9ba7475ef815129c5b423d7f9a7cf136.pa.jpg)
+![electric grid](../../../translated_images/pa/electric-grid.0c21d5214db09ffa.webp)
 
 ਫੋਟੋ [Peddi Sai hrithik](https://unsplash.com/@shutter_log?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) ਵੱਲੋਂ, ਜੋ ਕਿ ਰਾਜਸਥਾਨ ਵਿੱਚ ਸੜਕ 'ਤੇ ਬਿਜਲੀ ਦੇ ਟਾਵਰਾਂ ਦੀ ਹੈ, [Unsplash](https://unsplash.com/s/photos/electric-india?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 'ਤੇ।
 

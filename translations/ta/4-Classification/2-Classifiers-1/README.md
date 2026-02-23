@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-10-11T11:53:24+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "ta"
-}
--->
 # உணவுப் வகை வகைப்படுத்திகள் 1
 
 இந்த பாடத்தில், நீங்கள் சமநிலையான மற்றும் சுத்தமான தரவுகளால் நிரம்பிய, உணவுப் வகைகள் பற்றிய தரவுத்தொகுப்பைப் பயன்படுத்துவீர்கள்.
@@ -106,7 +97,7 @@ Scikit-learn வகைப்படுத்தலை Supervised Learning கீ�
 
 அப்படியென்றால், எந்த வகைப்படுத்தியை நீங்கள் தேர்ந்தெடுக்க வேண்டும்? பலவற்றைச் சோதித்து நல்ல முடிவைத் தேடுவது ஒரு வழியாக இருக்கலாம். Scikit-learn ஒரு [பக்கமொத்த ஒப்பீட்டை](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html) வழங்குகிறது, KNeighbors, SVC இரண்டு வழிகள், GaussianProcessClassifier, DecisionTreeClassifier, RandomForestClassifier, MLPClassifier, AdaBoostClassifier, GaussianNB மற்றும் QuadraticDiscrinationAnalysis ஆகியவற்றை ஒப்பிட்டு, முடிவுகளை காட்சிப்படுத்துகிறது:
 
-![வகைப்படுத்திகளின் ஒப்பீடு](../../../../translated_images/comparison.edfab56193a85e7fdecbeaa1b1f8c99e94adbf7178bed0de902090cf93d6734f.ta.png)
+![வகைப்படுத்திகளின் ஒப்பீடு](../../../../translated_images/ta/comparison.edfab56193a85e7f.webp)
 > Scikit-learn ஆவணங்களில் உருவாக்கப்பட்ட வரைபடங்கள்
 
 > AutoML இந்தப் பிரச்சினையை எளிதாகத் தீர்க்கிறது, இந்த ஒப்பீடுகளை மேகத்தில் இயக்கி, உங்கள் தரவுக்கான சிறந்த ஆல்கொரிதத்தைத் தேர்ந்தெடுக்க அனுமதிக்கிறது. [இங்கே முயற்சிக்கவும்](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-77952-leestott)
@@ -115,7 +106,7 @@ Scikit-learn வகைப்படுத்தலை Supervised Learning கீ�
 
 குறிப்பிட்ட ஆல்கொரிதத்தைத் தேர்ந்தெடுப்பதற்கான ஒரு சிறந்த வழி, இந்த பதிவிறக்கக்கூடிய [ML Cheat sheet](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-77952-leestott) ஐப் பின்பற்றுவது. இங்கே, நமது multiclass பிரச்சினைக்கான சில தேர்வுகளை காணலாம்:
 
-![multiclass பிரச்சினைகளுக்கான cheat sheet](../../../../translated_images/cheatsheet.07a475ea444d22234cb8907a3826df5bdd1953efec94bd18e4496f36ff60624a.ta.png)
+![multiclass பிரச்சினைகளுக்கான cheat sheet](../../../../translated_images/ta/cheatsheet.07a475ea444d2223.webp)
 > Microsoft's Algorithm Cheat Sheet இன் ஒரு பகுதி, multiclass வகைப்படுத்தல் விருப்பங்களை விவரிக்கிறது
 
 ✅ இந்த cheat sheet ஐ பதிவிறக்கி, அச்சிட்டு, உங்கள் சுவரில் தொங்கவிடுங்கள்!
@@ -146,7 +137,7 @@ Scikit-learn வகைப்படுத்தலை Supervised Learning கீ�
 
 Scikit-learn இந்த அட்டவணையை வழங்குகிறது, solvers வெவ்வேறு தரவுத்தொகுப்புகளால் ஏற்படும் சவால்களை எவ்வாறு கையாளுகின்றன என்பதை விளக்க:
 
-![solvers](../../../../translated_images/solvers.5fc648618529e627dfac29b917b3ccabda4b45ee8ed41b0acb1ce1441e8d1ef1.ta.png)
+![solvers](../../../../translated_images/ta/solvers.5fc648618529e627.webp)
 
 ## பயிற்சி - தரவுகளைப் பிரிக்க
 

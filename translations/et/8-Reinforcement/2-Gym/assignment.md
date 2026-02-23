@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-10-11T11:17:43+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "et"
-}
--->
 # Treeni Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) on loodud nii, et kõik keskkonnad pakuvad sama API-d – st samu meetodeid `reset`, `step` ja `render` ning samu **tegevusruumi** ja **vaatlusruumi** abstraktsioone. Seetõttu peaks olema võimalik kohandada sama tugevdusõppe algoritmi erinevatele keskkondadele minimaalsete koodimuudatustega.
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 [Mountain Car keskkond](https://gym.openai.com/envs/MountainCar-v0/) sisaldab orgu kinni jäänud autot:
 
-<img src="../../../../translated_images/mountaincar.43d56e588ce581c2d035f28cf038a9af112bec043b2ef8da40ac86119b1e3a93.et.png" width="300"/>
+<img src="../../../../translated_images/et/mountaincar.43d56e588ce581c2.webp" width="300"/>
 
 Eesmärk on orust välja pääseda ja lippu kätte saada, tehes igal sammul ühte järgmistest tegevustest:
 

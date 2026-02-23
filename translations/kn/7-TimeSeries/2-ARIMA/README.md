@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-12-19T16:12:07+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "kn"
-}
--->
 # ARIMA ಬಳಸಿ ಕಾಲ ಸರಣಿಯ ಭವಿಷ್ಯವಾಣಿ
 
 ಹಿಂದಿನ ಪಾಠದಲ್ಲಿ, ನೀವು ಕಾಲ ಸರಣಿಯ ಭವಿಷ್ಯವಾಣಿ ಬಗ್ಗೆ ಸ್ವಲ್ಪ ತಿಳಿದುಕೊಂಡಿದ್ದೀರಿ ಮತ್ತು ಒಂದು ಡೇಟಾಸೆಟ್ ಅನ್ನು ಲೋಡ್ ಮಾಡಿದ್ದೀರಿ, ಅದು ಒಂದು ಕಾಲಾವಧಿಯಲ್ಲಿ ವಿದ್ಯುತ್ ಲೋಡ್‌ನ ಅಸ್ಥಿರತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ.
@@ -114,7 +105,7 @@ ARIMA ಭಾಗಗಳನ್ನು ವಿಶ್ಲೇಷಿಸಿ, ಅದು ಕ�
     plt.show()
     ```
 
-    ![ತರಬೇತಿ ಮತ್ತು ಪರೀಕ್ಷಾ ಡೇಟಾ](../../../../translated_images/train-test.8928d14e5b91fc942f0ca9201b2d36c890ea7e98f7619fd94f75de3a4c2bacb9.kn.png)
+    ![ತರಬೇತಿ ಮತ್ತು ಪರೀಕ್ಷಾ ಡೇಟಾ](../../../../translated_images/kn/train-test.8928d14e5b91fc94.webp)
 
     ಆದ್ದರಿಂದ, ಡೇಟಾವನ್ನು ತರಬೇತಿಗೆ ಸಾಪೇಕ್ಷವಾಗಿ ಸಣ್ಣ ಕಾಲಾವಧಿ ವಿಂಡೋ ಬಳಸುವುದು ಸಾಕಾಗುತ್ತದೆ.
 
@@ -157,11 +148,11 @@ ARIMA ಭಾಗಗಳನ್ನು ವಿಶ್ಲೇಷಿಸಿ, ಅದು ಕ�
     plt.show()
     ```
 
-    ![ಮೂಲ](../../../../translated_images/original.b2b15efe0ce92b8745918f071dceec2231661bf49c8db6918e3ff4b3b0b183c2.kn.png)
+    ![ಮೂಲ](../../../../translated_images/kn/original.b2b15efe0ce92b87.webp)
 
     > ಮೂಲ ಡೇಟಾ
 
-    ![ಸ್ಕೇಲ್ಡ್](../../../../translated_images/scaled.e35258ca5cd3d43f86d5175e584ba96b38d51501f234abf52e11f4fe2631e45f.kn.png)
+    ![ಸ್ಕೇಲ್ಡ್](../../../../translated_images/kn/scaled.e35258ca5cd3d43f.webp)
 
     > ಸ್ಕೇಲ್ಡ್ ಡೇಟಾ
 
@@ -321,7 +312,7 @@ Walk-forward ಮಾನ್ಯತೆ ಕಾಲ ಸರಣಿ ಮಾದರಿಯ ಮ
 
 > **🧮 ಗಣಿತವನ್ನು ತೋರಿಸಿ**
 >
-> ![MAPE](../../../../translated_images/mape.fd87bbaf4d346846df6af88b26bf6f0926bf9a5027816d5e23e1200866e3e8a4.kn.png)
+> ![MAPE](../../../../translated_images/kn/mape.fd87bbaf4d346846.webp)
 >
 >  [MAPE](https://www.linkedin.com/pulse/what-mape-mad-msd-time-series-allameh-statistics/) ಅನ್ನು ಮೇಲಿನ ಸೂತ್ರದಿಂದ ವ್ಯಾಖ್ಯಾನಿಸಲಾದ ಅನುಪಾತವಾಗಿ ಭವಿಷ್ಯವಾಣಿ ನಿಖರತೆಯನ್ನು ತೋರಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ. actual<sub>t</sub> ಮತ್ತು predicted<sub>t</sub> ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು actual<sub>t</sub> ಮೂಲಕ ಭಾಗಿಸಲಾಗುತ್ತದೆ. "ಈ ಲೆಕ್ಕಾಚಾರದಲ್ಲಿ ಪರಮ ಮೌಲ್ಯವನ್ನು ಪ್ರತಿ ಭವಿಷ್ಯವಾಣಿ ಸಮಯದ ಬಿಂದುವಿಗೆ ಸೇರಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಹೊಂದಿಸಿದ ಬಿಂದುಗಳ ಸಂಖ್ಯೆ n ಮೂಲಕ ಭಾಗಿಸಲಾಗುತ್ತದೆ." [wikipedia](https://wikipedia.org/wiki/Mean_absolute_percentage_error)
 
@@ -381,7 +372,7 @@ Walk-forward ಮಾನ್ಯತೆ ಕಾಲ ಸರಣಿ ಮಾದರಿಯ ಮ
     plt.show()
     ```
 
-    ![a time series model](../../../../translated_images/accuracy.2c47fe1bf15f44b3656651c84d5e2ba9b37cd929cd2aa8ab6cc3073f50570f4e.kn.png)
+    ![a time series model](../../../../translated_images/kn/accuracy.2c47fe1bf15f44b3.webp)
 
 🏆 ಅತ್ಯುತ್ತಮ ನಿಖರತೆಯೊಂದಿಗೆ ಮಾದರಿಯನ್ನು ತೋರಿಸುವ ಅತ್ಯಂತ ಚೆನ್ನಾದ ರೇಖಾಚಿತ್ರ. ಶುಭಾಶಯಗಳು!
 

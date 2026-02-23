@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-12-19T13:48:41+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "ml"
-}
--->
 # Scikit-learn ഉപയോഗിച്ച് ഒരു റെഗ്രഷൻ മോഡൽ നിർമ്മിക്കുക: റെഗ്രഷൻ നാല് രീതികൾ
 
-![Linear vs polynomial regression infographic](../../../../translated_images/linear-polynomial.5523c7cb6576ccab0fecbd0e3505986eb2d191d9378e785f82befcf3a578a6e7.ml.png)
+![Linear vs polynomial regression infographic](../../../../translated_images/ml/linear-polynomial.5523c7cb6576ccab.webp)
 > ഇൻഫോഗ്രാഫിക് [ദസാനി മടിപള്ളി](https://twitter.com/dasani_decoded) tarafından
 ## [പ്രീ-ലെക്ചർ ക്വിസ്](https://ff-quizzes.netlify.app/en/ml/)
 
@@ -66,13 +57,13 @@ CO_OP_TRANSLATOR_METADATA:
 >
 > `X` 'വ്യാഖ്യാന വേരിയബിൾ' ആണ്. `Y` 'അനുഭവ വേരിയബിൾ' ആണ്. രേഖയുടെ സ്ലോപ്പ് `b` ആണ്, `a` y-ഇന്റർസെപ്റ്റ് ആണ്, അതായത് `X = 0` ആയപ്പോൾ `Y` യുടെ മൂല്യം.
 >
->![സ്ലോപ്പ് കണക്കാക്കുക](../../../../translated_images/slope.f3c9d5910ddbfcf9096eb5564254ba22c9a32d7acd7694cab905d29ad8261db3.ml.png)
+>![സ്ലോപ്പ് കണക്കാക്കുക](../../../../translated_images/ml/slope.f3c9d5910ddbfcf9.webp)
 >
 > ആദ്യം സ്ലോപ്പ് `b` കണക്കാക്കുക. ഇൻഫോഗ്രാഫിക് [ജെൻ ലൂപ്പർ](https://twitter.com/jenlooper) tarafından
 >
 > മറ്റൊരു വാക്കിൽ, പംപ്കിൻ ഡാറ്റയുടെ യഥാർത്ഥ ചോദ്യത്തെ ആശ്രയിച്ച്: "മാസംപ്രതി പംപ്കിൻ വില പ്രവചിക്കുക", `X` വിലയെ സൂചിപ്പിക്കും, `Y` വിൽപ്പന മാസത്തെ സൂചിപ്പിക്കും.
 >
->![സമവാക്യം പൂർത്തിയാക്കുക](../../../../translated_images/calculation.a209813050a1ddb141cdc4bc56f3af31e67157ed499e16a2ecf9837542704c94.ml.png)
+>![സമവാക്യം പൂർത്തിയാക്കുക](../../../../translated_images/ml/calculation.a209813050a1ddb1.webp)
 >
 > Y-യുടെ മൂല്യം കണക്കാക്കുക. നിങ്ങൾ ഏകദേശം $4 നൽകുകയാണെങ്കിൽ, അത് ഏപ്രിൽ ആയിരിക്കണം! ഇൻഫോഗ്രാഫിക് [ജെൻ ലൂപ്പർ](https://twitter.com/jenlooper) tarafından
 >
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 മുൻ പാഠത്തിൽ നിങ്ങൾ കണ്ടതുപോലെ, വ്യത്യസ്ത മാസങ്ങളിലെ ശരാശരി വില ഇങ്ങനെ കാണപ്പെടുന്നു:
 
-<img alt="Average price by month" src="../../../../translated_images/barchart.a833ea9194346d769c77a3a870f7d8aee51574cd1138ca902e5500830a41cbce.ml.png" width="50%"/>
+<img alt="Average price by month" src="../../../../translated_images/ml/barchart.a833ea9194346d76.webp" width="50%"/>
 
 ഇത് ചില സഹസംബന്ധം ഉണ്ടാകുമെന്ന് സൂചിപ്പിക്കുന്നു, നാം ലീനിയർ റെഗ്രഷൻ മോഡൽ പരിശീലിപ്പിച്ച് `Month`-നും `Price`-നും ഇടയിലുള്ള ബന്ധം പ്രവചിക്കാം, അല്ലെങ്കിൽ `DayOfYear`-നും `Price`-നും ഇടയിലുള്ള ബന്ധം. താഴെ കാണുന്ന സ്കാറ്റർപ്ലോട്ട് രണ്ടാം ബന്ധം കാണിക്കുന്നു:
 
-<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/scatter-dayofyear.bc171c189c9fd553fe93030180b9c00ed123148a577640e4d7481c4c01811972.ml.png" width="50%" /> 
+<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/ml/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 `corr` ഫംഗ്ഷൻ ഉപയോഗിച്ച് സഹസംബന്ധം പരിശോധിക്കാം:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/scatter-dayofyear-color.65790faefbb9d54fb8f6223c566c445b9fac58a1c15f41f8641c3842af9d548b.ml.png" width="50%" /> 
+<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/ml/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 നമ്മുടെ പരിശോധന പ്രകാരം, പംപ്കിൻ വർഗ്ഗം വിൽപ്പന തീയതിയേക്കാൾ വിലയിൽ കൂടുതൽ സ്വാധീനം ചെലുത്തുന്നു. ഇത് ഒരു ബാർ ഗ്രാഫിൽ കാണാം:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Bar graph of price vs variety" src="../../../../translated_images/price-by-variety.744a2f9925d9bcb43a9a8c69469ce2520c9524fabfa270b1b2422cc2450d6d11.ml.png" width="50%" /> 
+<img alt="Bar graph of price vs variety" src="../../../../translated_images/ml/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 ഇപ്പോൾ നാം 'പൈ ടൈപ്പ്' എന്ന ഒരു പംപ്കിൻ വർഗ്ഗത്തിൽ മാത്രം ശ്രദ്ധ കേന്ദ്രീകരിച്ച്, തീയതി വിലയിൽ എങ്ങനെ സ്വാധീനം ചെലുത്തുന്നു എന്ന് നോക്കാം:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/pie-pumpkins-scatter.d14f9804a53f927e7fe39aa072486f4ed1bdd7f31c8bb08f476855f4b02350c3.ml.png" width="50%" /> 
+<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/ml/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 `Price`-നും `DayOfYear`-നും ഇടയിലെ സഹസംബന്ധം `corr` ഫംഗ്ഷൻ ഉപയോഗിച്ച് കണക്കാക്കുമ്പോൾ, ഏകദേശം `-0.27` കിട്ടും - ഇത് പ്രവചന മോഡൽ പരിശീലിപ്പിക്കുന്നത് യുക്തിയുള്ളതാണെന്ന് സൂചിപ്പിക്കുന്നു.
 
@@ -228,7 +219,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="Linear regression" src="../../../../translated_images/linear-results.f7c3552c85b0ed1ce2808276c870656733f6878c8fd37ec220812ee77686c3ef.ml.png" width="50%" />
+<img alt="Linear regression" src="../../../../translated_images/ml/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## പോളിനോമിയൽ റിഗ്രഷൻ
 
@@ -257,7 +248,7 @@ pipeline.fit(X_train,y_train)
 
 Pipeline-കൾ ആദ്യം ഉപയോഗിച്ച `LinearRegression` ഒബ്ജക്റ്റ് പോലെ തന്നെ ഉപയോഗിക്കാം, അഥവാ pipeline-നെ `fit` ചെയ്ത്, പിന്നീട് `predict` ഉപയോഗിച്ച് പ്രവചന ഫലങ്ങൾ നേടാം. ടെസ്റ്റ് ഡാറ്റയും അനുമാന വളഞ്ഞ ലൈനും കാണിക്കുന്ന ഗ്രാഫ് ഇതാ:
 
-<img alt="Polynomial regression" src="../../../../translated_images/poly-results.ee587348f0f1f60bd16c471321b0b2f2457d0eaa99d99ec0ced4affc900fa96c.ml.png" width="50%" />
+<img alt="Polynomial regression" src="../../../../translated_images/ml/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 പോളിനോമിയൽ റിഗ്രഷൻ ഉപയോഗിച്ച്, നാം കുറച്ച് താഴ്ന്ന MSEയും ഉയർന്ന നിർണ്ണയ ഘടകവും നേടാം, പക്ഷേ വലിയ വ്യത്യാസമില്ല. മറ്റ് ഫീച്ചറുകളും പരിഗണിക്കേണ്ടതാണ്!
 
@@ -275,7 +266,7 @@ Pipeline-കൾ ആദ്യം ഉപയോഗിച്ച `LinearRegression` �
 
 ഇവിടെ നിങ്ങൾക്ക് കാണാം, ശരാശരി വില വൈവിധ്യത്തെ ആശ്രയിച്ചിരിക്കുന്നു:
 
-<img alt="Average price by variety" src="../../../../translated_images/price-by-variety.744a2f9925d9bcb43a9a8c69469ce2520c9524fabfa270b1b2422cc2450d6d11.ml.png" width="50%" />
+<img alt="Average price by variety" src="../../../../translated_images/ml/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 വൈവിധ്യം പരിഗണിക്കാൻ, ആദ്യം അത് സംഖ്യാത്മക രൂപത്തിലേക്ക് മാറ്റണം, അല്ലെങ്കിൽ **എൻകോഡ്** ചെയ്യണം. ഇത് ചെയ്യാനുള്ള ചില മാർഗ്ഗങ്ങൾ:
 

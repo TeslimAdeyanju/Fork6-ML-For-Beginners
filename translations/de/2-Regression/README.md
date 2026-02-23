@@ -1,18 +1,9 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-09-03T21:38:21+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "de"
-}
--->
 # Regressionsmodelle für maschinelles Lernen
 ## Regionales Thema: Regressionsmodelle für Kürbispreise in Nordamerika 🎃
 
 In Nordamerika werden Kürbisse oft zu Halloween in gruselige Gesichter geschnitzt. Lassen Sie uns mehr über dieses faszinierende Gemüse herausfinden!
 
-![jack-o-lanterns](../../../translated_images/jack-o-lanterns.181c661a9212457d7756f37219f660f1358af27554d856e5a991f16b4e15337c.de.jpg)
+![jack-o-lanterns](../../../translated_images/de/jack-o-lanterns.181c661a9212457d.webp)
 > Foto von <a href="https://unsplash.com/@teutschmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Beth Teutschmann</a> auf <a href="https://unsplash.com/s/photos/jack-o-lanterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Was Sie lernen werden

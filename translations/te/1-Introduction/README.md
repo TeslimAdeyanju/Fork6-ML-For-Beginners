@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-12-19T12:56:16+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "te"
-}
--->
 # మెషీన్ లెర్నింగ్ పరిచయం
 
 ఈ పాఠ్యాంశంలో, మీరు మెషీన్ లెర్నింగ్ రంగానికి ఆధారమైన మూల భావనలను, అది ఏమిటి, మరియు పరిశోధకులు దీని తో పని చేయడానికి ఉపయోగించే చరిత్ర మరియు సాంకేతికతలను తెలుసుకుంటారు. ఈ కొత్త ML ప్రపంచాన్ని కలిసి అన్వేషిద్దాం!
 
-![globe](../../../translated_images/globe.59f26379ceb40428672b4d9a568044618a2bf6292ecd53a5c481b90e3fa805eb.te.jpg)
+![globe](../../../translated_images/te/globe.59f26379ceb40428.webp)
 > ఫోటో <a href="https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">బిల్ ఆక్స్ఫర్డ్</a> ద్వారా <a href="https://unsplash.com/s/photos/globe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">అన్స్ప్లాష్</a>
   
 ### పాఠాలు

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T22:41:30+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "es"
-}
--->
 # Introducción a la predicción de series temporales
 
 ¿Qué es la predicción de series temporales? Se trata de predecir eventos futuros analizando las tendencias del pasado.
@@ -17,7 +8,7 @@ En estas dos lecciones, se te presentará la predicción de series temporales, u
 
 Nuestro enfoque regional es el uso eléctrico en el mundo, un conjunto de datos interesante para aprender sobre la predicción del consumo futuro de energía basado en patrones de carga pasados. Puedes ver cómo este tipo de predicción puede ser extremadamente útil en un entorno empresarial.
 
-![red eléctrica](../../../translated_images/electric-grid.0c21d5214db09ffae93c06a87ca2abbb9ba7475ef815129c5b423d7f9a7cf136.es.jpg)
+![red eléctrica](../../../translated_images/es/electric-grid.0c21d5214db09ffa.webp)
 
 Foto de [Peddi Sai hrithik](https://unsplash.com/@shutter_log?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) de torres eléctricas en una carretera en Rajasthan en [Unsplash](https://unsplash.com/s/photos/electric-india?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

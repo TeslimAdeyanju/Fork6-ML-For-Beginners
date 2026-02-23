@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-08-29T21:34:25+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "ru"
-}
--->
 # Создайте веб-приложение для использования вашей ML-модели
 
 В этом разделе курса вы познакомитесь с прикладной темой машинного обучения: как сохранить вашу модель Scikit-learn в виде файла, который можно использовать для предсказаний в веб-приложении. После сохранения модели вы узнаете, как использовать её в веб-приложении, созданном на Flask. Сначала вы создадите модель, используя данные о наблюдениях НЛО! Затем вы разработаете веб-приложение, которое позволит вводить количество секунд, широту и долготу, чтобы предсказать, в какой стране сообщили о наблюдении НЛО.
 
-![Парковка для НЛО](../../../translated_images/ufo.9e787f5161da9d4d1dafc537e1da09be8210f2ee996cb638aa5cee1d92867a04.ru.jpg)
+![Парковка для НЛО](../../../translated_images/ru/ufo.9e787f5161da9d4d.webp)
 
 Фото <a href="https://unsplash.com/@mdherren?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Herren</a> на <a href="https://unsplash.com/s/photos/ufo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 

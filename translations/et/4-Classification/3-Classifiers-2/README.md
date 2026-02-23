@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-10-11T11:56:46+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "et"
-}
--->
 # Köögi klassifikaatorid 2
 
 Selles teises klassifikatsiooniõppetunnis uurid rohkem viise, kuidas klassifitseerida numbrilisi andmeid. Samuti õpid, millised on tagajärjed ühe klassifikaatori valimisel teise asemel.
@@ -25,7 +16,7 @@ Oleme sinu _notebook.ipynb_ faili laadinud puhastatud andmestikuga ja jaganud se
 
 Eelnevalt õppisid erinevaid võimalusi andmete klassifitseerimiseks, kasutades Microsofti spikrit. Scikit-learn pakub sarnast, kuid detailsemat spikrit, mis aitab veelgi täpsemalt valida sobivaid hindajaid (teine termin klassifikaatorite kohta):
 
-![ML kaart Scikit-learnilt](../../../../translated_images/map.e963a6a51349425ab107b38f6c7307eb4c0d0c7ccdd2e81a5e1919292bab9ac7.et.png)
+![ML kaart Scikit-learnilt](../../../../translated_images/et/map.e963a6a51349425a.webp)
 > Näpunäide: [vaata seda kaarti veebis](https://scikit-learn.org/stable/tutorial/machine_learning_map/) ja klõpsa teekonnal, et lugeda dokumentatsiooni.
 
 ### Plaan

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T22:41:02+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "fr"
-}
--->
 # Introduction à la prévision des séries temporelles
 
 Qu'est-ce que la prévision des séries temporelles ? Il s'agit de prédire des événements futurs en analysant les tendances du passé.
@@ -17,7 +8,7 @@ Dans ces deux leçons, vous serez initié à la prévision des séries temporell
 
 Notre sujet régional est la consommation électrique dans le monde, un ensemble de données intéressant pour apprendre à prévoir la consommation future d'énergie en fonction des schémas de charge passés. Vous pouvez constater à quel point ce type de prévision peut être extrêmement utile dans un environnement commercial.
 
-![réseau électrique](../../../translated_images/electric-grid.0c21d5214db09ffae93c06a87ca2abbb9ba7475ef815129c5b423d7f9a7cf136.fr.jpg)
+![réseau électrique](../../../translated_images/fr/electric-grid.0c21d5214db09ffa.webp)
 
 Photo de [Peddi Sai hrithik](https://unsplash.com/@shutter_log?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) de pylônes électriques sur une route au Rajasthan sur [Unsplash](https://unsplash.com/s/photos/electric-india?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-08-29T14:19:24+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "tl"
-}
--->
 # Pagsisimula sa natural language processing
 
 Ang natural language processing (NLP) ay ang kakayahan ng isang programa sa computer na maunawaan ang wika ng tao, kung paano ito sinasalita at isinusulat -- tinatawag na natural na wika. Isa itong bahagi ng artificial intelligence (AI). Ang NLP ay umiiral na nang mahigit 50 taon at may mga ugat sa larangan ng lingguwistika. Ang buong larangan ay nakatuon sa pagtulong sa mga makina na maunawaan at maproseso ang wika ng tao. Maaari itong magamit upang maisagawa ang mga gawain tulad ng spell check o machine translation. Mayroon itong iba't ibang aplikasyon sa totoong mundo sa maraming larangan, kabilang ang pananaliksang medikal, mga search engine, at business intelligence.
@@ -17,7 +8,7 @@ Sa bahaging ito ng kurikulum, ipakikilala sa iyo ang isa sa mga pinakalaganap na
 
 Sa mga araling ito, matututuhan natin ang mga pangunahing kaalaman sa NLP sa pamamagitan ng paggawa ng maliliit na conversational bots upang matutunan kung paano nakakatulong ang machine learning sa paggawa ng mga pag-uusap na mas 'matalino'. Maglalakbay ka pabalik sa nakaraan, makikipag-usap kina Elizabeth Bennett at Mr. Darcy mula sa klasikong nobela ni Jane Austen, **Pride and Prejudice**, na inilathala noong 1813. Pagkatapos, palalalimin mo pa ang iyong kaalaman sa pamamagitan ng pag-aaral tungkol sa sentiment analysis gamit ang mga review ng hotel sa Europa.
 
-![Aklat ng Pride and Prejudice at tsaa](../../../translated_images/p&p.279f1c49ecd889419e4ce6206525e9aa30d32a976955cd24daa636c361c6391f.tl.jpg)
+![Aklat ng Pride and Prejudice at tsaa](../../../translated_images/tl/p&p.279f1c49ecd88941.webp)
 > Larawan ni <a href="https://unsplash.com/@elaineh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elaine Howlin</a> sa <a href="https://unsplash.com/s/photos/pride-and-prejudice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Mga Aralin

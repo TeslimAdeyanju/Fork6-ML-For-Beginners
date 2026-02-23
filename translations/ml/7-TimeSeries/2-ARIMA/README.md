@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-12-19T16:10:59+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "ml"
-}
--->
 # ARIMA ഉപയോഗിച്ച് ടൈം സീരീസ് പ്രവചനം
 
 മുൻപത്തെ പാഠത്തിൽ, നിങ്ങൾ ടൈം സീരീസ് പ്രവചനത്തെ കുറിച്ച് കുറച്ച് പഠിച്ചു, കൂടാതെ ഒരു സമയപരിധിയിൽ വൈദ്യുതി ലോഡിന്റെ ചലനങ്ങൾ കാണിക്കുന്ന ഒരു ഡാറ്റാസെറ്റ് ലോഡ് ചെയ്തു.
@@ -114,7 +105,7 @@ ARIMAയുടെ ഭാഗങ്ങൾ വിശദീകരിച്ച്, �
     plt.show()
     ```
 
-    ![training and testing data](../../../../translated_images/train-test.8928d14e5b91fc942f0ca9201b2d36c890ea7e98f7619fd94f75de3a4c2bacb9.ml.png)
+    ![training and testing data](../../../../translated_images/ml/train-test.8928d14e5b91fc94.webp)
 
     അതിനാൽ, ഡാറ്റ പരിശീലനത്തിന് ചെറിയ ഒരു സമയവിൻഡോ ഉപയോഗിക്കുന്നത് മതിയാകും.
 
@@ -157,11 +148,11 @@ ARIMAയുടെ ഭാഗങ്ങൾ വിശദീകരിച്ച്, �
     plt.show()
     ```
 
-    ![original](../../../../translated_images/original.b2b15efe0ce92b8745918f071dceec2231661bf49c8db6918e3ff4b3b0b183c2.ml.png)
+    ![original](../../../../translated_images/ml/original.b2b15efe0ce92b87.webp)
 
     > ഒറിജിനൽ ഡാറ്റ
 
-    ![scaled](../../../../translated_images/scaled.e35258ca5cd3d43f86d5175e584ba96b38d51501f234abf52e11f4fe2631e45f.ml.png)
+    ![scaled](../../../../translated_images/ml/scaled.e35258ca5cd3d43f.webp)
 
     > സ്കെയിൽ ചെയ്ത ഡാറ്റ
 
@@ -321,7 +312,7 @@ ARIMAയുടെ ഭാഗങ്ങൾ വിശദീകരിച്ച്, �
 
 > **🧮 ഗണിതം കാണിക്കുക**
 >
-> ![MAPE](../../../../translated_images/mape.fd87bbaf4d346846df6af88b26bf6f0926bf9a5027816d5e23e1200866e3e8a4.ml.png)
+> ![MAPE](../../../../translated_images/ml/mape.fd87bbaf4d346846.webp)
 >
 >  [MAPE](https://www.linkedin.com/pulse/what-mape-mad-msd-time-series-allameh-statistics/) മുൻകൂട്ടി കണക്കാക്കലിന്റെ കൃത്യത മുകളിൽ നൽകിയ ഫോർമുല ഉപയോഗിച്ച് നിർവചിച്ച അനുപാതമായി കാണിക്കാൻ ഉപയോഗിക്കുന്നു. actual<sub>t</sub>നും predicted<sub>t</sub>നും ഇടയിലെ വ്യത്യാസം actual<sub>t</sub>ൽ വിഭജിക്കുന്നു. "ഈ കണക്കിൽ ആബ്സല്യൂട്ട് മൂല്യം ഓരോ മുൻകൂട്ടി കണക്കാക്കിയ സമയബിന്ദുവിനും കൂട്ടിച്ചേർത്ത് ഫിറ്റുചെയ്ത ബിന്ദുക്കളുടെ എണ്ണം n-ൽ വിഭജിക്കുന്നു." [wikipedia](https://wikipedia.org/wiki/Mean_absolute_percentage_error)
 
@@ -381,7 +372,7 @@ ARIMAയുടെ ഭാഗങ്ങൾ വിശദീകരിച്ച്, �
     plt.show()
     ```
 
-    ![a time series model](../../../../translated_images/accuracy.2c47fe1bf15f44b3656651c84d5e2ba9b37cd929cd2aa8ab6cc3073f50570f4e.ml.png)
+    ![a time series model](../../../../translated_images/ml/accuracy.2c47fe1bf15f44b3.webp)
 
 🏆 വളരെ നല്ല ഒരു പ്ലോട്ട്, നല്ല കൃത്യതയുള്ള ഒരു മോഡൽ കാണിക്കുന്നു. നല്ല ജോലി!
 

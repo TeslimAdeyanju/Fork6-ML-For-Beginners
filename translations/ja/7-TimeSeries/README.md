@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T22:41:12+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "ja"
-}
--->
 # 時系列予測の入門
 
 時系列予測とは何でしょうか？過去の傾向を分析することで未来の出来事を予測することです。
@@ -17,7 +8,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 地域別の焦点は世界の電力使用量です。この興味深いデータセットを使って、過去の負荷パターンに基づいて将来の電力使用量を予測する方法を学びます。このような予測はビジネス環境で非常に役立つことがわかるでしょう。
 
-![電力網](../../../translated_images/electric-grid.0c21d5214db09ffae93c06a87ca2abbb9ba7475ef815129c5b423d7f9a7cf136.ja.jpg)
+![電力網](../../../translated_images/ja/electric-grid.0c21d5214db09ffa.webp)
 
 ラジャスタンの道路にある電力塔の写真は、[Peddi Sai hrithik](https://unsplash.com/@shutter_log?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) によるもので、[Unsplash](https://unsplash.com/s/photos/electric-india?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) に掲載されています。
 

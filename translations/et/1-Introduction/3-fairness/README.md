@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-10-11T11:26:33+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "et"
-}
--->
 # Masinõppe lahenduste loomine vastutustundliku tehisintellektiga
 
-![Vastutustundliku tehisintellekti kokkuvõte masinõppes sketšimärkmetes](../../../../translated_images/ml-fairness.ef296ebec6afc98a44566d7b6c1ed18dc2bf1115c13ec679bb626028e852fa1d.et.png)
+![Vastutustundliku tehisintellekti kokkuvõte masinõppes sketšimärkmetes](../../../../translated_images/et/ml-fairness.ef296ebec6afc98a.webp)
 > Sketšimärkmed: [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
 ## [Loengu-eelne viktoriin](https://ff-quizzes.netlify.app/en/ml/)
@@ -51,10 +42,10 @@ Tehisintellekti süsteemid peaksid kohtlema kõiki õiglaselt ja vältima sarnas
 - **Üle- või alaesindatus**. Idee, et teatud rühma ei nähta teatud ametis, ja iga teenus või funktsioon, mis seda jätkuvalt edendab, aitab kaasa kahjule.
 - **Stereotüpiseerimine**. Teatud rühma seostamine eelnevalt määratud omadustega. Näiteks inglise ja türgi keele vahel tõlkiv süsteem võib eksida sõnadega, millel on sooga seotud stereotüüpsed seosed.
 
-![Tõlge türgi keelde](../../../../translated_images/gender-bias-translate-en-tr.f185fd8822c2d4372912f2b690f6aaddd306ffbb49d795ad8d12a4bf141e7af0.et.png)
+![Tõlge türgi keelde](../../../../translated_images/et/gender-bias-translate-en-tr.f185fd8822c2d437.webp)
 > Tõlge türgi keelde
 
-![Tõlge tagasi inglise keelde](../../../../translated_images/gender-bias-translate-tr-en.4eee7e3cecb8c70e13a8abbc379209bc8032714169e585bdeac75af09b1752aa.et.png)
+![Tõlge tagasi inglise keelde](../../../../translated_images/et/gender-bias-translate-tr-en.4eee7e3cecb8c70e.webp)
 > Tõlge tagasi inglise keelde
 
 Tehisintellekti süsteemide kavandamisel ja testimisel peame tagama, et tehisintellekt oleks õiglane ega oleks programmeeritud tegema eelarvamuslikke või diskrimineerivaid otsuseid, mida ka inimestel on keelatud teha. Õigluse tagamine tehisintellektis ja masinõppes jääb keeruliseks sotsiaal-tehniliseks väljakutseks.
@@ -97,7 +88,7 @@ Tehisintellekti süsteemid peaksid olema arusaadavad. Läbipaistvuse oluline osa
 
 Inimesed, kes kavandavad ja rakendavad tehisintellekti süsteeme, peavad vastutama selle eest, kuidas nende süsteemid toimivad. Vastutuse vajadus on eriti oluline tundlike tehnoloogiate, nagu näotuvastus, puhul. Viimasel ajal on näotuvastustehnoloogia järele olnud kasvav nõudlus, eriti õiguskaitseorganisatsioonide poolt, kes näevad tehnoloogia potentsiaali näiteks kadunud laste leidmisel. Kuid need tehnoloogiad võivad valitsuse poolt potentsiaalselt ohustada kodanike põhiõigusi, võimaldades näiteks konkreetsete isikute pidevat jälgimist. Seetõttu peavad andmeteadlased ja organisatsioonid vastutama selle eest, kuidas nende tehisintellekti süsteem mõjutab üksikisikuid või ühiskonda.
 
-[![Juhtiv tehisintellekti teadlane hoiatab massilise jälgimise eest näotuvastuse kaudu](../../../../translated_images/accountability.41d8c0f4b85b6231301d97f17a450a805b7a07aaeb56b34015d71c757cad142e.et.png)](https://www.youtube.com/watch?v=Wldt8P5V6D0 "Microsofti lähenemine vastutustundlikule tehisintellektile")
+[![Juhtiv tehisintellekti teadlane hoiatab massilise jälgimise eest näotuvastuse kaudu](../../../../translated_images/et/accountability.41d8c0f4b85b6231.webp)](https://www.youtube.com/watch?v=Wldt8P5V6D0 "Microsofti lähenemine vastutustundlikule tehisintellektile")
 
 > 🎥 Klõpsake ülaloleval pildil, et vaadata videot: Hoiatused massilise jälgimise eest näotuvastuse kaudu
 

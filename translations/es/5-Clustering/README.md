@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-03T22:56:08+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "es"
-}
--->
 # Modelos de agrupamiento para aprendizaje automático
 
 El agrupamiento es una tarea de aprendizaje automático que busca encontrar objetos que se asemejen entre sí y agruparlos en grupos llamados clústeres. Lo que diferencia el agrupamiento de otros enfoques en el aprendizaje automático es que todo sucede automáticamente; de hecho, es justo decir que es lo opuesto al aprendizaje supervisado.
@@ -15,7 +6,7 @@ El agrupamiento es una tarea de aprendizaje automático que busca encontrar obje
 
 La diversa audiencia de Nigeria tiene gustos musicales variados. Usando datos extraídos de Spotify (inspirados en [este artículo](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421)), analicemos algo de la música popular en Nigeria. Este conjunto de datos incluye información sobre el puntaje de 'bailabilidad', 'acústica', volumen, 'hablabilidad', popularidad y energía de varias canciones. ¡Será interesante descubrir patrones en estos datos!
 
-![Un tocadiscos](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.es.jpg)
+![Un tocadiscos](../../../translated_images/es/turntable.f2b86b13c53302dc.webp)
 
 > Foto de <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marcela Laskoski</a> en <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

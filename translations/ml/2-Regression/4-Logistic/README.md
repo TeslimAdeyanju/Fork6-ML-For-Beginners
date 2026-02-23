@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-12-19T14:05:02+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "ml"
-}
--->
 # വിഭാഗങ്ങൾ പ്രവചിക്കാൻ ലോജിസ്റ്റിക് റെഗ്രഷൻ
 
-![Logistic vs. linear regression infographic](../../../../translated_images/linear-vs-logistic.ba180bf95e7ee66721ba10ebf2dac2666acbd64a88b003c83928712433a13c7d.ml.png)
+![Logistic vs. linear regression infographic](../../../../translated_images/ml/linear-vs-logistic.ba180bf95e7ee667.webp)
 
 ## [പ്രീ-ലെക്ചർ ക്വിസ്](https://ff-quizzes.netlify.app/en/ml/)
 
@@ -52,7 +43,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ലോജിസ്റ്റിക് റെഗ്രഷൻ ലീനിയർ റെഗ്രഷനുപോലെ സവിശേഷതകൾ നൽകുന്നില്ല. മുൻപുള്ളത് ബൈനറി വിഭാഗത്തെക്കുറിച്ച് പ്രവചനം നൽകുന്നു ("വെളുപ്പ് അല്ലെങ്കിൽ വെളുപ്പ് അല്ല") എന്നാൽ പിന്നീടുള്ളത് തുടർച്ചയായ മൂല്യങ്ങൾ പ്രവചിക്കാൻ കഴിയും, ഉദാഹരണത്തിന് ഒരു പംപ്കിന്റെ ഉത്ഭവവും വിളവെടുപ്പ് സമയവും നൽകിയാൽ, _അതിന്റ വില എത്ര ഉയരും_ എന്നത്.
 
-![Pumpkin classification Model](../../../../translated_images/pumpkin-classifier.562771f104ad5436b87d1c67bca02a42a17841133556559325c0a0e348e5b774.ml.png)
+![Pumpkin classification Model](../../../../translated_images/ml/pumpkin-classifier.562771f104ad5436.webp)
 > ഇൻഫോഗ്രാഫിക്: [ദാസാനി മടിപള്ളി](https://twitter.com/dasani_decoded)
 
 ### മറ്റ് ക്ലാസിഫിക്കേഷനുകൾ
@@ -62,7 +53,7 @@ CO_OP_TRANSLATOR_METADATA:
 - **മൾട്ടിനോമിയൽ**: ഒന്നിലധികം വിഭാഗങ്ങൾ ഉൾക്കൊള്ളുന്നു - "ഓറഞ്ച്, വെളുപ്പ്, സ്ട്രൈപ്പഡ്".
 - **ഓർഡിനൽ**: ക്രമീകരിച്ച വിഭാഗങ്ങൾ ഉൾക്കൊള്ളുന്നു, ഉദാഹരണത്തിന് നമ്മുടെ പംപ്കിനുകൾ ചെറിയ, ചെറിയ, മധ്യ, വലിയ, എക്സ്‌എൽ, ഡബ്ല്യു എക്സ്‌എൽ എന്ന ക്രമത്തിൽ ക്രമീകരിച്ചിരിക്കുന്നതുപോലെ.
 
-![Multinomial vs ordinal regression](../../../../translated_images/multinomial-vs-ordinal.36701b4850e37d86c9dd49f7bef93a2f94dbdb8fe03443eb68f0542f97f28f29.ml.png)
+![Multinomial vs ordinal regression](../../../../translated_images/ml/multinomial-vs-ordinal.36701b4850e37d86.webp)
 
 ### വേരിയബിളുകൾ തമ്മിൽ ബന്ധപ്പെടേണ്ടതില്ല
 
@@ -120,7 +111,7 @@ Seaborn നിങ്ങളുടെ ഡാറ്റ ദൃശ്യവത്ക�
     )
     ```
 
-    ![A grid of visualized data](../../../../translated_images/pumpkins_catplot_1.c55c409b71fea2ecc01921e64b91970542101f90bcccfa4aa3a205db8936f48b.ml.png)
+    ![A grid of visualized data](../../../../translated_images/ml/pumpkins_catplot_1.c55c409b71fea2ec.webp)
 
     ഡാറ്റ നിരീക്ഷിച്ച്, നിറം ഡാറ്റ `Variety`-യുമായി എങ്ങനെ ബന്ധപ്പെട്ടിരിക്കുന്നു എന്ന് കാണാം.
 
@@ -199,7 +190,7 @@ Seaborn നിങ്ങളുടെ ഡാറ്റ ദൃശ്യവത്ക�
     g.set(xlabel="Item Size", ylabel="").set(xlim=(0,6))
     g.set_titles(row_template="{row_name}")
 ```
-![A catplot of visualized data](../../../../translated_images/pumpkins_catplot_2.87a354447880b3889278155957f8f60dd63db4598de5a6d0fda91c334d31f9f1.ml.png)
+![A catplot of visualized data](../../../../translated_images/ml/pumpkins_catplot_2.87a354447880b388.webp)
 
 ### സ്വാർം പ്ലോട്ട് ഉപയോഗിക്കുക
 
@@ -217,7 +208,7 @@ Seaborn പ്ലോട്ടുകൾ ഉപയോഗിച്ച് വേര�
     sns.swarmplot(x="Color", y="ord__Item Size", data=encoded_pumpkins, palette=palette)
     ```
 
-    ![A swarm of visualized data](../../../../translated_images/swarm_2.efeacfca536c2b577dc7b5f8891f28926663fbf62d893ab5e1278ae734ca104e.ml.png)
+    ![A swarm of visualized data](../../../../translated_images/ml/swarm_2.efeacfca536c2b57.webp)
 
 **ശ്രദ്ധിക്കുക**: മുകളിൽ കൊടുത്ത കോഡ് ഒരു മുന്നറിയിപ്പ് ഉണ്ടാക്കാം, കാരണം Seaborn ഈ അളവിലുള്ള ഡാറ്റ പോയിന്റുകൾ സ്വാർം പ്ലോട്ടിൽ പ്രതിനിധീകരിക്കാൻ പരാജയപ്പെടും. ഒരു പരിഹാരമായി 'size' പാരാമീറ്റർ ഉപയോഗിച്ച് മാർക്കറിന്റെ വലിപ്പം കുറയ്ക്കാം. എന്നാൽ ഇത് പ്ലോട്ടിന്റെ വായനാസൗകര്യം ബാധിക്കും.
 
@@ -225,7 +216,7 @@ Seaborn പ്ലോട്ടുകൾ ഉപയോഗിച്ച് വേര�
 >
 > ലോജിസ്റ്റിക് റെഗ്രഷൻ 'മാക്സിമം ലൈക്ലിഹുഡ്' ആശയത്തെ ആശ്രയിച്ചിരിക്കുന്നു, [സിഗ്മോയ്ഡ് ഫംഗ്ഷനുകൾ](https://wikipedia.org/wiki/Sigmoid_function) ഉപയോഗിച്ച്. ഒരു 'സിഗ്മോയ്ഡ് ഫംഗ്ഷൻ' പ്ലോട്ടിൽ 'S' ആകൃതിയിലാണ് കാണപ്പെടുന്നത്. ഒരു മൂല്യം എടുത്ത് അത് 0നും 1നും ഇടയിലുള്ള ഏതെങ്കിലും സ്ഥാനത്തേക്ക് മാപ്പ് ചെയ്യുന്നു. അതിന്റെ വളവ് 'ലോജിസ്റ്റിക് വളവ്' എന്നും വിളിക്കുന്നു. അതിന്റെ സൂത്രവാക്യം ഇപ്രകാരമാണ്:
 >
-> ![logistic function](../../../../translated_images/sigmoid.8b7ba9d095c789cf72780675d0d1d44980c3736617329abfc392dfc859799704.ml.png)
+> ![logistic function](../../../../translated_images/ml/sigmoid.8b7ba9d095c789cf.webp)
 >
 > ഇവിടെ സിഗ്മോയ്ഡിന്റെ മധ്യബിന്ദു x-ന്റെ 0 പോയിന്റിലാണ്, L വളവിന്റെ പരമാവധി മൂല്യം, k വളവിന്റെ കൂറ്റൻത്വം. ഫംഗ്ഷന്റെ ഫലം 0.5-ൽ കൂടുതലായാൽ, ആ ലേബലിന് ബൈനറി തിരഞ്ഞെടുപ്പിൽ '1' ക്ലാസ് നൽകും. അല്ലെങ്കിൽ '0' ആയി വർഗ്ഗീകരിക്കും.
 
@@ -374,7 +365,7 @@ plt.show()
 
 Matplotlib ഉപയോഗിച്ച് മോഡലിന്റെ [Receiving Operating Characteristic](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html?highlight=roc) അല്ലെങ്കിൽ ROC വരച്ചിടുക. ROC വക്രങ്ങൾ സാധാരണയായി ക്ലാസിഫയറിന്റെ ഔട്ട്പുട്ട് സത്യം പോസിറ്റീവുകളും തെറ്റായ പോസിറ്റീവുകളും എന്ന കാഴ്ചപ്പാടിൽ കാണാൻ ഉപയോഗിക്കുന്നു. "ROC വക്രങ്ങളിൽ സാധാരണയായി Y അക്ഷത്തിൽ സത്യം പോസിറ്റീവ് നിരക്കും X അക്ഷത്തിൽ തെറ്റായ പോസിറ്റീവ് നിരക്കും കാണിക്കുന്നു." അതിനാൽ വക്രത്തിന്റെ കൂറ്റൻതയും മധ്യരേഖയും വക്രത്തിനിടയിലെ ഇടവും പ്രധാനമാണ്: നിങ്ങൾക്ക് വക്രം വേഗത്തിൽ മുകളിൽ കയറി രേഖയെ മറികടക്കുന്നത് വേണം. നമ്മുടെ കേസിൽ, തുടക്കത്തിൽ തെറ്റായ പോസിറ്റീവുകൾ ഉണ്ട്, പിന്നീട് രേഖ ശരിയായി മുകളിൽ കയറി മറികടക്കുന്നു:
 
-![ROC](../../../../translated_images/ROC_2.777f20cdfc4988ca683ade6850ac832cb70c96c12f1b910d294f270ef36e1a1c.ml.png)
+![ROC](../../../../translated_images/ml/ROC_2.777f20cdfc4988ca.webp)
 
 അവസാനമായി, Scikit-learn ന്റെ [`roc_auc_score` API](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html?highlight=roc_auc#sklearn.metrics.roc_auc_score) ഉപയോഗിച്ച് യഥാർത്ഥ 'Area Under the Curve' (AUC) കണക്കാക്കുക:
 

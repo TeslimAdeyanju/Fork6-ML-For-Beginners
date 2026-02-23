@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-08-29T21:39:45+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "ru"
-}
--->
 # Начало работы с классификацией
 
 ## Региональная тема: Вкусные азиатские и индийские кухни 🍜
 
 В Азии и Индии традиции приготовления еды невероятно разнообразны и очень вкусны! Давайте изучим данные о региональных кухнях, чтобы лучше понять их ингредиенты.
 
-![Продавец тайской еды](../../../translated_images/thai-food.c47a7a7f9f05c21892a1f9dc7bf30669e6d18dfda420c5c7ebb4153f6a304edd.ru.jpg)
+![Продавец тайской еды](../../../translated_images/ru/thai-food.c47a7a7f9f05c218.webp)
 > Фото сделано <a href="https://unsplash.com/@changlisheng?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Лишенгом Чангом</a> на <a href="https://unsplash.com/s/photos/asian-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Чему вы научитесь

@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-12-19T13:05:31+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "te"
-}
--->
 # పోస్ట్‌స్క్రిప్ట్: క్లాసిక్ మెషీన్ లెర్నింగ్ యొక్క వాస్తవ ప్రపంచ అనువర్తనాలు
 
 ఈ పాఠ్యాంశంలో, మీరు క్లాసికల్ ML యొక్క కొన్ని వాస్తవ ప్రపంచ అనువర్తనాలను పరిచయం చేయబడతారు. మేము న్యూరల్ నెట్‌వర్క్స్, డీప్ లెర్నింగ్ మరియు AI ను సాధ్యమైనంత వరకు తప్పించి, ఈ వ్యూహాలను ఉపయోగించిన అనువర్తనాల గురించి వైట్‌పేపర్లు మరియు వ్యాసాలను వెతికాము. వ్యాపార వ్యవస్థలు, పర్యావరణ అనువర్తనాలు, ఆర్థిక, కళలు మరియు సంస్కృతి మరియు మరిన్ని విషయాలలో ML ఎలా ఉపయోగించబడుతున్నదో తెలుసుకోండి.
 
-![chess](../../../translated_images/chess.e704a268781bdad85d1876b6c2295742fa0d856e7dcf3659147052df9d3db205.te.jpg)
+![chess](../../../translated_images/te/chess.e704a268781bdad8.webp)
 
 > ఫోటో <a href="https://unsplash.com/@childeye?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexis Fauvet</a> ద్వారా <a href="https://unsplash.com/s/photos/artificial-intelligence?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

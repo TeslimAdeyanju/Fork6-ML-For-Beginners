@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-08-29T17:30:09+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "ne"
-}
--->
 # मेसिन लर्निङको परिचय
 
 यस पाठ्यक्रमको यस खण्डमा, तपाईंलाई मेसिन लर्निङ क्षेत्रको आधारभूत अवधारणाहरू, यसको अर्थ के हो, यसको इतिहास, र अनुसन्धानकर्ताहरूले यससँग काम गर्न प्रयोग गर्ने प्रविधिहरूको बारेमा परिचय गराइनेछ। आउनुहोस्, हामी सँगै यो नयाँ मेसिन लर्निङको संसार अन्वेषण गरौं!
 
-![globe](../../../translated_images/globe.59f26379ceb40428672b4d9a568044618a2bf6292ecd53a5c481b90e3fa805eb.ne.jpg)  
+![globe](../../../translated_images/ne/globe.59f26379ceb40428.webp)  
 > फोटो: <a href="https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">बिल अक्सफोर्ड</a> द्वारा <a href="https://unsplash.com/s/photos/globe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">अनस्प्ल्यास</a> मा  
 
 ### पाठहरू

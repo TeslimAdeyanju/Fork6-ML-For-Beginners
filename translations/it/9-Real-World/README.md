@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-08-29T21:09:35+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "it"
-}
--->
 # Postscript: Applicazioni reali del machine learning classico
 
 In questa sezione del curriculum, verranno presentate alcune applicazioni reali del machine learning classico. Abbiamo esplorato il web per trovare articoli e documenti che illustrano applicazioni che utilizzano queste strategie, evitando il più possibile reti neurali, deep learning e intelligenza artificiale. Scopri come il machine learning viene utilizzato nei sistemi aziendali, nelle applicazioni ecologiche, nella finanza, nelle arti e nella cultura, e molto altro.
 
-![chess](../../../translated_images/chess.e704a268781bdad85d1876b6c2295742fa0d856e7dcf3659147052df9d3db205.it.jpg)
+![chess](../../../translated_images/it/chess.e704a268781bdad8.webp)
 
 > Foto di <a href="https://unsplash.com/@childeye?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexis Fauvet</a> su <a href="https://unsplash.com/s/photos/artificial-intelligence?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

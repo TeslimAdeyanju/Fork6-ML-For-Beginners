@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-10-11T11:59:28+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "et"
-}
--->
 # Ajaarvude prognoosimine ARIMA-ga
 
 Eelmises õppetükis õppisite veidi ajaarvude prognoosimisest ja laadisite andmekogumi, mis näitab elektrikoormuse kõikumisi ajaperioodi jooksul.
@@ -114,7 +105,7 @@ Nüüd, kui andmed on laaditud, saate need jagada treening- ja testandmekogumite
     plt.show()
     ```
 
-    ![treening- ja testandmed](../../../../translated_images/train-test.8928d14e5b91fc942f0ca9201b2d36c890ea7e98f7619fd94f75de3a4c2bacb9.et.png)
+    ![treening- ja testandmed](../../../../translated_images/et/train-test.8928d14e5b91fc94.webp)
 
     Seetõttu peaks suhteliselt väikese ajavahemiku kasutamine treeningandmete jaoks olema piisav.
 
@@ -157,11 +148,11 @@ Nüüd peate andmed treenimiseks ette valmistama, filtreerides ja skaleerides om
     plt.show()
     ```
 
-    ![algne](../../../../translated_images/original.b2b15efe0ce92b8745918f071dceec2231661bf49c8db6918e3ff4b3b0b183c2.et.png)
+    ![algne](../../../../translated_images/et/original.b2b15efe0ce92b87.webp)
 
     > Algne andmestik
 
-    ![skaleeritud](../../../../translated_images/scaled.e35258ca5cd3d43f86d5175e584ba96b38d51501f234abf52e11f4fe2631e45f.et.png)
+    ![skaleeritud](../../../../translated_images/et/scaled.e35258ca5cd3d43f.webp)
 
     > Skaleeritud andmestik
 
@@ -321,7 +312,7 @@ Kontrollige oma mudeli täpsust, testides selle keskmist absoluutset protsentvig
 
 > **🧮 Näidake mulle matemaatikat**
 >
-> ![MAPE](../../../../translated_images/mape.fd87bbaf4d346846df6af88b26bf6f0926bf9a5027816d5e23e1200866e3e8a4.et.png)
+> ![MAPE](../../../../translated_images/et/mape.fd87bbaf4d346846.webp)
 >
 > [MAPE](https://www.linkedin.com/pulse/what-mape-mad-msd-time-series-allameh-statistics/) kasutatakse ennustustäpsuse näitamiseks suhtarvuna, mis on määratletud ülaltoodud valemi järgi. Erinevus tegeliku<sub>t</sub> ja prognoositud<sub>t</sub> vahel jagatakse tegeliku<sub>t</sub> väärtusega. "Selle arvutuse absoluutväärtus summeeritakse iga prognoositud ajahetke kohta ja jagatakse sobitatud punktide arvuga n." [wikipedia](https://wikipedia.org/wiki/Mean_absolute_percentage_error)
 
@@ -381,7 +372,7 @@ Kontrollige oma mudeli täpsust, testides selle keskmist absoluutset protsentvig
     plt.show()
     ```
 
-    ![aegrea mudel](../../../../translated_images/accuracy.2c47fe1bf15f44b3656651c84d5e2ba9b37cd929cd2aa8ab6cc3073f50570f4e.et.png)
+    ![aegrea mudel](../../../../translated_images/et/accuracy.2c47fe1bf15f44b3.webp)
 
 🏆 Väga kena graafik, mis näitab mudelit hea täpsusega. Tubli töö!
 

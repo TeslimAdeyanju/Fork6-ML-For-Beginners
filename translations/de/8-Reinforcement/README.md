@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-03T21:58:11+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "de"
-}
--->
 # Einführung in das Reinforcement Learning
 
 Reinforcement Learning, RL, wird als eines der grundlegenden Paradigmen des maschinellen Lernens angesehen, neben dem überwachten und unüberwachten Lernen. RL dreht sich um Entscheidungen: die richtigen Entscheidungen treffen oder zumindest aus ihnen lernen.
 
 Stellen Sie sich vor, Sie haben eine simulierte Umgebung wie den Aktienmarkt. Was passiert, wenn Sie eine bestimmte Regulierung einführen? Hat dies eine positive oder negative Wirkung? Wenn etwas Negatives passiert, müssen Sie diese _negative Verstärkung_ nutzen, daraus lernen und den Kurs ändern. Wenn es ein positives Ergebnis ist, müssen Sie darauf aufbauen und die _positive Verstärkung_ nutzen.
 
-![Peter und der Wolf](../../../translated_images/peter.779730f9ba3a8a8d9290600dcf55f2e491c0640c785af7ac0d64f583c49b8864.de.png)
+![Peter und der Wolf](../../../translated_images/de/peter.779730f9ba3a8a8d.webp)
 
 > Peter und seine Freunde müssen dem hungrigen Wolf entkommen! Bild von [Jen Looper](https://twitter.com/jenlooper)
 

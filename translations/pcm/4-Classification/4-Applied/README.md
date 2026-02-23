@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-11-18T18:55:25+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "pcm"
-}
--->
 # Build Cuisine Recommender Web App
 
 For dis lesson, you go build one classification model wey go use some techniques wey you don learn for di previous lessons, plus di sweet cuisine dataset wey we don dey use for dis series. You go also build one small web app wey go use di saved model, wey go take advantage of Onnx web runtime.
@@ -152,7 +143,7 @@ If you run di whole notebook now, e go build Onnx model and save am for dis fold
 
 Onnx models no dey too visible for Visual Studio code, but one free software wey researchers dey use to see di model dey available. Download [Netron](https://github.com/lutzroeder/Netron) and open your model.onnx file. You go see your simple model visualized, with di 380 inputs and classifier listed:
 
-![Netron visual](../../../../translated_images/netron.a05f39410211915e0f95e2c0e8b88f41e7d13d725faf660188f3802ba5c9e831.pcm.png)
+![Netron visual](../../../../translated_images/pcm/netron.a05f39410211915e.webp)
 
 Netron na helpful tool to view your models.
 
@@ -301,7 +292,7 @@ For dis code, plenty things dey happen:
 
 Open terminal session for Visual Studio Code for di folder wey your index.html file dey. Make sure say you don install [http-server](https://www.npmjs.com/package/http-server) globally, and type `http-server` for di prompt. Localhost go open and you fit view your web app. Check wetin di app recommend based on di ingredients wey you select:
 
-![ingredient web app](../../../../translated_images/web-app.4c76450cabe20036f8ec6d5e05ccc0c1c064f0d8f2fe3304d3bcc0198f7dc139.pcm.png)
+![ingredient web app](../../../../translated_images/pcm/web-app.4c76450cabe20036.webp)
 
 Congrats, you don create 'recommendation' web app wey get small fields. Take time to build dis system well!
 

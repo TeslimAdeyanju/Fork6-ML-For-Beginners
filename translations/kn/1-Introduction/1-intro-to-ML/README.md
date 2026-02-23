@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "69389392fa6346e0dfa30f664b7b6fec",
-  "translation_date": "2025-12-19T13:25:20+00:00",
-  "source_file": "1-Introduction/1-intro-to-ML/README.md",
-  "language_code": "kn"
-}
--->
 # ಯಂತ್ರ ಅಧ್ಯಯನಕ್ಕೆ ಪರಿಚಯ
 
 ## [ಪೂರ್ವ-ಲೇಕ್ಚರ್ ಕ್ವಿಜ್](https://ff-quizzes.netlify.app/en/ml/)
@@ -42,7 +33,7 @@ CO_OP_TRANSLATOR_METADATA:
 ---
 ## ಹೈಪ್ ವಕ್ರ
 
-![ml hype curve](../../../../translated_images/hype.07183d711a17aafe70915909a0e45aa286ede136ee9424d418026ab00fec344c.kn.png)
+![ml hype curve](../../../../translated_images/kn/hype.07183d711a17aafe.webp)
 
 > ಗೂಗಲ್ ಟ್ರೆಂಡ್ಸ್ 'ಯಂತ್ರ ಅಧ್ಯಯನ' ಪದದ ಇತ್ತೀಚಿನ 'ಹೈಪ್ ವಕ್ರ' ಅನ್ನು ತೋರಿಸುತ್ತದೆ
 
@@ -69,7 +60,7 @@ CO_OP_TRANSLATOR_METADATA:
 ---
 ## AI, ML, ಡೀಪ್ ಲರ್ನಿಂಗ್
 
-![AI, ML, deep learning, data science](../../../../translated_images/ai-ml-ds.537ea441b124ebf69c144a52c0eb13a7af63c4355c2f92f440979380a2fb08b8.kn.png)
+![AI, ML, deep learning, data science](../../../../translated_images/kn/ai-ml-ds.537ea441b124ebf6.webp)
 
 > AI, ML, ಡೀಪ್ ಲರ್ನಿಂಗ್ ಮತ್ತು ಡೇಟಾ ಸೈನ್ಸ್ ನಡುವಿನ ಸಂಬಂಧಗಳನ್ನು ತೋರಿಸುವ ಚಿತ್ರ. [ಜೆನ್ ಲೂಪರ್](https://twitter.com/jenlooper) ಅವರ ಇನ್ಫೋಗ್ರಾಫಿಕ್, [ಈ ಚಿತ್ರ](https://softwareengineering.stackexchange.com/questions/366996/distinction-between-ai-ml-neural-networks-deep-learning-and-data-mining) ಪ್ರೇರಿತ
 

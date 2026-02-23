@@ -1,18 +1,9 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-08-29T20:12:44+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "bn"
-}
--->
 # মেশিন লার্নিংয়ের জন্য রিগ্রেশন মডেল
 ## আঞ্চলিক বিষয়: উত্তর আমেরিকায় কুমড়ার দামের জন্য রিগ্রেশন মডেল 🎃
 
 উত্তর আমেরিকায়, হ্যালোউইনের জন্য কুমড়া প্রায়ই ভয়ঙ্কর মুখে খোদাই করা হয়। চলুন এই চমৎকার সবজিগুলো সম্পর্কে আরও জানি!
 
-![জ্যাক-ও-ল্যান্টার্নস](../../../translated_images/jack-o-lanterns.181c661a9212457d7756f37219f660f1358af27554d856e5a991f16b4e15337c.bn.jpg)
+![জ্যাক-ও-ল্যান্টার্নস](../../../translated_images/bn/jack-o-lanterns.181c661a9212457d.webp)
 > ছবি: <a href="https://unsplash.com/@teutschmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Beth Teutschmann</a> এর তোলা <a href="https://unsplash.com/s/photos/jack-o-lanterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> এ
 
 ## আপনি কী শিখবেন

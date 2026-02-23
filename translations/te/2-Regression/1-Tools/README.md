@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-12-19T13:54:05+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "te"
-}
--->
 # రిగ్రెషన్ మోడల్స్ కోసం Python మరియు Scikit-learn తో ప్రారంభించండి
 
-![Summary of regressions in a sketchnote](../../../../translated_images/ml-regression.4e4f70e3b3ed446e3ace348dec973e133fa5d3680fbc8412b61879507369b98d.te.png)
+![Summary of regressions in a sketchnote](../../../../translated_images/te/ml-regression.4e4f70e3b3ed446e.webp)
 
 > Sketchnote by [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
@@ -81,7 +72,7 @@ CO_OP_TRANSLATOR_METADATA:
     hello notebook
     ```
 
-![VS Code with a notebook open](../../../../translated_images/notebook.4a3ee31f396b88325607afda33cadcc6368de98040ff33942424260aa84d75f2.te.jpg)
+![VS Code with a notebook open](../../../../translated_images/te/notebook.4a3ee31f396b8832.webp)
 
 మీరు మీ కోడ్‌ను వ్యాఖ్యలతో కలిపి నోట్బుక్‌ను స్వయంగా డాక్యుమెంట్ చేయవచ్చు.
 
@@ -212,7 +203,7 @@ Scikit-learn మోడల్స్ నిర్మించడం మరియ�
     plt.show()
     ```
 
-   ![a scatterplot showing datapoints around diabetes](../../../../translated_images/scatterplot.ad8b356bcbb33be68d54050e09b9b7bfc03e94fde7371f2609ae43f4c563b2d7.te.png)
+   ![a scatterplot showing datapoints around diabetes](../../../../translated_images/te/scatterplot.ad8b356bcbb33be6.webp)
    ✅ ఇక్కడ ఏమి జరుగుతుందో కొంచెం ఆలోచించండి. ఒక సరళ రేఖ అనేక చిన్న డాటా బిందువుల ద్వారా నడుస్తోంది, కానీ అది నిజంగా ఏమి చేస్తోంది? మీరు ఈ రేఖను ఉపయోగించి కొత్త, చూడని డాటా పాయింట్ ప్లాట్ యొక్క y అక్షానికి సంబంధించి ఎక్కడ సరిపోతుందో ఎలా అంచనా వేయాలో చూడగలరా? ఈ మోడల్ యొక్క ప్రాక్టికల్ ఉపయోగాన్ని పదాలలో వ్యక్తం చేయడానికి ప్రయత్నించండి.
 
 అభినందనలు, మీరు మీ మొదటి లీనియర్ రిగ్రెషన్ మోడల్‌ను నిర్మించారు, దానితో ఒక అంచనాను సృష్టించారు, మరియు దాన్ని ఒక ప్లాట్‌లో ప్రదర్శించారు!

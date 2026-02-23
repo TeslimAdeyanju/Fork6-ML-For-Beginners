@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7cdd17338d9bbd7e2171c2cd462eb081",
-  "translation_date": "2025-10-11T12:07:34+00:00",
-  "source_file": "5-Clustering/2-K-Means/README.md",
-  "language_code": "ta"
-}
--->
 # K-Means குழுமம்
 
 ## [முன்-வகுப்பு வினாடி வினா](https://ff-quizzes.netlify.app/en/ml/)
@@ -26,7 +17,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 குழுமங்களை [Voronoi diagrams](https://wikipedia.org/wiki/Voronoi_diagram) போல காட்சிப்படுத்தலாம், இதில் ஒரு புள்ளி (அல்லது 'seed') மற்றும் அதற்குரிய பகுதி அடங்கும்.
 
-![voronoi diagram](../../../../translated_images/voronoi.1dc1613fb0439b9564615eca8df47a4bcd1ce06217e7e72325d2406ef2180795.ta.png)
+![voronoi diagram](../../../../translated_images/ta/voronoi.1dc1613fb0439b95.webp)
 
 > [Jen Looper](https://twitter.com/jenlooper) உருவாக்கிய தகவல் வரைபடம்
 
@@ -91,7 +82,7 @@ K-Means பயன்படுத்துவதற்கான ஒரு கு�
 
     இந்த தரவு கொஞ்சம் சத்தமாக உள்ளது: ஒவ்வொரு நெடுவரிசையையும் பாக்ஸ் பிளாட்டாகக் கவனிப்பதன் மூலம், நீங்கள் வெளிப்புற மதிப்புகளை காணலாம்.
 
-    ![outliers](../../../../translated_images/boxplots.8228c29dabd0f29227dd38624231a175f411f1d8d4d7c012cb770e00e4fdf8b6.ta.png)
+    ![outliers](../../../../translated_images/ta/boxplots.8228c29dabd0f292.webp)
 
 நீங்கள் தரவுத்தொகுப்பைச் சென்று இந்த வெளிப்புற மதிப்புகளை அகற்றலாம், ஆனால் அது தரவுகளை மிகவும் குறைவாக்கும்.
 
@@ -187,7 +178,7 @@ K-Means பயன்படுத்துவதற்கான ஒரு கு�
 
     நீங்கள் முந்தைய படியில் உருவாக்கிய `wcss` மாறியைப் பயன்படுத்தி ஒரு வரைபடத்தை உருவாக்கவும், இதில் 'elbow' இல் உள்ள வளைவு எங்கு உள்ளது என்பதை காட்டுகிறது, இது குழுமங்களின் சரியான எண்ணிக்கையை குறிக்கிறது. அது **மூன்று** இருக்கலாம்!
 
-    ![elbow method](../../../../translated_images/elbow.72676169eed744ff03677e71334a16c6b8f751e9e716e3d7f40dd7cdef674cca.ta.png)
+    ![elbow method](../../../../translated_images/ta/elbow.72676169eed744ff.webp)
 
 ## பயிற்சி - குழுமங்களை காட்சிப்படுத்தவும்
 
@@ -218,13 +209,13 @@ K-Means பயன்படுத்துவதற்கான ஒரு கு�
 
     இந்த மாதிரியின் துல்லியம் மிகவும் நல்லதல்ல, மேலும் குழுமங்களின் வடிவம் ஏன் என்பதை உங்களுக்கு ஒரு குறிப்பைக் கொடுக்கிறது.
 
-    ![clusters](../../../../translated_images/clusters.b635354640d8e4fd4a49ef545495518e7be76172c97c13bd748f5b79f171f69a.ta.png)
+    ![clusters](../../../../translated_images/ta/clusters.b635354640d8e4fd.webp)
 
     இந்த தரவு மிகவும் சமநிலையற்றது, மிகவும் குறைவாக தொடர்புடையது மற்றும் நெடுவரிசை மதிப்புகளுக்கு இடையிலான வேறுபாடு மிகவும் அதிகமாக உள்ளது, குழுமம் நன்றாக செயல்படுவதற்கு. உண்மையில், உருவாகும் குழுமங்கள் மேலே வரையறுக்கப்பட்ட மூன்று வகை பிரிவுகளால் மிகவும் பாதிக்கப்படுகின்றன அல்லது சாய்ந்திருக்கின்றன. அது ஒரு கற்றல் செயல்முறை!
 
     Scikit-learn இன் ஆவணங்களில், இந்த மாதிரி, குழுமங்கள் மிகவும் நன்றாக வரையறுக்கப்படாதது, 'variance' பிரச்சனை கொண்டுள்ளது:
 
-    ![problem models](../../../../translated_images/problems.f7fb539ccd80608e1f35c319cf5e3ad1809faa3c08537aead8018c6b5ba2e33a.ta.png)
+    ![problem models](../../../../translated_images/ta/problems.f7fb539ccd80608e.webp)
     > Scikit-learn இன் தகவல் வரைபடம்
 
 ## Variance

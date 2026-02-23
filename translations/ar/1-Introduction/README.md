@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-08-29T13:35:28+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "ar"
-}
--->
 # مقدمة في تعلم الآلة
 
 في هذا القسم من المنهج الدراسي، ستتعرف على المفاهيم الأساسية التي تشكل مجال تعلم الآلة، ما هو، وتتعرف على تاريخه والتقنيات التي يستخدمها الباحثون للعمل معه. دعونا نستكشف هذا العالم الجديد من تعلم الآلة معًا!
 
-![globe](../../../translated_images/globe.59f26379ceb40428672b4d9a568044618a2bf6292ecd53a5c481b90e3fa805eb.ar.jpg)
+![globe](../../../translated_images/ar/globe.59f26379ceb40428.webp)
 > صورة بواسطة <a href="https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bill Oxford</a> على <a href="https://unsplash.com/s/photos/globe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ### الدروس

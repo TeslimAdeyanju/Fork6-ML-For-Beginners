@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-10-11T11:47:18+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "ta"
-}
--->
 # Scikit-learn பயன்படுத்தி ஒரு ரிக்ரஷன் மாடல் உருவாக்குதல்: தரவுகளை தயாரித்து காட்சிப்படுத்துதல்
 
-![தரவு காட்சிப்படுத்தல் தகவல் வரைபடம்](../../../../translated_images/data-visualization.54e56dded7c1a804d00d027543f2881cb32da73aeadda2d4a4f10f3497526114.ta.png)
+![தரவு காட்சிப்படுத்தல் தகவல் வரைபடம்](../../../../translated_images/ta/data-visualization.54e56dded7c1a804.webp)
 
 தகவல் வரைபடம்: [Dasani Madipalli](https://twitter.com/dasani_decoded)
 
@@ -183,7 +174,7 @@ Jupyter notebooks-ல் நன்றாக வேலை செய்யும�
     plt.show()
     ```
 
-    ![மாதத்திற்கான விலை உறவைக் காட்டும் scatterplot](../../../../translated_images/scatterplot.b6868f44cbd2051c6680ccdbb1510697d06a3ff6cd4abda656f5009c0ed4e3fc.ta.png)
+    ![மாதத்திற்கான விலை உறவைக் காட்டும் scatterplot](../../../../translated_images/ta/scatterplot.b6868f44cbd2051c.webp)
 
     இது ஒரு பயனுள்ள பிளாட் ஆகும்? இதைப் பற்றி உங்களுக்கு ஏதேனும் ஆச்சரியம் இருக்கிறதா?
 
@@ -200,7 +191,7 @@ Jupyter notebooks-ல் நன்றாக வேலை செய்யும�
     plt.ylabel("Pumpkin Price")
     ```
 
-    ![மாதத்திற்கான விலை உறவைக் காட்டும் பட்டை வரைபடம்](../../../../translated_images/barchart.a833ea9194346d769c77a3a870f7d8aee51574cd1138ca902e5500830a41cbce.ta.png)
+    ![மாதத்திற்கான விலை உறவைக் காட்டும் பட்டை வரைபடம்](../../../../translated_images/ta/barchart.a833ea9194346d76.webp)
 
     இது ஒரு பயனுள்ள தரவுக் காட்சிப்படுத்தல்! பூசணிக்காய்களின் மிக உயர்ந்த விலை செப்டம்பர் மற்றும் அக்டோபரில் உள்ளது என்று தோன்றுகிறது. இது உங்கள் எதிர்பார்ப்பை பூர்த்தி செய்கிறதா? ஏன் அல்லது ஏன் இல்லை?
 

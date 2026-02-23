@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-10-11T11:15:27+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "ta"
-}
--->
 # கார்ட்போல் ஸ்கேட்டிங்
 
 முந்தைய பாடத்தில் நாம் தீர்க்க முயன்ற பிரச்சினை ஒரு விளையாட்டு பிரச்சினையாக தோன்றலாம், இது உண்மையான வாழ்க்கை சூழல்களுக்கு பொருந்தாது. ஆனால் இது உண்மையல்ல, ஏனெனில் பல உண்மையான உலக பிரச்சினைகளும் இந்த சூழலுடன் பகிர்ந்து கொள்ளுகின்றன - சதுரங்கம் அல்லது கோவோடு விளையாடுவது உட்பட. அவை ஒரே மாதிரியானவை, ஏனெனில் நமக்கு கொடுக்கப்பட்ட விதிகளுடன் ஒரு பலகை மற்றும் **தொகுக்கப்பட்ட நிலை** உள்ளது.
@@ -19,13 +10,13 @@ CO_OP_TRANSLATOR_METADATA:
 
 > **பிரச்சினை**: பீட்டர் ஓநாயிடம் இருந்து தப்பிக்க விரும்பினால், அவர் வேகமாக நகர முடியும் திறன் பெற வேண்டும். பீட்டர் ஸ்கேட் செய்ய கற்றுக்கொள்வது, குறிப்பாக சமநிலையை பராமரிப்பது எப்படி என்பதை நாம் காண்போம்.
 
-![பெரிய தப்பிப்பு!](../../../../translated_images/escape.18862db9930337e3fce23a9b6a76a06445f229dadea2268e12a6f0a1fde12115.ta.png)
+![பெரிய தப்பிப்பு!](../../../../translated_images/ta/escape.18862db9930337e3.webp)
 
 > பீட்டர் மற்றும் அவரது நண்பர்கள் ஓநாயிடம் இருந்து தப்பிக்க சிருஷ்டிப்பாக செயல்படுகிறார்கள்! படம்: [ஜென் லூப்பர்](https://twitter.com/jenlooper)
 
 நாம் **CartPole** பிரச்சினை என அறியப்படும் சமநிலையை பராமரிக்கும் ஒரு எளிமையான பதிப்பைப் பயன்படுத்துவோம். கார்ட்போல் உலகில், இடது அல்லது வலது நோக்கி நகரக்கூடிய ஒரு தூரிகை உள்ளது, மேலும் நோக்கம் தூரிகையின் மேல் உள்ள செங்குத்து கம்பத்தை சமநிலைப்படுத்துவது.
 
-<img alt="ஒரு கார்ட்போல்" src="../../../../translated_images/cartpole.b5609cc0494a14f75d121299495ae24fd8f1c30465e7b40961af94ecda2e1cd0.ta.png" width="200"/>
+<img alt="ஒரு கார்ட்போல்" src="../../../../translated_images/ta/cartpole.b5609cc0494a14f7.webp" width="200"/>
 
 ## முன்னோட்டம்
 
@@ -285,7 +276,7 @@ Q-Learning இல், ஒவ்வொரு நிலையிலும் எ�
 plt.plot(rewards)
 ```
 
-![raw progress](../../../../translated_images/train_progress_raw.2adfdf2daea09c596fc786fa347a23e9aceffe1b463e2257d20a9505794823ec.ta.png)
+![raw progress](../../../../translated_images/ta/train_progress_raw.2adfdf2daea09c59.webp)
 
 இந்த graph-இல் எதையும் சொல்ல முடியாது, ஏனெனில் stochastic training செயல்முறையின் இயல்பால் பயிற்சி அமர்வுகளின் நீளம் மிகவும் மாறுபடுகிறது. இந்த graph-ஐ மேலும் அர்த்தமுள்ளதாக்க, 100 போன்ற ஒரு சோதனைகளின் **running average**-ஐ கணக்கிடலாம். இது `np.convolve`-ஐ பயன்படுத்தி வசதியாக செய்யலாம்: (குறியீட்டு தொகுதி 12)
 
@@ -296,7 +287,7 @@ def running_average(x,window):
 plt.plot(running_average(rewards,100))
 ```
 
-![training progress](../../../../translated_images/train_progress_runav.c71694a8fa9ab35935aff6f109e5ecdfdbdf1b0ae265da49479a81b5fae8f0aa.ta.png)
+![training progress](../../../../translated_images/ta/train_progress_runav.c71694a8fa9ab359.webp)
 
 ## hyperparameters-ஐ மாறுதல் செய்ய
 

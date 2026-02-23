@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-03T21:45:03+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "de"
-}
--->
 # Clustering-Modelle für maschinelles Lernen
 
 Clustering ist eine Aufgabe des maschinellen Lernens, bei der versucht wird, Objekte zu finden, die einander ähneln, und diese in Gruppen, sogenannte Cluster, zu unterteilen. Was Clustering von anderen Ansätzen im maschinellen Lernen unterscheidet, ist, dass alles automatisch geschieht. Tatsächlich kann man sagen, dass es das Gegenteil von überwachten Lernmethoden ist.
@@ -15,7 +6,7 @@ Clustering ist eine Aufgabe des maschinellen Lernens, bei der versucht wird, Obj
 
 Das vielfältige Publikum in Nigeria hat ebenso vielfältige musikalische Vorlieben. Mithilfe von Daten, die von Spotify gesammelt wurden (inspiriert von [diesem Artikel](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421)), werfen wir einen Blick auf einige beliebte Musikstücke in Nigeria. Dieses Datenset enthält Informationen über verschiedene Songs, wie deren 'Danceability'-Score, 'Acousticness', Lautstärke, 'Speechiness', Popularität und Energie. Es wird spannend sein, Muster in diesen Daten zu entdecken!
 
-![Ein Plattenspieler](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.de.jpg)
+![Ein Plattenspieler](../../../translated_images/de/turntable.f2b86b13c53302dc.webp)
 
 > Foto von <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marcela Laskoski</a> auf <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

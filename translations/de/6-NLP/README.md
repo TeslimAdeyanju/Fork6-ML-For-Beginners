@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-03T22:00:59+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "de"
-}
--->
 # Einstieg in die Verarbeitung natürlicher Sprache
 
 Die Verarbeitung natürlicher Sprache (Natural Language Processing, NLP) ist die Fähigkeit eines Computerprogramms, die menschliche Sprache so zu verstehen, wie sie gesprochen und geschrieben wird – bezeichnet als natürliche Sprache. Sie ist ein Bestandteil der künstlichen Intelligenz (KI). NLP existiert seit mehr als 50 Jahren und hat ihre Wurzeln in der Linguistik. Das gesamte Fachgebiet zielt darauf ab, Maschinen dabei zu helfen, die menschliche Sprache zu verstehen und zu verarbeiten. Dies kann dann genutzt werden, um Aufgaben wie Rechtschreibprüfung oder maschinelle Übersetzung auszuführen. Es hat eine Vielzahl von Anwendungen in der realen Welt in verschiedenen Bereichen, darunter medizinische Forschung, Suchmaschinen und Business Intelligence.
@@ -17,7 +8,7 @@ In diesem Abschnitt des Lehrplans wirst du in eine der am weitesten verbreiteten
 
 In diesen Lektionen lernen wir die Grundlagen von NLP, indem wir kleine Konversationsbots erstellen, um zu verstehen, wie maschinelles Lernen dazu beiträgt, diese Gespräche immer „intelligenter“ zu machen. Du wirst in der Zeit zurückreisen und mit Elizabeth Bennett und Mr. Darcy aus Jane Austens klassischem Roman **Stolz und Vorurteil**, veröffentlicht im Jahr 1813, chatten. Anschließend vertiefst du dein Wissen, indem du mehr über Sentiment-Analyse anhand von Hotelbewertungen in Europa lernst.
 
-![Stolz und Vorurteil Buch und Tee](../../../translated_images/p&p.279f1c49ecd889419e4ce6206525e9aa30d32a976955cd24daa636c361c6391f.de.jpg)
+![Stolz und Vorurteil Buch und Tee](../../../translated_images/de/p&p.279f1c49ecd88941.webp)
 > Foto von <a href="https://unsplash.com/@elaineh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elaine Howlin</a> auf <a href="https://unsplash.com/s/photos/pride-and-prejudice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Lektionen

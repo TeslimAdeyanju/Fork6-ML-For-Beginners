@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-10-11T11:29:27+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "et"
-}
--->
 # Masinõppe tehnikad
 
 Masinõppe mudelite ja nende kasutatava andmete loomise, kasutamise ja hooldamise protsess erineb oluliselt paljudest teistest arendusvoogudest. Selles õppetükis selgitame seda protsessi ja toome välja peamised tehnikad, mida peate teadma. Te saate:
@@ -97,7 +88,7 @@ Masinõppe kontekstis viitab mudeli sobitamine mudeli aluseks oleva funktsiooni 
 
 🎓 **Alasobitamine** ja **ülesobitamine** on levinud probleemid, mis halvendavad mudeli kvaliteeti, kuna mudel sobitub kas liiga halvasti või liiga hästi. See põhjustab mudeli ennustusi, mis on kas liiga tihedalt seotud või liiga lõdvalt seotud treeningandmetega. Ülesobitunud mudel ennustab treeningandmeid liiga hästi, kuna see on õppinud andmete üksikasju ja müra liiga hästi. Alasobitunud mudel pole täpne, kuna see ei suuda täpselt analüüsida ei oma treeningandmeid ega andmeid, mida see pole veel "näinud".
 
-![ülesobitunud mudel](../../../../translated_images/overfitting.1c132d92bfd93cb63240baf63ebdf82c30e30a0a44e1ad49861b82ff600c2b5c.et.png)
+![ülesobitunud mudel](../../../../translated_images/et/overfitting.1c132d92bfd93cb6.webp)
 > Infograafik: [Jen Looper](https://twitter.com/jenlooper)
 
 ## Parameetrite häälestamine

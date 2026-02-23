@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-08-29T18:04:51+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "mr"
-}
--->
 # reinforcement learning ची ओळख
 
 reinforcement learning, RL, हे supervised learning आणि unsupervised learning यांच्यासोबत मशीन लर्निंगचे एक मूलभूत पॅराडाइम मानले जाते. RL म्हणजे निर्णय घेणे: योग्य निर्णय देणे किंवा त्यातून शिकणे.
 
 कल्पना करा की तुमच्याकडे स्टॉक मार्केटसारखे एक सिम्युलेटेड वातावरण आहे. जर तुम्ही एखादा नियम लागू केला तर काय होईल? त्याचा सकारात्मक परिणाम होतो का किंवा नकारात्मक? जर काही नकारात्मक घडले, तर तुम्हाला त्या _नकारात्मक reinforcement_ वरून शिकून मार्ग बदलण्याची गरज आहे. जर सकारात्मक परिणाम झाला, तर तुम्हाला त्या _सकारात्मक reinforcement_ वर आधारित पुढे जायचे आहे.
 
-![peter and the wolf](../../../translated_images/peter.779730f9ba3a8a8d9290600dcf55f2e491c0640c785af7ac0d64f583c49b8864.mr.png)
+![peter and the wolf](../../../translated_images/mr/peter.779730f9ba3a8a8d.webp)
 
 > पीटर आणि त्याचे मित्र भुकेल्या लांडग्यापासून पळून जाण्याचा प्रयत्न करत आहेत! प्रतिमा [Jen Looper](https://twitter.com/jenlooper) यांच्याकडून
 

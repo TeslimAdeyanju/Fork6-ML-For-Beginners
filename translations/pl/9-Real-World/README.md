@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-03T17:21:51+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "pl"
-}
--->
 # Postscript: Zastosowania klasycznego uczenia maszynowego w rzeczywistym świecie
 
 W tej części programu nauczania zostaniesz zapoznany z rzeczywistymi zastosowaniami klasycznego uczenia maszynowego. Przeszukaliśmy internet, aby znaleźć artykuły naukowe i publikacje opisujące zastosowania wykorzystujące te strategie, unikając przy tym sieci neuronowych, głębokiego uczenia i sztucznej inteligencji w miarę możliwości. Dowiedz się, jak uczenie maszynowe jest wykorzystywane w systemach biznesowych, zastosowaniach ekologicznych, finansach, sztuce i kulturze oraz w wielu innych dziedzinach.
 
-![chess](../../../translated_images/chess.e704a268781bdad85d1876b6c2295742fa0d856e7dcf3659147052df9d3db205.pl.jpg)
+![chess](../../../translated_images/pl/chess.e704a268781bdad8.webp)
 
 > Zdjęcie autorstwa <a href="https://unsplash.com/@childeye?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexis Fauvet</a> na <a href="https://unsplash.com/s/photos/artificial-intelligence?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

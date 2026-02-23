@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-04T00:33:00+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "ja"
-}
--->
 # 自然言語処理の始め方
 
 自然言語処理（NLP）は、コンピュータプログラムが話し言葉や書き言葉としての人間の言語を理解する能力を指します。これを自然言語と呼びます。NLPは人工知能（AI）の一部であり、50年以上の歴史を持ち、言語学の分野にルーツがあります。この分野全体は、機械が人間の言語を理解し処理するのを助けることを目的としています。そして、スペルチェックや機械翻訳のようなタスクを実行するために使用されます。医療研究、検索エンジン、ビジネスインテリジェンスなど、さまざまな分野で実際の応用例があります。
@@ -17,7 +8,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 これらのレッスンでは、小さな会話型ボットを構築することでNLPの基本を学び、機械学習がこれらの会話をますます「賢く」するのを助ける方法を理解します。1813年に出版されたジェーン・オースティンの古典小説**『高慢と偏見』**のエリザベス・ベネットやミスター・ダーシーと会話しながら、時を遡ります。その後、ヨーロッパのホテルレビューを通じて感情分析について学び、知識を深めます。
 
-![高慢と偏見の本と紅茶](../../../translated_images/p&p.279f1c49ecd889419e4ce6206525e9aa30d32a976955cd24daa636c361c6391f.ja.jpg)
+![高慢と偏見の本と紅茶](../../../translated_images/ja/p&p.279f1c49ecd88941.webp)
 > 写真提供: <a href="https://unsplash.com/@elaineh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elaine Howlin</a> on <a href="https://unsplash.com/s/photos/pride-and-prejudice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## レッスン

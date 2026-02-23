@@ -1,18 +1,9 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-12-19T12:57:33+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "te"
-}
--->
 # మెషీన్ లెర్నింగ్ కోసం రిగ్రెషన్ మోడల్స్
 ## ప్రాంతీయ విషయం: ఉత్తర అమెరికాలో పంప్కిన్ ధరల కోసం రిగ్రెషన్ మోడల్స్ 🎃
 
 ఉత్తర అమెరికాలో, హాలోవీన్ కోసం పంప్కిన్లను తరచుగా భయంకరమైన ముఖాలుగా కోసి తయారు చేస్తారు. ఈ ఆకర్షణీయమైన కూరగాయల గురించి మరింత తెలుసుకుందాం!
 
-![jack-o-lanterns](../../../translated_images/jack-o-lanterns.181c661a9212457d7756f37219f660f1358af27554d856e5a991f16b4e15337c.te.jpg)
+![jack-o-lanterns](../../../translated_images/te/jack-o-lanterns.181c661a9212457d.webp)
 > ఫోటో <a href="https://unsplash.com/@teutschmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">బెత్ ట్యూట్ష్మాన్</a> ద్వారా <a href="https://unsplash.com/s/photos/jack-o-lanterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">అన్స్ప్లాష్</a> లో
   
 ## మీరు నేర్చుకునేది

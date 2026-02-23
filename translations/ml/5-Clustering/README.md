@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-12-19T13:04:31+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "ml"
-}
--->
 # മെഷീൻ ലേണിംഗിനുള്ള ക്ലസ്റ്ററിംഗ് മോഡലുകൾ
 
 ക്ലസ്റ്ററിംഗ് എന്നത് മെഷീൻ ലേണിംഗ് ടാസ്കാണ്, ഇതിൽ പരസ്പരം സമാനമായ വസ്തുക്കളെ കണ്ടെത്തി അവയെ ക്ലസ്റ്ററുകൾ എന്നറിയപ്പെടുന്ന ഗ്രൂപ്പുകളായി കൂട്ടിച്ചേർക്കാൻ ശ്രമിക്കുന്നു. മെഷീൻ ലേണിംഗിലെ മറ്റ് സമീപനങ്ങളിൽ നിന്ന് ക്ലസ്റ്ററിംഗ് വ്യത്യസ്തമാകുന്നത്, കാര്യങ്ങൾ സ്വയം സംഭവിക്കുന്നതാണ്, വാസ്തവത്തിൽ, ഇത് സൂപ്പർവൈസ്ഡ് ലേണിംഗിന്റെ എതിര്‍ഭാഗമാണെന്ന് പറയാം.
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 നൈജീരിയയുടെ വൈവിധ്യമാർന്ന പ്രേക്ഷകർക്ക് വൈവിധ്യമാർന്ന സംഗീത രുചികൾ ഉണ്ട്. Spotify-യിൽ നിന്നുള്ള ഡാറ്റ ഉപയോഗിച്ച് (ഈ ലേഖനം പ്രചോദനമായി [this article](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421)), നൈജീരിയയിൽ പ്രചാരത്തിലുള്ള ചില സംഗീതങ്ങൾ നോക്കാം. ഈ ഡാറ്റാസെറ്റിൽ വിവിധ പാട്ടുകളുടെ 'danceability' സ്കോർ, 'acousticness', ലൗഡ്നസ്, 'speechiness', ജനപ്രിയത, എനർജി എന്നിവയെക്കുറിച്ചുള്ള ഡാറ്റ ഉൾപ്പെടുന്നു. ഈ ഡാറ്റയിൽ പാറ്റേണുകൾ കണ്ടെത്തുന്നത് രസകരമായിരിക്കും!
 
-![A turntable](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.ml.jpg)
+![A turntable](../../../translated_images/ml/turntable.f2b86b13c53302dc.webp)
 
 > ഫോട്ടോ <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marcela Laskoski</a> യുടെ <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> ൽ നിന്നാണ്
   

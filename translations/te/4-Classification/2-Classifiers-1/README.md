@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-12-19T15:30:48+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "te"
-}
--->
 # వంటకాల వర్గీకరణలు 1
 
 ఈ పాఠంలో, మీరు గత పాఠం నుండి సేవ్ చేసిన సమతుల్యమైన, శుభ్రమైన వంటకాల డేటా సెట్‌ను ఉపయోగిస్తారు.
@@ -107,7 +98,7 @@ Scikit-learn వర్గీకరణను సూపర్వైజ్డ్ �
 
 అయితే, మీరు ఏ వర్గీకరణకర్తను ఎంచుకోవాలి? తరచుగా, అనేక వర్గీకరణకర్తలను పరీక్షించి మంచి ఫలితాన్ని చూసే విధానం ఒక పరీక్షా మార్గం. Scikit-learn ఒక [పక్కపక్కన పోలిక](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)ను సృష్టించిన డేటాసెట్‌పై అందిస్తుంది, ఇందులో KNeighbors, SVC రెండు విధాలుగా, GaussianProcessClassifier, DecisionTreeClassifier, RandomForestClassifier, MLPClassifier, AdaBoostClassifier, GaussianNB మరియు QuadraticDiscrinationAnalysis పోల్చబడతాయి, ఫలితాలు విజువలైజ్ చేయబడ్డాయి:
 
-![వర్గీకరణకర్తల పోలిక](../../../../translated_images/comparison.edfab56193a85e7fdecbeaa1b1f8c99e94adbf7178bed0de902090cf93d6734f.te.png)
+![వర్గీకరణకర్తల పోలిక](../../../../translated_images/te/comparison.edfab56193a85e7f.webp)
 > Scikit-learn డాక్యుమెంటేషన్‌లో రూపొందించిన ప్లాట్లు
 
 > AutoML ఈ సమస్యను క్లౌడ్‌లో ఈ పోలికలను నడిపించి, మీ డేటాకు ఉత్తమ అల్గోరిథం ఎంచుకునే అవకాశం ఇస్తూ సులభంగా పరిష్కరిస్తుంది. దీన్ని [ఇక్కడ](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-77952-leestott) ప్రయత్నించండి
@@ -116,7 +107,7 @@ Scikit-learn వర్గీకరణను సూపర్వైజ్డ్ �
 
 అనుమానించకుండా అంచనా వేయడం కంటే మెరుగైన మార్గం, ఈ డౌన్లోడ్ చేసుకునే [ML చీట్ షీట్](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-77952-leestott)లోని ఆలోచనలను అనుసరించడం. ఇక్కడ, మన మల్టిక్లాస్ సమస్య కోసం కొన్ని ఎంపికలు ఉన్నాయి:
 
-![మల్టిక్లాస్ సమస్యల కోసం చీట్ షీట్](../../../../translated_images/cheatsheet.07a475ea444d22234cb8907a3826df5bdd1953efec94bd18e4496f36ff60624a.te.png)
+![మల్టిక్లాస్ సమస్యల కోసం చీట్ షీట్](../../../../translated_images/te/cheatsheet.07a475ea444d2223.webp)
 > మైక్రోసాఫ్ట్ యొక్క అల్గోరిథం చీట్ షీట్‌లోని ఒక భాగం, మల్టిక్లాస్ వర్గీకరణ ఎంపికలను వివరించడం
 
 ✅ ఈ చీట్ షీట్‌ను డౌన్లోడ్ చేసుకుని, ప్రింట్ చేసి, మీ గోడపై పెట్టుకోండి!
@@ -147,7 +138,7 @@ Scikit-learn వర్గీకరణను సూపర్వైజ్డ్ �
 
 Scikit-learn ఈ పట్టికను అందిస్తుంది, వివిధ డేటా నిర్మాణాల సవాళ్లను solverలు ఎలా నిర్వహిస్తాయో వివరించడానికి:
 
-![solverలు](../../../../translated_images/solvers.5fc648618529e627dfac29b917b3ccabda4b45ee8ed41b0acb1ce1441e8d1ef1.te.png)
+![solverలు](../../../../translated_images/te/solvers.5fc648618529e627.webp)
 
 ## వ్యాయామం - డేటాను విభజించండి
 

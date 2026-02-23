@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-08-29T13:18:41+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "ur"
-}
--->
 # مشین لرننگ کے لیے کلسٹرنگ ماڈلز
 
 کلسٹرنگ مشین لرننگ کا ایک ایسا کام ہے جس میں اشیاء کو تلاش کیا جاتا ہے جو ایک دوسرے سے مشابہت رکھتی ہیں اور انہیں کلسٹرز کہلانے والے گروپس میں تقسیم کیا جاتا ہے۔ کلسٹرنگ کو مشین لرننگ کے دیگر طریقوں سے جو چیز مختلف بناتی ہے وہ یہ ہے کہ یہ عمل خودکار طور پر ہوتا ہے۔ حقیقت میں، یہ کہنا مناسب ہوگا کہ یہ سپروائزڈ لرننگ کے بالکل برعکس ہے۔
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 نائجیریا کے متنوع سامعین کے موسیقی کے ذوق بھی متنوع ہیں۔ اس سلسلے میں، Spotify سے حاصل کردہ ڈیٹا کا استعمال کرتے ہوئے (جیسا کہ [اس مضمون](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421) سے متاثر ہو کر)، آئیے نائجیریا میں مقبول موسیقی پر نظر ڈالیں۔ اس ڈیٹا سیٹ میں مختلف گانوں کے 'ڈانس ایبلٹی' اسکور، 'اکوسٹکنیس'، آواز کی بلندی، 'اسپیچنیس'، مقبولیت اور توانائی کے بارے میں معلومات شامل ہیں۔ اس ڈیٹا میں پیٹرنز دریافت کرنا دلچسپ ہوگا!
 
-![ایک ٹرن ٹیبل](../../../translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.ur.jpg)
+![ایک ٹرن ٹیبل](../../../translated_images/ur/turntable.f2b86b13c53302dc.webp)
 
 > تصویر از <a href="https://unsplash.com/@marcelalaskoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">مارسیلا لاسکوسکی</a>، <a href="https://unsplash.com/s/photos/nigerian-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> پر
   

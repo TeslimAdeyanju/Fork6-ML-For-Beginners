@@ -1,19 +1,10 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-08-29T13:51:45+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "ur"
-}
--->
 # درجہ بندی کے ساتھ شروعات
 
 ## علاقائی موضوع: مزیدار ایشیائی اور بھارتی کھانے 🍜
 
 ایشیا اور بھارت میں کھانے کی روایات بے حد متنوع اور بہت مزیدار ہیں! آئیے علاقائی کھانوں کے بارے میں ڈیٹا دیکھتے ہیں تاکہ ان کے اجزاء کو سمجھنے کی کوشش کریں۔
 
-![تھائی کھانے بیچنے والا](../../../translated_images/thai-food.c47a7a7f9f05c21892a1f9dc7bf30669e6d18dfda420c5c7ebb4153f6a304edd.ur.jpg)
+![تھائی کھانے بیچنے والا](../../../translated_images/ur/thai-food.c47a7a7f9f05c218.webp)
 > تصویر از <a href="https://unsplash.com/@changlisheng?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">لی شینگ چانگ</a>، <a href="https://unsplash.com/s/photos/asian-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> پر
 
 ## آپ کیا سیکھیں گے

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-12-19T15:43:19+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "kn"
-}
--->
 # ಪರ್ವತ ಕಾರ್ ತರಬೇತಿ
 
 [OpenAI Gym](http://gym.openai.com) ಅನ್ನು ಎಲ್ಲಾ ಪರಿಸರಗಳು ಒಂದೇ API ಒದಗಿಸುವಂತೆ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ - ಅಂದರೆ ಒಂದೇ ವಿಧಾನಗಳು `reset`, `step` ಮತ್ತು `render`, ಮತ್ತು **ಕ್ರಿಯೆ ಸ್ಥಳ** ಮತ್ತು **ನಿರೀಕ್ಷಣಾ ಸ್ಥಳ** ಎಂಬ ಒಂದೇ ಅವಧಾರಣೆಗಳು. ಆದ್ದರಿಂದ, ಕಡಿಮೆ ಕೋಡ್ ಬದಲಾವಣೆಗಳೊಂದಿಗೆ ವಿಭಿನ್ನ ಪರಿಸರಗಳಿಗೆ ಒಂದೇ ಬಲವರ್ಧಿತ ಕಲಿಕೆ ಆಲ್ಗಾರಿದಮ್ಗಳನ್ನು ಹೊಂದಿಸಲು ಸಾಧ್ಯವಾಗಬೇಕು.
@@ -15,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 [ಪರ್ವತ ಕಾರ್ ಪರಿಸರ](https://gym.openai.com/envs/MountainCar-v0/) ಒಂದು ಕಣಿವೆಗೆ ಸಿಲುಕಿದ ಕಾರನ್ನು ಹೊಂದಿದೆ:
 
-<img src="../../../../translated_images/mountaincar.43d56e588ce581c2d035f28cf038a9af112bec043b2ef8da40ac86119b1e3a93.kn.png" width="300"/>
+<img src="../../../../translated_images/kn/mountaincar.43d56e588ce581c2.webp" width="300"/>
 
 ಗುರಿ ಕಾರ್ ಅನ್ನು ಕಣಿವೆಯಿಂದ ಹೊರತೆಗೆದು ಧ್ವಜವನ್ನು ಹಿಡಿಯುವುದು, ಪ್ರತಿ ಹಂತದಲ್ಲಿ ಕೆಳಗಿನ ಕ್ರಿಯೆಗಳಲ್ಲಿ ಒಂದನ್ನು ಮಾಡುವುದು:
 

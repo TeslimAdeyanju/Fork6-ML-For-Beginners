@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-10-11T11:57:51+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "et"
-}
--->
 # Ehita köögi soovitaja veebirakendus
 
 Selles õppetükis ehitad klassifikatsioonimudeli, kasutades mõningaid tehnikaid, mida oled õppinud eelnevates tundides, ja maitsvat köögidatasetit, mida on kasutatud kogu selle sarja jooksul. Lisaks ehitad väikese veebirakenduse, et kasutada salvestatud mudelit, kasutades Onnxi veebiruntime'i.
@@ -152,7 +143,7 @@ Kui käivitad kogu märkmiku, ehitatakse Onnx mudel ja salvestatakse see kausta.
 
 Onnx mudelid ei ole Visual Studio koodis väga nähtavad, kuid on olemas väga hea tasuta tarkvara, mida paljud teadlased kasutavad mudeli visualiseerimiseks, et veenduda selle õiges ehitamises. Laadi alla [Netron](https://github.com/lutzroeder/Netron) ja ava oma model.onnx fail. Näed oma lihtsat mudelit visualiseerituna, koos selle 380 sisendi ja klassifikaatoriga:
 
-![Netron visual](../../../../translated_images/netron.a05f39410211915e0f95e2c0e8b88f41e7d13d725faf660188f3802ba5c9e831.et.png)
+![Netron visual](../../../../translated_images/et/netron.a05f39410211915e.webp)
 
 Netron on kasulik tööriist mudelite vaatamiseks.
 
@@ -301,7 +292,7 @@ Selles koodis toimub mitu asja:
 
 Ava terminal Visual Studio Code'is kaustas, kus asub sinu index.html fail. Veendu, et sul on [http-server](https://www.npmjs.com/package/http-server) globaalselt installitud, ja kirjuta käsureale `http-server`. Avaneb localhost, kus saad oma veebirakendust vaadata. Kontrolli, millist kööki soovitatakse erinevate koostisosade põhjal:
 
-![koostisosade veebirakendus](../../../../translated_images/web-app.4c76450cabe20036f8ec6d5e05ccc0c1c064f0d8f2fe3304d3bcc0198f7dc139.et.png)
+![koostisosade veebirakendus](../../../../translated_images/et/web-app.4c76450cabe20036.webp)
 
 Palju õnne, oled loonud soovitaja veebirakenduse mõne väljaga. Võta aega, et seda süsteemi edasi arendada!
 ## 🚀Väljakutse

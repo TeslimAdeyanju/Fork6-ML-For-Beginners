@@ -1,18 +1,9 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-09-03T22:14:53+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "fr"
-}
--->
 # Modèles de régression pour l'apprentissage automatique
 ## Sujet régional : Modèles de régression pour les prix des citrouilles en Amérique du Nord 🎃
 
 En Amérique du Nord, les citrouilles sont souvent sculptées en visages effrayants pour Halloween. Découvrons-en davantage sur ces légumes fascinants !
 
-![jack-o-lanterns](../../../translated_images/jack-o-lanterns.181c661a9212457d7756f37219f660f1358af27554d856e5a991f16b4e15337c.fr.jpg)
+![jack-o-lanterns](../../../translated_images/fr/jack-o-lanterns.181c661a9212457d.webp)
 > Photo par <a href="https://unsplash.com/@teutschmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Beth Teutschmann</a> sur <a href="https://unsplash.com/s/photos/jack-o-lanterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Ce que vous allez apprendre

@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-10-11T11:41:17+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "ta"
-}
--->
 # வகைகளை கணிக்க Logistic Regression
 
-![Logistic vs. linear regression infographic](../../../../translated_images/linear-vs-logistic.ba180bf95e7ee66721ba10ebf2dac2666acbd64a88b003c83928712433a13c7d.ta.png)
+![Logistic vs. linear regression infographic](../../../../translated_images/ta/linear-vs-logistic.ba180bf95e7ee667.webp)
 
 ## [முன்-வகுப்பு வினாடி வினா](https://ff-quizzes.netlify.app/en/ml/)
 
@@ -52,7 +43,7 @@ Linear regression-ஐ நீங்கள் முன்பு கற்று�
 
 Logistic regression linear regression போன்ற அம்சங்களை வழங்காது. முன்னதாக "white or not white" போன்ற binary வகையைப் பற்றிய கணிப்பை வழங்குகிறது, ஆனால் பின்னதாக தொடர்ச்சியான மதிப்புகளை கணிக்க முடியும், உதாரணமாக pumpkin-இன் தோற்றம் மற்றும் அறுவடை நேரத்தைப் பொருத்து, _அதன் விலை எவ்வளவு உயரும்_.
 
-![Pumpkin classification Model](../../../../translated_images/pumpkin-classifier.562771f104ad5436b87d1c67bca02a42a17841133556559325c0a0e348e5b774.ta.png)
+![Pumpkin classification Model](../../../../translated_images/ta/pumpkin-classifier.562771f104ad5436.webp)
 > Infographic by [Dasani Madipalli](https://twitter.com/dasani_decoded)
 
 ### பிற வகைப்படுத்தல்கள்
@@ -62,7 +53,7 @@ Logistic regression-இன் பிற வகைகள் உள்ளன, அ�
 - **Multinomial**, இது ஒரு வகையை விட அதிகமானவற்றைக் கொண்டுள்ளது - "Orange, White, மற்றும் Striped".
 - **Ordinal**, இது வரிசைப்படுத்தப்பட்ட வகைகளை உள்ளடக்கியது, நமது முடிவுகளை தரவுகளின் வரிசைப்படுத்தப்பட்ட அளவுகளால் (mini, sm, med, lg, xl, xxl) வரிசைப்படுத்த விரும்பினால் பயனுள்ளதாக இருக்கும்.
 
-![Multinomial vs ordinal regression](../../../../translated_images/multinomial-vs-ordinal.36701b4850e37d86c9dd49f7bef93a2f94dbdb8fe03443eb68f0542f97f28f29.ta.png)
+![Multinomial vs ordinal regression](../../../../translated_images/ta/multinomial-vs-ordinal.36701b4850e37d86.webp)
 
 ### மாறிகள் தொடர்புடையதாக இருக்க வேண்டிய அவசியமில்லை
 
@@ -120,7 +111,7 @@ Seaborn உங்கள் தரவுகளை காட்சிப்பட�
     )
     ```
 
-    ![A grid of visualized data](../../../../translated_images/pumpkins_catplot_1.c55c409b71fea2ecc01921e64b91970542101f90bcccfa4aa3a205db8936f48b.ta.png)
+    ![A grid of visualized data](../../../../translated_images/ta/pumpkins_catplot_1.c55c409b71fea2ec.webp)
 
     தரவுகளைப் பார்வையிடுவதன் மூலம், `Color` தரவு `Variety` உடன் எப்படி தொடர்புடையது என்பதை நீங்கள் காணலாம்.
 
@@ -199,7 +190,7 @@ Features மற்றும் label-ஐ encode செய்த பிறகு,
     g.set(xlabel="Item Size", ylabel="").set(xlim=(0,6))
     g.set_titles(row_template="{row_name}")
 ```
-![A catplot of visualized data](../../../../translated_images/pumpkins_catplot_2.87a354447880b3889278155957f8f60dd63db4598de5a6d0fda91c334d31f9f1.ta.png)
+![A catplot of visualized data](../../../../translated_images/ta/pumpkins_catplot_2.87a354447880b388.webp)
 
 ### Swarm plot பயன்படுத்தவும்
 
@@ -217,7 +208,7 @@ Seaborn plots-ஐப் பயன்படுத்தி மாறிகளை 
     sns.swarmplot(x="Color", y="ord__Item Size", data=encoded_pumpkins, palette=palette)
     ```
 
-    ![A swarm of visualized data](../../../../translated_images/swarm_2.efeacfca536c2b577dc7b5f8891f28926663fbf62d893ab5e1278ae734ca104e.ta.png)
+    ![A swarm of visualized data](../../../../translated_images/ta/swarm_2.efeacfca536c2b57.webp)
 
 **கவனமாக இருங்கள்**: மேலே உள்ள குறியீடு ஒரு எச்சரிக்கையை உருவாக்கக்கூடும், ஏனெனில் seaborn இவ்வளவு அளவிலான datapoints-ஐ ஒரு swarm plot-இல் பிரதிநிதித்துவம் செய்ய முடியாது. ஒரு சாத்தியமான தீர்வு marker-இன் அளவைக் குறைப்பது, 'size' அளவுருவைப் பயன்படுத்துவதன் மூலம். இருப்பினும், இது plot-இன் வாசிப்புத்திறனை பாதிக்கிறது என்பதை கவனத்தில் கொள்ளுங்கள்.
 
@@ -225,7 +216,7 @@ Seaborn plots-ஐப் பயன்படுத்தி மாறிகளை 
 >
 > Logistic regression 'maximum likelihood' என்ற கருத்தை [sigmoid functions](https://wikipedia.org/wiki/Sigmoid_function) பயன்படுத்தி நம்புகிறது. ஒரு 'Sigmoid Function' plot-இல் 'S' வடிவமாக தெரிகிறது. இது ஒரு மதிப்பை எடுத்து 0 மற்றும் 1 இடையே எங்காவது map செய்கிறது. அதன் curve-ஐ 'logistic curve' என்றும் அழைக்கப்படுகிறது. அதன் formula இவ்வாறு தெரிகிறது:
 >
-> ![logistic function](../../../../translated_images/sigmoid.8b7ba9d095c789cf72780675d0d1d44980c3736617329abfc392dfc859799704.ta.png)
+> ![logistic function](../../../../translated_images/ta/sigmoid.8b7ba9d095c789cf.webp)
 >
 > sigmoid-இன் midpoint x-இன் 0 புள்ளியில் காணப்படுகிறது, L curve-இன் அதிகபட்ச மதிப்பு, மற்றும் k curve-இன் steepness ஆகும். function-இன் முடிவு 0.5-ஐ விட அதிகமாக இருந்தால், label-இன் binary தேர்வின் '1' வகை வழங்கப்படும். இல்லையெனில், அது '0' ஆக வகைப்படுத்தப்படும்.
 
@@ -374,7 +365,7 @@ plt.show()
 
 Matplotlib பயன்படுத்தி, மாடலின் [Receiving Operating Characteristic](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html?highlight=roc) அல்லது ROC ஐ வரைபடமாக்குங்கள். ROC வளைவுகள் பொதுவாக ஒரு வகைப்பாட்டாளரின் வெளியீட்டை அதன் உண்மையான மற்றும் தவறான நேர்மையான அடிப்படையில் பார்ப்பதற்காக பயன்படுத்தப்படுகின்றன. "ROC வளைவுகள் பொதுவாக Y அச்சில் உண்மையான நேர்மையான விகிதத்தையும், X அச்சில் தவறான நேர்மையான விகிதத்தையும் கொண்டிருக்கும்." எனவே, வளைவின் சரிவும் நடுப்புள்ளி கோடு மற்றும் வளைவின் இடையே உள்ள இடமும் முக்கியம்: வளைவு விரைவாக மேலே மற்றும் கோட்டிற்கு மேல் செல்ல வேண்டும். எங்கள் நிலைமையில், ஆரம்பத்தில் சில தவறான நேர்மைகள் உள்ளன, பின்னர் கோடு மேலே மற்றும் சரியாக செல்கிறது:
 
-![ROC](../../../../translated_images/ROC_2.777f20cdfc4988ca683ade6850ac832cb70c96c12f1b910d294f270ef36e1a1c.ta.png)
+![ROC](../../../../translated_images/ta/ROC_2.777f20cdfc4988ca.webp)
 
 இறுதியாக, Scikit-learn இன் [`roc_auc_score` API](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html?highlight=roc_auc#sklearn.metrics.roc_auc_score) ஐப் பயன்படுத்தி உண்மையான 'வளைவின் கீழ் பகுதி' (AUC) ஐ கணக்கிடுங்கள்:
 

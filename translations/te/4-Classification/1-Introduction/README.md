@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-12-19T15:16:46+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "te"
-}
--->
 # వర్గీకరణకు పరిచయం
 
 ఈ నాలుగు పాఠాలలో, మీరు క్లాసిక్ మెషీన్ లెర్నింగ్ యొక్క ఒక ప్రాథమిక దృష్టి - _వర్గీకరణ_ ను అన్వేషించబోతున్నారు. ఆసియా మరియు భారతదేశంలోని అన్ని అద్భుతమైన వంటకాల గురించి డేటాసెట్‌తో వివిధ వర్గీకరణ అల్గోరిథమ్స్ ఉపయోగించడం ద్వారా మనం నడవబోతున్నాము. మీరు ఆకలిగా ఉన్నారని ఆశిస్తున్నాము!
 
-![just a pinch!](../../../../translated_images/pinch.1b035ec9ba7e0d408313b551b60c721c9c290b2dd2094115bc87e6ddacd114c9.te.png)
+![just a pinch!](../../../../translated_images/te/pinch.1b035ec9ba7e0d40.webp)
 
 > ఈ పాఠాలలో పాన్-ఆసియన్ వంటకాలను జరుపుకోండి! చిత్రం [జెన్ లూపర్](https://twitter.com/jenlooper) ద్వారా
 
@@ -38,7 +29,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ప్రక్రియను మరింత శాస్త్రీయంగా చెప్పాలంటే, మీ వర్గీకరణ పద్ధతి ఇన్‌పుట్ వేరియబుల్స్ మరియు అవుట్‌పుట్ వేరియబుల్స్ మధ్య సంబంధాన్ని మ్యాప్ చేయగల ఒక అంచనా మోడల్‌ను సృష్టిస్తుంది.
 
-![binary vs. multiclass classification](../../../../translated_images/binary-multiclass.b56d0c86c81105a697dddd82242c1d11e4d78b7afefea07a44627a0f1111c1a9.te.png)
+![binary vs. multiclass classification](../../../../translated_images/te/binary-multiclass.b56d0c86c81105a6.webp)
 
 > వర్గీకరణ అల్గోరిథమ్స్ నిర్వహించాల్సిన బైనరీ మరియు బహుళ వర్గ సమస్యలు. ఇన్ఫోగ్రాఫిక్ [జెన్ లూపర్](https://twitter.com/jenlooper) ద్వారా
 
@@ -134,7 +125,7 @@ Scikit-learn వివిధ అల్గోరిథమ్స్ అంది�
     df.cuisine.value_counts().plot.barh()
     ```
 
-    ![cuisine data distribution](../../../../translated_images/cuisine-dist.d0cc2d551abe5c25f83d73a5f560927e4a061e9a4560bac1e97d35682ef3ca6d.te.png)
+    ![cuisine data distribution](../../../../translated_images/te/cuisine-dist.d0cc2d551abe5c25.webp)
 
     వంటకాల సంఖ్య పరిమితి ఉన్నప్పటికీ, డేటా పంపిణీ అసమానంగా ఉంది. మీరు దీన్ని సరిచేయవచ్చు! ముందుగా, మరింత అన్వేషించండి.
 
@@ -188,7 +179,7 @@ Scikit-learn వివిధ అల్గోరిథమ్స్ అంది�
     thai_ingredient_df.head(10).plot.barh()
     ```
 
-    ![thai](../../../../translated_images/thai.0269dbab2e78bd38a132067759fe980008bdb80b6d778e5313448dbe12bed846.te.png)
+    ![thai](../../../../translated_images/te/thai.0269dbab2e78bd38.webp)
 
 1. జపనీస్ డేటా కోసం అదే చేయండి:
 
@@ -197,7 +188,7 @@ Scikit-learn వివిధ అల్గోరిథమ్స్ అంది�
     japanese_ingredient_df.head(10).plot.barh()
     ```
 
-    ![japanese](../../../../translated_images/japanese.30260486f2a05c463c8faa62ebe7b38f0961ed293bd9a6db8eef5d3f0cf17155.te.png)
+    ![japanese](../../../../translated_images/te/japanese.30260486f2a05c46.webp)
 
 1. ఇప్పుడు చైనీస్ పదార్థాల కోసం:
 
@@ -206,7 +197,7 @@ Scikit-learn వివిధ అల్గోరిథమ్స్ అంది�
     chinese_ingredient_df.head(10).plot.barh()
     ```
 
-    ![chinese](../../../../translated_images/chinese.e62cafa5309f111afd1b54490336daf4e927ce32bed837069a0b7ce481dfae8d.te.png)
+    ![chinese](../../../../translated_images/te/chinese.e62cafa5309f111a.webp)
 
 1. ఇండియన్ పదార్థాలను ప్లాట్ చేయండి:
 
@@ -215,7 +206,7 @@ Scikit-learn వివిధ అల్గోరిథమ్స్ అంది�
     indian_ingredient_df.head(10).plot.barh()
     ```
 
-    ![indian](../../../../translated_images/indian.2c4292002af1a1f97a4a24fec6b1459ee8ff616c3822ae56bb62b9903e192af6.te.png)
+    ![indian](../../../../translated_images/te/indian.2c4292002af1a1f9.webp)
 
 1. చివరగా, కొరియన్ పదార్థాలను ప్లాట్ చేయండి:
 
@@ -224,7 +215,7 @@ Scikit-learn వివిధ అల్గోరిథమ్స్ అంది�
     korean_ingredient_df.head(10).plot.barh()
     ```
 
-    ![korean](../../../../translated_images/korean.4a4f0274f3d9805a65e61f05597eeaad8620b03be23a2c0a705c023f65fad2c0.te.png)
+    ![korean](../../../../translated_images/te/korean.4a4f0274f3d9805a.webp)
 
 1. ఇప్పుడు, వేర్వేరు వంటకాల మధ్య గందరగోళం సృష్టించే అత్యంత సాధారణ పదార్థాలను `drop()` పిలిచి తొలగించండి:
 

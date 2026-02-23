@@ -1,17 +1,8 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-03T23:26:26+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "hi"
-}
--->
 # मशीन लर्निंग का परिचय
 
 इस पाठ्यक्रम के इस भाग में, आपको मशीन लर्निंग के क्षेत्र के मूलभूत अवधारणाओं, यह क्या है, इसकी इतिहास और शोधकर्ता इसे कैसे उपयोग करते हैं, के बारे में परिचित कराया जाएगा। चलिए, इस नए ML की दुनिया को साथ में खोजते हैं!
 
-![globe](../../../translated_images/globe.59f26379ceb40428672b4d9a568044618a2bf6292ecd53a5c481b90e3fa805eb.hi.jpg)
+![globe](../../../translated_images/hi/globe.59f26379ceb40428.webp)
 > फोटो <a href="https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">बिल ऑक्सफोर्ड</a> द्वारा <a href="https://unsplash.com/s/photos/globe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">अनस्प्लैश</a> पर
 
 ### पाठ

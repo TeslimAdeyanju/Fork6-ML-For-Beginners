@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-10-11T11:31:07+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "et"
-}
--->
 # Sissejuhatus loomuliku keele töötlemisse
 
 See õppetund hõlmab lühikest ajalugu ja olulisi mõisteid *loomuliku keele töötlemisest*, mis on *arvutilingvistika* alavaldkond.
@@ -32,7 +23,7 @@ Arvutilingvistika on aastakümnete pikkune uurimis- ja arendusvaldkond, mis uuri
 
 Kui oled kunagi dikteerinud oma telefonile teksti asemel või küsinud virtuaalselt assistendilt küsimuse, siis sinu kõne on muudetud tekstivormiks ja seejärel töödeldud või *parsitud* keeles, mida sa rääkisid. Tuvastatud märksõnad töödeldi seejärel formaadiks, mida telefon või assistent suudaks mõista ja millele reageerida.
 
-![mõistmine](../../../../translated_images/comprehension.619708fc5959b0f6a24ebffba2ad7b0625391a476141df65b43b59de24e45c6f.et.png)
+![mõistmine](../../../../translated_images/et/comprehension.619708fc5959b0f6.webp)
 > Tõeline keeleline mõistmine on keeruline! Pilt autorilt [Jen Looper](https://twitter.com/jenlooper)
 
 ### Kuidas on see tehnoloogia võimalik?
